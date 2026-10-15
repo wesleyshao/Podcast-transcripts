@@ -1,0 +1,378 @@
+---
+访谈时间: "2025-11-17"
+访谈时间说明: "未确认单独录制日期。频道视频 RSS 的 YouTube 发布时间为 2025-11-17T14:00:39Z，文件名采用该日期。"
+嘉宾名字: "Ben Liu"
+嘉宾公司名称: "Formation Bio"
+参与嘉宾:
+  - 姓名: "Ben Liu"
+    公司或机构: "Formation Bio"
+    职务: "CEO"
+播客名称: "a16z Bio & Health"
+播客url地址: "https://www.youtube.com/watch?v=LYjxxmqAS8E"
+全文提及的关键名词:
+  - "Ben Liu"
+  - "Formation Bio"
+  - "a16z Bio & Health"
+  - "drug development"
+  - "clinical trials"
+  - "big pharma"
+youtube_video_id: "LYjxxmqAS8E"
+YouTube发布时间: "2025-11-17T14:00:39Z"
+播客标题: "How to Build This Generation's Big Pharma Company"
+字幕来源: "YouTube 英文字幕原文，整理为段落，未翻译、未删减。"
+companies:
+  - "FormationBio"
+industries:
+  - "AI制药"
+  - "制药"
+technologies: []
+keywords:
+  - "临床开发"
+tags:
+  - "FormationBio"
+  - "AI制药"
+  - "制药"
+  - "临床开发"
+---
+
+# How to Build This Generation's Big Pharma Company
+
+## Transcript
+
+In the past 10 years, there's been a 2x increase in the number of discovered candidates. The number of approved drugs has kept constant at about 50. When a single drug development program can cost a few hundred million, that's really where our bottleneck is. We kind of asked the question like, why hasn't there been a big pharma company [music] created really since the 1980s? If there's like one competitive advantage you want to have as a pharma company, ironically, isn't in discovery. It's actually in this drug development kind of process. instead of maybe being a 100,000 person company, a few hundred people building AI systems that do kind of all all the knowledge work. [music] I'm excited uh Ben uh to have you here, Ben Lou, the CEO of Formation Bio. Thank you for being here.
+
+>> Thanks so much for having me.
+
+>> So, um there's so much I want to talk to you about. I think uh probably one of the Let's start from the beginning, so to speak. um what are you doing at Formation Bio? Um and why does Formation Bio need to exist? And I ask you this because I know you are obviously an incredibly experienced and thoughtful founder and so I want to understand what it is that you're doing and how you arrived at the idea for for for the company.
+
+>> Yeah, maybe it starts with kind of why we started the company. So, you know, I trained as a computational biologist. So I think like many really excited about how all the kind of genomic proteomic transcrytoic kind of data at scale u mixed with and machine learning could transform drug discovery.
+
+I think like many and uh during my graduate work we're actually studying Alzheimer's and Parkinson's and we ended up discovering a few candidate drugs and you know I think as an academic you think like that is the bottleneck right drug discovery and I remember uh very naively uh we went to a number of pharma execs uh with my um supervisor or my PI at the time and said hey we discovered these drugs aren't you guys excited and they kind of said something surprising they said you know sorry to burst your bubble but we actually already had more good drugs discovered than we could afford to prosecute and when a single drug development program, especially ne n ne n ne n ne n ne n ne n ne n ne n ne n ne n neuro degeneration like Alzheimer's can cost a few hundred million across all the phases that's really where our bottleneck is and we kind of took a step back and we said if we live in a world where drug discovery is only getting more efficient
+
+>> and no one truly knows what's going to work until you run a clinical trial if there's like one competitive advantage you want to have as a pharma company ironically isn't in discovery it's actually in this drug development kind of process so
+
+>> so that that's an interesting premise so you you are of the view that uh today where we stand there are a number of good drugs sitting on a shelf somewhere that just haven't been tested yet.
+
+>> Yeah, it's really interesting. So, if you look at the statistics in the past 10 years, there's been a 2x increase in the number of discovered candidates, the number of approved drugs has kept constant at about 50 or so kind of drugs approved a year.
+
+>> And this is even kind of before I think AI is ushering even more drug candidates and kind of the rise of China. I think the market actually reflects that like discovered drug candidates aren't worth much till post clinical proof of concept, typically post phase 2. And so we kind of thought like well if there are any more good discover drugs value inflection doesn't happen till postphase 2. The capital requirements are the highest in this clinical trial process. Building a pharma company around first ability to run trials cheaper faster with tech AI all these kind of things. And ironically we think LLM applied to like medical writing bioats you know putting together a TPP like that's actually quite quite a use a useful use case for for for AI. uh but building it around this kind of capability.
+
+>> So you got to define a TPP.
+
+>> Yeah. A target product profile.
+
+>> Okay.
+
+>> Yeah. So
+
+>> and that basically is what the drug is going to do.
+
+>> It it it is basically how do we help to serve an unmet need? So now that the GLP1s exist, where is still the white space?
+
+>> Mhm. Okay. Great. So let's let's pick at at at for what formation is doing specifically how you're addressing this question because
+
+>> you're absolutely right. If if you know if we sort of start from first principles drug discovery and development is a long expensive and risky process and to your point a lot of the time risk and spend actually is in the clinical development stage the human clinical trials.
+
+>> Yeah.
+
+>> And that that is a very bottleneck space and I love this uh this sort of um um quantification of the bottleneck. Roughly 50 drugs are approved by the FDA every year and that number hasn't
+
+>> meaningfully deviated from that. it goes up and it goes down but it hasn't sort of
+
+>> meaning 40 40 to 60 is kind of the
+
+>> the range it's like the equilibrium uh range for for for approvals.
+
+>> Um you think that formation bio um uh should exist to address that bottleneck. Yeah.
+
+>> How?
+
+>> Well, you know, it's funny that you you say the word should exist. We kind of have a view that of you should work on things that um you can answer affirmatively to this counterfactual formulation of impact. like if this company didn't exist, would the world look any different? Our kind of view is in order to realize the productiv productivity gains of of AI, you need to be able to run trials cheaper and faster to enable more of those candidates to actually get get to patients. And so, you know, maybe can I share what we do at Formation Bio. So, as a company, we built all the technology, people, processes, AI systems to do clinical stage drug development more efficiently. We actually don't do any discovery.
+
+uh we look to acquire or licensed drugs typically pre-phase 2 so two to four years away from a postphase 2 readout we're hub and spoke model so we kind of uh acquire drugs into a new co and we provide all the capital and capabilities to get drugs to postphase 2 val inflection in the short term the business model is to sell back to pharma
+
+>> in the medium term to kind of co-commercialize alla maybe you know bionic to fizer or regener to synopi but at some point kind of go content. Uh but instead of maybe being a 100,000 person company, you know, maybe like a Novartis or a Fiser, a few hundred people building AI systems that do kind of all all the knowledge work, uh we kind of asked the question like why hasn't there been a big pharma company created really since the 1980s all of the regenerons and you know the Amgens and Vertexes and these kind of great companies. You know, one of the challenges that if you're a venturebacked company,
+
+>> you get a phase 2 readout and typically that might be like five, six, seven years into the founding moment and you're venture packed and someone a big pharma company offers you $3 billion to sell the drug.
+
+>> Your alternative is not to sell, right? Run a phase three, 40% chance it goes to zero,
+
+>> 60% chance maybe instead of selling for three billion, you can sell for 9 billion.
+
+>> Risk adjusted, you probably sell the company, right? And so one of the challenges is that because M&A in our markets is is so vibrant the future pharma company never gets created um uh because you you tend to sell and so we're a hub and spoke because we can sell one of our new codes without selling the whole company right
+
+>> uh and then we can recycle that capital and at some point you know when the cost of capital makes sense dip your toe into the co-commercialize and sort of escape velocity you can
+
+>> but you need to have an outlet right otherwise you know how do you return capital back well if the if the kind of criterion is to actually commercialize yourself, that is a really long journey. And so the short term is to sell after value function um medium-term co-commercial at some point kind of go end to end. And that also means you need to take enough shots. So if you can only take three shots, you know, again, statistically if your hit rate is 30%. Even if you hit one winner, you might not have enough shots to justify, you know, kind of not selling. Uh so we kind of thought a lot about that. It's also important, you know, we kind of asked the question, there's a couple factors. You need a business model that allows it. So, HubSpoke sell without selling the whole company.
+
+You um need um investors who want to go after the ride. So, we're really grateful for for folks like Andre that that have this kind of real uh long-term time horizon. Um uh and uh you need founders actually genuinely want to do it. So,
+
+>> and you also need need to be able to pick well. Yeah.
+
+>> So, I want to talk about that, right? Because a central part of the premise for the company is that you are going to go out and find these potentially great drugs that are sitting on a shelf somewhere.
+
+>> That's right.
+
+>> And bring them in. So, uh you know, find pick win. We talk a lot about that as our job is to find pick win investments. In your case, you got to find pick win um uh the right molecule to develop.
+
+>> Uh what makes you a better picker? There's a lot, you know, there's a lot of smart people in our industry that have dedicated their lives
+
+>> to, you know, developing drugs and knowing what a good drug candidate looks like versus one that maybe doesn't have as favorable at TPP.
+
+>> Yeah.
+
+>> Um
+
+>> why why do you win when the rest of the industry is also hunting for drugs?
+
+>> Yeah, we we kind of approach this with a lot of humility. you know, I think our industry is full of perhaps some of the most um uh smart kind of, you know, uh PhDs, MD PhDs and and really experienced folks, you know, across all the different uh relevant industries. Um and so we kind of first start with what stage of asset do we think um there is a reason for why good drugs might not today have the ability to get to, you know, the next stage. And and and you know part of that is like we we tell the team there's adverse selection, there's information asymmetry. No one's willing trying to give no one's willing willingly looking to um get rid of a great a great drug.
+
+>> And so the reason why we play at this like IND phase one kind of translational medicine kind of juncture is because this is where we think the markets are most dislocated today. You've had a number of amazing drug discovery companies being funded in 2020 2021. they're finally reaching the clinic and as we know today's biotech markets are are uniquely challenged and you don't get too much credit for platform you get a lot of credit for an asset so part of it is right stage so the other stages we could have played is maybe in the postphase three
+
+>> uh or sorry the postphase 2 phase three readouts there's obviously a lot of really smart funds doing that blackstone abnor
+
+>> we just think the adverse selection is a little bit higher there because
+
+>> pharma's not willing to give up a great phase three drug they would usually also want to buy a pretty good phase 3 ready drug cuz as you know there's $300 billion of drugs going off patent. Um so um uh you know pharma really wants to keep things that they otherwise have where we play there's often times not data yet to know right um there isn't a clinical stage readout and so number one it starts with like where we play
+
+>> um the second is team you know um even though and we'll talk about some of the AI things that we do but we look to find the best human pickers um uh and we look for folks who uniquely are great at this strategy one where we're not discovering drugs ourselves or we're licensing from other uh companies. So our chief development officer was the chief medical officer of Allergan. Um as you know Allergan like kind of pioneered this in licensing first external innovation approach.
+
+>> Uh our chief business officer David Steinberg uh was a co-founder of pure pure was a hub and spel kind of model and as you know they kind of licensed this drug from Lily uh into Karuna uh and then Kuna uh sold for 14 billion. Um carrying kind of our drug picking uh is Michael Doulston. Uh Michael is the CSO, president R&D at Fizer. Um the reason why we picked Michael is his actual uh published phase 2 success rate was uh rolling 5-year average was around 53% versus an industry average of 30%.
+
+>> And we have folks like Frank Dilio who did the Saravel Frameworks kind of deals, Dash Dak who was the CSO at Insight and I think that kind of unique set of experiences are really important to us. The reason why the bestin-class drug human drug pickers are important for us is because they they ultimately train our AI systems. And so, you know, when we do kind of our diligence process, we actually have them articulate what they like about a drug, what they don't like about that drug. And that is kind of bas basically how we train the intuitions around how our AI weights each of the um core uh factors, right? Clinical differentiation, scientific evidence, is there genetics, right?
+
+And that waiting almost every human has a different way of uh kind of waiting that there are other kind of things that we kind of think a lot about is we think about where there is uh maybe um psychological arb and by that we define like look first in class is sometimes challenging for the industry um
+
+>> define first class.
+
+>> Yeah. So it's um basically like you know uh a targets like GLP1.
+
+>> At some point a GLP1 was first in class before someone else you know um uh you know uh NOBO or Lily like um was able to establish that this drug works in diabetes and obesity.
+
+>> So now if you're going after a GLP-1 you're actually going after usually a bestin class. So the class is the GOP1 and then the first is like it hasn't been tested before.
+
+>> Okay.
+
+>> You know we we've all looked at probably the data. There's a lot of clustering in in our industry. It's,
+
+>> you know, there's a psych, and this is just a human psych psychological factor. It's easier to fail the same way everyone's failing. Um, there's big corporate structures that you don't really kind of get as penalized sometimes failing because you can say, look, everyone's doing it, you know, everyone's going after the GOP ones,
+
+>> right? You think we have a unique angle on it, but but
+
+>> do Exactly. And so, we think first in class is interesting, especially if you can use a data set to credentialize target. So, you know, example, we just did a deal with um a company called Imodomics. Fred Craves, the founding investor of Magical, was the CEO, and he had a 20,000 patient uh 20-year longitudinal data set um uh of uh immunology patients uh with kind of OMIX data, genomic, proteomic, transcrytoic data uh and perturbations uh in humans and they credentialize this first-in-class target and anti-CD226
+
+>> uh for immunology, but we're taking it likely in ulcer colitis. uh and that is an example of a first in class but maybe with genetic uh kind of evidence. The other kind of um just kind of give you flavors of things very helpful. We also think about bestin class but maybe in a different um uh indication and so it' be not first in class right so maybe example is like a tick 2 something like that but can you take a tick 2 that might be brain penetrint for example and you take it into an indication that hasn't been in there's some amount of d-risking because we know tick 2's generally
+
+>> know the target matter and you're just going to adjacent the other kind of really interesting and this is more more you know we've had a few cases of this kind of working out quite well is uh there are als also like like risk that our industry generally doesn't like one is regulatory risk and so uh we acquired this uh drug uh for merc uh kj EMD seno it grew cartilage uh specifically it's gross cartilage in the knee and it it was you know in uh 814 patients including a 5-year 549 patient study 2-year treatment period three-year follow-up statistically grew cartilage
+
+>> uh uh everyone who took the highest dose didn't get a total knee replacement within you know a 5-year window. Uh the challenge is how do you show a drug delays or prevent something that takes you know a long time to happen maybe 5 to 10 years like
+
+>> you drug exactly yeah and and historically that's been almost uh just financially infeasible uh or practically kind of run right to your point 10ear study you have to measure the TKR uh and this is where some of our uh AI capabilities kind of play play a role like we we basically found that there was a MRI uh uh predictor of total knee replacement within uh kind of a 9-year window. Uh and the folks that took the drug, it lowered their risk or maybe just like lowering lowering blood pressure reduces cardiovascular risk.
+
+And so now we're putting together like the world's biggest database of longitudinally followed knees to uh uh uh like 40,000 patients um to basically validate that kind of surrogate predictor with the idea that you know that could be used as a way to to figure out um the best path forward. And then there's a bunch we do in AI, right? By the way, that one uh you um that one takes two to tango. You have to convince a regulatory body
+
+>> that that surrogate marker is a valid one.
+
+>> That's right.
+
+>> How does one go about that?
+
+>> Yeah. So, the first thing is like it has to be very scientifically rigorous. Um uh you know, I think regulators do engage if you have really great data. Um and and we found that to be the case. Um the maybe kind of psychological arb is that we have this kind of framework.
+
+If you tell your friends about something and they think it's really like interesting drug that grows cartilage in any and then you talk to the Koss and the researchers and the the doctors who are experts and specialists in the space and they think it's actually like really important scientifically credible but there's a regulatory challenge usually uh the arc towards uh the arc of kind of justice kind of you know it bends towards where the need is right there's unmet need there's a lot of kind of interest and but I think it it is you have to have really compelling data um you have to have uh scientific rigor. Um and you know uh there there were a lot of I think um you know um situations where um a company that was willing to maybe engage and not give up
+
+>> a lot of kind of maybe
+
+>> uh quote unquote legendary stories in our industry that that result in that. And we we're we're quite excited about uh EOA only because as you know um about $30 billion of total replacements per year and the economic burdens estimated around 300 billion uh from lost wages, loss economic activity. I know earlier you know across the panels today we're talking about how do you have drugs actually lower cost but you can imagine something that prevents or delays total replacement not just the the health care costs but that increase productivity you benefit to to society.
+
+>> That's right. Um okay so let's say uh ju just to like do a quick recap. So um I think you you make the argument for why you have a reason to exist. The company has a reason to exist. Why we need a new pharma company
+
+>> that is you know sort of born today when we haven't seen a new one in in decades.
+
+>> Um why you think you have a right to win right in terms of of picking and and we'll I'm sure talk more about the technology aspect here. Um but what I want to take a minute to talk through is you know um uh what are the stakes and what I mean by that is if you know one could make the argument that the fact why we only have 40 to 60 approvals a year is because um uh it things have to get evaluated by the FDA.
+
+>> Sure.
+
+>> Right. We have to you have to run a very thoughtful study to show that a drug is safe and that it's effective and that goes through phase ones and phase two and phase three generally speaking. And that all takes time and you have to go out and find the patients to you know that have the right inclusion criteria to enroll them in the trial etc etc. This is all a very sort of you know um a timeintensive effort.
+
+>> So in the best of of of scenarios where formation is extraordinarily successful
+
+>> how many drugs are getting approved in a given year?
+
+>> Yeah.
+
+>> Are we going from 50 to 500? um like what in in your in your mind what in your biggest ambition for the company um how do you put a dent in the universe?
+
+>> Yeah, the way we think about it is um if you can you know and this is kind of really reasonable like run a tri for half the cost you know maybe a fraction of the time you know you enable twice as many shots assuming probabilities kind of you know uh maintain um you know all of a sudden you are doubling your number of assets. We think we can go beyond that, right, with maybe the OA example. Part of it is can you create kind of the data sets that actually enable you to not to have to run as big of a trial. So all of a sudden it's not just and maybe to kind of take a step back for a minute. You know, one of the reasons we're able to run trials a lot cheaper and faster in case is interesting maybe why clinical trials are so expensive.
+
+>> Yeah, let's go through that because I think it's helpful. What is the technological
+
+>> Yeah, one of the big challenges is like you know most biotech and pharma companies today hire CRO. Uh the CRO are uh bill per hour cost plus business. CRO stands for
+
+>> contract research organization. And so um you know uh uh you know the business model means that the more billable hours the more revenue they earn right so other famous class plus business models are like law firms all the great law firms that I'm sure we we use
+
+>> um uh and maybe contractors as well right so so there is um you know not not for any other reason just the financial incentives of cost plus business models usually means there's cost inflation over time so let's say you're running a phase two trial using 50 different trial sites all those trial sites operate a little bit differently um somewhat collect data using one system, you know, at the site level, then they put it into an electronic data capture system. These things don't talk with each other. But for a CRO, that's positive because it's a bill per hour event uh kind of to address that variability.
+
+So, a big way we're able to run trials a lot faster uh and more cost effectively is we built our own like tech enabled CRO uh where uh we built all the software technology to to disintermediate a lot of those cost plus bill per hour activities. There's common times a question like you know UCSF is probably used for a number of trials. Why do you have to do a site qualification visit before you do a site initiation visit? There's nothing from a regulatory perspective. Um that means you have to do that. Every single visit is a billable event right there's you know for for those in Clinops there's like this risk based monitoring versus inter interval based monitoring. So your CRO usually has to visit each site to make sure that they're running the trial kind of appropriately.
+
+Uh logically, you know, you probably would suggest we should visit the sites that have more issues more often versus visit every site the same number of times. Uh most of the time there's maybe a bias towards having interval based monitoring because that's guaranteed kind of revenue every single time. So that's even before layering in AI is that if you can vertically integrate technology, people processes in one intermediate those cost plus hour activities. You know, one of the jokes is like, you know, my series D legal fee was more expensive than my series C was more expensive than my series B. I've used the same law firm every single time.
+
+They know the things and, you know, in the in the valley, you should be on the rent, but because now you're raising more money, you're running a bigger trial,
+
+>> you're incentivized to then build more hours, right? So, that's kind of one one of the kind of challenges kind of today. we can kind of go a lot more into details and why hasn't there been a big CRO kind of created as well but but that's kind of one one of the um one of one of the big challenges now you layer on AI right so I'll just kind of give you example like most of the knowledge work that we do today AI systems can begin to kind of do work of entire teams so it used to take uh our teams two months to put together like a patient recruitment campaign
+
+>> so we'd have physicians like research the indications segment the populations put together all the IRB approved D like posters, advertisements, pre-screening forms, investigator brochures, you know, all that kind of collateral. Make sure it's IRB approved. Now it's minutes, you know, with an AI system and one human loop. Uh $8 per inference call. You think about all the other knowledge work. Um I need to research to understand where the white space is in attopic derpatitis now that depict to Pixon exists.
+
+You know, we have custom versions of like a deep research functionality that can find every single drug, you know, in the pipeline, you know, where they are, its mechanisms, action, differentiation, things that would just take like, you know, a number of like smart humans to kind of put together. Uh we have uh tools to help us design studies. So, you know, I'm running a safer OA. what is every single endpoint that was ever used in OA in the past 10 years or what its app comes the stuff you know becomes uh uh just it's hard for a human to be as exhaustive right and and if you think about like the headcount in a pharma company a lot of it is in these kind of things even the the search and valuation process right like how do you cover the whole universe of assets
+
+>> um uh we have a tool called Atlas it's a homage to RA Capitals Atlas but instead of 50 PhDs it's
+
+>> you know deep research on every target indication pair, you know, and and that's where we see a lot of leverage, right? Understanding which targets should be matched to which indications. And I'm sure we've all seen biotechs that maybe got, you know, the right drug but picked the wrong indication, right? Uh and hard again for a human to look at every single piece of evidence, be it genetic, you know, um uh you know, uh uh publications, perturbation data and and be be beginning to like systematize this. And that that's another way we kind of get alpha is like the coverage. There's a poster in China,
+
+>> right? You see everything and you can digest everything.
+
+>> Yeah.
+
+>> Okay. So, let's say you could see and digest everything that helps you pick um more effectively. Pick and point, right? You figure out where you want to take it.
+
+>> Um let's assume you put all the technology to bear. You get vertically integrated.
+
+>> Um so, you're more efficient in your just in general processes and and just, you know, standing up uh sites and that kind of thing.
+
+>> Um what's the what's the net gain?
+
+>> Yeah. uh on an x percentage uh of time and a y percentage of money saved if you had to guess.
+
+>> Yeah, you could probably do like trials for half the cost, half the time.
+
+>> Okay, so
+
+>> without changing the design kind of parameters because you know the cost plus of a CRO is like 40% margin.
+
+>> You know the the things that are harder to actually uh change are manufacturing costs.
+
+>> So like that's a little bit more challenging because you know most at least biotechs don't have their own manufacturing cost. So you have to kind of pay that. But at least in the trial kind of components, maybe one horistic is like for every uh $3, um $1 goes to the site, like the site investigator fee, $2 goes to the CRO,
+
+>> right? Um uh so there's a lot of kind of opportunities on on on the kind of like really kind of human capital intensive uh type type of activities. If you begin to also think about um study design kind of things then you can get like maybe you know really interesting kind of one order of magnitude kind of difference but that requires some regulatory uh kind of things. I mean maybe you know
+
+>> that's where it does take the two to tango.
+
+>> It does. Yeah. And and I think you asked a really kind of great question like what what will it take to actually go from you know um like 50 to 500 right because 50 to 100 I think is generally kind of doable. There there is some like um things that I know the FDA's been thinking a lot about like how do we use AI to just like move the applications through kind of faster and that could be a a really kind of big thing. But I think like what what we kind of think about the levers we have right one is like probability success. [snorts]
+
+>> The other is cost and speed. Cost and speed are easier to underwrite because I know if I build this thing I can like do this thing this much faster. The hardest thing to actually um uh uh like understand is what investments actually give you a higher probability of success. And it's one of those things where like you know as a computational biologist it's actually one of the most fascinating intellectual uh kind of uh challenges. But the reason why we focus on something quoteunquote more mundane of like cheaper faster trials is I know if I do this I can if I can run twice as many trials for the same cost in time as like another like pharma or biotech like I will be able to kind of like go from 50 to 100.
+
+>> Right. Your batting average doesn't necessarily have to be better. You'll just take more bats at
+
+>> bats. There's a bunch of things that we know are associated with higher probability success, right? Like genetic evidence. There are
+
+>> certain team members who seem like they have a better track record. But then there was kind of almost this um philosophical question of like how do you know you're actually better,
+
+>> right?
+
+>> And you don't know till you can take enough shots postphase 2, right? Because that's the value in function uh to know. And if your phase 2 average is 30%. Um statistically you probably have to take at least 10 if not more to know. And so one of the biggest challenges of I think the AI drug discovery space is one of the kind of conceits of like a discovery company is it has some sort of tool that ought to potentially give it a higher probability of success in the clinic. And when we look at the gen one companies like when their first trial doesn't work and if they're a public company they start to trade kind of close to cash right because that platform value they were given was attributed to this belief that they should have a higher public in the clinic.
+
+And maybe I'll kind of go into like why I don't think there's anything about AI today that should and what needs to change in order to increase probability of success because we think about that a lot in the company. But um the you know the the the thing I will tell to investors though is like just cuz the first drug didn't work you actually don't know whether they're better than average or worse than average. Right? Cuz one shot for like you probably need like 5 10 arguably like 15 20 shots to know is their expected picking rate 50% versus 30%. Right? You know even if you hit let's say one out of two I don't know whether I'm actually better.
+
+>> I know if I run a trial and can do these processes cheaper faster. I know if I'm you know kind of acquiring drugs already discovered you know my MOX and IRS my multiple invest capital my um uh internal rate of return is higher. uh because I don't have to wait to 2 to 5 years for the drug uh the drug to get into clinic.
+
+>> Um I think AI discovery is one of the most exciting kind of things. It's only going to make this bottleneck worse
+
+>> because you know if we can't already develop everything we discovered today. You layer in China and AI discovery it's only going to create more kind of good drugs. That's really why fundamentally we think we need exist because the the bottleneck is uh drug development empirically but also the markets reflect it. Uh uh yeah uh but but on the yeah on the discovery front I think like you know maybe like quickly um
+
+>> all the great discovery innovations help you get to an answer faster but there's nothing about discovery today yet that should improve your clinical probability of success and and by that I mean it might allow you to zero shot something find something that binds to something
+
+>> but as you know any great like drug uh discovery development team is never going to allow let a suboptimal candidate, you know, make it into a clinic, right? They're all going to have the optimal like potency, adme properties, all these kind of things. Um, and so I think it's um maybe kind of the um wrong expectation to assume today that drug discovery is going to help you have a higher probability of success in a clinic around kind of AI. It's going to help you get through each step a little bit faster. But our argument is like there's already more discover drugs. So I'm not sure. And if you look the patent life of a drug, the 20-year patent life, only one to one and a half years is drug discovery related. The majority
+
+>> the rest of it development.
+
+>> Development. Yeah. So those are kind of just other kind of things. Um yeah, I think it's it's really intriguing to think of this as um you know the where formation bio sits in the industry is if you assume good drugs exist out there and you assume you can get real leverage uh from from from having you know uh technology applied um to the long uh uh the long u lead time step in the process, right? The bottleneck.
+
+>> Yeah.
+
+>> Um uh and you hire great people and technology to help with picking and pointing these assets to where they should go. um you you could really have a differentiated outcome, if you will, in terms of being able to be more efficient in the industry.
+
+>> And then the thing that we're most excited about, but will take the longest time to play out and we're we're making a lot of bets here is like how do you increase the probability of success, right?
+
+>> How do you predict what might work? uh we actually played around and used some of the state-of-the-art kind of um current AI models and you know uh basically um uh uh trained a model on all historical data and held out uh all the readouts because the the model l information cut off was like 2024 and then we looked at every readout since 2024. The area in the curve was like 72. So it's not bad. It's like industry average 30%. We don't give too much weight to it cuz fundamentally I don't believe the data sets exist that you need in order to um predict what's going to work before you run a trial. This is one of the most painful parts of my kind of graduate work is we're trying to predict what's going to work before you run a trial. You think you're really good.
+
+You might think you're like, you know, 15 to 20% better, but your error rates are like way your error bars are bigger than your perceived kind of advantage. And part of the kind of issue that I think you know because going back to your question like what would allow you go from 50 to 500? I truly believe one day we might be able to predict what's going to work before you run a trial, but there's a lot of work there. We kind of have this framework, we call it kind of the uneven frontiers framework kind of internally in the company.
+
+Like we should, you know, as a as a company, especially in the era of AI, um you should really kind of have a thesis for what predictions will happen first, what will happen last, and make sure your company strategy absorbs this as a net tailwind versus a headwind. So in our industry, there's three consequential predictions. uh we believe uh one is prediction related to drug discovery. Uh second is predictions related to uh tox. So what might cause a tox issue in a human
+
+>> and third is prediction related to clinical efficacy. So that holy grail of one day you don't need to run a trial and you'll know what works because if now your success rate is like 2 3 4x that's how you get like the kind of you know uh uh leverage that we're talking about.
+
+um we think it's going to happen in that order partially because AI discovery it's the the data sets um are cleaner there's less variability the uh way of basically measuring whether you're right the that you know it's very clean like what binds to what right um uh that's it's it's kind of chemistry it's kind of bioysics um there's less human variability and the the the ability to actually close the loop is a lot faster and and we're also seeing it empirically right like all these amazing like you know um uh companies like Isomeorphic, Chai, like they're beginning to like show show that kind of uh kind of um step. Tox is next because we actually know what a tox signal looks like, right? We know what a liver toxic signal looks like.
+
+And again, like animal studies first in human, they're shorter.
+
+>> The reason why clinical predictions is going to take the longest is we don't know what most diseases getting better look like. I don't know what the signal for Alzheimer's. Yeah. And so you kind of need that's why you need like maybe like millions of patients multiomix human perturbation to understand what is every disease kind of getting better look like and until you have that kind of UK bio bank on steroids and by that I mean like like maybe 5 10 million patients genomic proteomic transcrytoic data multiple time points behavioral data pertations so people taking various drugs on drug off drug we we we won't be able to make those kind of predictions and so that's kind of I think what what's needed to believe um you should have clinical probability success.
+
+In absence of that, we're trying to use every single data set we can to give a little bit of an edge. Uh but we underwrite conservatively because in our model um when we create a new right like um we provide all the capital capabilities to get to value in flex and we typically own you know a good amount in a new we share uncapped equity with our partners. So it's kind of a win-win. Um and because of our advantages like you know even that you know even if we hit three out of 10 industry average we we create kind of pretty pretty unique turn returns even if we only hit one out of 10 because cheaper faster we can kind of about 2x our capital and and that's
+
+>> we kind of talk about that ways because like you know the right to earn um the ability to take the next stage is we need to
+
+>> hit themes that win sell after that inflection medium-term co-com commercialize at some point and then The stakes are high because, you know, we do this and we're so um uh you know, kind of focused on doing things cheaper and faster because we believe there should be, you know, a pharma company that can run trials cheaper and faster, do development faster, and ultimately lower the cost, expand access without compromising really kind of the margins, right? And that's where speed and cost really can make a difference.
+
+>> Yeah. So, let's um maybe one place to end is um uh zooming out
+
+>> to where uh where the industry is. So, speed and cost Um you mentioned at the beginning that uh biotech is going through a market dislocation.
+
+>> Yeah.
+
+>> Right. Given some of the the challenges and access to capital and all those things. Um uh one could argue that the biotech industry is always not as not only is it going through a market dislocation uh it may also be going through an industry relocation.
+
+>> Yeah.
+
+>> Right. There's a lot of activity happening in China now uh in a way that just didn't before.
+
+>> Yeah. And so, you know, we use the simplistic heruristic that um, you know, Formation Bio could do uh, trials at half the time and half the cost.
+
+>> Some people might say, is China already doing that? Is China already doing trials at half the time and half the cost as we do here in the United States?
+
+>> So, uh, this is more of a macro industry question for you and for for all the folks that are working to to discover and develop drugs.
+
+>> Um, what do we need to do here?
+
+>> Sure.
+
+>> Uh, to compete in this new world. Yeah, I have a maybe a very pointed take on that. Um maybe just to set the base uh line, you know, China's already doing better than that, right? It's anywhere from like when we looked at it, one half of the cost to 17th the cost to do the same activity in China. Uh part of it is the cost of healthare, right? Trials are associated with the cost of healthcare. It's uh labor, it is population, you know, they have a lot uh uh you know bigger number of patients, right? So recruitment times all kind of stuff. There's a number of kind of advantages. China went from sub 5% to about a third of the world's global clinical trial
+
+>> sorry global assets like discovered uh
+
+>> over the course of just a few years.
+
+>> Yeah. and [snorts] uh and yeah uh like sub 5% to similarly about a quarter of the world's global clinical trial starts um uh and in in certain areas like by specific and ADCs they're about like half of all the drug candidates in the pipeline as you know
+
+>> um you know having um met and seen a lot of companies in China you know there's this kind of like 996 world culture kind of on steroids and so you know I think like if it's about turning cranks it actually might be pretty hard uh for the US. Um, but I think there's a lot of things to be optimistic about the US. Like, you know, we have amazing scientific researchers. We have the world's biggest historical like agencies that have all the pre like uh like all the submissions from previous trials. And I think the way that the US can win um is uh making this more of an AI prediction problem. So that creating the data set we just talked about number one, right? and then unlocking all the data sets from previous submissions.
+
+So, one of the advantages of the US is we've had the the most mature drug market. So, we've had submissions from every single company for the longest time. And I know that um leadership the FDA is, you know, well on their way of doing this, a number of really kind of great initiatives. But how do we unlock data from a bunch of um companies that failed like biotech that no longer exist, right? Because all that like preclinical talks data, that's the data set that might allow us then, you know, there's a guidance around not needing animal studies anymore. Well, you have an AI model and it becomes like an AI prediction as a means of getting, you know, through the regulations versus, you know, you're you're turning cranks, which, you know, I think China is like uniquely good at.
+
+They have a lot of scientists, they call them sea turtles, like people who trained at like Novartis and
+
+>> came back came back.
+
+>> The other kind of thing um is is you know there's there's a
+
+>> this kind of topic about licensing, right? So, you know, one one kind of uh way to think about it, too, and this is probably less satisfactory, but um you know, a lot of US-based companies are licensing drugs from China into a US new co now. They're a US asset here. Yeah. Just like and and that and the one thing is like the US won't allow Chinese data in of itself to be used for an approval. You need you need US data kind of appropriately. So, you'll always need to run kind of trials in the US. Um we think over time um the trend is going to be more and more assets are going to be coming from all the places you know across the globe. China is going to be a significant one, but AI is also going to create kind of more more drugs. So that marketplace is going to increase.
+
+Our kind of view, it might commoditize drug discovery. To your point about what are some of the secular shifts in our industry, I think you're kind of beginning to see the the beginnings of this where discovered you're not getting as much credit for a discovered drug anymore,
+
+>> right?
+
+>> I think compared to like 5 10 years ago, what universally gives a value in function is a postclinical result.
+
+>> A clinical trial. Yes. There's no question.
+
+>> Yeah. Totally.
+
+>> Okay. Okay. So the net effect of all of this is um if if we get the technology right, if we get the the regulation right, the access to data right, um obviously the globalization aspects of this right. Yeah.
+
+>> Um uh the net effect is that hopefully uh this will result in patients getting access to you know many more drugs. We go from 50 to 500.
+
+>> Yeah. And we think like the the thing again to underscore is like we're not going to get more drugs if we don't solve the drug development bottleneck. And that's capital, but it's also the cost and time of drug development uh and also the regulatory uh kind of processing to be faster, you know. Um and I do think that that the leadership at the FDA is like thinking extremely thoughtfully around this is like how do we do warp speed, you know, for every single
+
+>> company? How do we leverage AI to um review submissions kind of that those nuts and bolts and how do we make that kind of a faster process? Otherwise, you know, we're going to maintain that 2x increase, probably more of discover drug candidates, but still the same kind of 50 new or so per year. But to realize AI, I think revolution, it is really going to be solving this drug development bottleneck first and hopefully begin to assemble assemble the data sets to make this just truly a a prediction problem. That's going to take a little bit of time. Well,
+
+>> we're looking forward to that time.
+
+>> [music]
