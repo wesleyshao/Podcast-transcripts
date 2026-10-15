@@ -48,38 +48,34 @@ YouTube发布时间: 2026-10-15
   - 资本开支
   - 奇点
 companies:
-  - NVIDIA
+  - NVDA
   - OpenAI
   - Anthropic
   - SpaceX
   - xAI
 industries:
   - 半导体
-  - AI基础设施
   - 数据中心
 technologies:
-  - Physical AI
+  - 具身智能
   - GPU
-  - Vera Rubin
 keywords:
   - 资本开支
-  - 奇点
-  - 开源闭源
+  - 超级智能
+  - 开源
 tags:
-  - NVIDIA
+  - NVDA
   - OpenAI
   - Anthropic
   - SpaceX
   - xAI
   - 半导体
-  - AI基础设施
   - 数据中心
-  - Physical AI
+  - 具身智能
   - GPU
-  - Vera Rubin
   - 资本开支
-  - 奇点
-  - 开源闭源
+  - 超级智能
+  - 开源
 ---
 
 # Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more
