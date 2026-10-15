@@ -37,30 +37,20 @@ YouTube发布时间: 2026-10-10
 companies:
   - Monad
 industries:
-  - 加密货币
-  - 区块链基础设施
-  - 资产代币化
+  - 加密
 technologies:
-  - 并行执行
-  - 共识与执行解耦
-  - MEV
-  - 隐私与可组合性
-keywords:
   - 代币化
-  - 机构与零售双轨
-  - 速度就是一切
+keywords:
+  - 机构采用
+  - 网络效应
+  - 隐私
 tags:
   - Monad
-  - 加密货币
-  - 区块链基础设施
-  - 资产代币化
-  - 并行执行
-  - 共识与执行解耦
-  - MEV
-  - 隐私与可组合性
+  - 加密
   - 代币化
-  - 机构与零售双轨
-  - 速度就是一切
+  - 机构采用
+  - 网络效应
+  - 隐私
 ---
 
 # Keone Hon: The Tokenziation Supercycle Is In Full Swing (What's Actually Happening)

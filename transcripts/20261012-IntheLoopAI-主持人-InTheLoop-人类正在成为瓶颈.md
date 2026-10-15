@@ -45,7 +45,10 @@ industries:
 technologies:
   - LLM
   - GPU
-keywords: []
+keywords:
+  - 人才
+  - 超级智能
+  - 就业
 tags:
   - OpenAI
   - Anthropic
@@ -57,6 +60,9 @@ tags:
   - 机器人
   - LLM
   - GPU
+  - 人才
+  - 超级智能
+  - 就业
 ---
 
 # Humans Are Now The Bottleneck

@@ -48,45 +48,39 @@ YouTube发布时间: 2026-10-12
   - Nasdaq
 companies:
   - Anthropic
-  - Meta
-  - Microsoft
+  - META
+  - MSFT
   - OpenAI
   - SpaceX
-  - Google
-  - Nvidia
+  - GOOGL
+  - NVDA
   - CoreWeave
 industries:
-  - AI
   - 企业软件
-  - AI基础设施
+  - 数据中心
 technologies:
-  - Claude Code
-  - AI代理
+  - 编程助手
+  - Agent
   - LLM
-  - Agent Harness
 keywords:
-  - 前沿模型vs标准模型
-  - Anthropic IPO
-  - AI代理隐私泄露
+  - IPO
+  - 隐私
 tags:
   - Anthropic
-  - Meta
-  - Microsoft
+  - META
+  - MSFT
   - OpenAI
   - SpaceX
-  - Google
-  - Nvidia
+  - GOOGL
+  - NVDA
   - CoreWeave
-  - AI
   - 企业软件
-  - AI基础设施
-  - Claude Code
-  - AI代理
+  - 数据中心
+  - 编程助手
+  - Agent
   - LLM
-  - Agent Harness
-  - 前沿模型vs标准模型
-  - Anthropic IPO
-  - AI代理隐私泄露
+  - IPO
+  - 隐私
 ---
 
 # Anthropic's Top Customers Pull Back?, His Agent Leaked His Banking Info, Don't Bully Your AI

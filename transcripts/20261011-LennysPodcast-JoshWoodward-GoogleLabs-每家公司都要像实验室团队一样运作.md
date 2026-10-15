@@ -53,40 +53,32 @@ YouTube发布时间: 2026-10-11
   - WorkOS
   - DX
 companies:
-  - Google
+  - GOOGL
   - OpenAI
   - Anthropic
   - Cursor
-  - Meta
+  - META
 industries:
-  - AI
-  - 消费级软件
+  - 消费
   - 企业软件
 technologies:
-  - Gemini
-  - NotebookLM
-  - TPU
   - LLM
+  - TPU
 keywords:
-  - Google Labs
-  - almost possible
-  - unlearning rate
+  - 组织管理
+  - 人才
 tags:
-  - Google
+  - GOOGL
   - OpenAI
   - Anthropic
   - Cursor
-  - Meta
-  - AI
-  - 消费级软件
+  - META
+  - 消费
   - 企业软件
-  - Gemini
-  - NotebookLM
-  - TPU
   - LLM
-  - Google Labs
-  - almost possible
-  - unlearning rate
+  - TPU
+  - 组织管理
+  - 人才
 ---
 
 # Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)
