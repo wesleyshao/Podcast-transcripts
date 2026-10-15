@@ -43,6 +43,27 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/mUEEFx
   - Bitcoin
   - Ethereum Foundation
   - ETHCC
+companies:
+  - Lido
+  - BitMine
+  - COIN
+industries:
+  - 加密
+  - 支付
+technologies:
+  - 以太坊
+  - DeFi
+  - 比特币
+keywords: []
+tags:
+  - Lido
+  - BitMine
+  - COIN
+  - 加密
+  - 支付
+  - 以太坊
+  - DeFi
+  - 比特币
 ---
 
 # Ethereum Has an Issuance Problem

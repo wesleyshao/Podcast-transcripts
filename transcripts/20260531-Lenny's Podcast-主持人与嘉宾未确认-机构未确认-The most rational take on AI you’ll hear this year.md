@@ -32,6 +32,27 @@
   - The
   - most
   - rational
+companies:
+  - GOOGL
+  - Anthropic
+  - OpenAI
+  - AAPL
+  - AMZN
+industries:
+  - 电力
+technologies:
+  - LLM
+keywords:
+  - AGI
+tags:
+  - GOOGL
+  - Anthropic
+  - OpenAI
+  - AAPL
+  - AMZN
+  - 电力
+  - LLM
+  - AGI
 ---
 
 # The most rational take on AI you’ll hear this year

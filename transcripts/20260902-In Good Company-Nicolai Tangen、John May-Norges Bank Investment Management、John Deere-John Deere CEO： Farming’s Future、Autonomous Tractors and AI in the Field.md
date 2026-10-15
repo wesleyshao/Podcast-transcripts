@@ -36,6 +36,17 @@ YouTube发布时间: "2026-09-02T05:00:08Z"
   - "dealer network"
   - "operations center"
 
+companies:
+  - JohnDeere
+industries:
+  - 农业
+technologies:
+  - 自动驾驶
+keywords: []
+tags:
+  - JohnDeere
+  - 农业
+  - 自动驾驶
 ---
 
 ## Transcript

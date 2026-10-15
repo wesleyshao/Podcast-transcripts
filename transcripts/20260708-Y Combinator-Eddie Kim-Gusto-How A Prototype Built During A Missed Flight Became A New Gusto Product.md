@@ -22,6 +22,17 @@ YouTube发布时间: "2026-07-08"
   - "product shipping"
   - "YC"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies:
+  - Gusto
+industries:
+  - 企业软件
+technologies: []
+keywords:
+  - 创业
+tags:
+  - Gusto
+  - 企业软件
+  - 创业
 ---
 
 # How A Prototype Built During A Missed Flight Became A New Gusto Product

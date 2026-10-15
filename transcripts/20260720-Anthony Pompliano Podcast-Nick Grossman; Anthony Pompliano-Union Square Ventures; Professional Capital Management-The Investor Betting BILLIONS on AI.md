@@ -17,6 +17,25 @@
   - "network effects"
   - "AI infrastructure"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries:
+  - 风险投资
+  - 加密
+technologies:
+  - Agent
+  - 比特币
+keywords:
+  - 开源
+  - 网络效应
+  - 隐私
+tags:
+  - 风险投资
+  - 加密
+  - Agent
+  - 比特币
+  - 开源
+  - 网络效应
+  - 隐私
 ---
 
 # The Investor Betting BILLIONS on AI

@@ -46,6 +46,41 @@ YouTube发布时间: 2026-10-09
   - Eli Lilly / GLP-1
   - Broadcom
   - 劳动份额与资本份额
+companies:
+  - SemiAnalysis
+  - Anthropic
+  - GOOGL
+  - META
+  - NVDA
+industries:
+  - 半导体
+  - 数据中心
+  - 云计算
+technologies:
+  - 编程助手
+  - GPU
+  - LLM
+  - TPU
+keywords:
+  - 资本开支
+  - IPO
+  - 超级智能
+tags:
+  - SemiAnalysis
+  - Anthropic
+  - GOOGL
+  - META
+  - NVDA
+  - 半导体
+  - 数据中心
+  - 云计算
+  - 编程助手
+  - GPU
+  - LLM
+  - TPU
+  - 资本开支
+  - IPO
+  - 超级智能
 ---
 
 # Can AI Keep Growing Exponentially? Let’s Ask SemiAnalysis — With Dylan Patel and Jordan Nanos

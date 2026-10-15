@@ -37,6 +37,33 @@ YouTube发布时间: 2026-09-08T00:20:25Z
   - Ethena
   - Etherfi
   - 法国债券市场
+companies:
+  - Hyperliquid
+  - Ethena
+industries:
+  - 宏观
+  - 加密
+  - 金融
+technologies:
+  - 比特币
+  - Zcash
+  - 以太坊
+keywords:
+  - 债务
+  - 利率
+  - 选举
+tags:
+  - Hyperliquid
+  - Ethena
+  - 宏观
+  - 加密
+  - 金融
+  - 比特币
+  - Zcash
+  - 以太坊
+  - 债务
+  - 利率
+  - 选举
 ---
 
 # Arthur Hayes: The Next Bull Market Will Be The Biggest One You’ve Ever Seen  (The Full Picture)

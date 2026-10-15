@@ -32,6 +32,13 @@
   - Jens
   - How
   - Built
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 主权
+tags:
+  - 主权
 ---
 
 # Jens Stoltenberg: How Norway Built the World’s Largest Fund | Podcast | In Good Company

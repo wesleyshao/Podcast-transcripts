@@ -37,6 +37,21 @@ youtube_video_id: 8KgorT2UjSY
   - AlphaWise
   - productivity
   - operating margin
+companies: []
+industries:
+  - 物流
+  - 医疗
+  - 网络安全
+technologies: []
+keywords:
+  - 资本开支
+  - 生产力
+tags:
+  - 物流
+  - 医疗
+  - 网络安全
+  - 资本开支
+  - 生产力
 ---
 
 # What comes after the AI Buildout

@@ -42,6 +42,15 @@ youtube_video_id: s7d2d8FhevU
   - Prozac
   - SSRI
   - AI therapy
+companies: []
+industries:
+  - 医疗
+technologies: []
+keywords:
+  - 精神医学
+tags:
+  - 医疗
+  - 精神医学
 ---
 
 # Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud ＆ Jung Lex Fridman Podcast ＃502

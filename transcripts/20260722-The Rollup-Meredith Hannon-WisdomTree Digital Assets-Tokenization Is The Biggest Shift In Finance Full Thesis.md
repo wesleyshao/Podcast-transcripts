@@ -17,6 +17,25 @@
   - "identity"
   - "institutional adoption"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - WisdomTree
+industries:
+  - 加密
+technologies:
+  - 代币化
+  - DeFi
+keywords:
+  - 稳定币法案
+  - 隐私
+  - 机构采用
+tags:
+  - WisdomTree
+  - 加密
+  - 代币化
+  - DeFi
+  - 稳定币法案
+  - 隐私
+  - 机构采用
 ---
 
 # WisdomTree Digital Assets BD: Tokenization Is The Biggest Shift In Finance (Full Thesis)

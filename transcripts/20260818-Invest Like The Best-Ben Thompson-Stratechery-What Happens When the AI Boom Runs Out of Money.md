@@ -30,6 +30,27 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/h-0NZ-
   - TSMC
   - artificial intelligence
   - AI infrastructure
+companies:
+  - AAPL
+  - AMZN
+  - GOOGL
+  - INTC
+  - MSFT
+industries:
+  - 半导体
+  - 云计算
+  - 媒体
+technologies: []
+keywords: []
+tags:
+  - AAPL
+  - AMZN
+  - GOOGL
+  - INTC
+  - MSFT
+  - 半导体
+  - 云计算
+  - 媒体
 ---
 
 # What Happens When the AI Boom Runs Out of Money

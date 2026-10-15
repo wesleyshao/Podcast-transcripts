@@ -17,6 +17,13 @@
   - "exercise"
   - "ethics of longevity"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 抗衰老
+tags:
+  - 抗衰老
 ---
 
 # Venki Ramakrishnan: The Science and Hype of Living Longer | Podcast | In Good Company

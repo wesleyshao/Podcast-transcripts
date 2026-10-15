@@ -49,6 +49,35 @@ YouTube发布时间: "2026-09-04T14:00:10Z"
   - "Docker"
   - "Kubernetes"
   - "YC"
+companies:
+  - NVDA
+  - AAPL
+  - DeepSeek
+  - OpenRouter
+  - HuggingFace
+industries:
+  - 半导体
+technologies:
+  - Agent
+  - 编程助手
+  - 推理
+  - GPU
+keywords:
+  - 开源
+  - 创业
+tags:
+  - NVDA
+  - AAPL
+  - DeepSeek
+  - OpenRouter
+  - HuggingFace
+  - 半导体
+  - Agent
+  - 编程助手
+  - 推理
+  - GPU
+  - 开源
+  - 创业
 ---
 
 ## Transcript

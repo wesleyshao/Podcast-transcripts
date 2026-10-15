@@ -22,6 +22,31 @@ YouTube发布时间: 2026-08-24T16:30:41Z
   - 资产负债表
   - 次贷风险
   - AI能力评估
+companies:
+  - Anthropic
+  - OpenAI
+  - META
+  - GOOGL
+industries:
+  - 数据中心
+  - 金融
+technologies:
+  - LLM
+keywords:
+  - 融资
+  - IPO
+  - 债务
+tags:
+  - Anthropic
+  - OpenAI
+  - META
+  - GOOGL
+  - 数据中心
+  - 金融
+  - LLM
+  - 融资
+  - IPO
+  - 债务
 ---
 
 # Big Tech’s Insane Hidden AI Spending, Ranking Anthropic vs. OpenAI, AI For Travel Debate

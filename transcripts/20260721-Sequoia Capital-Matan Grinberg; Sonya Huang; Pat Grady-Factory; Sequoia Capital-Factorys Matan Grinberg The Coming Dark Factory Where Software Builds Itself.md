@@ -17,6 +17,17 @@
   - "model-agnostic harness"
   - "enterprise AI"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries: []
+technologies:
+  - Agent
+  - 开源模型
+keywords:
+  - 代币经济
+tags:
+  - Agent
+  - 开源模型
+  - 代币经济
 ---
 
 # Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself

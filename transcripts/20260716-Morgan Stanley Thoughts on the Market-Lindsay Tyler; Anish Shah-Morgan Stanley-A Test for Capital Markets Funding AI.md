@@ -26,6 +26,19 @@
   - "energy infrastructure"
 字幕来源: "public transcript: https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market/ai-financing-credit-markets-data-centers-debt-lindsay-tyler-anish-shah?cid=whmt-smfa-agtst-18714"
 YouTube视频标题: "A Test for Capital Markets: Funding AI"
+companies: []
+industries:
+  - 数据中心
+  - 电信
+technologies: []
+keywords:
+  - 资本开支
+  - 能源瓶颈
+tags:
+  - 数据中心
+  - 电信
+  - 资本开支
+  - 能源瓶颈
 ---
 
 # A Test for Capital Markets: Funding AI

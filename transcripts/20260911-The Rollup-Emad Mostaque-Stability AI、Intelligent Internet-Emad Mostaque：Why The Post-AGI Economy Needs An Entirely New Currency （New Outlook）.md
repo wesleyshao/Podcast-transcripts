@@ -33,6 +33,37 @@ YouTube发布时间: 2026-09-11
   - OpenAI
   - Meta
   - Claude
+companies:
+  - HuggingFace
+  - TSM
+  - Anthropic
+  - META
+  - OpenAI
+industries:
+  - 半导体
+  - 机器人
+  - 加密
+technologies:
+  - LLM
+  - Agent
+  - 比特币
+  - Blackwell
+keywords:
+  - AGI
+tags:
+  - HuggingFace
+  - TSM
+  - Anthropic
+  - META
+  - OpenAI
+  - 半导体
+  - 机器人
+  - 加密
+  - LLM
+  - Agent
+  - 比特币
+  - Blackwell
+  - AGI
 ---
 
 # Emad Mostaque：Why The Post-AGI Economy Needs An Entirely New Currency （New Outlook）

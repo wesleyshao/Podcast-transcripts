@@ -25,6 +25,25 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/2Jj1Sx
   - Ward 250
   - gigasite
   - AI compute
+companies:
+  - NVDA
+industries:
+  - 半导体
+  - 制造业
+  - 核能
+technologies:
+  - GPU
+  - Blackwell
+keywords:
+  - 监管
+tags:
+  - NVDA
+  - 半导体
+  - 制造业
+  - 核能
+  - GPU
+  - Blackwell
+  - 监管
 ---
 
 # How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor

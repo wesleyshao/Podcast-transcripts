@@ -17,6 +17,21 @@
   - "AI startups"
   - "micro-firms"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - Stripe
+industries:
+  - 支付
+  - 电商
+technologies:
+  - Agent
+keywords:
+  - 监管
+tags:
+  - Stripe
+  - 支付
+  - 电商
+  - Agent
+  - 监管
 ---
 
 # The "Token Heist" Wiping Out AI Startups | Emily Sands (Stripe)

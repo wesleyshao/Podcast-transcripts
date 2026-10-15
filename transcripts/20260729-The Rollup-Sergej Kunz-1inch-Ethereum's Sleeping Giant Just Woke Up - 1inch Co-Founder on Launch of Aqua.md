@@ -46,6 +46,31 @@ YouTube发布时间: "2026-07-29T15:05:27Z"
   - KYB
   - capital efficiency
   - smart contract risk
+companies:
+  - Circle
+  - Uniswap
+  - HOOD
+  - Tether
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 以太坊
+  - 稳定币
+  - Solana
+  - 代币化
+keywords: []
+tags:
+  - Circle
+  - Uniswap
+  - HOOD
+  - Tether
+  - 加密
+  - 金融
+  - 以太坊
+  - 稳定币
+  - Solana
+  - 代币化
 ---
 
 # Ethereum’s Sleeping Giant Just Woke Up - 1inch Co-Founder on Launch of Aqua

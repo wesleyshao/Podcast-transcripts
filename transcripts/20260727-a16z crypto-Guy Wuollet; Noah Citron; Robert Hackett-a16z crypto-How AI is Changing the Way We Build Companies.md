@@ -25,6 +25,19 @@ youtube_video_id: "mtFvUGTCDBE"
 YouTube发布时间: "2026-07-27"
 播客标题: "How AI is Changing the Way We Build Companies (ft. Guy Wuollet and Noah Citron)"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies: []
+industries:
+  - 加密
+  - 金融
+technologies:
+  - Agent
+keywords:
+  - 生产力
+tags:
+  - 加密
+  - 金融
+  - Agent
+  - 生产力
 ---
 
 # How AI is Changing the Way We Build Companies (ft. Guy Wuollet and Noah Citron)

@@ -27,6 +27,19 @@ YouTube发布时间: 2026-08-19
   - paperclip maximizer
   - open-weight models
   - AI safety
+companies: []
+industries: []
+technologies:
+  - 开源模型
+keywords:
+  - AI安全
+  - 超级智能
+  - AGI
+tags:
+  - 开源模型
+  - AI安全
+  - 超级智能
+  - AGI
 ---
 
 # Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete

@@ -18,6 +18,17 @@
   - "security engineering"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "AI And The Future Of Cybersecurity"
+companies: []
+industries:
+  - 加密
+  - 网络安全
+technologies:
+  - DeFi
+keywords: []
+tags:
+  - 加密
+  - 网络安全
+  - DeFi
 ---
 
 # AI And The Future Of Cybersecurity

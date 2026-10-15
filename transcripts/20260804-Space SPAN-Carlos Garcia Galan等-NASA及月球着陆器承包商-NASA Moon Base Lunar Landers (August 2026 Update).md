@@ -52,6 +52,23 @@ youtube_video_id: "b-UF1T7W3u4"
 字幕来源: "YouTube 原始自动字幕 en-orig（由 youtube_caption_fetch.py 验证并去除时间戳）"
 原始语言: "English"
 转写说明: "基于当前 Space SPAN 视频的完整 en-orig 纯文本，按 NASA 及各承包商现场顺序转写为简体中文；未将 RSS 所链接的另一支 NASA 视频拼接进来。"
+companies:
+  - NASA
+  - BlueOrigin
+  - LUNR
+  - NOC
+industries:
+  - 商业航天
+  - 国防
+technologies: []
+keywords: []
+tags:
+  - NASA
+  - BlueOrigin
+  - LUNR
+  - NOC
+  - 商业航天
+  - 国防
 ---
 
 # NASA Moon Base: Lunar Landers (August 2026 Update)

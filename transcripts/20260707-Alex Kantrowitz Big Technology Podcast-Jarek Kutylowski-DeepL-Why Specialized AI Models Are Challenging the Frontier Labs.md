@@ -20,6 +20,13 @@ YouTube发布时间: "2026-07-07"
   - "real-time translation"
   - "enterprise localization"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies:
+  - DeepL
+industries: []
+technologies: []
+keywords: []
+tags:
+  - DeepL
 ---
 
 # Why Specialized AI Models Are Challenging the Frontier Labs

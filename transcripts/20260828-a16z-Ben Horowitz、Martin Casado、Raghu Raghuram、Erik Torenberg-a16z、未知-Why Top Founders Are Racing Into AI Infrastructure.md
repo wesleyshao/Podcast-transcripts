@@ -44,6 +44,25 @@ YouTube发布时间: 2026-08-28T13:11:59Z
   - compute
   - power
   - copper
+companies:
+  - NVDA
+industries:
+  - 数据中心
+  - 半导体
+technologies:
+  - GPU
+  - Agent
+  - 液冷
+keywords:
+  - 资本开支
+tags:
+  - NVDA
+  - 数据中心
+  - 半导体
+  - GPU
+  - Agent
+  - 液冷
+  - 资本开支
 ---
 
 # Why Top Founders Are Racing Into AI Infrastructure

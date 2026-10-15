@@ -31,6 +31,19 @@ YouTube发布时间: 2026-08-25T12:00:23Z
   - Shapley values
   - content owners
   - publishers
+companies:
+  - GOOGL
+industries:
+  - 媒体
+technologies:
+  - Agent
+keywords:
+  - 商业模式
+tags:
+  - GOOGL
+  - 媒体
+  - Agent
+  - 商业模式
 ---
 
 # Parallel’s Parag Agrawal: Building a New Web for AI Agents

@@ -36,6 +36,33 @@ YouTube发布时间: "2026-09-09T18:48:25Z"
   - "AI 2040 Plan A"
   - "Mozilla"
   - "AI security"
+companies:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+industries:
+  - 医疗
+  - 媒体
+  - 教育
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 超级智能
+  - 监管
+  - 选举
+tags:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - 医疗
+  - 媒体
+  - 教育
+  - LLM
+  - Agent
+  - 超级智能
+  - 监管
+  - 选举
 ---
 
 ## Transcript

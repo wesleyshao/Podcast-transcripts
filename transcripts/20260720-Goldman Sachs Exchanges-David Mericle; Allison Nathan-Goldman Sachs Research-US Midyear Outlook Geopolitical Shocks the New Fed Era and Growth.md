@@ -19,6 +19,21 @@
   - "2027 rate cut"
   - "stock market wealth effect"
 字幕来源: "YouTube subtitles en-US json3"
+companies: []
+industries:
+  - 宏观
+  - 能源
+technologies: []
+keywords:
+  - 通胀
+  - 就业
+  - 利率
+tags:
+  - 宏观
+  - 能源
+  - 通胀
+  - 就业
+  - 利率
 ---
 
 # US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth

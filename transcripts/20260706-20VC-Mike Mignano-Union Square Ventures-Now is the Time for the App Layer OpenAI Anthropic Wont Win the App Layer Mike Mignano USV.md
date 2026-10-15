@@ -27,6 +27,29 @@
   - "Cloudflare"
   - "tokenmaxxing"
   - "frontier models"
+companies:
+  - Anthropic
+  - OpenAI
+  - SPOT
+  - COIN
+  - NET
+industries:
+  - 加密
+technologies:
+  - Agent
+  - LLM
+keywords:
+  - 创业
+tags:
+  - Anthropic
+  - OpenAI
+  - SPOT
+  - COIN
+  - NET
+  - 加密
+  - Agent
+  - LLM
+  - 创业
 ---
 
 # Now is the Time for the App Layer | OpenAI & Anthropic Won't Win the App Layer | Mike Mignano, USV

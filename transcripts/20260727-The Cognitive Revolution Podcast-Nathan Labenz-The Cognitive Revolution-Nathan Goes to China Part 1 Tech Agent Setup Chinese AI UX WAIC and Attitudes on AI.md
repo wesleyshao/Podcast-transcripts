@@ -26,6 +26,25 @@ youtube_video_id: "gZZatHBcWzw"
 YouTube发布时间: "2026-07-27"
 播客标题: "Nathan Goes to China – Part 1: Tech & Agent Setup, Chinese AI UX, WAIC, and Attitudes on AI"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - Anthropic
+  - AAPL
+  - GOOGL
+  - Visa
+industries:
+  - 机器人
+technologies:
+  - LLM
+  - Agent
+keywords: []
+tags:
+  - Anthropic
+  - AAPL
+  - GOOGL
+  - Visa
+  - 机器人
+  - LLM
+  - Agent
 ---
 
 # Nathan Goes to China – Part 1: Tech & Agent Setup, Chinese AI UX, WAIC, and Attitudes on AI

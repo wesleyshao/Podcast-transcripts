@@ -52,6 +52,33 @@ youtube_video_id: "ViqYWhLimGg"
   - "hyperbolic geometry"
   - "64-dimensional Euclidean geometry"
   - "consciousness"
+companies:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - 月之暗面
+  - ASML
+industries:
+  - 半导体
+  - 宏观
+technologies:
+  - LLM
+keywords:
+  - 资本开支
+  - 债务
+  - 开源
+tags:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - 月之暗面
+  - ASML
+  - 半导体
+  - 宏观
+  - LLM
+  - 资本开支
+  - 债务
+  - 开源
 ---
 
 # Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores

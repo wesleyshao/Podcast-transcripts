@@ -32,6 +32,29 @@ YouTube发布时间: 2026-08-25T23:28:28Z
   - Ethereum
   - DeFi
   - permissionless liquidity
+companies:
+  - COIN
+  - AAPL
+  - NVDA
+industries:
+  - 加密
+  - 半导体
+technologies:
+  - GPU
+  - 代币化
+  - DeFi
+  - 以太坊
+keywords: []
+tags:
+  - COIN
+  - AAPL
+  - NVDA
+  - 加密
+  - 半导体
+  - GPU
+  - 代币化
+  - DeFi
+  - 以太坊
 ---
 
 # Aerodrome Co-Founder: What Coinbase Just Did Changes Everything (Here's Why)

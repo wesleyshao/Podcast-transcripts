@@ -23,6 +23,27 @@ youtube_video_id: "SIYWWDUKmUI"
 YouTube发布时间: "2026-07-27"
 播客标题: "Will Open-Source Threaten Anthropic's Business & Do Margins Matter in a World of AI | Matt Murphy"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - Anthropic
+  - OpenRouter
+industries:
+  - 风险投资
+technologies:
+  - LLM
+  - 开源模型
+keywords:
+  - 开源
+  - 融资
+  - 估值
+tags:
+  - Anthropic
+  - OpenRouter
+  - 风险投资
+  - LLM
+  - 开源模型
+  - 开源
+  - 融资
+  - 估值
 ---
 
 # Will Open-Source Threaten Anthropic's Business & Do Margins Matter in a World of AI | Matt Murphy

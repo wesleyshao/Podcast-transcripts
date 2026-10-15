@@ -28,6 +28,33 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/X6oraz
   - Plume
   - Strata Markets
   - Devconnect
+companies:
+  - MSTR
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 比特币
+  - 代币化
+  - 区块链
+  - DeFi
+keywords:
+  - 监管
+  - 黄金
+  - 债务
+tags:
+  - MSTR
+  - 加密
+  - 宏观
+  - 金融
+  - 比特币
+  - 代币化
+  - 区块链
+  - DeFi
+  - 监管
+  - 黄金
+  - 债务
 ---
 
 # 🚨LIVE: PUMP & HYPE Leading! Saylor STILL Selling BTC? Katie Stockton Joins, Plume x Strata Markets

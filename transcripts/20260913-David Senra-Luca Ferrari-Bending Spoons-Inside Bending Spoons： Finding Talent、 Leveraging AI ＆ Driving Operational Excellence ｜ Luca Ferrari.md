@@ -35,6 +35,23 @@ youtube_video_id: "MCbHnlpwZf0"
   - "capital allocation"
   - "customer expectations"
 
+companies:
+  - AAPL
+  - AppLovin
+industries:
+  - 金融
+technologies: []
+keywords:
+  - 人才
+  - IPO
+  - 创业
+tags:
+  - AAPL
+  - AppLovin
+  - 金融
+  - 人才
+  - IPO
+  - 创业
 ---
 
 # Inside Bending Spoons: Finding Talent, Leveraging AI & Driving Operational Excellence | Luca Ferrari

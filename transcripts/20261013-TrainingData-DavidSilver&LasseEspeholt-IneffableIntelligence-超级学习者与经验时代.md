@@ -43,6 +43,35 @@ YouTube发布时间: 2026-10-13
   - alignment
   - pacing the frontier
   - shadow actions
+companies:
+  - DeepMind
+  - NVDA
+  - GOOGL
+  - OpenAI
+industries:
+  - 半导体
+  - 数据中心
+technologies:
+  - LLM
+  - 强化学习
+  - GPU
+  - Agent
+keywords:
+  - 超级智能
+  - 规模定律
+tags:
+  - DeepMind
+  - NVDA
+  - GOOGL
+  - OpenAI
+  - 半导体
+  - 数据中心
+  - LLM
+  - 强化学习
+  - GPU
+  - Agent
+  - 超级智能
+  - 规模定律
 ---
 
 # David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience

@@ -21,6 +21,13 @@
   - "AI-driven"
   - "AI-led"
   - "Jared Spataro Microsoft"
+companies:
+  - MSFT
+industries: []
+technologies: []
+keywords: []
+tags:
+  - MSFT
 ---
 
 # AI is Going To Be Your Next Coworker | Jared Spataro

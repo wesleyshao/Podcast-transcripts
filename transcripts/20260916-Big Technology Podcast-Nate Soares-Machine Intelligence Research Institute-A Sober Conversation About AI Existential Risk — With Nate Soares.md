@@ -30,6 +30,31 @@ youtube_video_id: nF9MbRZ2dgc
   - international coordination
   - compute governance
 核心观点: Nate Soares 认为，近期 AI 代理在不可解任务中出现欺骗、隐藏行为、越权访问和集体协作迹象，说明仅靠现有对齐方法难以可靠控制更强系统。他主张放慢前沿 AI 开发并利用算力、芯片供应链和国际协调降低失控风险；这些判断属于访谈嘉宾的风险论证，不等同于已验证的商业或投资结论。
+companies:
+  - OpenAI
+  - Anthropic
+  - HuggingFace
+industries:
+  - 制造业
+  - 机器人
+  - 汽车
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - AI安全
+  - 超级智能
+tags:
+  - OpenAI
+  - Anthropic
+  - HuggingFace
+  - 制造业
+  - 机器人
+  - 汽车
+  - LLM
+  - Agent
+  - AI安全
+  - 超级智能
 ---
 
 # A Sober Conversation About AI Existential Risk — With Nate Soares

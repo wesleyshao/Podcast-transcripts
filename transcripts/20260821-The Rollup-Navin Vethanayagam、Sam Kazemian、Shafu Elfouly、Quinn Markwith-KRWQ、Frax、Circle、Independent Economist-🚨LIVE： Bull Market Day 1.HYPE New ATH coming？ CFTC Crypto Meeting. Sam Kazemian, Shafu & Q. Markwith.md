@@ -37,6 +37,33 @@ YouTube发布时间: 2026-08-21
   - prediction markets
   - DeFi
   - institutional adoption
+companies:
+  - Ripple
+industries:
+  - 加密
+  - 宏观
+  - 预测市场
+technologies:
+  - DeFi
+  - 比特币
+  - 稳定币
+  - 以太坊
+keywords:
+  - 债务
+  - 监管
+  - 利率
+tags:
+  - Ripple
+  - 加密
+  - 宏观
+  - 预测市场
+  - DeFi
+  - 比特币
+  - 稳定币
+  - 以太坊
+  - 债务
+  - 监管
+  - 利率
 ---
 
 # 🚨LIVE: Bull Market Day 1.HYPE New ATH coming？ CFTC Crypto Meeting. Sam Kazemian, Shafu & Q. Markwith

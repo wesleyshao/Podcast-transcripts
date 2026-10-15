@@ -32,6 +32,21 @@
   - Hoffman
   - on
   - Why
+companies:
+  - GOOGL
+  - OpenAI
+  - DeepMind
+industries: []
+technologies:
+  - LLM
+  - Agent
+keywords: []
+tags:
+  - GOOGL
+  - OpenAI
+  - DeepMind
+  - LLM
+  - Agent
 ---
 
 # Reid Hoffman on Why Your Current AI Know-How Will Become Obsolete

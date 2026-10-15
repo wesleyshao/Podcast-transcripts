@@ -59,6 +59,41 @@ youtube_video_id: "muRIXCDw-k0"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取 2,231 行原始字幕后，按说话人和话题顺序转写；保留节目中的估算、管理层目标、市场观点及嘉宾之间的分歧，不把主持人推演改写成已证实事实。"
+companies:
+  - GOOGL
+  - SpaceX
+  - Anthropic
+  - OpenAI
+  - NVDA
+industries:
+  - 商业航天
+  - 企业软件
+  - 半导体
+technologies:
+  - 卫星互联网
+  - 可回收火箭
+  - 编程助手
+  - 开源模型
+keywords:
+  - IPO
+  - 估值
+  - 开源
+tags:
+  - GOOGL
+  - SpaceX
+  - Anthropic
+  - OpenAI
+  - NVDA
+  - 商业航天
+  - 企业软件
+  - 半导体
+  - 卫星互联网
+  - 可回收火箭
+  - 编程助手
+  - 开源模型
+  - IPO
+  - 估值
+  - 开源
 ---
 
 # Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI

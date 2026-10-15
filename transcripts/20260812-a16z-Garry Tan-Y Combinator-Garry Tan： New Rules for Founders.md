@@ -22,6 +22,17 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/fsTtKy
   - Markdown
   - Silicon Valley
   - consumer AI
+companies:
+  - PLTR
+industries:
+  - 企业软件
+technologies:
+  - Agent
+keywords: []
+tags:
+  - PLTR
+  - 企业软件
+  - Agent
 ---
 
 # Garry Tan: New Rules for Founders

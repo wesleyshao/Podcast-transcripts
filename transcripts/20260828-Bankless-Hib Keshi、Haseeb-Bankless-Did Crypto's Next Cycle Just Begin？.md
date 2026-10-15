@@ -33,6 +33,35 @@ YouTube发布时间: 2026-08-28T10:30:26Z
   - yield curve control
   - debasement trade
   - AI infrastructure
+companies:
+  - COIN
+  - Ethena
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 比特币
+  - 代币化
+  - 稳定币
+  - 以太坊
+keywords:
+  - 债务
+  - 黄金
+  - 融资
+tags:
+  - COIN
+  - Ethena
+  - 加密
+  - 宏观
+  - 金融
+  - 比特币
+  - 代币化
+  - 稳定币
+  - 以太坊
+  - 债务
+  - 黄金
+  - 融资
 ---
 
 # Did Crypto's Next Cycle Just Begin?

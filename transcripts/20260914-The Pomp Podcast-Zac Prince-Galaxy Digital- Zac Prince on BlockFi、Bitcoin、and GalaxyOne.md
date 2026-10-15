@@ -30,6 +30,23 @@ YouTube发布时间: "2026-09-14T21:00:10Z"
   - "risk management"
   - "yield products"
 
+companies:
+  - Galaxy
+industries:
+  - 加密
+  - 金融
+  - 支付
+technologies:
+  - 比特币
+keywords:
+  - 监管
+tags:
+  - Galaxy
+  - 加密
+  - 金融
+  - 支付
+  - 比特币
+  - 监管
 ---
 
 ## Transcript

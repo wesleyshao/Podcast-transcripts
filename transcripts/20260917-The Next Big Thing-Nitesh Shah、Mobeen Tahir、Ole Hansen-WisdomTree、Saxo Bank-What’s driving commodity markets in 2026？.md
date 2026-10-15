@@ -38,6 +38,23 @@ YouTube发布时间: "2026-09-17T14:24:39Z"
   - "Fed"
   - "AI"
   - "energy transition"
+companies:
+  - WisdomTree
+industries:
+  - 宏观
+  - 能源
+  - 支付
+technologies: []
+keywords:
+  - 债务
+  - 利率
+tags:
+  - WisdomTree
+  - 宏观
+  - 能源
+  - 支付
+  - 债务
+  - 利率
 ---
 
 # What’s driving commodity markets in 2026?

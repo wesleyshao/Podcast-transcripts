@@ -28,6 +28,19 @@ youtube_video_id: "-tabaM5l3s0"
 YouTube发布时间: 2026-07-28
 播客标题: "The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z"
 字幕来源: "YouTube public en-orig auto captions"
+companies:
+  - a16z
+industries:
+  - 机器人
+technologies:
+  - LLM
+  - 世界模型
+keywords: []
+tags:
+  - a16z
+  - 机器人
+  - LLM
+  - 世界模型
 ---
 
 # The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z

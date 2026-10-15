@@ -40,6 +40,33 @@ YouTube发布时间: 2026-09-10
   - 脑机接口
   - UAP
   - Austin
+companies:
+  - OpenAI
+  - xAI
+  - Anthropic
+industries:
+  - 教育
+  - 医疗
+  - 媒体
+technologies:
+  - 脑机接口
+  - LLM
+  - Agent
+keywords:
+  - 喜剧
+  - 隐私
+tags:
+  - OpenAI
+  - xAI
+  - Anthropic
+  - 教育
+  - 医疗
+  - 媒体
+  - 脑机接口
+  - LLM
+  - Agent
+  - 喜剧
+  - 隐私
 ---
 
 # Joe Rogan Experience #2552 - Ehsan Ahmad & Deric Poston

@@ -24,6 +24,19 @@ youtube_video_id: reb-3ijSE7A
   - China biotech innovation
   - drug regulation
 核心观点: Sean Laaman 总结 Morgan Stanley 全球医疗保健会议的三个主题：AI 可能改变药物开发效率，中国已从快速跟随者转向更具活力的生物科技创新来源，监管机构可能需要加快药物进入市场的速度以跟上行业变化。节目没有给出具体上市公司、订单或盈利验证，未形成可交易标的逻辑。
+companies:
+  - MS
+industries:
+  - 生物技术
+  - 医疗
+technologies: []
+keywords:
+  - 监管
+tags:
+  - MS
+  - 生物技术
+  - 医疗
+  - 监管
 ---
 
 # Morgan Stanley Global Healthcare Conference | AI, China and the Future of Biotech

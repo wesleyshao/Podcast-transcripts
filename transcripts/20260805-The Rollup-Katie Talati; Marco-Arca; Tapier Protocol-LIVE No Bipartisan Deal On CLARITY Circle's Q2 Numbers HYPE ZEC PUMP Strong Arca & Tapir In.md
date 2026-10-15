@@ -70,6 +70,41 @@ youtube_video_id: "pCa0lOjzsyg"
   - "Pendle"
   - "USDC"
   - "USDT"
+companies:
+  - Uniswap
+  - Hyperliquid
+  - Polymarket
+  - Pumpfun
+  - Circle
+industries:
+  - 加密
+  - 预测市场
+  - 宏观
+technologies:
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 光模块
+keywords:
+  - 资本开支
+  - 估值
+  - 融资
+tags:
+  - Uniswap
+  - Hyperliquid
+  - Polymarket
+  - Pumpfun
+  - Circle
+  - 加密
+  - 预测市场
+  - 宏观
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 光模块
+  - 资本开支
+  - 估值
+  - 融资
 ---
 
 # 🚨LIVE: No Bipartisan Deal On CLARITY?! Circle's Q2 Numbers! HYPE, ZEC, PUMP Strong. Arca & Tapir In

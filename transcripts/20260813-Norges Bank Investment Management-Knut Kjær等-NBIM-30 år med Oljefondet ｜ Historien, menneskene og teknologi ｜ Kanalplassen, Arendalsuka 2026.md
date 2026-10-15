@@ -35,6 +35,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/0XT2jC
   - Knut Kjær
   - artificial intelligence
   - sovereign wealth fund
+companies: []
+industries:
+  - 能源
+  - 金融
+technologies: []
+keywords: []
+tags:
+  - 能源
+  - 金融
 ---
 
 # 30 år med Oljefondet | Historien, menneskene og teknologi | Kanalplassen, Arendalsuka 2026

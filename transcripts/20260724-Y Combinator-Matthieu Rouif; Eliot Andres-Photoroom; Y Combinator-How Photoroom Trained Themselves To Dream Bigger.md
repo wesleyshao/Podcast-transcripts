@@ -19,6 +19,19 @@
   - "Decathlon"
   - "global hiring"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - AMZN
+  - UBER
+industries:
+  - 电商
+technologies: []
+keywords:
+  - 人才
+tags:
+  - AMZN
+  - UBER
+  - 电商
+  - 人才
 ---
 
 # How Photoroom Trained Themselves To Dream Bigger

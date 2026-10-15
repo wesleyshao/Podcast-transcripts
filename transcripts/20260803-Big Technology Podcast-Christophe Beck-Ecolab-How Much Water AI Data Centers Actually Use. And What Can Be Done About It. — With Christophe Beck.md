@@ -41,6 +41,23 @@ youtube_video_id: "GyShwh9z0gw"
   - "wind power"
   - "community opposition"
   - "Mayo Clinic"
+companies:
+  - Ecolab
+  - NVDA
+industries:
+  - 数据中心
+  - 半导体
+  - 核能
+technologies:
+  - GPU
+keywords: []
+tags:
+  - Ecolab
+  - NVDA
+  - 数据中心
+  - 半导体
+  - 核能
+  - GPU
 ---
 
 # How Much Water AI Data Centers Actually Use. And What Can Be Done About It. — With Christophe Beck

@@ -19,6 +19,29 @@
   - "privacy"
   - "scaling"
 字幕来源: "automatic_captions:en-orig:json3"
+companies:
+  - SpaceX
+  - MSTR
+industries:
+  - 加密
+  - 商业航天
+technologies:
+  - 比特币
+  - 可回收火箭
+  - 以太坊
+  - DeFi
+keywords:
+  - 隐私
+tags:
+  - SpaceX
+  - MSTR
+  - 加密
+  - 商业航天
+  - 比特币
+  - 可回收火箭
+  - 以太坊
+  - DeFi
+  - 隐私
 ---
 
 # Is Bitcoin Going According to Plan? Gold, Saylor, Satoshi

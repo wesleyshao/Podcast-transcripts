@@ -26,6 +26,13 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/bw618C
   - White House
   - Kennedy Center
   - Air Force One
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 选举
+tags:
+  - 选举
 ---
 
 # Maggie Haberman on what’s driving Trump in his second term

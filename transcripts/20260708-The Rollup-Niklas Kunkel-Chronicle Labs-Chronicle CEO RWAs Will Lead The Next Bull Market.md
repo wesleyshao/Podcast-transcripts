@@ -20,6 +20,25 @@ YouTube发布时间: 2026-07-08
   - "institutional partnerships"
   - "data provider"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies:
+  - ORCL
+  - BLK
+industries:
+  - 宏观
+  - 加密
+technologies:
+  - 代币化
+  - DeFi
+keywords:
+  - 商业模式
+tags:
+  - ORCL
+  - BLK
+  - 宏观
+  - 加密
+  - 代币化
+  - DeFi
+  - 商业模式
 ---
 
 # Chronicle CEO: RWAs Will Lead The Next Bull Market (Biggest Wave Ever)

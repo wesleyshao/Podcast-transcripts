@@ -41,6 +41,25 @@ YouTube发布时间: 2026-08-26T12:00:35Z
   - NaturalMotion
   - CSR Racing
   - Founders
+companies: []
+industries:
+  - 国防
+  - 游戏
+  - 制造业
+technologies:
+  - 强化学习
+keywords:
+  - 战争
+  - 人才
+  - 创业
+tags:
+  - 国防
+  - 游戏
+  - 制造业
+  - 强化学习
+  - 战争
+  - 人才
+  - 创业
 ---
 
 # Building Defense Technologies to Protect Democracies | Torsten Reil, Helsing

@@ -20,6 +20,17 @@ youtube_video_id: AiYsA7z89zo
   - International Atomic Energy Agency
   - oil prices
   - Federal Reserve
+companies: []
+industries:
+  - 宏观
+  - 能源
+technologies: []
+keywords:
+  - 霍尔木兹
+tags:
+  - 宏观
+  - 能源
+  - 霍尔木兹
 ---
 
 # The Potential Way Forward for the U.S.-Iran Standoff

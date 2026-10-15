@@ -54,6 +54,35 @@ youtube_video_id: E3skTXfZ6_Q
   - attention markets
   - creator coins
   - eToro
+companies:
+  - HOOD
+  - COIN
+  - AMZN
+industries:
+  - 加密
+  - 支付
+  - 金融
+technologies:
+  - 以太坊
+  - 推理
+  - 稳定币
+  - Agent
+keywords:
+  - 稳定币法案
+  - 融资
+tags:
+  - HOOD
+  - COIN
+  - AMZN
+  - 加密
+  - 支付
+  - 金融
+  - 以太坊
+  - 推理
+  - 稳定币
+  - Agent
+  - 稳定币法案
+  - 融资
 ---
 
 # Jesse Pollak: Why Base Will Make Ethereum Win Long-Term (Consumer Grade Scale)

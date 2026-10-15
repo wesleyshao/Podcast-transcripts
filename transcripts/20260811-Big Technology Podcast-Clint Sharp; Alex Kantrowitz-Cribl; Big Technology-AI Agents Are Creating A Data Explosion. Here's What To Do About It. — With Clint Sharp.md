@@ -47,6 +47,31 @@ youtube_video_id: "6TPaAmDoUHY"
   - "synthetic data"
   - "machine speed"
   - "CriblCon"
+companies:
+  - Anthropic
+  - HuggingFace
+  - OpenAI
+  - Databricks
+  - SNOW
+industries:
+  - 网络安全
+technologies:
+  - Agent
+  - LLM
+  - 强化学习
+  - 开源模型
+keywords: []
+tags:
+  - Anthropic
+  - HuggingFace
+  - OpenAI
+  - Databricks
+  - SNOW
+  - 网络安全
+  - Agent
+  - LLM
+  - 强化学习
+  - 开源模型
 ---
 
 # AI Agents Are Creating A Data Explosion. Here's What To Do About It. — With Clint Sharp

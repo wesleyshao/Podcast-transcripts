@@ -87,6 +87,41 @@ YouTube发布时间: 2026-09-03T08:01:19Z
   - Space and Time
   - Frax
   - Relay
+companies:
+  - COIN
+  - HOOD
+  - OpenAI
+  - Lighter
+  - Uniswap
+industries:
+  - 加密
+  - 金融
+  - 医疗
+technologies:
+  - 比特币
+  - 稳定币
+  - Zcash
+  - 量子计算
+keywords:
+  - 隐私
+  - 债务
+  - 监管
+tags:
+  - COIN
+  - HOOD
+  - OpenAI
+  - Lighter
+  - Uniswap
+  - 加密
+  - 金融
+  - 医疗
+  - 比特币
+  - 稳定币
+  - Zcash
+  - 量子计算
+  - 隐私
+  - 债务
+  - 监管
 ---
 
 # 🚨LIVE: Tom Lee Buys MORE ETH! Robinhood Chain CRUSHING. Mostaque, Coinbase, & Cory Klippstein Join

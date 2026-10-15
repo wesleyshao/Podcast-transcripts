@@ -36,6 +36,21 @@ YouTube发布时间: 2026-08-27T14:01:17Z
   - staking
   - self-custody
   - 数字资产
+companies: []
+industries:
+  - 加密
+technologies:
+  - 比特币
+  - 以太坊
+  - Solana
+  - 代币化
+keywords: []
+tags:
+  - 加密
+  - 比特币
+  - 以太坊
+  - Solana
+  - 代币化
 ---
 
 # The BEAT with Ben featuring Amy Oldenburg and Ally Wallace on Cryptocurrency & Digital Asset Trends

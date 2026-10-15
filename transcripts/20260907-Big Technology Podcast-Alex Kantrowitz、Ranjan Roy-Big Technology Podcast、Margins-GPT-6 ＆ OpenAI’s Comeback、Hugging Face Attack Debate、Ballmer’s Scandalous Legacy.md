@@ -39,6 +39,29 @@ YouTube发布时间: "2026-09-07T17:00:06Z"
   - "Kawhi Leonard"
   - "Los Angeles Clippers"
 
+companies:
+  - HuggingFace
+  - OpenAI
+  - Anthropic
+industries:
+  - 支付
+technologies:
+  - LLM
+  - 强化学习
+  - Agent
+  - Transformer
+keywords:
+  - AGI
+tags:
+  - HuggingFace
+  - OpenAI
+  - Anthropic
+  - 支付
+  - LLM
+  - 强化学习
+  - Agent
+  - Transformer
+  - AGI
 ---
 
 ## Transcript

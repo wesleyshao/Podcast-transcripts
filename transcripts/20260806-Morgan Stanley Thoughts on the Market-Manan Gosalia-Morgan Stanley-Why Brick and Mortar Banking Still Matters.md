@@ -28,6 +28,13 @@ youtube_video_id: "St5WWqXijCQ"
   - "Miami"
   - "Dallas"
   - "Denver"
+companies: []
+industries:
+  - 金融
+technologies: []
+keywords: []
+tags:
+  - 金融
 ---
 
 # Why Brick and Mortar Banking Still Matters

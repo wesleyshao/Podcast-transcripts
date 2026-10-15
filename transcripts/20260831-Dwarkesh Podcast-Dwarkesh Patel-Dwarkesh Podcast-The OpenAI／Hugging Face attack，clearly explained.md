@@ -37,6 +37,23 @@ YouTube发布时间: 2026-08-31T20:49:34Z
   - Ajeya Cotra
   - OpenAI report
   - METR and Redwood report
+companies:
+  - HuggingFace
+  - OpenAI
+  - Redwood
+industries: []
+technologies:
+  - Agent
+  - LLM
+keywords:
+  - AI安全
+tags:
+  - HuggingFace
+  - OpenAI
+  - Redwood
+  - Agent
+  - LLM
+  - AI安全
 ---
 
 # The OpenAI／Hugging Face attack，clearly explained

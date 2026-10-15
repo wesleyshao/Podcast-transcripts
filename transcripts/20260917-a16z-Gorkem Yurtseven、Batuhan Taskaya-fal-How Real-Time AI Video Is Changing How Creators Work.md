@@ -39,6 +39,23 @@ YouTube发布时间: "2026-09-17T17:33:45Z"
   - "lip sync"
   - "GPU"
   - "creator economy"
+companies:
+  - MiniMax
+  - HuggingFace
+industries: []
+technologies:
+  - 后训练
+  - GPU
+  - LLM
+  - 推理
+keywords: []
+tags:
+  - MiniMax
+  - HuggingFace
+  - 后训练
+  - GPU
+  - LLM
+  - 推理
 ---
 
 # How Real-Time AI Video Is Changing How Creators Work

@@ -33,6 +33,27 @@ YouTube发布时间: "2026-09-15T02:15:19Z"
   - "OTC trading"
   - "social trading"
 
+companies:
+  - NVDA
+industries:
+  - 宏观
+  - 加密
+  - 半导体
+technologies:
+  - GPU
+  - 比特币
+  - 代币化
+keywords:
+  - 机构采用
+tags:
+  - NVDA
+  - 宏观
+  - 加密
+  - 半导体
+  - GPU
+  - 比特币
+  - 代币化
+  - 机构采用
 ---
 
 ## Transcript

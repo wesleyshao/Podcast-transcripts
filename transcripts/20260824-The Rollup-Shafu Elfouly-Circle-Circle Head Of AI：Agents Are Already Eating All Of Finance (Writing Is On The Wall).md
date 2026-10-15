@@ -52,6 +52,33 @@ youtube_video_id: eWKG2hQLFcg
   - API
   - wallet
   - on-ramp
+companies:
+  - Circle
+  - Anthropic
+  - OpenAI
+  - COIN
+  - Cursor
+industries:
+  - 加密
+  - 支付
+technologies:
+  - Agent
+  - 稳定币
+  - LLM
+  - 编程助手
+keywords: []
+tags:
+  - Circle
+  - Anthropic
+  - OpenAI
+  - COIN
+  - Cursor
+  - 加密
+  - 支付
+  - Agent
+  - 稳定币
+  - LLM
+  - 编程助手
 ---
 
 # Circle Head Of AI：Agents Are Already Eating All Of Finance (Writing Is On The Wall)

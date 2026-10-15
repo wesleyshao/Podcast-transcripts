@@ -32,6 +32,29 @@ YouTube发布时间: "2026-09-17T13:27:46Z"
   - "SaaS"
   - "headless tools"
   - "deterministic code"
+companies:
+  - Anthropic
+  - OpenAI
+industries:
+  - 企业软件
+technologies:
+  - MCP
+  - LLM
+  - Agent
+  - 编程助手
+keywords:
+  - 人才
+  - 基准测试
+tags:
+  - Anthropic
+  - OpenAI
+  - 企业软件
+  - MCP
+  - LLM
+  - Agent
+  - 编程助手
+  - 人才
+  - 基准测试
 ---
 
 # No Code Is Code: Zapier CEO Wade Foster on Headless Tools, Zapier MCP & Automation Bench

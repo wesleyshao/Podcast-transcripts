@@ -35,6 +35,35 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/Bf4yWt
   - Morpho
   - Uniswap
   - Solana
+companies:
+  - BLK
+  - Circle
+  - HOOD
+  - Hyperliquid
+  - SharpLink
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 以太坊
+  - 代币化
+  - 稳定币
+  - 比特币
+keywords:
+  - 稳定币法案
+tags:
+  - BLK
+  - Circle
+  - HOOD
+  - Hyperliquid
+  - SharpLink
+  - 加密
+  - 金融
+  - 以太坊
+  - 代币化
+  - 稳定币
+  - 比特币
+  - 稳定币法案
 ---
 
 # John Gillen：Ethereum Will Fly From Here And Most Investors Aren't Ready （Here's Why）

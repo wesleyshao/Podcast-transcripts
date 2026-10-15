@@ -27,6 +27,31 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/y2-O5g
   - OpenAI
   - Figure Technologies
   - JPMorgan
+companies:
+  - JPM
+  - Anthropic
+  - OpenAI
+industries:
+  - 加密
+  - 宏观
+  - 数据中心
+technologies:
+  - 比特币
+  - LLM
+keywords:
+  - 利率
+  - 通胀
+tags:
+  - JPM
+  - Anthropic
+  - OpenAI
+  - 加密
+  - 宏观
+  - 数据中心
+  - 比特币
+  - LLM
+  - 利率
+  - 通胀
 ---
 
 # Bitcoin Wins By Simply Not Playing The Time Game

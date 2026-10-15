@@ -29,6 +29,25 @@ YouTube发布时间: 2026-09-10
   - model transparency
   - enterprise safeguards
   - IPO
+companies:
+  - OpenAI
+  - HuggingFace
+  - Anthropic
+industries:
+  - 网络安全
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - IPO
+tags:
+  - OpenAI
+  - HuggingFace
+  - Anthropic
+  - 网络安全
+  - LLM
+  - Agent
+  - IPO
 ---
 
 # AI companies are losing control of their own models

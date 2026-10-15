@@ -31,6 +31,33 @@ YouTube发布时间: 2026-08-18
   - data acquisition
   - open source models
   - agents
+companies:
+  - Anthropic
+  - META
+  - SemiAnalysis
+industries:
+  - 教育
+  - 支付
+technologies:
+  - Agent
+  - LLM
+  - 开源模型
+  - 强化学习
+keywords:
+  - 开源
+  - 并购
+tags:
+  - Anthropic
+  - META
+  - SemiAnalysis
+  - 教育
+  - 支付
+  - Agent
+  - LLM
+  - 开源模型
+  - 强化学习
+  - 开源
+  - 并购
 ---
 
 # Watching & Learning from Agents with CEOs of Arthur & Datacamp

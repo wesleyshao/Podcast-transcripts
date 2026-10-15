@@ -30,6 +30,37 @@ youtube_video_id: rb83Y-6nB08
   - Microsoft
   - special purpose vehicle
   - return on invested capital
+companies:
+  - SpaceX
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - TSLA
+industries:
+  - 商业航天
+  - 数据中心
+  - 游戏
+technologies:
+  - LLM
+  - 可回收火箭
+keywords:
+  - 资本开支
+  - AGI
+  - 估值
+tags:
+  - SpaceX
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - TSLA
+  - 商业航天
+  - 数据中心
+  - 游戏
+  - LLM
+  - 可回收火箭
+  - 资本开支
+  - AGI
+  - 估值
 ---
 
 # What Happens If AI Fails?, Subprime Data Center Crisis, How Bad Can SpaceX Get?

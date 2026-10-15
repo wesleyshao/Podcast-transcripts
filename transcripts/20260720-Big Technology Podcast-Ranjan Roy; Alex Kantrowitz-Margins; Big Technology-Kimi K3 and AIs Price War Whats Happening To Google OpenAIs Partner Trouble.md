@@ -17,6 +17,25 @@
   - "ChatGPT"
   - "search economics"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - GOOGL
+  - 月之暗面
+  - OpenAI
+  - Anthropic
+  - AAPL
+industries: []
+technologies:
+  - LLM
+keywords:
+  - 开源
+tags:
+  - GOOGL
+  - 月之暗面
+  - OpenAI
+  - Anthropic
+  - AAPL
+  - LLM
+  - 开源
 ---
 
 # Kimi K3 & AI’s Price War, What’s Happening To Google?, OpenAI’s Partner Trouble

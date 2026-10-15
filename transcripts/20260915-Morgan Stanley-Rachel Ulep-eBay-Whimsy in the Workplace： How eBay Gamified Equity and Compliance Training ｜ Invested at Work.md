@@ -28,6 +28,17 @@ YouTube发布时间: "2026-09-15T01:35:06Z"
   - "compliance training"
   - "financial wellness"
 
+companies: []
+industries:
+  - 教育
+technologies:
+  - Agent
+keywords:
+  - 合规
+tags:
+  - 教育
+  - Agent
+  - 合规
 ---
 
 ## Transcript

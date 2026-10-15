@@ -43,6 +43,23 @@ YouTube发布时间: 2026-09-17T21:00:33Z
   - Token2049
   - Simple Mining
   - Lava
+companies:
+  - BLK
+industries:
+  - 加密
+  - 媒体
+  - 宏观
+technologies:
+  - 比特币
+  - 以太坊
+keywords: []
+tags:
+  - BLK
+  - 加密
+  - 媒体
+  - 宏观
+  - 比特币
+  - 以太坊
 ---
 
 # BlackRock Confirmed Bitcoin Is Here To Stay

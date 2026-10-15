@@ -38,6 +38,35 @@ YouTube发布时间: "2026-09-09T17:00:08Z"
   - "quantum computing"
   - "citizens dividend"
   - "universal high income"
+companies:
+  - HuggingFace
+  - OpenAI
+  - Anthropic
+industries:
+  - 医疗
+  - 教育
+  - 数据中心
+technologies:
+  - Agent
+  - LLM
+  - 量子计算
+  - TPU
+keywords:
+  - 超级智能
+  - 监管
+tags:
+  - HuggingFace
+  - OpenAI
+  - Anthropic
+  - 医疗
+  - 教育
+  - 数据中心
+  - Agent
+  - LLM
+  - 量子计算
+  - TPU
+  - 超级智能
+  - 监管
 ---
 
 ## Transcript

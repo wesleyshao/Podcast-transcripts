@@ -16,6 +16,17 @@
   - "Morgan Stanley"
   - "The Warsh Effect"
   - "Mortgages"
+companies: []
+industries:
+  - 房地产
+  - 宏观
+technologies: []
+keywords:
+  - 住房
+tags:
+  - 房地产
+  - 宏观
+  - 住房
 ---
 
 # The Warsh Effect on Mortgages

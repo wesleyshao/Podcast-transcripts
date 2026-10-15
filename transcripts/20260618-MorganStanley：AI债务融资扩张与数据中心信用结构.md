@@ -16,6 +16,23 @@
   - Inside
   - Debt
   - Surge
+companies:
+  - AAPL
+industries:
+  - 数据中心
+  - 加密
+  - 半导体
+technologies: []
+keywords:
+  - 债务
+  - 融资
+tags:
+  - AAPL
+  - 数据中心
+  - 加密
+  - 半导体
+  - 债务
+  - 融资
 ---
 
 # Inside the AI Debt Surge

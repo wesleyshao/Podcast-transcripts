@@ -108,6 +108,35 @@ youtube_video_id: n8dz2FX0_uY
   - Thinking Machines
   - Anybots
   - Y Combinator
+companies:
+  - Cursor
+  - NVDA
+  - AAPL
+  - AMD
+  - OpenAI
+industries:
+  - 存储
+  - 半导体
+  - 数据中心
+technologies:
+  - GPU
+  - 推理
+  - 编程助手
+  - HBM
+keywords: []
+tags:
+  - Cursor
+  - NVDA
+  - AAPL
+  - AMD
+  - OpenAI
+  - 存储
+  - 半导体
+  - 数据中心
+  - GPU
+  - 推理
+  - 编程助手
+  - HBM
 ---
 
 # Multi-GPU Kernels, Intelligence per Watt, Heterogeneous Inference, and More | YC Paper Club

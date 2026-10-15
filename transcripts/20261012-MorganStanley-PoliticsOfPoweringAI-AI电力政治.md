@@ -31,6 +31,21 @@ YouTube发布时间: 2026-10-12
   - 电力可负担性（electricity affordability）
   - 美国能源基础设施
   - 11 月选举
+companies: []
+industries:
+  - 电力
+  - 数据中心
+  - 云计算
+technologies: []
+keywords:
+  - 选举
+  - 就业
+tags:
+  - 电力
+  - 数据中心
+  - 云计算
+  - 选举
+  - 就业
 ---
 
 # The Politics of Powering AI

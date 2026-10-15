@@ -68,6 +68,37 @@ YouTube发布时间: "2026-08-03T14:06:48Z"
   - SK Hynix
   - Samsung
   - AI medicine
+companies:
+  - Anthropic
+  - OpenAI
+  - NVDA
+  - OpenRouter
+  - Mistral
+industries:
+  - 半导体
+technologies:
+  - 开源模型
+  - 推理
+  - GPU
+  - LLM
+keywords:
+  - 开源
+  - 竞争格局
+  - 出口管制
+tags:
+  - Anthropic
+  - OpenAI
+  - NVDA
+  - OpenRouter
+  - Mistral
+  - 半导体
+  - 开源模型
+  - 推理
+  - GPU
+  - LLM
+  - 开源
+  - 竞争格局
+  - 出口管制
 ---
 
 # Arena CEO: There Will be a $100BN US Open-Source Model & Data is a Trillion Dollar Market

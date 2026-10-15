@@ -37,6 +37,25 @@ YouTube发布时间: 2026-08-21
   - CATO
   - Senate midterms
   - frontier models
+companies:
+  - Anthropic
+industries:
+  - 数据中心
+  - 宏观
+technologies:
+  - LLM
+keywords:
+  - AI安全
+  - 监管
+  - 开源
+tags:
+  - Anthropic
+  - 数据中心
+  - 宏观
+  - LLM
+  - AI安全
+  - 监管
+  - 开源
 ---
 
 # Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up

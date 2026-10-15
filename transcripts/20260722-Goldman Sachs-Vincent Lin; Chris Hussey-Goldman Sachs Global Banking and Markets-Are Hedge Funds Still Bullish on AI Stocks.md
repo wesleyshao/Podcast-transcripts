@@ -19,6 +19,15 @@
   - "limited loss structures"
   - "correlation"
 字幕来源: "YouTube subtitles en-US json3"
+companies: []
+industries:
+  - 金融
+technologies: []
+keywords:
+  - 资本开支
+tags:
+  - 金融
+  - 资本开支
 ---
 
 # Are Hedge Funds Still Bullish on AI Stocks?

@@ -22,6 +22,29 @@ YouTube发布时间: 2026-07-09
   - "SaaS"
   - "China open source"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies:
+  - OpenAI
+  - DeepSeek
+  - Anthropic
+  - META
+  - MSFT
+industries:
+  - 企业软件
+technologies:
+  - LLM
+keywords:
+  - 选举
+  - 开源
+tags:
+  - OpenAI
+  - DeepSeek
+  - Anthropic
+  - META
+  - MSFT
+  - 企业软件
+  - LLM
+  - 选举
+  - 开源
 ---
 
 # Sam Altman Offers Trump 5% of OpenAI | Enterprises Fear Frontier Models | DeepSeek Builds Own Chips

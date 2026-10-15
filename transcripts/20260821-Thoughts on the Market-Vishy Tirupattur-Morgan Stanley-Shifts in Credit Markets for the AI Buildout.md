@@ -29,6 +29,17 @@ YouTube发布时间: "2026-08-21T19:21:29Z"
   - asset-level financing
   - private capital
   - residual value guarantees
+companies: []
+industries:
+  - 数据中心
+technologies: []
+keywords:
+  - 融资
+  - 资本开支
+tags:
+  - 数据中心
+  - 融资
+  - 资本开支
 ---
 
 # Shifts in Credit Markets for the AI Buildout

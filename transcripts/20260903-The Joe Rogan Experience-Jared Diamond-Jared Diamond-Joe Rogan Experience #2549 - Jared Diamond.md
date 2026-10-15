@@ -72,6 +72,25 @@ YouTube发布时间: 2026-09-03T17:00:01Z
   - German
   - Russian
 
+companies:
+  - AAPL
+  - WMT
+  - AMZN
+  - INTC
+  - META
+industries:
+  - 半导体
+technologies: []
+keywords:
+  - 人口
+tags:
+  - AAPL
+  - WMT
+  - AMZN
+  - INTC
+  - META
+  - 半导体
+  - 人口
 ---
 
 # Joe Rogan Experience #2549 - Jared Diamond

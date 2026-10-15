@@ -24,6 +24,13 @@ YouTube发布时间: 2026-08-31T23:00:01Z
   - Morgan Stanley
   - U.S. consumers
   - high single-digit growth
+companies: []
+industries:
+  - 消费
+technologies: []
+keywords: []
+tags:
+  - 消费
 ---
 
 # From Coffee to Cans: A U.S. Caffeine Shift

@@ -47,6 +47,33 @@ YouTube发布时间: 2026-09-12
   - Visa
   - Data privacy
   - AI data
+companies:
+  - NKE
+  - OpenAI
+  - Anthropic
+  - Visa
+industries:
+  - 消费
+  - 媒体
+  - 数据中心
+technologies:
+  - LLM
+keywords:
+  - AI安全
+  - 开源
+  - 监管
+tags:
+  - NKE
+  - OpenAI
+  - Anthropic
+  - Visa
+  - 消费
+  - 媒体
+  - 数据中心
+  - LLM
+  - AI安全
+  - 开源
+  - 监管
 ---
 # AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse
 ## Transcript

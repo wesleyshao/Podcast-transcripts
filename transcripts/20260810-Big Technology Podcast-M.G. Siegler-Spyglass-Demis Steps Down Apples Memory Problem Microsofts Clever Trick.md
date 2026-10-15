@@ -57,6 +57,41 @@ youtube_video_id: CHDbKSGoLjg
   - Anthropic
   - cloud growth
   - circular financing
+companies:
+  - AAPL
+  - MSFT
+  - AMZN
+  - Anthropic
+  - GOOGL
+industries:
+  - 云计算
+  - 数据中心
+  - 支付
+technologies:
+  - LLM
+  - 世界模型
+  - GPU
+  - 编程助手
+keywords:
+  - 资本开支
+  - AGI
+  - 融资
+tags:
+  - AAPL
+  - MSFT
+  - AMZN
+  - Anthropic
+  - GOOGL
+  - 云计算
+  - 数据中心
+  - 支付
+  - LLM
+  - 世界模型
+  - GPU
+  - 编程助手
+  - 资本开支
+  - AGI
+  - 融资
 ---
 
 # Demis Steps Down, Apple’s Memory Problem, Microsoft’s Clever Trick

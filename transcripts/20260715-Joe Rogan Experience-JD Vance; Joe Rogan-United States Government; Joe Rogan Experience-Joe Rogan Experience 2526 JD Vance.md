@@ -17,6 +17,17 @@
   - "Joe Rogan Experience"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Joe Rogan Experience #2526 - JD Vance"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 选举
+  - 综合格斗
+  - 霍尔木兹
+tags:
+  - 选举
+  - 综合格斗
+  - 霍尔木兹
 ---
 
 # Joe Rogan Experience #2526 - JD Vance

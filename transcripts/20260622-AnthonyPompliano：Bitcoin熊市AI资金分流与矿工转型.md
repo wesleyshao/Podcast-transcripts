@@ -24,6 +24,17 @@
   - "You"
   - "Follow Pomp"
   - "Social"
+companies: []
+industries:
+  - 加密
+  - 宏观
+technologies:
+  - 比特币
+keywords: []
+tags:
+  - 加密
+  - 宏观
+  - 比特币
 ---
 
 # When Will The Bitcoin Bear Market End?

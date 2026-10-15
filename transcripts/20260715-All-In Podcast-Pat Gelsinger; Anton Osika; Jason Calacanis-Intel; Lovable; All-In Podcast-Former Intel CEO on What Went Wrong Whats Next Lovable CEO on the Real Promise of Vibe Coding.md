@@ -18,6 +18,19 @@
   - "AI software development"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding"
+companies:
+  - INTC
+  - TSM
+industries:
+  - 半导体
+  - 制造业
+technologies: []
+keywords: []
+tags:
+  - INTC
+  - TSM
+  - 半导体
+  - 制造业
 ---
 
 # Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding

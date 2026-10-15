@@ -43,6 +43,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/VSdxOr
   - Kennedy Space Center
   - Artemis
   - space exploration
+companies:
+  - NASA
+industries:
+  - 商业航天
+technologies: []
+keywords: []
+tags:
+  - NASA
+  - 商业航天
 ---
 
 # NASA Max Power Announcement, Kennedy Space Center, August 14, 2026

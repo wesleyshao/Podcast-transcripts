@@ -37,6 +37,19 @@ YouTube发布时间: "2026-09-15T17:29:15Z"
   - "capital allocation"
   - "China"
   - "data centers"
+companies:
+  - MSFT
+industries:
+  - 数据中心
+technologies:
+  - Agent
+keywords:
+  - AI安全
+tags:
+  - MSFT
+  - 数据中心
+  - Agent
+  - AI安全
 ---
 
 ## Transcript

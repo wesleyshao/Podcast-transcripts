@@ -32,6 +32,21 @@
   - Startups
   - Need
   - To
+companies:
+  - MSFT
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+  - Transformer
+keywords:
+  - 并购
+tags:
+  - MSFT
+  - OpenAI
+  - LLM
+  - Transformer
+  - 并购
 ---
 
 # Startups Need To Focus on Data Acquisition over Parameters | Mustafa Suleyman

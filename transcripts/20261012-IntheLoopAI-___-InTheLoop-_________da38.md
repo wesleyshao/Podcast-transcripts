@@ -32,6 +32,31 @@ YouTube发布时间: 2026-10-12
   - 生物学 / 制药 / DNA 序列
   - Qualcomm（赞助）
   - AlphaSpace / Yahoo Finance
+companies:
+  - OpenAI
+  - Anthropic
+  - GOOGL
+  - META
+  - QCOM
+industries:
+  - 半导体
+  - 制药
+  - 机器人
+technologies:
+  - LLM
+  - GPU
+keywords: []
+tags:
+  - OpenAI
+  - Anthropic
+  - GOOGL
+  - META
+  - QCOM
+  - 半导体
+  - 制药
+  - 机器人
+  - LLM
+  - GPU
 ---
 
 # Humans Are Now The Bottleneck

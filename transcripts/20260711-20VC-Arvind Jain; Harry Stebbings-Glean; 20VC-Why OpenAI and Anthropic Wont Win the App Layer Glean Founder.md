@@ -19,6 +19,31 @@ YouTube发布时间: 2026-07-11
   - "sovereign AI"
   - "Chinese open source models"
 字幕来源: "YouTube 公开字幕 json3，automatic_captions/en-orig"
+companies:
+  - Glean
+  - Anthropic
+  - OpenAI
+  - MSFT
+  - GOOGL
+industries: []
+technologies:
+  - 开源模型
+  - LLM
+keywords:
+  - 开源
+  - 生产力
+  - 主权
+tags:
+  - Glean
+  - Anthropic
+  - OpenAI
+  - MSFT
+  - GOOGL
+  - 开源模型
+  - LLM
+  - 开源
+  - 生产力
+  - 主权
 ---
 
 # ⁠Why OpenAI and Anthropic Won't Win the App Layer | Glean Founder

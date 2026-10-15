@@ -23,6 +23,19 @@ youtube_video_id: "aaoSIGjyu1U"
 YouTube发布时间: "2025-11-19"
 播客标题: "Lighfield Co-founders on Building a CRM That Takes Action"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - Lightfield
+  - CRM
+  - META
+industries: []
+technologies: []
+keywords:
+  - 分发
+tags:
+  - Lightfield
+  - CRM
+  - META
+  - 分发
 ---
 
 # Lighfield Co-founders on Building a CRM That Takes Action

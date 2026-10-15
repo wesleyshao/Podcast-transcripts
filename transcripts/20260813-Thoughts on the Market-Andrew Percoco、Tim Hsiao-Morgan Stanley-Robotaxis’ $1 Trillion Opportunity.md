@@ -43,6 +43,23 @@ youtube_video_id: T5t-JF4Ez18
   - Southeast Asia
   - ASEAN
   - TSMC
+companies:
+  - TSM
+industries:
+  - 保险
+  - 半导体
+  - 汽车
+technologies:
+  - 自动驾驶
+keywords:
+  - 监管
+tags:
+  - TSM
+  - 保险
+  - 半导体
+  - 汽车
+  - 自动驾驶
+  - 监管
 ---
 
 # Robotaxis’ $1 Trillion Opportunity

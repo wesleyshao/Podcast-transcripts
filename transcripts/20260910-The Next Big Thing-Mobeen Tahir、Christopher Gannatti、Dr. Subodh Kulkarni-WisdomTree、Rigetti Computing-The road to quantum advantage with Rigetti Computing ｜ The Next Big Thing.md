@@ -47,6 +47,35 @@ youtube_video_id: XbrpAfiMvGw
   - D-Wave
   - AI
   - AGI
+companies:
+  - Fidelity
+  - IBM
+  - GOOGL
+  - NVDA
+  - WisdomTree
+industries:
+  - 半导体
+  - 数据中心
+technologies:
+  - Chiplet
+  - GPU
+  - 量子计算
+  - CUDA
+keywords:
+  - AGI
+tags:
+  - Fidelity
+  - IBM
+  - GOOGL
+  - NVDA
+  - WisdomTree
+  - 半导体
+  - 数据中心
+  - Chiplet
+  - GPU
+  - 量子计算
+  - CUDA
+  - AGI
 ---
 
 # The road to quantum advantage with Rigetti Computing｜The Next Big Thing

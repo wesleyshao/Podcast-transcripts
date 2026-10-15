@@ -58,6 +58,27 @@ YouTube发布时间: 2026-09-02T14:30:26Z
   - algorithm 1.0
   - 42-day needle-to-needle cycle
 
+companies:
+  - Moderna
+  - MRK
+industries:
+  - 制药
+  - 制造业
+technologies:
+  - mRNA
+  - 细胞治疗
+keywords:
+  - 临床开发
+  - 监管
+tags:
+  - Moderna
+  - MRK
+  - 制药
+  - 制造业
+  - mRNA
+  - 细胞治疗
+  - 临床开发
+  - 监管
 ---
 
 # Inside Moderna’s Biggest mRNA Test Since COVID

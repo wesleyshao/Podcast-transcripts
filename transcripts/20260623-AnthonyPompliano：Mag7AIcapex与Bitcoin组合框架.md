@@ -32,6 +32,39 @@
   - Just
   - Revealed
   - My
+companies:
+  - SpaceX
+  - Anthropic
+  - TSLA
+  - NVDA
+industries:
+  - 加密
+  - 商业航天
+  - 半导体
+technologies:
+  - 比特币
+  - GPU
+  - LLM
+  - 可回收火箭
+keywords:
+  - 资本开支
+  - 利率
+  - 通胀
+tags:
+  - SpaceX
+  - Anthropic
+  - TSLA
+  - NVDA
+  - 加密
+  - 商业航天
+  - 半导体
+  - 比特币
+  - GPU
+  - LLM
+  - 可回收火箭
+  - 资本开支
+  - 利率
+  - 通胀
 ---
 
 # I Just Revealed My Current Portfolio…

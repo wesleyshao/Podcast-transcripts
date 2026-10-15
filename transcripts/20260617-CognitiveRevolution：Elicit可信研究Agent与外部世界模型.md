@@ -32,6 +32,27 @@
   - Radically
   - Better
   - Reasoning
+companies:
+  - Anthropic
+  - GOOGL
+  - META
+industries:
+  - 制药
+technologies:
+  - 世界模型
+  - Agent
+  - LLM
+keywords:
+  - 临床开发
+tags:
+  - Anthropic
+  - GOOGL
+  - META
+  - 制药
+  - 世界模型
+  - Agent
+  - LLM
+  - 临床开发
 ---
 
 # Radically Better Reasoning: Elicit's Andreas Stuhlmüller & Jungwon Byun on World Models for Research

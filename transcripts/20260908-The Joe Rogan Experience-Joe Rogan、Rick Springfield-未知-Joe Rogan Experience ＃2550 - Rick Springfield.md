@@ -47,6 +47,13 @@ YouTube发布时间: "2026-09-08T17:00:17Z"
   - "Lucy in the Sky with Diamonds"
   - "10,000 小时"
   - "艺术与名望"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 战争
+tags:
+  - 战争
 ---
 
 # Joe Rogan Experience ＃2550 - Rick Springfield

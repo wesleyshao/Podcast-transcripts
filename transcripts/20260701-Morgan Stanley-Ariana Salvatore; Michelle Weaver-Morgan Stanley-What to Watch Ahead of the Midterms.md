@@ -16,6 +16,13 @@
   - public policy
   - U.S. election
   - equities
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 选举
+tags:
+  - 选举
 ---
 
 # What to Watch Ahead of the Midterms

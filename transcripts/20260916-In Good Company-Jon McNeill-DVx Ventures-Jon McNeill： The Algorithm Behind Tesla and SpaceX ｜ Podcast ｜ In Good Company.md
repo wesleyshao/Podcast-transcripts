@@ -37,6 +37,27 @@ YouTube发布时间: "2026-09-16T05:00:31Z"
   - "Chatham House rules"
   - "operating cadence"
 核心观点: "Jon McNeill 将其在 Tesla、Lyft 和创业投资中的经验概括为五步流程：质疑每项要求、删除不必要步骤、简化、加速，最后才自动化；Model 3 量产阶段的教训是先把流程做对，再自动化，否则自动化会放大错误。"
+companies:
+  - TSLA
+  - SpaceX
+  - LULU
+  - CDNS
+industries:
+  - 商业航天
+  - 汽车
+  - 制造业
+technologies:
+  - 可回收火箭
+keywords: []
+tags:
+  - TSLA
+  - SpaceX
+  - LULU
+  - CDNS
+  - 商业航天
+  - 汽车
+  - 制造业
+  - 可回收火箭
 ---
 
 # Jon McNeill: The Algorithm Behind Tesla and SpaceX | Podcast | In Good Company

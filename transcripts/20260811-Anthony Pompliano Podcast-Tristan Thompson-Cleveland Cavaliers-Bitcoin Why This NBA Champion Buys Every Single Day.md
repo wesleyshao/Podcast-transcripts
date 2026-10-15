@@ -40,6 +40,35 @@ transcript_source: "YouTube en-orig 原始字幕，结合完整上下文转写�
   - Aura Ring
   - HYPE
   - TSM
+companies:
+  - SpaceX
+  - Anthropic
+  - NVDA
+  - xAI
+industries:
+  - 加密
+  - 半导体
+  - 商业航天
+technologies:
+  - 比特币
+  - GPU
+  - LLM
+  - 可回收火箭
+keywords:
+  - 稳定币法案
+tags:
+  - SpaceX
+  - Anthropic
+  - NVDA
+  - xAI
+  - 加密
+  - 半导体
+  - 商业航天
+  - 比特币
+  - GPU
+  - LLM
+  - 可回收火箭
+  - 稳定币法案
 ---
 
 # Bitcoin: Why This NBA Champion Buys Every Single Day

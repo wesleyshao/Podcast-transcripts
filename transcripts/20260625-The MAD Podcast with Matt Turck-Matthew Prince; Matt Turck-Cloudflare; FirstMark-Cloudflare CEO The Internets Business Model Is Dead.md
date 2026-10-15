@@ -17,6 +17,21 @@
   - "crawler control"
   - "Internet business model"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - NET
+  - AMZN
+industries: []
+technologies:
+  - Agent
+  - 推理
+keywords:
+  - 商业模式
+tags:
+  - NET
+  - AMZN
+  - Agent
+  - 推理
+  - 商业模式
 ---
 
 # Cloudflare CEO: The Internet's Business Model Is Dead

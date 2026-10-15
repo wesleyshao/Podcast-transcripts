@@ -65,6 +65,35 @@ youtube_video_id: 4JYoTE_VKaU
   - open-source models
   - AI insurance
   - AI regulation
+companies:
+  - Anthropic
+  - DeepSeek
+  - OpenAI
+  - 月之暗面
+industries:
+  - 保险
+technologies:
+  - Agent
+  - LLM
+  - 开源模型
+  - RAG
+keywords:
+  - 开源
+  - AGI
+  - 监管
+tags:
+  - Anthropic
+  - DeepSeek
+  - OpenAI
+  - 月之暗面
+  - 保险
+  - Agent
+  - LLM
+  - 开源模型
+  - RAG
+  - 开源
+  - AGI
+  - 监管
 ---
 
 # Lindy Teammate: Flo Crivello on Multiplayer Agents, Memory & Why He'd Ban the Chinese Models He Uses

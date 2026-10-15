@@ -39,6 +39,31 @@ YouTube发布时间: 2026-08-29T15:59:19Z
   - Ethereum
   - digital assets
   - institutional adoption
+companies: []
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 代币化
+  - 比特币
+  - 稳定币
+  - 以太坊
+keywords:
+  - 债务
+  - 利率
+  - 监管
+tags:
+  - 加密
+  - 宏观
+  - 金融
+  - 代币化
+  - 比特币
+  - 稳定币
+  - 以太坊
+  - 债务
+  - 利率
+  - 监管
 ---
 
 # 🚨LIVE: LOCKOUT Bull Cycle Continues! Jackson Hole FULL RECAP. Giang Bui, A. Barack & Scott Keto in

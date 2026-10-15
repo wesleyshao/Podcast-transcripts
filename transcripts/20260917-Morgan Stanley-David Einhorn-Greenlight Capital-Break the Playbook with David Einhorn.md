@@ -25,6 +25,19 @@ YouTube发布时间: "2026-09-17T13:17:23Z"
   - "fiscal deficit"
   - "derivatives"
   - "poker"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 债务
+  - 黄金
+  - 利率
+tags:
+  - 宏观
+  - 债务
+  - 黄金
+  - 利率
 ---
 
 # Break the Playbook with David Einhorn

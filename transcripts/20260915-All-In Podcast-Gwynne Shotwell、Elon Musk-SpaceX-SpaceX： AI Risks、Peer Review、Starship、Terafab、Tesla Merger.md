@@ -43,6 +43,29 @@ YouTube发布时间: "2026-09-15T03:59:04Z"
   - "data centers in space"
   - "Tesla"
 
+companies:
+  - SpaceX
+  - TSLA
+industries:
+  - 商业航天
+  - 数据中心
+technologies:
+  - 可回收火箭
+  - 卫星互联网
+keywords:
+  - 并购
+  - AI安全
+  - 监管
+tags:
+  - SpaceX
+  - TSLA
+  - 商业航天
+  - 数据中心
+  - 可回收火箭
+  - 卫星互联网
+  - 并购
+  - AI安全
+  - 监管
 ---
 
 ## Transcript

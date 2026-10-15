@@ -33,6 +33,39 @@ YouTube发布时间: 2026-08-31T14:01:07Z
   - AI infrastructure
   - orbital data center
   - asteroid mining
+companies:
+  - NVDA
+  - SpaceX
+  - META
+  - OpenAI
+  - GOOGL
+industries:
+  - 商业航天
+  - 数据中心
+  - 半导体
+technologies:
+  - TPU
+  - GPU
+  - LLM
+  - 可回收火箭
+keywords:
+  - 开源
+  - 融资
+tags:
+  - NVDA
+  - SpaceX
+  - META
+  - OpenAI
+  - GOOGL
+  - 商业航天
+  - 数据中心
+  - 半导体
+  - TPU
+  - GPU
+  - LLM
+  - 可回收火箭
+  - 开源
+  - 融资
 ---
 
 # Why AI Demand Is Outrunning Compute Supply

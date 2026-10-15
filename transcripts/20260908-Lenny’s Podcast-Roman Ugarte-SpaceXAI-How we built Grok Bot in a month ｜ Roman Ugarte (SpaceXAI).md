@@ -30,6 +30,31 @@ youtube_video_id: maSdsTLaMuU
   - Exa
 字幕来源: YouTube公开原始英文字幕en-orig
 整理说明: 按完整原始字幕作上下文中文转写；名称的明显识别错误统一，开场预告及广告明确标注。公司关系、产品表现及竞争判断均为节目当时的发言，不代表独立核验。
+companies:
+  - xAI
+  - Cursor
+  - CRM
+  - SHOP
+industries: []
+technologies:
+  - 编程助手
+  - LLM
+  - MCP
+keywords:
+  - 人才
+  - 竞争格局
+  - 创业
+tags:
+  - xAI
+  - Cursor
+  - CRM
+  - SHOP
+  - 编程助手
+  - LLM
+  - MCP
+  - 人才
+  - 竞争格局
+  - 创业
 ---
 
 # How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)

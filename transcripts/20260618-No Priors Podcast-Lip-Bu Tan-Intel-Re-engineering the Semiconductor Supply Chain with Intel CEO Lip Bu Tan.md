@@ -23,6 +23,21 @@ youtube_video_id: "asCgCv2XB4s"
 YouTube发布时间: "2026-06-18"
 播客标题: "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - INTC
+  - CDNS
+industries:
+  - 半导体
+  - 制造业
+technologies:
+  - 先进封装
+keywords: []
+tags:
+  - INTC
+  - CDNS
+  - 半导体
+  - 制造业
+  - 先进封装
 ---
 
 # Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan

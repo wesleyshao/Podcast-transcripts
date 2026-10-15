@@ -18,6 +18,13 @@
   - "satellite data"
 字幕来源: "subtitles:en-US:English (United States)"
 YouTube视频标题: "How Falling Launch Costs and AI Are Driving the Space Economy"
+companies: []
+industries:
+  - 商业航天
+technologies: []
+keywords: []
+tags:
+  - 商业航天
 ---
 
 # How Falling Launch Costs and AI Are Driving the Space Economy

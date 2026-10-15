@@ -53,6 +53,37 @@ youtube_video_id: sEA6HrQju4Q
   - Near
   - BitGet Stocks 2.0
   - The DeFi Report
+companies:
+  - COIN
+  - NVDA
+  - AAPL
+  - Circle
+  - GOOGL
+industries:
+  - 加密
+  - 半导体
+  - 媒体
+technologies:
+  - 稳定币
+  - 以太坊
+  - GPU
+  - DeFi
+keywords:
+  - 合规
+tags:
+  - COIN
+  - NVDA
+  - AAPL
+  - Circle
+  - GOOGL
+  - 加密
+  - 半导体
+  - 媒体
+  - 稳定币
+  - 以太坊
+  - GPU
+  - DeFi
+  - 合规
 ---
 
 # Coinbase Launches Tokenized Stocks on Base

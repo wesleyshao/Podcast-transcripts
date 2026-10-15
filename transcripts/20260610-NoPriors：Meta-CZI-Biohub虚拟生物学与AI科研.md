@@ -17,6 +17,27 @@
   - Disease
   - Mark
   - Zuckerberg
+companies:
+  - META
+  - Biohub
+  - Anthropic
+industries:
+  - 生物技术
+  - 加密
+technologies:
+  - LLM
+  - DeFi
+keywords:
+  - AGI
+tags:
+  - META
+  - Biohub
+  - Anthropic
+  - 生物技术
+  - 加密
+  - LLM
+  - DeFi
+  - AGI
 ---
 
 # “Curing All Disease by next century is too conservative" - Mark Zuckerberg

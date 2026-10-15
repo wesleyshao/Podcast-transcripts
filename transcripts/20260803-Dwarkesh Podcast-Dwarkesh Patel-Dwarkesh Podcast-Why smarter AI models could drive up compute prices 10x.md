@@ -41,6 +41,29 @@ youtube_video_id: "oZBGAuANX6I"
   - "economies of scale"
   - "Mercury Command"
   - "QuickBooks"
+companies:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - SpaceX
+industries:
+  - 商业航天
+technologies:
+  - 推理
+  - LLM
+  - 可回收火箭
+  - GPU
+keywords: []
+tags:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - SpaceX
+  - 商业航天
+  - 推理
+  - LLM
+  - 可回收火箭
+  - GPU
 ---
 
 # Why smarter AI models could drive up compute prices 10x

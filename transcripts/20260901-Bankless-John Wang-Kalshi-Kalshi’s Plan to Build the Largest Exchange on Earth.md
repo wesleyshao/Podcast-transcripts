@@ -55,6 +55,39 @@ YouTube发布时间: 2026-09-01T10:30:28Z
   - XP
   - Tether
   - Circle
+companies:
+  - Kalshi
+  - Polymarket
+  - COIN
+  - Tether
+  - HOOD
+industries:
+  - 预测市场
+  - 加密
+  - 金融
+technologies:
+  - 比特币
+  - 永续合约
+  - 稳定币
+  - Solana
+keywords:
+  - 监管
+  - 合规
+tags:
+  - Kalshi
+  - Polymarket
+  - COIN
+  - Tether
+  - HOOD
+  - 预测市场
+  - 加密
+  - 金融
+  - 比特币
+  - 永续合约
+  - 稳定币
+  - Solana
+  - 监管
+  - 合规
 ---
 
 # Kalshi’s Plan to Build the Largest Exchange on Earth

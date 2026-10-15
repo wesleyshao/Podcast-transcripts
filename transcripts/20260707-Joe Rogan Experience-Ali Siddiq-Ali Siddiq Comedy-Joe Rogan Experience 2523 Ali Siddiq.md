@@ -19,6 +19,13 @@ YouTube发布时间: "2026-07-07"
   - "family"
   - "Houston"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 喜剧
+tags:
+  - 喜剧
 ---
 
 # Joe Rogan Experience #2523 - Ali Siddiq

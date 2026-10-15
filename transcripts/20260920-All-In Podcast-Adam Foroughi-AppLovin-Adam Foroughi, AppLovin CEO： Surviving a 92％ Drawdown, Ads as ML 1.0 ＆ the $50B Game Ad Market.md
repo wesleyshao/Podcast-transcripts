@@ -45,6 +45,37 @@ YouTube发布时间: 2026-09-20T21:06:04Z
   - Palo Alto
   - Beijing
   - Singapore
+companies:
+  - AppLovin
+  - GOOGL
+  - META
+  - AAPL
+  - OpenAI
+industries:
+  - 游戏
+  - 媒体
+  - 消费
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - IPO
+  - 隐私
+  - 监管
+tags:
+  - AppLovin
+  - GOOGL
+  - META
+  - AAPL
+  - OpenAI
+  - 游戏
+  - 媒体
+  - 消费
+  - LLM
+  - Agent
+  - IPO
+  - 隐私
+  - 监管
 ---
 
 # Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market

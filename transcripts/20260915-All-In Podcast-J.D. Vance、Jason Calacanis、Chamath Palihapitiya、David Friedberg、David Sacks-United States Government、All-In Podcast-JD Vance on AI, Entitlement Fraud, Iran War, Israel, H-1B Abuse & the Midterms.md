@@ -40,6 +40,19 @@ youtube_video_id: PUcooQRy0PU
   - reindustrialization
   - inflation
   - government debt
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 监管
+  - 债务
+  - 通胀
+tags:
+  - 宏观
+  - 监管
+  - 债务
+  - 通胀
 ---
 
 # JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms

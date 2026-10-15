@@ -16,6 +16,21 @@
   - agents
   - information retrieval
   - Joe Rogan Experience
+companies:
+  - Perplexity
+  - GOOGL
+industries:
+  - 数据中心
+technologies:
+  - LLM
+  - Agent
+keywords: []
+tags:
+  - Perplexity
+  - GOOGL
+  - 数据中心
+  - LLM
+  - Agent
 ---
 
 # Joe Rogan Experience 2521 Aravind Srinivas

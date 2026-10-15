@@ -25,6 +25,41 @@
   - The
   - Biggest
   - Pivot
+companies:
+  - SpaceX
+  - MSFT
+  - Anthropic
+  - META
+  - OpenAI
+industries:
+  - 数据中心
+  - 加密
+  - 商业航天
+technologies:
+  - 比特币
+  - Agent
+  - LLM
+  - 可回收火箭
+keywords:
+  - 开源
+  - 资本开支
+  - 通胀
+tags:
+  - SpaceX
+  - MSFT
+  - Anthropic
+  - META
+  - OpenAI
+  - 数据中心
+  - 加密
+  - 商业航天
+  - 比特币
+  - Agent
+  - LLM
+  - 可回收火箭
+  - 开源
+  - 资本开支
+  - 通胀
 ---
 
 # The Biggest Pivot In AI History Is Happening Right Now

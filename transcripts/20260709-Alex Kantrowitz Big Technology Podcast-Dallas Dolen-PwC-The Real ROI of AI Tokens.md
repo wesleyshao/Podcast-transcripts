@@ -19,6 +19,15 @@ YouTube发布时间: 2026-07-09
   - "agents"
   - "TMT"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies: []
+industries: []
+technologies:
+  - Agent
+keywords:
+  - 人才
+tags:
+  - Agent
+  - 人才
 ---
 
 # The Real ROI of AI Tokens — With Dallas Dolen

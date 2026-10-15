@@ -32,6 +32,13 @@
   - Maverick
   - Capital
   - Co
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 版权
+tags:
+  - 版权
 ---
 
 # Maverick Capital Co-CIOs on Finding the AI Winners

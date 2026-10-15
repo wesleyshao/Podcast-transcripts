@@ -32,6 +32,17 @@
   - an
   - Guardian
   - for
+companies: []
+industries: []
+technologies:
+  - Agent
+  - LLM
+keywords:
+  - AGI
+tags:
+  - Agent
+  - LLM
+  - AGI
 ---
 
 # Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan

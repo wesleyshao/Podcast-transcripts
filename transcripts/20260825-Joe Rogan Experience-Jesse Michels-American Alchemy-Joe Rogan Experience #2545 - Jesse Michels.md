@@ -31,6 +31,17 @@ YouTube发布时间: 2026-08-25T17:00:27Z
   - 文化史
   - Perplexity
   - Joe Rogan
+companies:
+  - Perplexity
+industries:
+  - 国防
+technologies: []
+keywords:
+  - 幻觉
+tags:
+  - Perplexity
+  - 国防
+  - 幻觉
 ---
 
 # Joe Rogan Experience #2545 - Jesse Michels

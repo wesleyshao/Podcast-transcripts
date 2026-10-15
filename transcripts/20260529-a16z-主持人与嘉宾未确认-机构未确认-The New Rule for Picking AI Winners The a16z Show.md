@@ -32,6 +32,33 @@
   - The
   - New
   - Rule
+companies:
+  - OpenAI
+  - a16z
+  - Anthropic
+  - GOOGL
+  - META
+industries:
+  - 数据中心
+  - 企业软件
+  - 商业航天
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 泡沫
+tags:
+  - OpenAI
+  - a16z
+  - Anthropic
+  - GOOGL
+  - META
+  - 数据中心
+  - 企业软件
+  - 商业航天
+  - LLM
+  - Agent
+  - 泡沫
 ---
 
 # The New Rule for Picking AI Winners | The a16z Show

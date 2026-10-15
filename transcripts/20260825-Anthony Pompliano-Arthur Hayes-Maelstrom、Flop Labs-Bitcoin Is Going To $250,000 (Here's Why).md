@@ -28,6 +28,25 @@ YouTube发布时间: 2026-08-25T21:00:36Z
   - institutional adoption
   - ETF
   - monetary debasement
+companies: []
+industries:
+  - 加密
+  - 支付
+  - 宏观
+technologies:
+  - 比特币
+keywords:
+  - 债务
+  - 黄金
+  - 机构采用
+tags:
+  - 加密
+  - 支付
+  - 宏观
+  - 比特币
+  - 债务
+  - 黄金
+  - 机构采用
 ---
 
 # Bitcoin Is Going To $250,000 (Here's Why)

@@ -18,6 +18,19 @@
   - Stretch
   - ATM issuance
   - preferred stock
+companies:
+  - OKX
+  - MSTR
+industries:
+  - 加密
+technologies:
+  - 比特币
+keywords: []
+tags:
+  - OKX
+  - MSTR
+  - 加密
+  - 比特币
 ---
 
 # Saylor Bought Time Bitcoin Still Has a Problem

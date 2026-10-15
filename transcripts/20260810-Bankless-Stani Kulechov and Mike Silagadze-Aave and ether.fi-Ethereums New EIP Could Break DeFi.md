@@ -51,6 +51,37 @@ youtube_video_id: NCvOUkryd1k
   - Tom Lee
   - Bitcoin
   - credible neutrality
+companies:
+  - Aave
+  - Lido
+  - Binance
+  - BitMine
+  - COIN
+industries:
+  - 加密
+  - 支付
+  - 宏观
+technologies:
+  - DeFi
+  - 以太坊
+  - 比特币
+  - 稳定币
+keywords:
+  - 稳定币法案
+tags:
+  - Aave
+  - Lido
+  - Binance
+  - BitMine
+  - COIN
+  - 加密
+  - 支付
+  - 宏观
+  - DeFi
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 稳定币法案
 ---
 
 # Ethereum’s New EIP Could Break DeFi

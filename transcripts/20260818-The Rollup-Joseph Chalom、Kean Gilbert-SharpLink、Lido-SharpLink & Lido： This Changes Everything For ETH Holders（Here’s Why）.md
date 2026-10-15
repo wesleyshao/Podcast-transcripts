@@ -37,6 +37,25 @@ YouTube发布时间: 2026-08-18T22:30:36Z
   - risk-free rate
   - permanent capital
   - mercenary capital
+companies:
+  - Lido
+  - SharpLink
+industries:
+  - 加密
+technologies:
+  - 以太坊
+  - DeFi
+  - 稳定币
+  - Solana
+keywords: []
+tags:
+  - Lido
+  - SharpLink
+  - 加密
+  - 以太坊
+  - DeFi
+  - 稳定币
+  - Solana
 ---
 
 # SharpLink & Lido: This Changes Everything For ETH Holders (Here’s Why)

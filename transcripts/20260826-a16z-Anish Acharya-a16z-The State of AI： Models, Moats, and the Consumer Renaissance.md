@@ -31,6 +31,19 @@ YouTube发布时间: 2026-08-26T14:30:27Z
   - network effects
   - compute
   - capital
+companies: []
+industries:
+  - 消费
+technologies:
+  - Agent
+keywords:
+  - 网络效应
+  - 开源
+tags:
+  - 消费
+  - Agent
+  - 网络效应
+  - 开源
 ---
 
 # The State of AI: Models, Moats, and the Consumer Renaissance

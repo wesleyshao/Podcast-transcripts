@@ -32,6 +32,21 @@ YouTube发布时间: 2026-08-27T14:29:47Z
   - scheming
   - US-China AI race
   - AI safety
+companies:
+  - Redwood
+industries:
+  - 机器人
+technologies: []
+keywords:
+  - 超级智能
+  - 中美竞争
+  - AI安全
+tags:
+  - Redwood
+  - 机器人
+  - 超级智能
+  - 中美竞争
+  - AI安全
 ---
 
 # AI Could Take Over in 2029. Is It Already Too Late?

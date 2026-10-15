@@ -32,6 +32,21 @@
   - He
   - Xiaopeng
   - Birth
+companies:
+  - 小鹏
+industries:
+  - 机器人
+  - 汽车
+technologies:
+  - 自动驾驶
+  - 具身智能
+keywords: []
+tags:
+  - 小鹏
+  - 机器人
+  - 汽车
+  - 自动驾驶
+  - 具身智能
 ---
 
 # He Xiaopeng: Robot IRON's Birth, The Accident, GX, His Big Bet & Swimming in Blood

@@ -46,6 +46,37 @@ YouTube发布时间: "2026-07-31T10:30:34Z"
   - UNI
   - NEAR
   - Bitget
+companies:
+  - Anthropic
+  - HOOD
+  - OpenAI
+  - MU
+  - NEAR
+industries:
+  - 加密
+  - 半导体
+  - 存储
+technologies:
+  - LLM
+  - 以太坊
+keywords:
+  - 利率
+  - 稳定币法案
+  - 通胀
+tags:
+  - Anthropic
+  - HOOD
+  - OpenAI
+  - MU
+  - NEAR
+  - 加密
+  - 半导体
+  - 存储
+  - LLM
+  - 以太坊
+  - 利率
+  - 稳定币法案
+  - 通胀
 ---
 
 # The AI Trade Got Margin Called! Crypto Didn’t Blink

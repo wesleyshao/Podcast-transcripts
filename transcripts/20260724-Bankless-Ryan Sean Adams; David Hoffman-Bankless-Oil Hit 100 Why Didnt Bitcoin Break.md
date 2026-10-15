@@ -19,6 +19,39 @@
   - "NEAR post-quantum"
   - "OpenAI sandbox escape"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - OpenAI
+  - Morpho
+  - BitMine
+  - Bitwise
+  - NEAR
+industries:
+  - 加密
+  - 能源
+technologies:
+  - 比特币
+  - 以太坊
+  - DeFi
+  - LLM
+keywords:
+  - 稳定币法案
+  - 监管
+  - 选举
+tags:
+  - OpenAI
+  - Morpho
+  - BitMine
+  - Bitwise
+  - NEAR
+  - 加密
+  - 能源
+  - 比特币
+  - 以太坊
+  - DeFi
+  - LLM
+  - 稳定币法案
+  - 监管
+  - 选举
 ---
 
 # Oil Hit $100! Why Didn’t Bitcoin Break?

@@ -25,6 +25,41 @@
   - Iran
   - Peace
   - Deal
+companies:
+  - Anthropic
+  - SpaceX
+  - AMZN
+  - OpenAI
+  - GOOGL
+industries:
+  - 商业航天
+  - 加密
+  - 核能
+technologies:
+  - LLM
+  - 可回收火箭
+  - 比特币
+  - 编程助手
+keywords:
+  - IPO
+  - 监管
+  - 选举
+tags:
+  - Anthropic
+  - SpaceX
+  - AMZN
+  - OpenAI
+  - GOOGL
+  - 商业航天
+  - 加密
+  - 核能
+  - LLM
+  - 可回收火箭
+  - 比特币
+  - 编程助手
+  - IPO
+  - 监管
+  - 选举
 ---
 
 # World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal

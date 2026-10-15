@@ -41,6 +41,25 @@ youtube_video_id: CxXgV54KzpQ
   - model distillation
   - automated experimentation
   - learned evaluator
+companies:
+  - GOOGL
+industries:
+  - 存储
+technologies:
+  - TPU
+  - 推理
+  - Agent
+  - 蛋白质设计
+keywords:
+  - 创业
+tags:
+  - GOOGL
+  - 存储
+  - TPU
+  - 推理
+  - Agent
+  - 蛋白质设计
+  - 创业
 ---
 
 # Jeff Dean: The 1% Rule for Building in AI

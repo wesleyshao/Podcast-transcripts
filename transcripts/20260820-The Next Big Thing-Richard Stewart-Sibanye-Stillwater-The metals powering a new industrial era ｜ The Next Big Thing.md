@@ -59,6 +59,21 @@ youtube_video_id: 3NFHT7OWnYU
   - China
   - Europe
   - ESG
+companies:
+  - WisdomTree
+industries:
+  - 汽车
+  - 数据中心
+  - 电池
+technologies: []
+keywords:
+  - 黄金
+tags:
+  - WisdomTree
+  - 汽车
+  - 数据中心
+  - 电池
+  - 黄金
 ---
 # The metals powering a new industrial era | The Next Big Thing
 

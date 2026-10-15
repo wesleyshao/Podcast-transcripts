@@ -50,6 +50,39 @@ YouTube发布时间: 2026-09-12
   - Coinbase
   - KYC
   - One inch
+companies:
+  - Dinari
+  - Hyperliquid
+  - HOOD
+  - COIN
+industries:
+  - 加密
+  - 金融
+  - 媒体
+technologies:
+  - 代币化
+  - 以太坊
+  - Zcash
+  - 稳定币
+keywords:
+  - 合规
+  - 利率
+  - 监管
+tags:
+  - Dinari
+  - Hyperliquid
+  - HOOD
+  - COIN
+  - 加密
+  - 金融
+  - 媒体
+  - 代币化
+  - 以太坊
+  - Zcash
+  - 稳定币
+  - 合规
+  - 利率
+  - 监管
 ---
 # 🚨LIVE: ETH BREAKOUT. CPI Comes In HOT, Markets WHIPSAW! Milk Road, KAST & Frax CEO Sam Call In
 ## Transcript

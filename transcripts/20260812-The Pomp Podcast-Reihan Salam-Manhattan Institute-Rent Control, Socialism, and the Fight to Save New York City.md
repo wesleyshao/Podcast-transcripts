@@ -33,6 +33,21 @@ youtube_video_id: mUFK43GL6QE
   - Bitcoin
   - capitalism
   - Reihan Salam
+companies: []
+industries:
+  - 加密
+  - 房地产
+  - 教育
+technologies:
+  - 比特币
+keywords:
+  - 住房
+tags:
+  - 加密
+  - 房地产
+  - 教育
+  - 比特币
+  - 住房
 ---
 
 # Rent Control, Socialism, and the Fight to Save New York City

@@ -24,6 +24,13 @@
   - "Byzantine Rulers Podcast"
   - "Norman Centuries"
   - "Measure AI"
+companies: []
+industries: []
+technologies:
+  - 分布式系统
+keywords: []
+tags:
+  - 分布式系统
 ---
 
 # Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495

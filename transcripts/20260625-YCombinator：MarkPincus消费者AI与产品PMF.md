@@ -16,6 +16,15 @@
   - "Tokenmaxxing"
   - "intelligence on tap"
   - "Y Combinator"
+companies:
+  - Zynga
+industries:
+  - 消费
+technologies: []
+keywords: []
+tags:
+  - Zynga
+  - 消费
 ---
 
 # Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It

@@ -29,6 +29,21 @@ YouTube发布时间: 2026-10-12
   - Kitty Hawk
   - Department of War（美国）
   - Uber
+companies:
+  - Boeing
+  - UBER
+  - 大疆
+industries:
+  - 机器人
+technologies:
+  - 具身智能
+keywords: []
+tags:
+  - Boeing
+  - UBER
+  - 大疆
+  - 机器人
+  - 具身智能
 ---
 
 # The Robot Almanac: Drones & Air Mobility (Ep. 4)

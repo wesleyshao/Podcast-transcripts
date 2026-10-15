@@ -16,6 +16,15 @@
   - "benefits technology"
   - "small business benefits"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - Vestwell
+industries:
+  - 金融
+technologies: []
+keywords: []
+tags:
+  - Vestwell
+  - 金融
 ---
 
 # Savings Solutions and Scaling Strategies With Vestwell’s Aaron Schumm | Invested at Work

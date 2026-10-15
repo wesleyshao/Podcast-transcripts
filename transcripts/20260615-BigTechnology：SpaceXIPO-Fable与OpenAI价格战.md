@@ -32,6 +32,31 @@
   - Triumph
   - Fumble
   - Price
+companies:
+  - OpenAI
+  - Anthropic
+  - SpaceX
+  - GOOGL
+industries:
+  - 商业航天
+  - 数据中心
+technologies:
+  - LLM
+  - 可回收火箭
+keywords:
+  - IPO
+  - 估值
+tags:
+  - OpenAI
+  - Anthropic
+  - SpaceX
+  - GOOGL
+  - 商业航天
+  - 数据中心
+  - LLM
+  - 可回收火箭
+  - IPO
+  - 估值
 ---
 
 # SpaceX’s IPO Triumph, Anthropic’s Fable Fumble, OpenAI’s Price War

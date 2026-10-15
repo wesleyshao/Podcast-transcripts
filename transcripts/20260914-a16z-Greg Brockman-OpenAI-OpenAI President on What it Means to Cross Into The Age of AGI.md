@@ -48,6 +48,33 @@ YouTube发布时间: "2026-09-14T14:30:28Z"
   - "CrowdStrike"
   - "OpenAI mission"
 
+companies:
+  - OpenAI
+  - HuggingFace
+  - CRWD
+industries:
+  - 数据中心
+  - 网络安全
+  - 电力
+technologies:
+  - LLM
+  - 编程助手
+  - MCP
+  - Agent
+keywords:
+  - AGI
+tags:
+  - OpenAI
+  - HuggingFace
+  - CRWD
+  - 数据中心
+  - 网络安全
+  - 电力
+  - LLM
+  - 编程助手
+  - MCP
+  - Agent
+  - AGI
 ---
 
 ## Transcript

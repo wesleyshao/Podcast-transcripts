@@ -25,6 +25,19 @@ youtube_video_id: "byAj35QlGbs"
 YouTube发布时间: 2026-07-28
 播客标题: "Blake Scholl: \"The Future Was Supposed to Be Faster\""
 字幕来源: "YouTube public en-orig auto captions"
+companies:
+  - AMZN
+industries:
+  - 制造业
+technologies: []
+keywords:
+  - 创业
+  - 监管
+tags:
+  - AMZN
+  - 制造业
+  - 创业
+  - 监管
 ---
 
 # Blake Scholl: "The Future Was Supposed to Be Faster"

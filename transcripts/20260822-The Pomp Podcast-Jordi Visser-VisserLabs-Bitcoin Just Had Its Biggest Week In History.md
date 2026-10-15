@@ -53,6 +53,41 @@ youtube_video_id: fhZiG-Uzs1c
   - Thinking in Bets
   - Annie Duke
   - Bayesian thinking
+companies:
+  - Anthropic
+  - Stripe
+  - OpenAI
+  - Moderna
+  - MU
+industries:
+  - 加密
+  - 数据中心
+  - 半导体
+technologies:
+  - 比特币
+  - Agent
+  - LLM
+  - GPU
+keywords:
+  - 开源
+  - 创业
+  - 估值
+tags:
+  - Anthropic
+  - Stripe
+  - OpenAI
+  - Moderna
+  - MU
+  - 加密
+  - 数据中心
+  - 半导体
+  - 比特币
+  - Agent
+  - LLM
+  - GPU
+  - 开源
+  - 创业
+  - 估值
 ---
 
 # Bitcoin Just Had Its Biggest Week In History

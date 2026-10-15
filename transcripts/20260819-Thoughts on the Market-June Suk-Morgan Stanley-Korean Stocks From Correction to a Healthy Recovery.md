@@ -22,6 +22,13 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/QGsjQP
   - capital spending
   - Bank of Korea
   - Korean won
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords: []
+tags:
+  - 宏观
 ---
 
 # Korean Stocks: From Correction to a Healthy Recovery

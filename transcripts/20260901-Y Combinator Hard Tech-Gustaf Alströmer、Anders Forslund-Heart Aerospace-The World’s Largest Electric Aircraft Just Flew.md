@@ -48,6 +48,25 @@ YouTube发布时间: 2026-09-01T15:30:23Z
   - regional air travel
   - battery cell
   - 5,000 airports
+companies:
+  - SpaceX
+  - Boeing
+  - Waymo
+industries:
+  - 电池
+  - 商业航天
+  - 汽车
+technologies:
+  - 可回收火箭
+keywords: []
+tags:
+  - SpaceX
+  - Boeing
+  - Waymo
+  - 电池
+  - 商业航天
+  - 汽车
+  - 可回收火箭
 ---
 
 # The World’s Largest Electric Aircraft Just Flew

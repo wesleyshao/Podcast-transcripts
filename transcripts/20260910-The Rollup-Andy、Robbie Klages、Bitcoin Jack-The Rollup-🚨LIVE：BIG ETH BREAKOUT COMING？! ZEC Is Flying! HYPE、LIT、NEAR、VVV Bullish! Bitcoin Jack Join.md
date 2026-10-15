@@ -46,6 +46,41 @@ youtube_video_id: OtqaYQIkXXM
   - Consensys
   - Kraken
   - Robinhood Chain
+companies:
+  - NEAR
+  - Hyperliquid
+  - Lighter
+  - Anthropic
+  - HOOD
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 比特币
+  - Zcash
+  - 代币化
+  - 稳定币
+keywords:
+  - 监管
+  - 稳定币法案
+  - 债务
+tags:
+  - NEAR
+  - Hyperliquid
+  - Lighter
+  - Anthropic
+  - HOOD
+  - 加密
+  - 宏观
+  - 金融
+  - 比特币
+  - Zcash
+  - 代币化
+  - 稳定币
+  - 监管
+  - 稳定币法案
+  - 债务
 ---
 
 # 🚨LIVE: BIG ETH BREAKOUT COMING?! ZEC Is Flying! ZEC、HYPE、LIT、NEAR、VVV Bullish! Bitcoin Jack Join

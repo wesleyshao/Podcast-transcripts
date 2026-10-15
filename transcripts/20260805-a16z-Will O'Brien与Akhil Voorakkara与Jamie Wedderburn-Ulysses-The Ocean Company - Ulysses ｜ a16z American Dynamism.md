@@ -38,6 +38,21 @@ youtube_video_id: "Iy1W8vOxv5o"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按上下文转写；官方 RSS 明确列出三位嘉宾，但纪录片字幕未稳定标注逐句说话人，正文使用团队与角色标签避免错误归名。"
+companies:
+  - a16z
+  - SpaceX
+industries:
+  - 商业航天
+technologies:
+  - 可回收火箭
+keywords:
+  - 霍尔木兹
+tags:
+  - a16z
+  - SpaceX
+  - 商业航天
+  - 可回收火箭
+  - 霍尔木兹
 ---
 
 # The Ocean Company - Ulysses | a16z American Dynamism

@@ -36,6 +36,25 @@ youtube_video_id: "pCH-R3L6QTc"
 YouTube发布时间: "2026-08-12T17:00:03Z"
 字幕来源: "YouTube public subtitles: en-orig"
 来源说明: "正文依据 YouTube en-orig 原始字幕，按对话语义整理为简体中文，保留嘉宾的观点、玩笑、例子和不确定性；广告与重复口头语已做必要压缩。"
+companies:
+  - NFLX
+industries:
+  - 保险
+  - 医疗
+  - 消费
+technologies: []
+keywords:
+  - 喜剧
+  - 版权
+  - 监管
+tags:
+  - NFLX
+  - 保险
+  - 医疗
+  - 消费
+  - 喜剧
+  - 版权
+  - 监管
 ---
 
 ## 参与嘉宾

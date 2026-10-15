@@ -48,6 +48,17 @@ YouTube发布时间: "2026-07-31T19:06:33Z"
   - tender offers
   - S&P companies
   - AI adoption
+companies: []
+industries:
+  - 电力
+  - 数据中心
+technologies: []
+keywords:
+  - 资本开支
+tags:
+  - 电力
+  - 数据中心
+  - 资本开支
 ---
 
 # The Structural Forces Moving Capital

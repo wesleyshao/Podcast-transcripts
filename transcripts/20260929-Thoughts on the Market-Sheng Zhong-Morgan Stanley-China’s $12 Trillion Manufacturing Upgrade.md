@@ -21,6 +21,17 @@ YouTube发布时间: 2026-09-29T20:58:30Z
   - 全球制造业增加值
   - Made in China
   - Made by China
+companies: []
+industries:
+  - 制造业
+technologies:
+  - 具身智能
+keywords:
+  - 资本开支
+tags:
+  - 制造业
+  - 具身智能
+  - 资本开支
 ---
 
 # China’s $12 Trillion Manufacturing Upgrade

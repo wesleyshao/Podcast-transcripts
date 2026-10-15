@@ -18,6 +18,23 @@
   - "Big Technology"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "AI Pioneer Jürgen Schmidhuber: AI Already Feels Pain, Loves, and Is Self-Aware"
+companies: []
+industries:
+  - 机器人
+technologies:
+  - 世界模型
+  - LLM
+keywords:
+  - AGI
+  - 规模定律
+  - 资本开支
+tags:
+  - 机器人
+  - 世界模型
+  - LLM
+  - AGI
+  - 规模定律
+  - 资本开支
 ---
 
 # AI Pioneer Jürgen Schmidhuber: AI Already Feels Pain, Loves, and Is Self-Aware

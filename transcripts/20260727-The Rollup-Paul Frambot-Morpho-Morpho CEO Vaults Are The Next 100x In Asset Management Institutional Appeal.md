@@ -24,6 +24,31 @@ youtube_video_id: "YGIlCD3OZh4"
 YouTube发布时间: "2026-07-27"
 播客标题: "Morpho CEO: Vaults Are The Next 100x In Asset Management (Institutional Appeal)"
 字幕来源: "YouTube public subtitles: zh-Hans json3"
+companies:
+  - Morpho
+  - COIN
+  - HOOD
+industries:
+  - 金融
+  - 加密
+  - 宏观
+technologies:
+  - DeFi
+  - 代币化
+keywords:
+  - 利率
+  - 稳定币法案
+tags:
+  - Morpho
+  - COIN
+  - HOOD
+  - 金融
+  - 加密
+  - 宏观
+  - DeFi
+  - 代币化
+  - 利率
+  - 稳定币法案
 ---
 
 # Morpho CEO: Vaults Are The Next 100x In Asset Management (Institutional Appeal)

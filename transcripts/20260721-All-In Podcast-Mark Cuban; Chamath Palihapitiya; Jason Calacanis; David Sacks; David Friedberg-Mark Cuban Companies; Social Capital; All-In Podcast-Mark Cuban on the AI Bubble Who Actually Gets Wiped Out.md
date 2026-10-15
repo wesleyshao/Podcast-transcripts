@@ -17,6 +17,21 @@
   - "wealth tax"
   - "truth-seeking AI"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - Anthropic
+industries:
+  - 金融
+  - 风险投资
+technologies:
+  - LLM
+keywords:
+  - 泡沫
+tags:
+  - Anthropic
+  - 金融
+  - 风险投资
+  - LLM
+  - 泡沫
 ---
 
 # Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?

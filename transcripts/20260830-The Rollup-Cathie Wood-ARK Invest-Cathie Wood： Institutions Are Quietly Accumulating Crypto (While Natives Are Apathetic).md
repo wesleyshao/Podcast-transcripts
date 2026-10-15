@@ -28,6 +28,23 @@ YouTube发布时间: 2026-08-30T00:00:30Z
   - crypto ETFs
   - tokenization
   - institutional adoption
+companies:
+  - ARK
+industries:
+  - 加密
+technologies:
+  - 比特币
+  - 以太坊
+  - 代币化
+keywords:
+  - 机构采用
+tags:
+  - ARK
+  - 加密
+  - 比特币
+  - 以太坊
+  - 代币化
+  - 机构采用
 ---
 
 # Cathie Wood: Institutions Are Quietly Accumulating Crypto (While Natives Are Apathetic)

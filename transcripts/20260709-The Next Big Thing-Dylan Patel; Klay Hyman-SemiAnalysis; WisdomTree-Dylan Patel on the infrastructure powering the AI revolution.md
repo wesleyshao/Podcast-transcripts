@@ -18,6 +18,37 @@
   - "semiconductor ecosystem"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Dylan Patel on the infrastructure powering the AI revolution | The Next Big Thing"
+companies:
+  - WisdomTree
+  - SemiAnalysis
+  - AMD
+  - Anthropic
+  - NVDA
+industries:
+  - 数据中心
+  - 半导体
+  - 电池
+technologies:
+  - Agent
+  - GPU
+  - LLM
+  - 推理
+keywords:
+  - 能源瓶颈
+tags:
+  - WisdomTree
+  - SemiAnalysis
+  - AMD
+  - Anthropic
+  - NVDA
+  - 数据中心
+  - 半导体
+  - 电池
+  - Agent
+  - GPU
+  - LLM
+  - 推理
+  - 能源瓶颈
 ---
 
 ## Transcript

@@ -25,6 +25,27 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/vcTXp7
   - DeFi
   - tokenized stocks
   - liquid staking
+companies:
+  - Aave
+industries:
+  - 加密
+  - 金融
+  - 消费
+technologies:
+  - DeFi
+  - 代币化
+  - 以太坊
+  - 比特币
+keywords: []
+tags:
+  - Aave
+  - 加密
+  - 金融
+  - 消费
+  - DeFi
+  - 代币化
+  - 以太坊
+  - 比特币
 ---
 
 # EtherFi’s Plan to Build the Ultimate Crypto Neobank

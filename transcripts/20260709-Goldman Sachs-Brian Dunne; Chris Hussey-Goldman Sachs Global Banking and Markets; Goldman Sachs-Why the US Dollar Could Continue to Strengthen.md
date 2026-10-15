@@ -15,6 +15,15 @@
   - "currency momentum"
 字幕来源: "subtitles:en-US:English (United States)"
 YouTube视频标题: "Why the US Dollar Could Continue to Strengthen"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 利率
+tags:
+  - 宏观
+  - 利率
 ---
 
 # Why the US Dollar Could Continue to Strengthen

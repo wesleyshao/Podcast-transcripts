@@ -21,6 +21,25 @@ YouTube发布时间: 2026-07-10
   - "Jensen Huang"
   - "AI buildout"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies:
+  - NVDA
+  - OpenAI
+industries:
+  - 数据中心
+  - 半导体
+technologies:
+  - 推理
+  - GPU
+  - LLM
+keywords: []
+tags:
+  - NVDA
+  - OpenAI
+  - 数据中心
+  - 半导体
+  - 推理
+  - GPU
+  - LLM
 ---
 
 # Can NVIDIA Keep Its Lead? — With Anissa Gardizy, Max Cherney, and Lauren Goode

@@ -17,6 +17,13 @@
   - "Farmer’s Footprint"
   - "Seraphic Group"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - AMZN
+industries: []
+technologies: []
+keywords: []
+tags:
+  - AMZN
 ---
 
 # Joe Rogan Experience #2529 - Zach Bush

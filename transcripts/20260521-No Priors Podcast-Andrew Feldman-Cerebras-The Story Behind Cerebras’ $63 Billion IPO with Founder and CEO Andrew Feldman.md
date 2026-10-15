@@ -32,6 +32,27 @@
   - The
   - Story
   - Behind
+companies:
+  - Cerebras
+  - OpenAI
+  - NVDA
+  - AMD
+industries:
+  - 半导体
+technologies:
+  - GPU
+  - LLM
+keywords:
+  - IPO
+tags:
+  - Cerebras
+  - OpenAI
+  - NVDA
+  - AMD
+  - 半导体
+  - GPU
+  - LLM
+  - IPO
 ---
 
 # The Story Behind Cerebras’ $63 Billion IPO with Founder and CEO Andrew Feldman

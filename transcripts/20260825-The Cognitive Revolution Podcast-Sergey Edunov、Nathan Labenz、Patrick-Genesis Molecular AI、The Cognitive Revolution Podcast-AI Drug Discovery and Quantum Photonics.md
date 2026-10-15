@@ -33,6 +33,29 @@ YouTube发布时间: 2026-08-25T18:42:47Z
   - chain of thought
   - 强化学习
   - AI安全
+companies:
+  - NVDA
+  - META
+industries:
+  - AI制药
+  - 半导体
+  - 生物技术
+technologies:
+  - GPU
+  - LLM
+  - 强化学习
+  - 量子计算
+keywords: []
+tags:
+  - NVDA
+  - META
+  - AI制药
+  - 半导体
+  - 生物技术
+  - GPU
+  - LLM
+  - 强化学习
+  - 量子计算
 ---
 
 # AI Drug Discovery and Quantum Photonics

@@ -34,6 +34,35 @@ YouTube发布时间: 2026-08-20
   - TSMC
   - MongoDB
   - Lamarr Labs
+companies:
+  - MDB
+  - NVDA
+  - OpenAI
+  - TSM
+  - AMD
+industries:
+  - 半导体
+  - 支付
+  - 数据中心
+technologies:
+  - GPU
+  - LLM
+  - Agent
+keywords:
+  - AI安全
+tags:
+  - MDB
+  - NVDA
+  - OpenAI
+  - TSM
+  - AMD
+  - 半导体
+  - 支付
+  - 数据中心
+  - GPU
+  - LLM
+  - Agent
+  - AI安全
 ---
 
 # AI Accountants & the End of the Kernel Era？

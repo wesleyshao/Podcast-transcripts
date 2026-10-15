@@ -46,6 +46,27 @@ YouTube发布时间: 2026-08-30T12:30:33Z
   - Cursor
   - Sierra
   - Clay
+companies:
+  - OpenAI
+  - Stripe
+  - Anthropic
+  - Cursor
+  - Figma
+industries: []
+technologies:
+  - Agent
+  - 编程助手
+  - LLM
+keywords: []
+tags:
+  - OpenAI
+  - Stripe
+  - Anthropic
+  - Cursor
+  - Figma
+  - Agent
+  - 编程助手
+  - LLM
 ---
 
 # AI’s third era： the rise of persistent AI coworkers ｜ Tara Seshan (OpenAI’s product lead)

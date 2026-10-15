@@ -41,6 +41,21 @@ youtube_video_id: "C2ahxun9Ryc"
   - "EtherFi"
   - "Ethena"
 
+companies:
+  - Ethena
+industries:
+  - 加密
+  - 宏观
+technologies:
+  - 以太坊
+  - 比特币
+keywords: []
+tags:
+  - Ethena
+  - 加密
+  - 宏观
+  - 以太坊
+  - 比特币
 ---
 
 # Arthur Hayes: Why Ethereum Is My Biggest Position Right Now (Most Hated Mega Cap)

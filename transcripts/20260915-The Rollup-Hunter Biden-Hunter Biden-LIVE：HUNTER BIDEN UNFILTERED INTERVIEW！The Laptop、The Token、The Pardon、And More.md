@@ -33,6 +33,23 @@ YouTube发布时间: "2026-09-15T12:03:42Z"
   - "Dinari"
   - "Frax"
 
+companies:
+  - Dinari
+industries:
+  - 加密
+  - 支付
+technologies:
+  - 代币化
+  - 区块链
+keywords:
+  - 选举
+tags:
+  - Dinari
+  - 加密
+  - 支付
+  - 代币化
+  - 区块链
+  - 选举
 ---
 
 ## Transcript

@@ -39,6 +39,31 @@ youtube_video_id: "YJ3iFvRts7c"
 YouTube发布时间: "2026-08-13T23:15:07Z"
 字幕来源: "YouTube public subtitles: en-orig"
 字幕源备注: "源字幕在嘉宾回答产品公司与基础设施公司定位的问题处提前中断，以下保留已取得的全部源文本语义，不补写未取得内容。"
+companies:
+  - Lighter
+  - HOOD
+  - Citadel
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 以太坊
+  - 零知识证明
+  - 永续合约
+keywords:
+  - 合规
+  - 监管
+tags:
+  - Lighter
+  - HOOD
+  - Citadel
+  - 加密
+  - 金融
+  - 以太坊
+  - 零知识证明
+  - 永续合约
+  - 合规
+  - 监管
 ---
 
 # Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)

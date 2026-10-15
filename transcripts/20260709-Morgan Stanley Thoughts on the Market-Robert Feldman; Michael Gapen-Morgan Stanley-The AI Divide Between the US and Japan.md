@@ -20,6 +20,19 @@ YouTube发布时间: 2026-07-09
   - "demographics"
   - "technology adoption"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 就业
+  - 生产力
+  - 通胀
+tags:
+  - 宏观
+  - 就业
+  - 生产力
+  - 通胀
 ---
 
 # The AI Divide Between the U.S. and Japan

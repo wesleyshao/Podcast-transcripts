@@ -53,6 +53,29 @@ YouTube发布时间: "2026-08-10T10:00:00Z"
   - AI转型必须自上而下、有清晰的三至五年目标，不能停留在黑客松、零散用例或无法核算ROI的token消耗。
   - Kavak在已有多agent系统带来盈利后仍选择重建为每个客户配一个长期目标agent和独立虚拟机的自我改进组织，强调新模型迭代带来的组织级复利。
   - 传统公司深度改造困难，AI原生新公司可能通过类似电气化和流水线重构的生产率跃迁进行创造性破坏。
+companies:
+  - OpenAI
+  - Anthropic
+  - Ford
+industries:
+  - 汽车
+  - 电力
+technologies:
+  - LLM
+  - Agent
+  - Transformer
+keywords:
+  - 创业
+tags:
+  - OpenAI
+  - Anthropic
+  - Ford
+  - 汽车
+  - 电力
+  - LLM
+  - Agent
+  - Transformer
+  - 创业
 ---
 
 ## Transcript

@@ -54,6 +54,13 @@ youtube_video_id: wo6K0Bav3K0
   - Shroud of Turin
   - Virgin of Guadalupe
   - The Others
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 宗教
+tags:
+  - 宗教
 ---
 
 # Joe Rogan Experience #2533 - Diana Pasulka

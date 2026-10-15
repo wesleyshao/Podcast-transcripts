@@ -29,6 +29,17 @@ YouTube发布时间: "2026-09-14T20:09:58Z"
   - "liquidity"
   - "risk management"
 
+companies:
+  - BLK
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 资本开支
+tags:
+  - BLK
+  - 宏观
+  - 资本开支
 ---
 
 ## Transcript

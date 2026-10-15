@@ -47,6 +47,41 @@ YouTube发布时间: 2026-09-18T10:30:16Z
   - Bankless MCP
   - OpenRouter
   - DeFi Report
+companies:
+  - HOOD
+  - Hyperliquid
+  - NEAR
+  - Kraken
+  - Circle
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 比特币
+  - Zcash
+  - 稳定币
+  - DeFi
+keywords:
+  - 监管
+  - 稳定币法案
+  - 利率
+tags:
+  - HOOD
+  - Hyperliquid
+  - NEAR
+  - Kraken
+  - Circle
+  - 加密
+  - 宏观
+  - 金融
+  - 比特币
+  - Zcash
+  - 稳定币
+  - DeFi
+  - 监管
+  - 稳定币法案
+  - 利率
 ---
 
 # Why Crypto Keeps Going Up Anyway

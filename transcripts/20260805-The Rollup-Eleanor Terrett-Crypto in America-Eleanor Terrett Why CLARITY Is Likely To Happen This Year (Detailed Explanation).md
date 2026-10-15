@@ -48,6 +48,19 @@ youtube_video_id: "65zdtkARkps"
   - "staking"
   - "ç¨³å®å¸s"
   - "ä¿¡ç¨åä½ç¤¾"
+companies:
+  - COIN
+industries:
+  - 加密
+technologies: []
+keywords:
+  - 稳定币法案
+  - 选举
+tags:
+  - COIN
+  - 加密
+  - 稳定币法案
+  - 选举
 ---
 
 # Eleanor Terrett: Why CLARITY Is Likely To Happen This Year (Detailed Explanation)

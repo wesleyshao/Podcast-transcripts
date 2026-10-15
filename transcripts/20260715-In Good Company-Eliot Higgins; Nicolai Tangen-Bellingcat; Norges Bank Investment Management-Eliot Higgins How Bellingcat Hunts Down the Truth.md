@@ -18,6 +18,13 @@
   - "bias"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Eliot Higgins: How Bellingcat Hunts Down the Truth | Podcast | In Good Company"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 开源
+tags:
+  - 开源
 ---
 
 # Eliot Higgins: How Bellingcat Hunts Down the Truth | Podcast | In Good Company

@@ -32,6 +32,25 @@
   - predictions
   - markets
   - beats
+companies:
+  - Anthropic
+  - OpenAI
+  - Cursor
+industries:
+  - 企业软件
+technologies:
+  - 编程助手
+  - Agent
+  - LLM
+keywords: []
+tags:
+  - Anthropic
+  - OpenAI
+  - Cursor
+  - 企业软件
+  - 编程助手
+  - Agent
+  - LLM
 ---
 
 # AI predictions: Job markets, Codex beats Claude, and the death of org charts | Dan Shipper

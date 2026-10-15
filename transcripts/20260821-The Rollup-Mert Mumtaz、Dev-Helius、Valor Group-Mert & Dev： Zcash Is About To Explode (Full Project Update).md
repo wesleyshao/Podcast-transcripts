@@ -38,6 +38,27 @@ YouTube发布时间: "2026-08-21T02:30:12Z"
   - CipherPunk Technologies
   - Bitcoin
   - Ethereum
+companies: []
+industries:
+  - 加密
+  - 支付
+technologies:
+  - Zcash
+  - 比特币
+  - 零知识证明
+  - 以太坊
+keywords:
+  - 隐私
+  - 代币经济
+tags:
+  - 加密
+  - 支付
+  - Zcash
+  - 比特币
+  - 零知识证明
+  - 以太坊
+  - 隐私
+  - 代币经济
 ---
 
 # Mert & Dev: Zcash Is About To Explode (Full Project Update)

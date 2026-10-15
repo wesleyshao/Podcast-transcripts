@@ -39,6 +39,35 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/bGf-cQ
   - memecoin
   - real-world assets
   - Bankless MCP
+companies:
+  - Hyperliquid
+  - OpenRouter
+  - Aave
+industries:
+  - 加密
+  - 消费
+technologies:
+  - 代币化
+  - 比特币
+  - 稳定币
+  - Solana
+keywords:
+  - 估值
+  - 隐私
+  - 稳定币法案
+tags:
+  - Hyperliquid
+  - OpenRouter
+  - Aave
+  - 加密
+  - 消费
+  - 代币化
+  - 比特币
+  - 稳定币
+  - Solana
+  - 估值
+  - 隐私
+  - 稳定币法案
 ---
 
 # Crypto’s Next Winners Won’t Be Blockchains

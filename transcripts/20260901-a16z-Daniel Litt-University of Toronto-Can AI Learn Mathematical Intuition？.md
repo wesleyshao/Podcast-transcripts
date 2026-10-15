@@ -42,6 +42,21 @@ YouTube发布时间: 2026-09-01T14:30:24Z
   - AI生成论文
   - 数学教育
   - 人类资本
+companies:
+  - OpenAI
+  - Anthropic
+  - GOOGL
+industries:
+  - 教育
+technologies:
+  - LLM
+keywords: []
+tags:
+  - OpenAI
+  - Anthropic
+  - GOOGL
+  - 教育
+  - LLM
 ---
 
 # Can AI Learn Mathematical Intuition?

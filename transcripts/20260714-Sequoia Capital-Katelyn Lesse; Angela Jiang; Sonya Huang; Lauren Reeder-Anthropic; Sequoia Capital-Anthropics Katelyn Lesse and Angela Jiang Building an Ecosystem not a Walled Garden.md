@@ -19,6 +19,21 @@
   - "ecosystem standards"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Anthropic's Katelyn Lesse & Angela Jiang: Building an Ecosystem, not a Walled Garden"
+companies:
+  - Anthropic
+  - NET
+industries: []
+technologies:
+  - Agent
+  - MCP
+  - LLM
+keywords: []
+tags:
+  - Anthropic
+  - NET
+  - Agent
+  - MCP
+  - LLM
 ---
 
 ## Transcript

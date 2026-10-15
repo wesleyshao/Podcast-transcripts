@@ -21,6 +21,35 @@
   - "Summit"
   - "Friends"
   - "The Podcast"
+companies:
+  - Anthropic
+  - OpenAI
+  - AAPL
+  - AMZN
+  - GOOGL
+industries:
+  - 数据中心
+technologies:
+  - Agent
+  - 推理
+  - LLM
+keywords:
+  - 人才
+  - 出口管制
+  - 开源
+tags:
+  - Anthropic
+  - OpenAI
+  - AAPL
+  - AMZN
+  - GOOGL
+  - 数据中心
+  - Agent
+  - 推理
+  - LLM
+  - 人才
+  - 出口管制
+  - 开源
 ---
 
 # Big Technology AI Summit (full): Greg Brockman, Mike Krieger, Aaron Levie & Friends of The Podcast

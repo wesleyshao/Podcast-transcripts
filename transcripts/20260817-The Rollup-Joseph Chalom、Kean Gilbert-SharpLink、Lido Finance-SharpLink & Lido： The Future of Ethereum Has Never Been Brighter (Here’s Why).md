@@ -26,6 +26,25 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/i4pAg5
   - staking
   - Solana
   - DeFi
+companies:
+  - Lido
+  - SharpLink
+industries:
+  - 加密
+technologies:
+  - 以太坊
+  - DeFi
+  - Solana
+  - 代币化
+keywords: []
+tags:
+  - Lido
+  - SharpLink
+  - 加密
+  - 以太坊
+  - DeFi
+  - Solana
+  - 代币化
 ---
 
 # SharpLink & Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)

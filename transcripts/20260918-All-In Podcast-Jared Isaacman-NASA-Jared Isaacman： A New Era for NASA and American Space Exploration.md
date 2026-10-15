@@ -36,6 +36,27 @@ YouTube发布时间: 2026-09-18T16:27:52Z
   - 美国太空学院
   - 中国
   - 俄罗斯
+companies:
+  - NASA
+  - SpaceX
+  - BlueOrigin
+  - Dragonfly
+industries:
+  - 商业航天
+  - 核能
+  - 机器人
+technologies:
+  - 可回收火箭
+keywords: []
+tags:
+  - NASA
+  - SpaceX
+  - BlueOrigin
+  - Dragonfly
+  - 商业航天
+  - 核能
+  - 机器人
+  - 可回收火箭
 ---
 
 # Jared Isaacman: A New Era for NASA and American Space Exploration

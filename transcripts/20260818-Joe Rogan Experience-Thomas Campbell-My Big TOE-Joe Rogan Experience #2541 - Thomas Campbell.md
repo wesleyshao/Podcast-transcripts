@@ -22,6 +22,13 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/v2oBLS
   - entropy
   - meditation
   - physics
+companies: []
+industries:
+  - 游戏
+technologies: []
+keywords: []
+tags:
+  - 游戏
 ---
 
 # #2541 - Thomas Campbell

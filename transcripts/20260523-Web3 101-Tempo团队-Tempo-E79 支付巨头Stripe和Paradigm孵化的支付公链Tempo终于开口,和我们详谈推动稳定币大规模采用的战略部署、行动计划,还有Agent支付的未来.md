@@ -23,6 +23,35 @@
   - "稳定币"
   - "支付"
   - "产品"
+companies:
+  - Stripe
+  - COIN
+  - AAPL
+  - AMZN
+  - GOOGL
+industries:
+  - 加密
+  - 支付
+  - 消费
+technologies:
+  - 稳定币
+  - Agent
+  - 以太坊
+  - 区块链
+keywords: []
+tags:
+  - Stripe
+  - COIN
+  - AAPL
+  - AMZN
+  - GOOGL
+  - 加密
+  - 支付
+  - 消费
+  - 稳定币
+  - Agent
+  - 以太坊
+  - 区块链
 ---
 
 # E79｜支付巨头Stripe和Paradigm孵化的支付公链Tempo终于开口，和我们详谈推动稳定币大规模采用的战略部署、行动计划，还有Agent支付的未来

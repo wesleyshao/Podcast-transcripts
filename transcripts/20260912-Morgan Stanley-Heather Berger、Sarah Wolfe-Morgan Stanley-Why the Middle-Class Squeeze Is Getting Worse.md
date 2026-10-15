@@ -37,6 +37,23 @@ YouTube发布时间: "2026-09-12T02:37:33Z"
   - "productivity"
   - "disinflation"
 
+companies: []
+industries:
+  - 医疗
+  - 宏观
+  - 房地产
+technologies: []
+keywords:
+  - 住房
+  - 就业
+  - 生产力
+tags:
+  - 医疗
+  - 宏观
+  - 房地产
+  - 住房
+  - 就业
+  - 生产力
 ---
 
 ## Transcript

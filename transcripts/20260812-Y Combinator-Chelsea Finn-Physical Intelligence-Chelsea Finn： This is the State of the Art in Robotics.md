@@ -26,6 +26,21 @@ youtube_video_id: cRZNwgvcWUg
   - foundation model
   - robot data
   - open source
+companies: []
+industries:
+  - 机器人
+technologies:
+  - LLM
+  - 强化学习
+  - 预训练
+keywords:
+  - 开源
+tags:
+  - 机器人
+  - LLM
+  - 强化学习
+  - 预训练
+  - 开源
 ---
 
 # Chelsea Finn: This is the State of the Art in Robotics

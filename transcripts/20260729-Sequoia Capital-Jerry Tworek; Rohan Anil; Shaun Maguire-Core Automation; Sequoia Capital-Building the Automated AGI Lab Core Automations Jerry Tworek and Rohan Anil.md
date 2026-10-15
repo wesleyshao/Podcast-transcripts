@@ -55,6 +55,29 @@ YouTube发布时间: 2026-07-29
   - "XLA HLO"
   - "N-gram memory"
   - "coding agents"
+companies:
+  - GOOGL
+  - OpenAI
+  - Anthropic
+industries:
+  - 数据中心
+technologies:
+  - Transformer
+  - 强化学习
+  - 编程助手
+  - LLM
+keywords:
+  - AGI
+tags:
+  - GOOGL
+  - OpenAI
+  - Anthropic
+  - 数据中心
+  - Transformer
+  - 强化学习
+  - 编程助手
+  - LLM
+  - AGI
 ---
 
 # Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil

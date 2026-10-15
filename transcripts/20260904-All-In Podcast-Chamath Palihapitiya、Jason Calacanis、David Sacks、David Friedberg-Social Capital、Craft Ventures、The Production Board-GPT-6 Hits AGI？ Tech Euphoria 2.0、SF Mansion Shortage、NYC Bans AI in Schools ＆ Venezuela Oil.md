@@ -49,6 +49,39 @@ YouTube发布时间: "2026-09-04T23:52:31Z"
   - "Chevron"
   - "Brent crude"
 
+companies:
+  - HuggingFace
+  - NVDA
+  - OpenAI
+  - Anthropic
+  - GOOGL
+industries:
+  - 数据中心
+  - 半导体
+  - 教育
+technologies:
+  - LLM
+  - Agent
+  - GPU
+keywords:
+  - AGI
+  - IPO
+  - 估值
+tags:
+  - HuggingFace
+  - NVDA
+  - OpenAI
+  - Anthropic
+  - GOOGL
+  - 数据中心
+  - 半导体
+  - 教育
+  - LLM
+  - Agent
+  - GPU
+  - AGI
+  - IPO
+  - 估值
 ---
 
 ## Transcript

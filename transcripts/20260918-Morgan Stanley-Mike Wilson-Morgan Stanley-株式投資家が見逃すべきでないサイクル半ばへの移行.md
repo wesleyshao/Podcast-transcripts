@@ -37,6 +37,21 @@ youtube_video_id: pHdg7wGF_PA
   - momentum
   - midterm elections
 
+companies: []
+industries:
+  - 宏观
+  - 保险
+  - 医疗
+technologies: []
+keywords:
+  - 通胀
+  - 利率
+tags:
+  - 宏观
+  - 保险
+  - 医疗
+  - 通胀
+  - 利率
 ---
 
 # 株式投資家が見逃すべきでないサイクル半ばへの移行

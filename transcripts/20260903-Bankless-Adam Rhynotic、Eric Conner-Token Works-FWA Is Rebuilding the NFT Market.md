@@ -44,6 +44,23 @@ YouTube发布时间: 2026-09-03T11:10:16Z
   - 跨链
   - LayerZero
   - Token Works
+companies:
+  - Chainlink
+  - Uniswap
+industries:
+  - 加密
+  - 游戏
+technologies:
+  - 以太坊
+keywords:
+  - 估值
+tags:
+  - Chainlink
+  - Uniswap
+  - 加密
+  - 游戏
+  - 以太坊
+  - 估值
 ---
 
 ## Transcript

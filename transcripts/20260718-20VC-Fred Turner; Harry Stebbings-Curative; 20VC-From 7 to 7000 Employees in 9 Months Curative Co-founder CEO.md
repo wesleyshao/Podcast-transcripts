@@ -24,6 +24,27 @@
   - "healthcare market"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "From 7 to 7,000 Employees in 9 Months | Curative Co-founder & CEO"
+companies:
+  - CRM
+  - Anthropic
+industries:
+  - 保险
+  - 医疗
+  - 企业软件
+technologies:
+  - Agent
+  - LLM
+keywords:
+  - 监管
+tags:
+  - CRM
+  - Anthropic
+  - 保险
+  - 医疗
+  - 企业软件
+  - Agent
+  - LLM
+  - 监管
 ---
 
 # From 7 to 7,000 Employees in 9 Months | Curative Co-founder & CEO

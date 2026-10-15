@@ -43,6 +43,35 @@ youtube_video_id: bsdJd2VeLvg
   - CUDA kernels
   - robotics
   - autonomy
+companies:
+  - xAI
+  - SpaceX
+  - OpenAI
+  - Anthropic
+industries:
+  - 医疗
+  - 金融
+  - 商业航天
+technologies:
+  - LLM
+  - 可回收火箭
+  - CUDA
+keywords:
+  - 估值
+  - 融资
+tags:
+  - xAI
+  - SpaceX
+  - OpenAI
+  - Anthropic
+  - 医疗
+  - 金融
+  - 商业航天
+  - LLM
+  - 可回收火箭
+  - CUDA
+  - 估值
+  - 融资
 ---
 
 # Why Investors Are Rethinking Everything for the AI Era

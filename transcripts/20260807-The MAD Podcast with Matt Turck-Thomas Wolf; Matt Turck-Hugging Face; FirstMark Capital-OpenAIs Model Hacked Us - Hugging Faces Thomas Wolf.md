@@ -40,6 +40,33 @@ youtube_video_id: "FU9A481E2W8"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按上下文转写；结合节目说明校正自动字幕中的模型名、机构名及网络安全术语，保留完整论证、限定条件、案例与反例。"
+companies:
+  - HuggingFace
+  - OpenAI
+  - NVDA
+  - 月之暗面
+industries:
+  - 网络安全
+  - 半导体
+technologies:
+  - Agent
+  - GPU
+  - LLM
+  - 强化学习
+keywords:
+  - 开源
+tags:
+  - HuggingFace
+  - OpenAI
+  - NVDA
+  - 月之暗面
+  - 网络安全
+  - 半导体
+  - Agent
+  - GPU
+  - LLM
+  - 强化学习
+  - 开源
 ---
 
 # “OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf

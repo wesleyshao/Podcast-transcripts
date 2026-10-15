@@ -17,6 +17,23 @@
   - "Instagram"
   - "AI safety"
   - "frontier models"
+companies:
+  - Anthropic
+  - META
+industries: []
+technologies:
+  - LLM
+  - Agent
+  - 编程助手
+keywords:
+  - AI安全
+tags:
+  - Anthropic
+  - META
+  - LLM
+  - Agent
+  - 编程助手
+  - AI安全
 ---
 
 # Anthropic's Labs Lead On Fable's Capabilities + Building AI-Native Products With Mike Krieger

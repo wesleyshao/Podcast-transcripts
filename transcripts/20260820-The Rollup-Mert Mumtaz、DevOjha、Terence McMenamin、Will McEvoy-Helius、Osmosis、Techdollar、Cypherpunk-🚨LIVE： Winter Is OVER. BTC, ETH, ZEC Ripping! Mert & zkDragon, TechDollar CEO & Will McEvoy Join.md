@@ -38,6 +38,29 @@ YouTube发布时间: 2026-08-20
   - DeFi
   - SEC
   - retail access
+companies: []
+industries:
+  - 加密
+  - 机器人
+technologies:
+  - Zcash
+  - 比特币
+  - 以太坊
+  - 代币化
+keywords:
+  - 监管
+  - 隐私
+  - IPO
+tags:
+  - 加密
+  - 机器人
+  - Zcash
+  - 比特币
+  - 以太坊
+  - 代币化
+  - 监管
+  - 隐私
+  - IPO
 ---
 
 # 🚨LIVE: Winter Is OVER. BTC, ETH, ZEC Ripping! Mert & zkDragon, TechDollar CEO & Will McEvoy Join

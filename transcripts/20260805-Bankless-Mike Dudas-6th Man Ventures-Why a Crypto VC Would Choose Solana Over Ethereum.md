@@ -44,6 +44,37 @@ youtube_video_id: eznEs0SxIDc
   - MetaDAO
   - Pump
   - HYPE
+companies:
+  - HOOD
+  - COIN
+  - Hyperliquid
+  - Polymarket
+industries:
+  - 加密
+  - 金融
+  - 预测市场
+technologies:
+  - Solana
+  - 以太坊
+  - 代币化
+  - 稳定币
+keywords:
+  - 估值
+  - 稳定币法案
+tags:
+  - HOOD
+  - COIN
+  - Hyperliquid
+  - Polymarket
+  - 加密
+  - 金融
+  - 预测市场
+  - Solana
+  - 以太坊
+  - 代币化
+  - 稳定币
+  - 估值
+  - 稳定币法案
 ---
 
 # Why a Crypto VC Would Choose Solana Over Ethereum

@@ -3,6 +3,37 @@ title: "Anker / Steven Yang: Consumer Electronics Death & birth, The Third Categ
 source: "https://www.youtube.com/watch?v=kBsqirnWTpI"
 created: 2026-06-08
 tags:
+companies:
+  - AAPL
+  - AMZN
+  - GOOGL
+  - 大疆
+industries:
+  - 机器人
+  - 消费
+  - 游戏
+technologies:
+  - Agent
+  - LLM
+  - 具身智能
+keywords:
+  - IPO
+  - 人才
+  - 创业
+tags:
+  - AAPL
+  - AMZN
+  - GOOGL
+  - 大疆
+  - 机器人
+  - 消费
+  - 游戏
+  - Agent
+  - LLM
+  - 具身智能
+  - IPO
+  - 人才
+  - 创业
 ---
 
 ![](https://www.youtube.com/watch?v=kBsqirnWTpI)

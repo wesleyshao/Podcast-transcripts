@@ -55,6 +55,17 @@ YouTube发布时间: 2026-08-24T23:30:59Z
   - STEM PhD
   - AI
   - energy
+companies: []
+industries: []
+technologies:
+  - 量子计算
+keywords:
+  - 选举
+  - 人才
+tags:
+  - 量子计算
+  - 选举
+  - 人才
 ---
 
 # Inside Trump's Science Agenda: Anti-Science Claims, Fauci's Damage, DEI & China w/ Michael Kratsios

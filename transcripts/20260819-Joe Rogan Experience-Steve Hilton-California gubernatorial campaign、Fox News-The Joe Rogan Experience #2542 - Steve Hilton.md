@@ -58,6 +58,31 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/BYVQfL
   - offshore wind
   - high-speed rail
   - Operation Zero Waste
+companies:
+  - META
+  - 字节跳动
+  - Anthropic
+industries:
+  - 医疗
+  - 媒体
+  - 房地产
+technologies:
+  - LLM
+keywords:
+  - 住房
+  - 喜剧
+  - 监管
+tags:
+  - META
+  - 字节跳动
+  - Anthropic
+  - 医疗
+  - 媒体
+  - 房地产
+  - LLM
+  - 住房
+  - 喜剧
+  - 监管
 ---
 
 # The Joe Rogan Experience #2542 - Steve Hilton

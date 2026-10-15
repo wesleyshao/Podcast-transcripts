@@ -98,6 +98,37 @@ youtube_video_id: "A9JDkiYEhfY"
   - "ISS"
   - "International Space Station"
   - "natural gas generators"
+companies:
+  - SpaceX
+  - NVDA
+  - GOOGL
+  - AMZN
+  - BlueOrigin
+industries:
+  - 数据中心
+  - 商业航天
+  - 半导体
+technologies:
+  - 可回收火箭
+  - GPU
+  - 比特币
+  - ASIC
+keywords:
+  - 融资
+tags:
+  - SpaceX
+  - NVDA
+  - GOOGL
+  - AMZN
+  - BlueOrigin
+  - 数据中心
+  - 商业航天
+  - 半导体
+  - 可回收火箭
+  - GPU
+  - 比特币
+  - ASIC
+  - 融资
 ---
 
 # The Case for Data Centers in Space

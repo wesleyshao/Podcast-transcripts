@@ -33,6 +33,25 @@ YouTube发布时间: 2026-08-26T23:46:37Z
   - digital assets
   - 监管
   - 机构资金
+companies: []
+industries:
+  - 加密
+technologies:
+  - Zcash
+  - 比特币
+  - 以太坊
+  - 区块链
+keywords:
+  - 隐私
+  - 监管
+tags:
+  - 加密
+  - Zcash
+  - 比特币
+  - 以太坊
+  - 区块链
+  - 隐私
+  - 监管
 ---
 
 # Grayscale Research Lead: Privacy Assets Are The Final Frontier For Massive Upside (Our Predictions)

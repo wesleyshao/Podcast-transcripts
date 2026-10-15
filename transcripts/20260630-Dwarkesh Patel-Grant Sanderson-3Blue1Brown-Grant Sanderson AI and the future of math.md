@@ -17,6 +17,15 @@ transcript_source: "YouTube captions json3: TfyPshgMbug.en-orig.json3."
   - proofs
   - students
   - Dwarkesh Patel
+companies: []
+industries: []
+technologies:
+  - LLM
+  - Agent
+keywords: []
+tags:
+  - LLM
+  - Agent
 ---
 
 # Grant Sanderson (@3blue1brown) – AI and the future of math

@@ -24,6 +24,27 @@
   - Life
   - After
   - More
+companies:
+  - GOOGL
+  - DeepMind
+  - AAPL
+  - OpenAI
+industries:
+  - 机器人
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - AGI
+tags:
+  - GOOGL
+  - DeepMind
+  - AAPL
+  - OpenAI
+  - 机器人
+  - LLM
+  - Agent
+  - AGI
 ---
 
 # Demis Hassabis on AGI by 2030, Curing Every Disease, Life After AGI, and More

@@ -17,6 +17,15 @@
   - "robotics operations"
   - "delivery data network"
 字幕来源: "YouTube automatic_captions en json3"
+companies: []
+industries:
+  - 机器人
+technologies:
+  - Agent
+keywords: []
+tags:
+  - 机器人
+  - Agent
 ---
 
 # Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang

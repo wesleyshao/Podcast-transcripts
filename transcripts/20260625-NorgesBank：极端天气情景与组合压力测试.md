@@ -16,6 +16,19 @@
   - "crop failures"
   - "USD 420 billion"
   - "Norges Bank Investment Management"
+companies:
+  - NBIM
+industries:
+  - 宏观
+  - 金融
+technologies: []
+keywords:
+  - 通胀
+tags:
+  - NBIM
+  - 宏观
+  - 金融
+  - 通胀
 ---
 
 # Extreme Weather Scenario can lead to 420 billion USD loss | Norges Bank Investment Management

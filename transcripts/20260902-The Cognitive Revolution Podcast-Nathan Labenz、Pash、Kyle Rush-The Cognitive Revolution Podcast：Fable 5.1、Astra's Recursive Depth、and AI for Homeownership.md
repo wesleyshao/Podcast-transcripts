@@ -49,6 +49,41 @@ YouTube发布时间: 2026-09-02T19:12:19Z
   - data brokers
   - Civ AI
 
+companies:
+  - Anthropic
+  - NVDA
+  - OpenAI
+  - GOOGL
+  - SpaceX
+industries:
+  - 半导体
+  - 商业航天
+  - 保险
+technologies:
+  - Transformer
+  - Agent
+  - GPU
+  - LLM
+keywords:
+  - IPO
+  - 估值
+  - 监管
+tags:
+  - Anthropic
+  - NVDA
+  - OpenAI
+  - GOOGL
+  - SpaceX
+  - 半导体
+  - 商业航天
+  - 保险
+  - Transformer
+  - Agent
+  - GPU
+  - LLM
+  - IPO
+  - 估值
+  - 监管
 ---
 
 ## Transcript

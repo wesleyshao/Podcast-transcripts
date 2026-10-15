@@ -48,6 +48,37 @@ YouTube发布时间: 2026-08-28T23:49:07Z
   - Aave
   - Ethereum
   - USDC
+companies:
+  - Aave
+  - BAC
+  - Morpho
+  - Bitwise
+  - BLK
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 代币化
+  - DeFi
+  - 稳定币
+  - 以太坊
+keywords:
+  - 监管
+  - 合规
+tags:
+  - Aave
+  - BAC
+  - Morpho
+  - Bitwise
+  - BLK
+  - 加密
+  - 金融
+  - 代币化
+  - DeFi
+  - 稳定币
+  - 以太坊
+  - 监管
+  - 合规
 ---
 
 # Superstate CEO： How Stablecoins Are Setting Up The Biggest Tokenization Boom Yet (Here's Why)

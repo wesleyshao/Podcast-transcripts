@@ -23,6 +23,19 @@ youtube_video_id: "_3BSkVMdD2o"
 YouTube发布时间: "2026-07-27"
 播客标题: "From Harvard at 18 to Building Lighter"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - Lighter
+  - Citadel
+industries:
+  - 加密
+technologies:
+  - 零知识证明
+keywords: []
+tags:
+  - Lighter
+  - Citadel
+  - 加密
+  - 零知识证明
 ---
 
 # From Harvard at 18 to Building Lighter

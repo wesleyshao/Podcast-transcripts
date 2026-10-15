@@ -44,6 +44,35 @@ youtube_video_id: "za3XjQUWdNo"
 文字稿来源: "官方 Podcast RSS 命中同期节目但未提供公开完整 transcript；YouTube public subtitles: en-orig；完整源文本位于 caption_cache/za3XjQUWdNo.en-orig.source.txt。"
 YouTube发布时间: "2026-08-14T23:30:27Z"
 字幕来源: "YouTube public subtitles: en-orig"
+companies:
+  - NVDA
+  - COIN
+industries:
+  - 加密
+  - 半导体
+  - 数据中心
+technologies:
+  - GPU
+  - 推理
+  - Blackwell
+  - 代币化
+keywords:
+  - 创业
+  - 融资
+  - 出口管制
+tags:
+  - NVDA
+  - COIN
+  - 加密
+  - 半导体
+  - 数据中心
+  - GPU
+  - 推理
+  - Blackwell
+  - 代币化
+  - 创业
+  - 融资
+  - 出口管制
 ---
 
 # NPC Labs CEO: The Biggest Shift In AI Is Happening In Front Of Your Eyes (Everything You Need To Know)

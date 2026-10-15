@@ -22,6 +22,23 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/_TcEfY
   - immigration
   - national debt
   - DSA
+companies: []
+industries:
+  - 国防
+  - 教育
+  - 医疗
+technologies: []
+keywords:
+  - 选举
+  - 债务
+  - 战争
+tags:
+  - 国防
+  - 教育
+  - 医疗
+  - 选举
+  - 债务
+  - 战争
 ---
 
 # Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats

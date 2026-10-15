@@ -24,6 +24,41 @@
   - "Langchain. To"
   - "Before"
   - "Partner"
+companies:
+  - ADBE
+  - Anthropic
+  - Mistral
+  - SpaceX
+  - CRM
+industries:
+  - 企业软件
+  - 商业航天
+  - 机器人
+technologies:
+  - 具身智能
+  - LLM
+  - 可回收火箭
+  - 开源模型
+keywords:
+  - IPO
+  - 开源
+  - 监管
+tags:
+  - ADBE
+  - Anthropic
+  - Mistral
+  - SpaceX
+  - CRM
+  - 企业软件
+  - 商业航天
+  - 机器人
+  - 具身智能
+  - LLM
+  - 可回收火箭
+  - 开源模型
+  - IPO
+  - 开源
+  - 监管
 ---
 
 # Anthropic's Fable Banned by US Government | Wix & Adobe Hit All-Time Lows | Mistral Raising at $20BN

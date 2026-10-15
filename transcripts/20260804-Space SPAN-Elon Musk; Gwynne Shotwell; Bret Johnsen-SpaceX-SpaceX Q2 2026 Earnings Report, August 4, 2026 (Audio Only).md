@@ -42,6 +42,35 @@ youtube_video_id: "bhVYllUH9fA"
 字幕来源: "YouTube 原始自动字幕 en-orig（由 youtube_caption_fetch.py 验证并去除时间戳）"
 原始语言: "English"
 转写说明: "基于完整 en-orig 纯文本，按管理层发言、分部财务与全部问答顺序转写为简体中文；已区分已披露结果、已签合同、管理层预期与长期愿景。"
+companies:
+  - SpaceX
+  - xAI
+  - Cursor
+  - NVDA
+industries:
+  - 商业航天
+  - 半导体
+  - 机器人
+technologies:
+  - 卫星互联网
+  - 可回收火箭
+  - GPU
+  - LLM
+keywords:
+  - 资本开支
+tags:
+  - SpaceX
+  - xAI
+  - Cursor
+  - NVDA
+  - 商业航天
+  - 半导体
+  - 机器人
+  - 卫星互联网
+  - 可回收火箭
+  - GPU
+  - LLM
+  - 资本开支
 ---
 
 # SpaceX Q2 2026 Earnings Report, August 4, 2026 (Audio Only)

@@ -36,6 +36,25 @@ youtube_video_id: UtC6fsz9UZc
   - fuel cells
   - energy storage
   - parallel supply chains
+companies: []
+industries:
+  - 网络安全
+  - 半导体
+  - 制造业
+technologies:
+  - 开源模型
+keywords:
+  - 出口管制
+  - 主权
+  - 版权
+tags:
+  - 网络安全
+  - 半导体
+  - 制造业
+  - 开源模型
+  - 出口管制
+  - 主权
+  - 版权
 ---
 
 # AI’s New Rules of Engagement

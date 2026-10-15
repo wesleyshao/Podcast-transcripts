@@ -57,6 +57,35 @@ YouTube发布时间: "2026-07-30T14:30:01Z"
   - self-serve onboarding
   - software distribution
   - digital payment
+companies:
+  - HOOD
+  - a16z
+  - Stripe
+  - COIN
+  - Visa
+industries:
+  - 保险
+  - 医疗
+  - 加密
+technologies:
+  - Agent
+keywords:
+  - 创业
+  - 合规
+  - 人才
+tags:
+  - HOOD
+  - a16z
+  - Stripe
+  - COIN
+  - Visa
+  - 保险
+  - 医疗
+  - 加密
+  - Agent
+  - 创业
+  - 合规
+  - 人才
 ---
 
 # “Every small business should run itself” | Lassie with a16z

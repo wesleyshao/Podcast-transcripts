@@ -46,6 +46,25 @@ YouTube发布时间: "2026-09-11T15:00:00Z"
   - "model scaling"
   - "data efficiency"
 
+companies:
+  - OpenAI
+industries:
+  - 数据中心
+technologies:
+  - Agent
+  - 预训练
+  - 后训练
+  - LLM
+keywords:
+  - AGI
+tags:
+  - OpenAI
+  - 数据中心
+  - Agent
+  - 预训练
+  - 后训练
+  - LLM
+  - AGI
 ---
 
 ## Transcript

@@ -44,6 +44,29 @@ YouTube发布时间: 2026-09-06T12:00:34Z
   - 乌龟
   - 北极星指标
   - Michael Dell
+companies:
+  - DELL
+  - SpaceX
+industries:
+  - 光伏
+  - 数据中心
+  - 电力
+technologies:
+  - 可回收火箭
+keywords:
+  - 垂直整合
+  - 电网
+  - 监管
+tags:
+  - DELL
+  - SpaceX
+  - 光伏
+  - 数据中心
+  - 电力
+  - 可回收火箭
+  - 垂直整合
+  - 电网
+  - 监管
 ---
 
 ## Transcript

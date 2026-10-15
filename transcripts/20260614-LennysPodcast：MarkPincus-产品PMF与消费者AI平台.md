@@ -24,6 +24,23 @@
   - "How"
   - "Brought"
   - "Make"
+companies:
+  - Zynga
+  - META
+industries:
+  - 消费
+technologies:
+  - LLM
+keywords:
+  - IPO
+  - 生产力
+tags:
+  - Zynga
+  - META
+  - 消费
+  - LLM
+  - IPO
+  - 生产力
 ---
 
 # The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)

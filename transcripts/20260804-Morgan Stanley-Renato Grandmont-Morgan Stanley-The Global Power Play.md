@@ -27,6 +27,17 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/bfX_e3
   - transmission infrastructure
   - battery storage
   - utilities
+companies: []
+industries:
+  - 数据中心
+  - 电力
+  - 电池
+technologies: []
+keywords: []
+tags:
+  - 数据中心
+  - 电力
+  - 电池
 ---
 
 # The Global Power Play

@@ -33,6 +33,19 @@ YouTube发布时间: 2026-08-26T11:02:32Z
   - AI安全
   - 模型对齐
   - OpenAI
+companies:
+  - OpenAI
+  - Anthropic
+industries: []
+technologies:
+  - LLM
+  - 强化学习
+keywords: []
+tags:
+  - OpenAI
+  - Anthropic
+  - LLM
+  - 强化学习
 ---
 
 # RL's a Hell of a Drug: Metagaming, Reward Seeking & Motivated CoT Reasoning – Bronson Schoen, Apollo

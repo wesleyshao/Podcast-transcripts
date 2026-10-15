@@ -48,6 +48,25 @@ youtube_video_id: "ruvis-VWg2s"
   - "The Hard Thing About Hard Things"
   - "The Purpose Driven Church"
   - "Babel"
+companies:
+  - Whatnot
+  - Anthropic
+  - NFLX
+industries: []
+technologies:
+  - LLM
+  - Agent
+  - 编程助手
+keywords:
+  - 网络效应
+tags:
+  - Whatnot
+  - Anthropic
+  - NFLX
+  - LLM
+  - Agent
+  - 编程助手
+  - 网络效应
 ---
 
 # This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)

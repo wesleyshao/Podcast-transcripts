@@ -27,6 +27,13 @@ YouTube发布时间: 2026-09-10
   - bio
   - nuclear
   - responsible use of AI
+companies:
+  - QXO
+industries: []
+technologies: []
+keywords: []
+tags:
+  - QXO
 ---
 
 # Bonus: Brad Jacobs on the Responsible Use of AI

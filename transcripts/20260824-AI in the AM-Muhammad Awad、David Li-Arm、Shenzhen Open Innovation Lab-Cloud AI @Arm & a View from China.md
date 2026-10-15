@@ -61,6 +61,41 @@ YouTube发布时间: 2026-08-24T19:01:14Z
   - SpaceX
   - Vera CPU
   - data center
+companies:
+  - META
+  - AMZN
+  - DeepSeek
+  - NVDA
+  - SpaceX
+industries:
+  - 数据中心
+  - 机器人
+  - 半导体
+technologies:
+  - GPU
+  - LLM
+  - 可回收火箭
+  - 推理
+keywords:
+  - 开源
+  - AGI
+  - 创业
+tags:
+  - META
+  - AMZN
+  - DeepSeek
+  - NVDA
+  - SpaceX
+  - 数据中心
+  - 机器人
+  - 半导体
+  - GPU
+  - LLM
+  - 可回收火箭
+  - 推理
+  - 开源
+  - AGI
+  - 创业
 ---
 
 # Cloud AI @Arm & a View from China

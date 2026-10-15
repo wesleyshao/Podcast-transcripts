@@ -48,6 +48,41 @@ YouTube发布时间: 2026-08-29T10:30:28Z
   - debasement trade
   - tokenized assets
   - financial guardrails
+companies:
+  - NVDA
+  - xAI
+  - Anthropic
+  - OpenAI
+  - MRVL
+industries:
+  - 加密
+  - 宏观
+  - 半导体
+technologies:
+  - 比特币
+  - Agent
+  - Solana
+  - 代币化
+keywords:
+  - 债务
+  - 利率
+  - 选举
+tags:
+  - NVDA
+  - xAI
+  - Anthropic
+  - OpenAI
+  - MRVL
+  - 加密
+  - 宏观
+  - 半导体
+  - 比特币
+  - Agent
+  - Solana
+  - 代币化
+  - 债务
+  - 利率
+  - 选举
 ---
 
 # Bitcoin to $1 Million?! | Jordi Visser

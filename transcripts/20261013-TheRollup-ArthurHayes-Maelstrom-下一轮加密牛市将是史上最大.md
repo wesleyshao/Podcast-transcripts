@@ -50,6 +50,41 @@ YouTube发布时间: 2026-10-13
   - DTCC
   - DeFi Summer
   - buybacks / 代币经济
+companies:
+  - HOOD
+  - Hyperliquid
+  - DTCC
+  - Lighter
+  - NEAR
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 代币化
+  - 比特币
+  - 稳定币
+  - Zcash
+keywords:
+  - 利率
+  - 主权
+  - 融资
+tags:
+  - HOOD
+  - Hyperliquid
+  - DTCC
+  - Lighter
+  - NEAR
+  - 加密
+  - 宏观
+  - 金融
+  - 代币化
+  - 比特币
+  - 稳定币
+  - Zcash
+  - 利率
+  - 主权
+  - 融资
 ---
 
 # Arthur Hayes: The Next Crypto Bull Market Will Be The Biggest One Ever (Here's Why)

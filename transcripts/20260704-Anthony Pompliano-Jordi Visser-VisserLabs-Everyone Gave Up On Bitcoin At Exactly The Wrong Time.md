@@ -21,6 +21,33 @@
   - "OpenAI"
   - "AI agents"
   - "macro investing"
+companies:
+  - MU
+  - OpenAI
+industries:
+  - 加密
+  - 半导体
+  - 存储
+technologies:
+  - 比特币
+  - Agent
+  - LLM
+keywords:
+  - 开源
+  - 通胀
+  - 利率
+tags:
+  - MU
+  - OpenAI
+  - 加密
+  - 半导体
+  - 存储
+  - 比特币
+  - Agent
+  - LLM
+  - 开源
+  - 通胀
+  - 利率
 ---
 
 # Everyone Gave Up On Bitcoin At Exactly The Wrong Time

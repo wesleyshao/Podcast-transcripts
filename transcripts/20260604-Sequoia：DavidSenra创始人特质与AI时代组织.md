@@ -32,6 +32,17 @@
   - What
   - Senra
   - Learned
+companies:
+  - Ford
+industries:
+  - 汽车
+technologies: []
+keywords:
+  - 综合格斗
+tags:
+  - Ford
+  - 汽车
+  - 综合格斗
 ---
 
 # What David Senra Learned Studying 400+ Founders

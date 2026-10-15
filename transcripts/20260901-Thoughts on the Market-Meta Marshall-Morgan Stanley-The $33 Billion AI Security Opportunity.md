@@ -25,6 +25,17 @@ YouTube发布时间: 2026-09-01T23:59:11Z
   - $33 billion global opportunity
   - $60 billion identity market
   - human and machine identities
+companies:
+  - META
+industries:
+  - 网络安全
+technologies:
+  - Agent
+keywords: []
+tags:
+  - META
+  - 网络安全
+  - Agent
 ---
 
 # The $33 Billion AI Security Opportunity

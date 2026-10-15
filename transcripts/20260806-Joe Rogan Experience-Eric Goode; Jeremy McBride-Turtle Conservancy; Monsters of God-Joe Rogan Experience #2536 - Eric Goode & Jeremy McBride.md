@@ -56,6 +56,15 @@ youtube_video_id: "O52aLL8ycGU"
   - "Southeast Asia"
   - "illegal wildlife trade"
   - "species recovery"
+companies: []
+industries:
+  - 医疗
+technologies: []
+keywords:
+  - 监管
+tags:
+  - 医疗
+  - 监管
 ---
 
 # Joe Rogan Experience #2536 - Eric Goode & Jeremy McBride

@@ -22,6 +22,29 @@ YouTube发布时间: "2026-07-07"
   - "liquidity"
   - "minimum investment"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies:
+  - Anthropic
+  - OpenAI
+  - SpaceX
+  - Anduril
+industries:
+  - 商业航天
+  - 国防
+  - 加密
+technologies:
+  - LLM
+  - 可回收火箭
+keywords: []
+tags:
+  - Anthropic
+  - OpenAI
+  - SpaceX
+  - Anduril
+  - 商业航天
+  - 国防
+  - 加密
+  - LLM
+  - 可回收火箭
 ---
 
 # How To Invest In OpenAI and Anthropic Before They Go Public

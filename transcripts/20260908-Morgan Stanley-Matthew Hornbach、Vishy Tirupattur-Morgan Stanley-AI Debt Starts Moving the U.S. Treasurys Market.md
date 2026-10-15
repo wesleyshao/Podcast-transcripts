@@ -38,6 +38,21 @@ YouTube发布时间: "2026-09-08T20:24:19Z"
   - "five-year maturity"
   - "break-even inflation rate"
   - "dealer community"
+companies: []
+industries:
+  - 宏观
+  - 数据中心
+technologies: []
+keywords:
+  - 资本开支
+  - 融资
+  - 通胀
+tags:
+  - 宏观
+  - 数据中心
+  - 资本开支
+  - 融资
+  - 通胀
 ---
 
 # AI Debt Starts Moving the U.S. Treasurys Market

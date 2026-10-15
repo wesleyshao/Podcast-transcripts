@@ -32,6 +32,19 @@
   - Private
   - Markets
   - Software
+companies:
+  - Apollo
+  - a16z
+industries:
+  - 机器人
+  - 金融
+technologies: []
+keywords: []
+tags:
+  - Apollo
+  - a16z
+  - 机器人
+  - 金融
 ---
 
 # Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z

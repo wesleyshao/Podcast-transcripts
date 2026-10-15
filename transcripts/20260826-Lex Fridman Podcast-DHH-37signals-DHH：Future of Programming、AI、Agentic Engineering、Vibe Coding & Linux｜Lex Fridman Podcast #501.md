@@ -32,6 +32,17 @@ YouTube发布时间: "2026-08-26T21:44:41Z"
   - Opus 5
   - Codex
   - 个人电脑
+companies: []
+industries: []
+technologies:
+  - Agent
+  - 编程助手
+keywords:
+  - 开源
+tags:
+  - Agent
+  - 编程助手
+  - 开源
 ---
 
 # DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501

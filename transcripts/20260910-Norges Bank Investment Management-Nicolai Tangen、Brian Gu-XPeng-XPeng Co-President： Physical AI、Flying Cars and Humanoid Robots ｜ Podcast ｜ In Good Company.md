@@ -47,6 +47,35 @@ YouTube发布时间: "2026-09-10T05:00:35Z"
   - "Tencent"
   - "David Baker"
   - "蛋白质折叠"
+companies:
+  - 小鹏
+  - NVDA
+  - 宇树
+  - 宁德时代
+  - 腾讯
+industries:
+  - 机器人
+  - 电池
+  - 半导体
+technologies:
+  - 具身智能
+  - 自动驾驶
+  - GPU
+  - 固态电池
+keywords: []
+tags:
+  - 小鹏
+  - NVDA
+  - 宇树
+  - 宁德时代
+  - 腾讯
+  - 机器人
+  - 电池
+  - 半导体
+  - 具身智能
+  - 自动驾驶
+  - GPU
+  - 固态电池
 ---
 
 # XPeng Co-President: Physical AI, Flying Cars and Humanoid Robots | Podcast | In Good Company

@@ -53,6 +53,19 @@ youtube_video_id: 7HXqMepjvy8
   - 心血管疾病
   - 癌症
   - 太空适应
+companies:
+  - Neuralink
+industries:
+  - 医疗
+technologies:
+  - 脑机接口
+keywords:
+  - 监管
+tags:
+  - Neuralink
+  - 医疗
+  - 脑机接口
+  - 监管
 ---
 # From Restoring Sight to Reimagining the Brain, with Max Hodak
 

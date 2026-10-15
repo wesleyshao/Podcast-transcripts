@@ -30,6 +30,23 @@ youtube_video_id: JG6LfQIhlGg
   - Remotion
   - Sunno
   - AI religion
+companies:
+  - Anthropic
+industries: []
+technologies:
+  - LLM
+  - 编程助手
+keywords:
+  - 人口
+  - 超级智能
+  - 垄断
+tags:
+  - Anthropic
+  - LLM
+  - 编程助手
+  - 人口
+  - 超级智能
+  - 垄断
 ---
 
 # Pacing Gets Political + Andon Labs & an AI Religion?

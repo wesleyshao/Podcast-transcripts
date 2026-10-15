@@ -27,6 +27,15 @@ youtube_video_id: "MZ5bOZ03u7M"
 YouTube发布时间: "2026-07-12"
 播客标题: "Gavin Newsom on The Axios Show | Full Interview"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - TSLA
+industries: []
+technologies: []
+keywords:
+  - 选举
+tags:
+  - TSLA
+  - 选举
 ---
 
 # Gavin Newsom on The Axios Show | Full Interview

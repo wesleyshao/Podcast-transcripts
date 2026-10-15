@@ -4,6 +4,19 @@ source: "https://www.youtube.com/watch?v=S6l3aRsecuE"
 created: 2026-10-12
 tags:
   - "专家纪要"
+companies:
+  - META
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+  - Agent
+keywords: []
+tags:
+  - META
+  - OpenAI
+  - LLM
+  - Agent
 ---
 
 ![](https://www.youtube.com/watch?v=S6l3aRsecuE)

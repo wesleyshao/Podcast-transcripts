@@ -40,6 +40,33 @@ YouTube发布时间: 2026-08-27T14:30:08Z
   - enterprise software
   - M&A
   - SpaceX
+companies:
+  - Cursor
+  - SpaceX
+  - OpenAI
+  - Anthropic
+industries:
+  - 商业航天
+  - 企业软件
+technologies:
+  - 编程助手
+  - LLM
+  - 可回收火箭
+keywords:
+  - 并购
+  - 人才
+tags:
+  - Cursor
+  - SpaceX
+  - OpenAI
+  - Anthropic
+  - 商业航天
+  - 企业软件
+  - 编程助手
+  - LLM
+  - 可回收火箭
+  - 并购
+  - 人才
 ---
 
 # How Cursor Built One of AI’s Fastest-Growing Companies

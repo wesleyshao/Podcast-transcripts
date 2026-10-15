@@ -35,6 +35,23 @@ YouTube发布时间: 2026-10-13
   - Clayton Christensen / 颠覆式创新
   - 内卷
   - 地缘政治 / 贸易摩擦
+companies: []
+industries:
+  - 汽车
+  - 机器人
+  - 电力
+technologies:
+  - 自动驾驶
+keywords:
+  - 竞争格局
+  - 地缘政治
+tags:
+  - 汽车
+  - 机器人
+  - 电力
+  - 自动驾驶
+  - 竞争格局
+  - 地缘政治
 ---
 
 # Where Chinese Exports Are Gaining the Most Market Share

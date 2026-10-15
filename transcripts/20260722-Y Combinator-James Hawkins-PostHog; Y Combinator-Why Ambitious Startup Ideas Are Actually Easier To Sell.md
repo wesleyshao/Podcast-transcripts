@@ -17,6 +17,19 @@
   - "co-CEO"
   - "European founders"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries: []
+technologies:
+  - 自动驾驶
+keywords:
+  - 创业
+  - 分发
+  - 开源
+tags:
+  - 自动驾驶
+  - 创业
+  - 分发
+  - 开源
 ---
 
 # Why Ambitious Startup Ideas Are Actually Easier To Sell

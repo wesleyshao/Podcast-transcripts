@@ -32,6 +32,31 @@
   - The
   - better
   - gets
+companies:
+  - GOOGL
+  - JaneStreet
+  - Cursor
+  - AAPL
+  - SPOT
+industries:
+  - 机器人
+  - 电力
+technologies:
+  - 编程助手
+keywords:
+  - AGI
+  - 就业
+tags:
+  - GOOGL
+  - JaneStreet
+  - Cursor
+  - AAPL
+  - SPOT
+  - 机器人
+  - 电力
+  - 编程助手
+  - AGI
+  - 就业
 ---
 
 # The better AI gets, the smaller its share of the economy might get – Alex Imas and Phil Trammell

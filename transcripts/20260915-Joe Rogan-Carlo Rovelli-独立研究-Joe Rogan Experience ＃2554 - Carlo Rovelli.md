@@ -26,6 +26,17 @@ YouTube发布时间: "2026-09-15T17:00:31Z"
   - "time"
   - "quantum mechanics"
   - "Joe Rogan Experience"
+companies: []
+industries:
+  - 国防
+  - 游戏
+technologies: []
+keywords:
+  - 战争
+tags:
+  - 国防
+  - 游戏
+  - 战争
 ---
 
 ## Transcript

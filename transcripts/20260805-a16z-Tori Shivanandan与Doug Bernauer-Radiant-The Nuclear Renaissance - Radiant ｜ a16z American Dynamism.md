@@ -35,6 +35,23 @@ youtube_video_id: "-9Vh7tsgM7Y"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按上下文转写；纪录片未在字幕中稳定标注所有说话人，无法可靠辨认时使用角色标签，不据画面外信息强行归名。"
+companies:
+  - a16z
+  - SpaceX
+industries:
+  - 商业航天
+  - 核能
+  - 电力
+technologies:
+  - 可回收火箭
+keywords: []
+tags:
+  - a16z
+  - SpaceX
+  - 商业航天
+  - 核能
+  - 电力
+  - 可回收火箭
 ---
 
 # The Nuclear Renaissance - Radiant | a16z American Dynamism

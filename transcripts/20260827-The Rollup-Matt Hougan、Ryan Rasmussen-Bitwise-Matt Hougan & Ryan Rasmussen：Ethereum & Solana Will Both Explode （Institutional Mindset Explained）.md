@@ -28,6 +28,27 @@ YouTube发布时间: 2026-08-27T23:40:19Z
   - tokenization
   - buyback
   - Bitwise
+companies:
+  - Bitwise
+  - Lighter
+  - Hyperliquid
+industries:
+  - 加密
+technologies:
+  - Solana
+  - 以太坊
+  - 比特币
+  - Zcash
+keywords: []
+tags:
+  - Bitwise
+  - Lighter
+  - Hyperliquid
+  - 加密
+  - Solana
+  - 以太坊
+  - 比特币
+  - Zcash
 ---
 
 # Matt Hougan & Ryan Rasmussen：Ethereum & Solana Will Both Explode （Institutional Mindset Explained）

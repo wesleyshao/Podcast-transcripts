@@ -19,6 +19,19 @@
   - "buybacks"
   - "customer support AI"
 字幕来源: "automatic_captions:en-orig:json3"
+companies:
+  - CRM
+  - Atlassian
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 并购
+tags:
+  - CRM
+  - Atlassian
+  - 宏观
+  - 并购
 ---
 
 # Wix Founder: Will Base44 Win the Vibe-Coding Wars? | The Truth About the Economics of Vibe-Coding

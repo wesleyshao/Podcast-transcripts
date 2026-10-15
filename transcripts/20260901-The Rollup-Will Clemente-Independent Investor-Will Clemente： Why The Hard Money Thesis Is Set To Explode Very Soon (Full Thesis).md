@@ -37,6 +37,35 @@ YouTube发布时间: 2026-09-01T22:00:35Z
   - USD/JPY
   - FRA
   - FTX
+companies:
+  - MSTR
+  - Hyperliquid
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 比特币
+  - Zcash
+  - 稳定币
+  - 量子计算
+keywords:
+  - 债务
+  - 利率
+  - 稳定币法案
+tags:
+  - MSTR
+  - Hyperliquid
+  - 加密
+  - 宏观
+  - 金融
+  - 比特币
+  - Zcash
+  - 稳定币
+  - 量子计算
+  - 债务
+  - 利率
+  - 稳定币法案
 ---
 
 # Will Clemente: Why The Hard Money Thesis Is Set To Explode Very Soon (Full Thesis)

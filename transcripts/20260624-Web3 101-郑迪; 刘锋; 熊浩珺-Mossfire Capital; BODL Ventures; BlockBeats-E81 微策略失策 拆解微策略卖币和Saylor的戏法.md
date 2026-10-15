@@ -26,6 +26,27 @@ youtube_video_id: "ioE4R8vWU0I"
 YouTube发布时间: "2026-06-24"
 播客标题: "E81｜微策略失策！我们和郑迪拆解了微策略卖币和失去市场信心之因，想了想Saylor的戏法如何玩下去"
 字幕来源: "YouTube public subtitles: zh json3"
+companies:
+  - MSTR
+industries:
+  - 加密
+  - 宏观
+technologies:
+  - 比特币
+  - 永续合约
+keywords:
+  - 利率
+  - 融资
+  - 黄金
+tags:
+  - MSTR
+  - 加密
+  - 宏观
+  - 比特币
+  - 永续合约
+  - 利率
+  - 融资
+  - 黄金
 ---
 
 # E81｜微策略失策！我们和郑迪拆解了微策略卖币和失去市场信心之因，想了想Saylor的戏法如何玩下去

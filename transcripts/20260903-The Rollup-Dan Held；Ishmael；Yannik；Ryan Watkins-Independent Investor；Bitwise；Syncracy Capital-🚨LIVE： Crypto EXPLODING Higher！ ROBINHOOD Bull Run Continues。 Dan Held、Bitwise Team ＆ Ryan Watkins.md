@@ -92,6 +92,41 @@ YouTube发布时间: 2026-09-04T07:48:30Z
   - stablecoin reserves
   - social trading
   - creator awards
+companies:
+  - Bitwise
+  - HOOD
+  - Hyperliquid
+  - SpaceX
+  - Morpho
+industries:
+  - 加密
+  - 商业航天
+  - 宏观
+technologies:
+  - DeFi
+  - Zcash
+  - 代币化
+  - 以太坊
+keywords:
+  - 估值
+  - 债务
+  - 监管
+tags:
+  - Bitwise
+  - HOOD
+  - Hyperliquid
+  - SpaceX
+  - Morpho
+  - 加密
+  - 商业航天
+  - 宏观
+  - DeFi
+  - Zcash
+  - 代币化
+  - 以太坊
+  - 估值
+  - 债务
+  - 监管
 ---
 
 # 🚨LIVE: Crypto EXPLODING Higher! ROBINHOOD Bull Run Continues. Dan Held, Bitwise Team & Ryan Watkins

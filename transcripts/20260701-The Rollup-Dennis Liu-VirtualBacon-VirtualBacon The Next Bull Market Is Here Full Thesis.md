@@ -20,6 +20,31 @@
   - MicroStrategy
   - crypto bull market
   - four year cycle
+companies:
+  - Lighter
+  - Kalshi
+  - MSTR
+  - Polymarket
+industries:
+  - 宏观
+  - 加密
+  - 预测市场
+technologies:
+  - 比特币
+  - 以太坊
+  - 代币化
+keywords: []
+tags:
+  - Lighter
+  - Kalshi
+  - MSTR
+  - Polymarket
+  - 宏观
+  - 加密
+  - 预测市场
+  - 比特币
+  - 以太坊
+  - 代币化
 ---
 
 # VirtualBacon The Next Bull Market Is Here Full Thesis

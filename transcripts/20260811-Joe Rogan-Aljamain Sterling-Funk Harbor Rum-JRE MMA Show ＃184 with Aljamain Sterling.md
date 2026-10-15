@@ -63,6 +63,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/xEBeQH
   - fighter pay
   - concussion
   - eye poke
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 综合格斗
+  - 创业
+tags:
+  - 综合格斗
+  - 创业
 ---
 
 # JRE MMA Show #184 with Aljamain Sterling

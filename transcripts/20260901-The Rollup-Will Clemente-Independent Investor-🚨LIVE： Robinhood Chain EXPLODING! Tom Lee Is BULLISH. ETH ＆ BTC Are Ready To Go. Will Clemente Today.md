@@ -65,6 +65,37 @@ YouTube发布时间: 2026-09-02T07:19:56Z
   - Arbitrum
   - GoPro
   - Athena Pay
+companies:
+  - HOOD
+  - Chainlink
+  - Hyperliquid
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - Zcash
+  - 以太坊
+  - 比特币
+  - 代币化
+keywords:
+  - 稳定币法案
+  - IPO
+  - 债务
+tags:
+  - HOOD
+  - Chainlink
+  - Hyperliquid
+  - 加密
+  - 宏观
+  - 金融
+  - Zcash
+  - 以太坊
+  - 比特币
+  - 代币化
+  - 稳定币法案
+  - IPO
+  - 债务
 ---
 
 # 🚨LIVE: Robinhood Chain EXPLODING! Tom Lee Is BULLISH. ETH & BTC Are Ready To Go. Will Clemente Today

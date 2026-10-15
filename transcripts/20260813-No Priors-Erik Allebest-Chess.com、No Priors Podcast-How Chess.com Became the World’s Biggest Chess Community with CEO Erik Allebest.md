@@ -24,6 +24,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/hplb9I
   - CVC
   - artificial intelligence
   - AGI
+companies: []
+industries:
+  - 游戏
+technologies: []
+keywords:
+  - AGI
+tags:
+  - 游戏
+  - AGI
 ---
 
 # How Chess.com Became the World’s Biggest Chess Community with CEO Erik Allebest

@@ -40,6 +40,25 @@ YouTube发布时间: 2026-09-01T16:03:54Z
   - loss of control
   - open source models
   - AI safety
+companies:
+  - Redwood
+  - OpenAI
+  - HuggingFace
+industries: []
+technologies:
+  - LLM
+  - 开源模型
+keywords:
+  - 开源
+  - AI安全
+tags:
+  - Redwood
+  - OpenAI
+  - HuggingFace
+  - LLM
+  - 开源模型
+  - 开源
+  - AI安全
 ---
 
 ## Transcript

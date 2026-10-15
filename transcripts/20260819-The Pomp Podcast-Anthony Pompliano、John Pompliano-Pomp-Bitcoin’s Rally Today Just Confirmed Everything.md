@@ -49,6 +49,39 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/yGg1_m
   - Elon Musk
   - wash sale rule
   - tax-loss harvesting
+companies:
+  - BLK
+  - AMZN
+  - Anthropic
+  - NVDA
+  - OpenAI
+industries:
+  - 加密
+  - 半导体
+  - 宏观
+technologies:
+  - 比特币
+  - GPU
+  - LLM
+keywords:
+  - 通胀
+  - 债务
+  - 稳定币法案
+tags:
+  - BLK
+  - AMZN
+  - Anthropic
+  - NVDA
+  - OpenAI
+  - 加密
+  - 半导体
+  - 宏观
+  - 比特币
+  - GPU
+  - LLM
+  - 通胀
+  - 债务
+  - 稳定币法案
 ---
 
 # Bitcoin’s Rally Today Just Confirmed Everything

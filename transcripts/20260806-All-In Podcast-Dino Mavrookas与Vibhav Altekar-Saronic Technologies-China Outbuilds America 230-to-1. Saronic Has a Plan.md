@@ -41,6 +41,29 @@ youtube_video_id: "jfxHHglA5Eo"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按对话语义转写；依据 Saronic 官方团队页面校正嘉宾姓名与职务，并按上下文校正产品及船厂专名。"
+companies:
+  - Saronic
+  - SpaceX
+  - Anduril
+  - PLTR
+industries:
+  - 商业航天
+  - 国防
+technologies:
+  - 可回收火箭
+keywords:
+  - 霍尔木兹
+  - 人才
+tags:
+  - Saronic
+  - SpaceX
+  - Anduril
+  - PLTR
+  - 商业航天
+  - 国防
+  - 可回收火箭
+  - 霍尔木兹
+  - 人才
 ---
 
 # China Outbuilds America 230-to-1. Saronic Has a Plan

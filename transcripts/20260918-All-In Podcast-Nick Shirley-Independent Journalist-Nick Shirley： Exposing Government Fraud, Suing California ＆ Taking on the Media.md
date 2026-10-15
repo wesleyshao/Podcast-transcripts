@@ -53,6 +53,13 @@ YouTube发布时间: 2026-09-18T00:30:13Z
   - X
   - Elon Musk
   - Chura（字幕音译，机构名称待核实）
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 监管
+tags:
+  - 监管
 ---
 
 # Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media

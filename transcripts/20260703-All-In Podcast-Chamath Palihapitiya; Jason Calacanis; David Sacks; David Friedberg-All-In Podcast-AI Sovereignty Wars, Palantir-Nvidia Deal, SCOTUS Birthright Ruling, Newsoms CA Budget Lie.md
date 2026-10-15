@@ -21,6 +21,31 @@
   - "Gavin Newsom"
   - "California budget"
   - "FIG"
+companies:
+  - NVDA
+  - PLTR
+  - Anthropic
+  - OpenAI
+industries:
+  - 半导体
+technologies:
+  - GPU
+  - LLM
+  - 开源模型
+keywords:
+  - 开源
+  - 选举
+tags:
+  - NVDA
+  - PLTR
+  - Anthropic
+  - OpenAI
+  - 半导体
+  - GPU
+  - LLM
+  - 开源模型
+  - 开源
+  - 选举
 ---
 
 # AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsoms CA Budget Lie

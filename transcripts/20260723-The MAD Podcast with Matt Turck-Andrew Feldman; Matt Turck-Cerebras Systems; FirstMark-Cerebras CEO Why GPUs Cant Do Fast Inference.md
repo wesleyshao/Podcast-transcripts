@@ -19,6 +19,35 @@
   - "OpenAI deal"
   - "AI data centers"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - Cerebras
+  - TSM
+  - NVDA
+  - OpenAI
+  - GOOGL
+industries:
+  - 数据中心
+  - 半导体
+  - 存储
+technologies:
+  - 推理
+  - GPU
+  - CUDA
+  - LLM
+keywords: []
+tags:
+  - Cerebras
+  - TSM
+  - NVDA
+  - OpenAI
+  - GOOGL
+  - 数据中心
+  - 半导体
+  - 存储
+  - 推理
+  - GPU
+  - CUDA
+  - LLM
 ---
 
 # Cerebras CEO: Why GPUs Can't Do Fast Inference

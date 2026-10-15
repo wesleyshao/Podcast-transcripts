@@ -18,6 +18,25 @@
   - "spare compute"
 youtube_video_id: "bbn3qS-nLHc"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - 月之暗面
+  - NEAR
+industries: []
+technologies:
+  - GPU
+  - 推理
+  - 开源模型
+keywords:
+  - 开源
+  - 推理成本
+tags:
+  - 月之暗面
+  - NEAR
+  - GPU
+  - 推理
+  - 开源模型
+  - 开源
+  - 推理成本
 ---
 
 # Cysic Founder: Why The Compute Market Is Getting Ready to Explode (Biggest In The World)

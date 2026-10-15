@@ -37,6 +37,37 @@ YouTube发布时间: 2026-10-13
   - 轨道数据中心
   - 量子计算
   - 纠错（error correction）
+companies:
+  - WisdomTree
+  - OpenAI
+  - NVDA
+  - Anthropic
+  - SpaceX
+industries:
+  - 数据中心
+  - 电力
+  - 半导体
+technologies:
+  - 量子计算
+  - GPU
+  - LLM
+  - 可回收火箭
+keywords:
+  - 电网
+tags:
+  - WisdomTree
+  - OpenAI
+  - NVDA
+  - Anthropic
+  - SpaceX
+  - 数据中心
+  - 电力
+  - 半导体
+  - 量子计算
+  - GPU
+  - LLM
+  - 可回收火箭
+  - 电网
 ---
 
 # AI and tech: looking beyond the next AI winner

@@ -28,6 +28,33 @@ youtube_video_id: "Hq4jFGd4YxE"
 YouTube发布时间: 2026-07-28
 播客标题: "对话叶奇意：“寻找”月之暗面杨植麟、中国两代AI、十年人才迁徙，与AGI信仰"
 字幕来源: "YouTube public zh subtitles"
+companies:
+  - 月之暗面
+  - 美团
+  - DeepSeek
+  - OpenAI
+  - 智谱
+industries:
+  - 数据中心
+technologies:
+  - LLM
+  - 开源模型
+keywords:
+  - AGI
+  - 人才
+  - 开源
+tags:
+  - 月之暗面
+  - 美团
+  - DeepSeek
+  - OpenAI
+  - 智谱
+  - 数据中心
+  - LLM
+  - 开源模型
+  - AGI
+  - 人才
+  - 开源
 ---
 
 # 对话叶奇意：“寻找”月之暗面杨植麟、中国两代AI、十年人才迁徙，与AGI信仰

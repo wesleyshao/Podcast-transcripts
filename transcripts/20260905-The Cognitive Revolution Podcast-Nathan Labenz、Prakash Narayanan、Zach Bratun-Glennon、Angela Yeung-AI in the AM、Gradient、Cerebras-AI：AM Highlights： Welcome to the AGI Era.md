@@ -43,6 +43,37 @@ YouTube发布时间: 2026-09-05T23:39:29Z
   - Chain of thought
   - system card
   - AI safety
+companies:
+  - Cerebras
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - Redwood
+industries:
+  - 机器人
+  - 制造业
+technologies:
+  - LLM
+  - Agent
+  - Transformer
+  - 具身智能
+keywords:
+  - AGI
+  - AI安全
+tags:
+  - Cerebras
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - Redwood
+  - 机器人
+  - 制造业
+  - LLM
+  - Agent
+  - Transformer
+  - 具身智能
+  - AGI
+  - AI安全
 ---
 
 # AI:AM Highlights: Welcome to the AGI Era

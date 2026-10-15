@@ -18,6 +18,23 @@
   - voice interface
   - AI health
   - Big Technology AI Summit
+companies:
+  - OpenAI
+  - MSFT
+industries: []
+technologies:
+  - Agent
+  - LLM
+  - 编程助手
+keywords:
+  - AGI
+tags:
+  - OpenAI
+  - MSFT
+  - Agent
+  - LLM
+  - 编程助手
+  - AGI
 ---
 
 # OpenAI President Greg Brockman Our Plan To Merge Chat And Agents

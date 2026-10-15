@@ -54,6 +54,33 @@ youtube_video_id: KsQiMWnFmYw
   - defense swarms
   - Microsoft
   - Fortune 500
+companies:
+  - GOOGL
+  - DeepMind
+  - OpenAI
+  - Anthropic
+  - HuggingFace
+industries:
+  - 国防
+technologies:
+  - LLM
+  - 预训练
+  - Agent
+  - 开源模型
+keywords:
+  - 监管
+tags:
+  - GOOGL
+  - DeepMind
+  - OpenAI
+  - Anthropic
+  - HuggingFace
+  - 国防
+  - LLM
+  - 预训练
+  - Agent
+  - 开源模型
+  - 监管
 ---
 # What Just Happened?
 

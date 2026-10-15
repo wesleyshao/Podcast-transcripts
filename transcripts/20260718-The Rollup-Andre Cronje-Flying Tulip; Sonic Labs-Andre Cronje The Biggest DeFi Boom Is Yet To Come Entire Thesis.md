@@ -24,6 +24,21 @@
   - "curated vaults"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Andre Cronje: The Biggest DeFi Boom Is Yet To Come (Entire Thesis)"
+companies:
+  - Tether
+  - Circle
+industries:
+  - 加密
+technologies:
+  - DeFi
+  - 稳定币
+keywords: []
+tags:
+  - Tether
+  - Circle
+  - 加密
+  - DeFi
+  - 稳定币
 ---
 
 # Andre Cronje: The Biggest DeFi Boom Is Yet To Come (Entire Thesis)

@@ -32,6 +32,15 @@
   - 30
   - Years
   - Since
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 主权
+  - 泡沫
+tags:
+  - 主权
+  - 泡沫
 ---
 
 # 30 Years Since the First Deposit: What Economy Will Young Norwegians Inherit?

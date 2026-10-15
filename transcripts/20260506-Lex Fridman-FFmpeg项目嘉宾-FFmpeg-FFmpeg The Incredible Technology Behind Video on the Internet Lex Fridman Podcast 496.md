@@ -24,6 +24,31 @@
   - "See"
   - "CONTACT"
   - "EPISODE"
+companies:
+  - GOOGL
+  - AAPL
+  - MSFT
+  - NFLX
+  - INTC
+industries:
+  - 半导体
+  - 游戏
+technologies:
+  - GPU
+keywords:
+  - 开源
+  - 版权
+tags:
+  - GOOGL
+  - AAPL
+  - MSFT
+  - NFLX
+  - INTC
+  - 半导体
+  - 游戏
+  - GPU
+  - 开源
+  - 版权
 ---
 
 # FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496

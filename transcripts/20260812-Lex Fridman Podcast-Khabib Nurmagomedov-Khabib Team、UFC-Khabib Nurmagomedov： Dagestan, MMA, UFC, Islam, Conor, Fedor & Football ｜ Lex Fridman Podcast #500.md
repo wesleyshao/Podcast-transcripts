@@ -24,6 +24,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/l6USUA
   - Lionel Messi
   - Cristiano Ronaldo
   - Dubai
+companies:
+  - 阿里巴巴
+industries: []
+technologies: []
+keywords:
+  - 综合格斗
+tags:
+  - 阿里巴巴
+  - 综合格斗
 ---
 
 # Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500

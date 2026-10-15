@@ -16,6 +16,17 @@
   - "Novo Nordisk"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Lower Prices, Bigger Market: The Next Phase of GLP-1 Drugs"
+companies:
+  - LLY
+  - NVO
+industries:
+  - 制药
+technologies: []
+keywords: []
+tags:
+  - LLY
+  - NVO
+  - 制药
 ---
 
 ## Transcript

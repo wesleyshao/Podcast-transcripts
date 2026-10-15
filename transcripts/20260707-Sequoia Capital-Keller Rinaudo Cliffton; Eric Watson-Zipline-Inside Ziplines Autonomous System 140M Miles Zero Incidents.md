@@ -22,6 +22,15 @@ YouTube发布时间: "2026-07-07"
   - "air traffic control"
   - "million deliveries per day"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies: []
+industries:
+  - 物流
+  - 机器人
+technologies: []
+keywords: []
+tags:
+  - 物流
+  - 机器人
 ---
 
 # Inside Zipline's Autonomous System: 140M Miles, Zero Incidents

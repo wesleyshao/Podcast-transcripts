@@ -17,6 +17,21 @@
   - "quantum applications"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "The software behind the quantum revolution | The Next Big Thing"
+companies:
+  - WisdomTree
+  - CSCO
+  - IBM
+industries: []
+technologies:
+  - 量子计算
+  - Agent
+keywords: []
+tags:
+  - WisdomTree
+  - CSCO
+  - IBM
+  - 量子计算
+  - Agent
 ---
 
 ## Transcript

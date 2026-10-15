@@ -55,6 +55,27 @@ youtube_video_id: Xc4klGbq8v8
   - bipolar cells
   - optic nerve
   - transhumanism
+companies:
+  - Anthropic
+  - Neuralink
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+  - 脑机接口
+keywords:
+  - 人才
+  - 融资
+  - 创业
+tags:
+  - Anthropic
+  - Neuralink
+  - OpenAI
+  - LLM
+  - 脑机接口
+  - 人才
+  - 融资
+  - 创业
 ---
 
 # Max Hodak: Average Is Not Good Enough

@@ -42,6 +42,25 @@ youtube_video_id: eRrc1pUY5oU
   - Postgres
   - GitHub
   - Gottfried Leibniz
+companies:
+  - Anthropic
+industries: []
+technologies:
+  - LLM
+  - 编程助手
+  - Agent
+  - RAG
+keywords:
+  - AGI
+  - 创业
+tags:
+  - Anthropic
+  - LLM
+  - 编程助手
+  - Agent
+  - RAG
+  - AGI
+  - 创业
 ---
 
 # Garry Tan: "Personal AGI Is How You Stay Under Your Own Power"

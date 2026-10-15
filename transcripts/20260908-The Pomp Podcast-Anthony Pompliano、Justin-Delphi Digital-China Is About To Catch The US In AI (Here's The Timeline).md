@@ -52,6 +52,41 @@ YouTube发布时间: "2026-09-08T21:00:35Z"
   - "Mistral"
   - "Delphi Digital"
   - "grid capacity"
+companies:
+  - Anthropic
+  - OpenAI
+  - META
+  - xAI
+  - NVDA
+industries:
+  - 半导体
+  - 加密
+  - 机器人
+technologies:
+  - GPU
+  - LLM
+  - 后训练
+  - 开源模型
+keywords:
+  - 出口管制
+  - AGI
+  - 电网
+tags:
+  - Anthropic
+  - OpenAI
+  - META
+  - xAI
+  - NVDA
+  - 半导体
+  - 加密
+  - 机器人
+  - GPU
+  - LLM
+  - 后训练
+  - 开源模型
+  - 出口管制
+  - AGI
+  - 电网
 ---
 
 # China Is About To Catch The US In AI (Here's The Timeline)

@@ -42,6 +42,33 @@ YouTube发布时间: "2026-09-17T19:55:06Z"
   - "Space and Time"
   - "1inch Aqua"
 核心观点: "Kevin O’Leary 认为，代币化应扩展到股票、收藏品和其他真实资产，以改善所有权与资产管理；对话也涉及 Avalanche、SEC Innovation Exemption、CLARITY Act、稳定币和机构资金，但没有形成可核验的上市公司估值或经营业绩投资逻辑。"
+companies:
+  - Dinari
+industries:
+  - 加密
+  - 宏观
+  - 支付
+technologies:
+  - 代币化
+  - Zcash
+  - 以太坊
+  - 区块链
+keywords:
+  - 监管
+  - 利率
+  - 合规
+tags:
+  - Dinari
+  - 加密
+  - 宏观
+  - 支付
+  - 代币化
+  - Zcash
+  - 以太坊
+  - 区块链
+  - 监管
+  - 利率
+  - 合规
 ---
 
 # 🚨LIVE: SEC TOKENIZATION EXEMPTION! Avalanche Summit Day 2: KEVIN O'LEARY LIVE. Bullish Rate Hike!

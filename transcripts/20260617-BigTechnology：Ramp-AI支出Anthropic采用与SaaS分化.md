@@ -24,6 +24,27 @@
   - "Tune"
   - "White"
   - "Hit"
+companies:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - DeepSeek
+industries:
+  - 企业软件
+technologies:
+  - LLM
+  - 编程助手
+keywords:
+  - 开源
+tags:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - DeepSeek
+  - 企业软件
+  - LLM
+  - 编程助手
+  - 开源
 ---
 
 # AI Fact or Fiction: The Fable Ban, Tokenmaxxing, Saaspocolypse — With Ara Kharazian

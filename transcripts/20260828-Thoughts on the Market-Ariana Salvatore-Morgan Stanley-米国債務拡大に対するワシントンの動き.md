@@ -30,6 +30,17 @@ YouTube发布时间: 2026-09-02T21:09:03Z
   - 政府停摆
   - 短期国债
   - 2028年美国总统大选
+companies: []
+industries:
+  - 保险
+technologies: []
+keywords:
+  - 债务
+  - 选举
+tags:
+  - 保险
+  - 债务
+  - 选举
 ---
 
 # 米国債務拡大に対するワシントンの動き

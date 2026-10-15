@@ -24,6 +24,15 @@
   - "His New Startup Ploy"
   - "Rebuilding"
   - "Posterous"
+companies: []
+industries: []
+technologies:
+  - 编程助手
+keywords:
+  - 创业
+tags:
+  - 编程助手
+  - 创业
 ---
 
 # The Age Of The 40-Year-Old Solo Founder Is Here

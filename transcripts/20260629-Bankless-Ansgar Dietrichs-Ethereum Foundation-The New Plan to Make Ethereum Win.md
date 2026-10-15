@@ -17,6 +17,25 @@ transcript_source: "YouTube automatic captions, en-orig json3."
   - scaling roadmap
   - validators
   - Bankless
+companies: []
+industries:
+  - 加密
+technologies:
+  - 以太坊
+  - 比特币
+  - DeFi
+  - L2
+keywords:
+  - 人才
+  - 创业
+tags:
+  - 加密
+  - 以太坊
+  - 比特币
+  - DeFi
+  - L2
+  - 人才
+  - 创业
 ---
 
 # The New Plan to Make Ethereum Win

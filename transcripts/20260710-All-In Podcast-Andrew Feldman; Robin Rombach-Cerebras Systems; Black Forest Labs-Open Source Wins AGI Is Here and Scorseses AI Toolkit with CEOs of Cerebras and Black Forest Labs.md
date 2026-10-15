@@ -22,6 +22,25 @@ YouTube发布时间: 2026-07-10
   - "Martin Scorsese"
   - "data centers"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies:
+  - Cerebras
+  - OpenAI
+industries:
+  - 数据中心
+technologies:
+  - LLM
+  - 推理
+keywords:
+  - 开源
+  - AGI
+tags:
+  - Cerebras
+  - OpenAI
+  - 数据中心
+  - LLM
+  - 推理
+  - 开源
+  - AGI
 ---
 
 # Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs

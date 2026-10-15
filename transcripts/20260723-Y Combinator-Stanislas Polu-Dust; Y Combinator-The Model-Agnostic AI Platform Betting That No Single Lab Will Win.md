@@ -18,6 +18,25 @@
   - "AI margins"
   - "France startup ecosystem"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - OpenAI
+  - Stripe
+  - Mistral
+industries: []
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 融资
+  - 创业
+tags:
+  - OpenAI
+  - Stripe
+  - Mistral
+  - LLM
+  - Agent
+  - 融资
+  - 创业
 ---
 
 # The Model-Agnostic AI Platform Betting That No Single Lab Will Win

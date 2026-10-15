@@ -50,6 +50,25 @@ youtube_video_id: "JJwzpZutx7A"
 文字稿来源: "YouTube public subtitles: en-orig；完整源文本位于 caption_cache/JJwzpZutx7A.en-orig.source.txt；官方 Podcast RSS 未提供满足条件的同期公开完整 transcript。"
 YouTube发布时间: "2026-08-12T16:25:53Z"
 字幕来源: "YouTube public subtitles: en-orig"
+companies: []
+industries:
+  - 加密
+  - 云计算
+  - 宏观
+technologies:
+  - 区块链
+  - 以太坊
+  - Zcash
+keywords:
+  - 代币经济
+tags:
+  - 加密
+  - 云计算
+  - 宏观
+  - 区块链
+  - 以太坊
+  - Zcash
+  - 代币经济
 ---
 
 # The 'Useless' Theory Behind Modern SNARKs (ft. Gödel Prize Winner Noam Nisan)

@@ -24,6 +24,21 @@
   - "Episode"
   - "Archive"
   - "Podcast"
+companies:
+  - GOOGL
+  - AAPL
+  - Anthropic
+industries: []
+technologies:
+  - LLM
+keywords:
+  - IPO
+tags:
+  - GOOGL
+  - AAPL
+  - Anthropic
+  - LLM
+  - IPO
 ---
 
 # Tony Fadell: How to build real taste (and why AI makes it matter more)

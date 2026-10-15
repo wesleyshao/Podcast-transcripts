@@ -24,6 +24,37 @@ youtube_video_id: "KX6q6lvoYtM"
 YouTube发布时间: "2025-10-14"
 播客标题: "AI Bubble, Stablecoin Boom, and Runnin' Down a Dream | BG2 w/ Bill Gurley and Brad Gerstner"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - NVDA
+  - OpenAI
+  - META
+  - CoreWeave
+  - MSFT
+industries:
+  - 加密
+  - 半导体
+  - 风险投资
+technologies:
+  - 稳定币
+  - GPU
+  - LLM
+keywords:
+  - 泡沫
+  - 资本开支
+tags:
+  - NVDA
+  - OpenAI
+  - META
+  - CoreWeave
+  - MSFT
+  - 加密
+  - 半导体
+  - 风险投资
+  - 稳定币
+  - GPU
+  - LLM
+  - 泡沫
+  - 资本开支
 ---
 
 # AI Bubble, Stablecoin Boom, and Runnin' Down a Dream | BG2 w/ Bill Gurley and Brad Gerstner

@@ -39,6 +39,19 @@ YouTube发布时间: 2026-09-02T22:47:46Z
   - crypto option
   - covered call
   - convertible debt
+companies:
+  - Hyperliquid
+industries:
+  - 加密
+technologies:
+  - 比特币
+keywords:
+  - 监管
+tags:
+  - Hyperliquid
+  - 加密
+  - 比特币
+  - 监管
 ---
 
 # PURR CEO： Hyperliquid Is Still Extremely Undervalued (…And is Coming To The US Soon)

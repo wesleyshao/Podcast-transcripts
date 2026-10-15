@@ -41,6 +41,15 @@ YouTube发布时间: 2026-08-26T17:00:00Z
   - 海上航行
   - 保存问题
   - 史前文明
+companies: []
+industries:
+  - 矿业
+  - 媒体
+technologies: []
+keywords: []
+tags:
+  - 矿业
+  - 媒体
 ---
 
 # Joe Rogan Experience #2546 - Michael Button

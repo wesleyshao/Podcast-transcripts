@@ -45,6 +45,35 @@ YouTube发布时间: 2026-08-24T14:25:31Z
   - Rillet
   - Tacto
   - Auctor
+companies:
+  - SpaceX
+  - Citadel
+  - ABNB
+  - Anthropic
+  - Sequoia
+industries:
+  - 商业航天
+technologies:
+  - LLM
+  - 可回收火箭
+  - Agent
+keywords:
+  - 融资
+  - 估值
+  - 人才
+tags:
+  - SpaceX
+  - Citadel
+  - ABNB
+  - Anthropic
+  - Sequoia
+  - 商业航天
+  - LLM
+  - 可回收火箭
+  - Agent
+  - 融资
+  - 估值
+  - 人才
 ---
 
 # Inside Sequoia's Investment Committee | How the SpaceX & Citadel Deals Went Down | Julien Bek

@@ -33,6 +33,15 @@ YouTube发布时间: 2026-08-26T19:56:44Z
   - 印度
   - 印度尼西亚
   - 哥伦比亚
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 通胀
+tags:
+  - 宏观
+  - 通胀
 ---
 
 # エルニーニョが市場にもたらす波及効果

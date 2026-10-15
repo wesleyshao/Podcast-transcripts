@@ -36,6 +36,33 @@ YouTube发布时间: 2026-08-28T06:51:36Z
   - tokenization
   - custody
   - institutional security
+companies:
+  - Ethena
+  - Hyperliquid
+industries:
+  - 加密
+  - 金融
+  - 宏观
+technologies:
+  - 稳定币
+  - 代币化
+  - 以太坊
+  - 比特币
+keywords:
+  - 监管
+  - 黄金
+tags:
+  - Ethena
+  - Hyperliquid
+  - 加密
+  - 金融
+  - 宏观
+  - 稳定币
+  - 代币化
+  - 以太坊
+  - 比特币
+  - 监管
+  - 黄金
 ---
 
 # 🚨LIVE: ETH & SOL Ripping! HYPE ATH! Ethena Fee Switch! Lockout Rally CONTINUES! Silagadze & Belshe

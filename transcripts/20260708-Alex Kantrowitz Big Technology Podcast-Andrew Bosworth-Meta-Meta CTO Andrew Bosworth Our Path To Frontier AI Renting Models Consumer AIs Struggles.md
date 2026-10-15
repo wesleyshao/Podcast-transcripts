@@ -19,6 +19,17 @@ YouTube发布时间: 2026-07-08
   - "distribution"
   - "employee training"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies:
+  - META
+  - GOOGL
+industries: []
+technologies:
+  - Agent
+keywords: []
+tags:
+  - META
+  - GOOGL
+  - Agent
 ---
 
 # Meta CTO Andrew Bosworth: Our Path To Frontier AI, Renting Models, Consumer AI's Struggles

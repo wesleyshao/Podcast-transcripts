@@ -53,6 +53,41 @@ youtube_video_id: 0NcO4wCSHT0
   - SEC
   - L1 inflation
   - staking revenue
+companies:
+  - AMZN
+  - Circle
+  - CLSK
+  - HOOD
+  - MSFT
+industries:
+  - 加密
+  - 宏观
+  - 数据中心
+technologies:
+  - 比特币
+  - 稳定币
+  - Solana
+  - 以太坊
+keywords:
+  - 泡沫
+  - 监管
+  - 通胀
+tags:
+  - AMZN
+  - Circle
+  - CLSK
+  - HOOD
+  - MSFT
+  - 加密
+  - 宏观
+  - 数据中心
+  - 比特币
+  - 稳定币
+  - Solana
+  - 以太坊
+  - 泡沫
+  - 监管
+  - 通胀
 ---
 
 # VanEck Research Head: Why This Isn't The AI Bubble Everyone Fears (Here's Why)

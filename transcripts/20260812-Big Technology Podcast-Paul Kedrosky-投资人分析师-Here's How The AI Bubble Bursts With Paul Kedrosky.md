@@ -48,6 +48,41 @@ youtube_video_id: "-KPnQWV8A8I"
   - "AGI"
   - "S&P 500"
   - "credit default swaps"
+companies:
+  - Anthropic
+  - OpenAI
+  - Figma
+  - MSFT
+  - PLTR
+industries:
+  - 数据中心
+  - 房地产
+  - 宏观
+technologies:
+  - GPU
+  - LLM
+  - 后训练
+  - 开源模型
+keywords:
+  - 泡沫
+  - 资本开支
+  - AGI
+tags:
+  - Anthropic
+  - OpenAI
+  - Figma
+  - MSFT
+  - PLTR
+  - 数据中心
+  - 房地产
+  - 宏观
+  - GPU
+  - LLM
+  - 后训练
+  - 开源模型
+  - 泡沫
+  - 资本开支
+  - AGI
 ---
 
 # Here's How The AI Bubble Bursts — With Paul Kedrosky

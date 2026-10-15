@@ -28,6 +28,13 @@ YouTube发布时间: 2026-08-31T16:06:48Z
   - employee ownership
   - secondary market
   - New York City
+companies: []
+industries: []
+technologies: []
+keywords:
+  - IPO
+tags:
+  - IPO
 ---
 
 # Invested at Work： Off the Cuff With Atish Davda

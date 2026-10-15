@@ -27,6 +27,17 @@ YouTube发布时间: 2026-08-25T18:44:40Z
   - coastal restoration
   - wetland
   - Louisiana energy industry
+companies:
+  - SpaceX
+industries:
+  - 商业航天
+technologies:
+  - 可回收火箭
+keywords: []
+tags:
+  - SpaceX
+  - 商业航天
+  - 可回收火箭
 ---
 
 # SpaceX与路易斯安那州政府-Starbase Louisiana, August 25, 2026

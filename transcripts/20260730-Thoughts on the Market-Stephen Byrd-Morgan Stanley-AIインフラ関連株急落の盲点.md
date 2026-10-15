@@ -32,6 +32,13 @@ YouTube发布时间: "2026-08-05T20:18:13Z"
   - fuel cells
   - energy storage
   - natural gas turbines
+companies: []
+industries:
+  - 数据中心
+technologies: []
+keywords: []
+tags:
+  - 数据中心
 ---
 
 # AIインフラ関連株急落の盲点

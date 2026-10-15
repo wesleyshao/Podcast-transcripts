@@ -59,6 +59,27 @@ YouTube发布时间: "2026-09-12T15:45:14Z"
   - "technocapitalism"
   - "AI safety"
 
+companies:
+  - OpenAI
+  - Anthropic
+industries: []
+technologies:
+  - LLM
+  - Agent
+  - 世界模型
+keywords:
+  - AGI
+  - 监管
+  - AI安全
+tags:
+  - OpenAI
+  - Anthropic
+  - LLM
+  - Agent
+  - 世界模型
+  - AGI
+  - 监管
+  - AI安全
 ---
 
 # AI:AM Highlights: Astra as AGI, OpenAI's Pause, Mythos @ Mozilla & Human Agency vs Technocapitalism

@@ -39,6 +39,25 @@ YouTube发布时间: "2026-09-22T23:55:09Z"
   - "asset managers"
   - "The Rollup"
   - "Dinari"
+companies:
+  - HOOD
+  - Dinari
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 代币化
+keywords:
+  - 监管
+  - IPO
+tags:
+  - HOOD
+  - Dinari
+  - 加密
+  - 金融
+  - 代币化
+  - 监管
+  - IPO
 ---
 
 # Carlos Domingo: Why Tokenization Goes From Billions To Trillions (Full Thesis)

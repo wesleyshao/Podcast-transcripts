@@ -34,6 +34,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/lf9vFX
   - capital raise
   - risk management
   - green energy
+companies: []
+industries:
+  - 电力
+technologies: []
+keywords:
+  - 融资
+tags:
+  - 电力
+  - 融资
 ---
 
 # Ørsted CEO: Offshore Wind's Boom and Bust, and America's Pushback | Podcast | In Good Company

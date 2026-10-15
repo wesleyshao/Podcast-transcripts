@@ -17,6 +17,23 @@
   - "stablecoins"
   - "transaction-based rewards"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries:
+  - 加密
+technologies:
+  - DeFi
+  - 代币化
+keywords:
+  - 监管
+  - 融资
+  - 稳定币法案
+tags:
+  - 加密
+  - DeFi
+  - 代币化
+  - 监管
+  - 融资
+  - 稳定币法案
 ---
 
 # Salman Banaei: Why CLARITY Is More Likely To Pass Than You May Think (Insider Scoop)

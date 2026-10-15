@@ -33,6 +33,23 @@ YouTube发布时间: 2026-09-11
   - SaaS apocalypse
   - Voya Financial
   - Disney
+companies:
+  - DIS
+industries:
+  - 企业软件
+  - 消费
+  - 机器人
+technologies:
+  - Agent
+keywords:
+  - 监管
+tags:
+  - DIS
+  - 企业软件
+  - 消费
+  - 机器人
+  - Agent
+  - 监管
 ---
 # Is The Future Customer Experience AI Talking To AI? With Tony Bates
 ## Transcript

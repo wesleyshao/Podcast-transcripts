@@ -18,6 +18,13 @@
   - "durability"
 youtube_video_id: "99sPd15j3Zc"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 创业
+tags:
+  - 创业
 ---
 
 # What Actually Makes A Startup Durable

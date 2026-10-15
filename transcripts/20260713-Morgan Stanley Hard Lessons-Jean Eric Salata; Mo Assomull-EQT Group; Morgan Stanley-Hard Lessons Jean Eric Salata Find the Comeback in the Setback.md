@@ -15,6 +15,15 @@
   - "leadership"
 字幕来源: "subtitles:en:English"
 YouTube视频标题: "Hard Lessons: Jean Eric Salata: Find the Comeback in the Setback"
+companies: []
+industries:
+  - 金融
+technologies: []
+keywords:
+  - 组织管理
+tags:
+  - 金融
+  - 组织管理
 ---
 
 ## Transcript

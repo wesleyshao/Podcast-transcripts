@@ -49,6 +49,41 @@ YouTube发布时间: "2026-09-09T02:01:11Z"
   - "Starlink"
   - "AI in the AM"
 
+companies:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - Redwood
+  - SpaceX
+industries:
+  - 商业航天
+  - 媒体
+  - 教育
+technologies:
+  - 世界模型
+  - LLM
+  - 可回收火箭
+  - GPU
+keywords:
+  - AGI
+  - 开源
+  - 隐私
+tags:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - Redwood
+  - SpaceX
+  - 商业航天
+  - 媒体
+  - 教育
+  - 世界模型
+  - LLM
+  - 可回收火箭
+  - GPU
+  - AGI
+  - 开源
+  - 隐私
 ---
 
 # Astra recap、Millennium Prize Drama 与 Ksenia Se：AI in the AM

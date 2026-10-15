@@ -18,6 +18,31 @@
   - "AI secondary market"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Zuckerberg Back on X Challenging Codex & Claude Code | SK Hynix’s $26BN IPO"
+companies:
+  - Anthropic
+  - META
+  - SKHynix
+  - AAPL
+  - OpenAI
+industries:
+  - 半导体
+  - 存储
+technologies:
+  - 编程助手
+  - LLM
+keywords:
+  - IPO
+tags:
+  - Anthropic
+  - META
+  - SKHynix
+  - AAPL
+  - OpenAI
+  - 半导体
+  - 存储
+  - 编程助手
+  - LLM
+  - IPO
 ---
 
 # Zuckerberg Back on X Challenging Codex & Claude Code | SK Hynix’s $26BN IPO

@@ -23,6 +23,17 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/WNGToq
   - agentic commerce
   - e-commerce
   - shopping agents
+companies: []
+industries:
+  - 消费
+  - 电商
+technologies:
+  - Agent
+keywords: []
+tags:
+  - 消费
+  - 电商
+  - Agent
 ---
 
 # When AI Takes Over Shopping Carts

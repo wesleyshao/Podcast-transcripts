@@ -21,6 +21,27 @@
   - Investing
   - Anti
   - Fund
+companies:
+  - a16z
+  - OpenAI
+  - Anthropic
+  - AAPL
+  - SpaceX
+industries:
+  - 商业航天
+technologies:
+  - LLM
+  - 可回收火箭
+keywords: []
+tags:
+  - a16z
+  - OpenAI
+  - Anthropic
+  - AAPL
+  - SpaceX
+  - 商业航天
+  - LLM
+  - 可回收火箭
 ---
 
 # Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund

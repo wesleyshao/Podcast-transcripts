@@ -42,6 +42,23 @@ YouTube发布时间: "2026-09-08T12:00:29Z"
   - "美国政治"
   - "中国"
   - "日本"
+companies: []
+industries:
+  - 医疗
+  - 国防
+  - 房地产
+technologies: []
+keywords:
+  - 战争
+  - 选举
+  - 住房
+tags:
+  - 医疗
+  - 国防
+  - 房地产
+  - 战争
+  - 选举
+  - 住房
 ---
 
 # Why the World Order Is Collapsing and American Power Is Rising

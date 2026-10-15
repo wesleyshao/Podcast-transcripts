@@ -67,6 +67,41 @@ YouTube发布时间: "2026-08-25T15:32:57Z"
   - "sovereign debt"
   - "interest rates"
   - "recursive self-improvement"
+companies:
+  - SemiAnalysis
+  - Anthropic
+  - OpenAI
+  - META
+  - SpaceX
+industries:
+  - 宏观
+  - 商业航天
+  - 半导体
+technologies:
+  - LLM
+  - 可回收火箭
+  - EUV
+  - HBM
+keywords:
+  - 利率
+  - 资本开支
+  - AGI
+tags:
+  - SemiAnalysis
+  - Anthropic
+  - OpenAI
+  - META
+  - SpaceX
+  - 宏观
+  - 商业航天
+  - 半导体
+  - LLM
+  - 可回收火箭
+  - EUV
+  - HBM
+  - 利率
+  - 资本开支
+  - AGI
 ---
 
 # Dylan Patel – Two labs will soon control most of the world's workforce

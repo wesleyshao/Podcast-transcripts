@@ -17,6 +17,25 @@
   - "mixture of experts"
   - "Blackwell GPU"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - NVDA
+industries:
+  - 半导体
+technologies:
+  - GPU
+  - Transformer
+  - Blackwell
+  - 推理
+keywords:
+  - 开源
+tags:
+  - NVDA
+  - 半导体
+  - GPU
+  - Transformer
+  - Blackwell
+  - 推理
+  - 开源
 ---
 
 # Inside Nemotron & NVIDIA’s AI Lab | Bryan Catanzaro

@@ -16,6 +16,19 @@
   - "tokenization"
   - "digital assets"
   - "code development"
+companies: []
+industries:
+  - 加密
+technologies:
+  - 代币化
+keywords:
+  - 监管
+  - 隐私
+tags:
+  - 加密
+  - 代币化
+  - 监管
+  - 隐私
 ---
 
 # Hester Peirce: The Next Era Of Digital Assets Is Here (What's New)

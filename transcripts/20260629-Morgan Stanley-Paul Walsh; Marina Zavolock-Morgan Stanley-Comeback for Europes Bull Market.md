@@ -15,6 +15,13 @@ transcript_source: "YouTube captions json3: fuS5eeCebUI.en-orig.json3."
   - Morgan Stanley
   - Paul Walsh
   - Marina Zavolock
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords: []
+tags:
+  - 宏观
 ---
 
 # Comeback for Europe’s Bull Market?

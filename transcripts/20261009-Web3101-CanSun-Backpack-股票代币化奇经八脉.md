@@ -39,6 +39,37 @@ YouTube发布时间: 2026-10-09
   - BlackRock
   - 稳定币
   - 链闻
+companies:
+  - COIN
+  - HOOD
+  - Ondo
+  - Binance
+  - Uniswap
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 代币化
+  - DeFi
+  - 稳定币
+keywords:
+  - 监管
+  - IPO
+  - 合规
+tags:
+  - COIN
+  - HOOD
+  - Ondo
+  - Binance
+  - Uniswap
+  - 加密
+  - 金融
+  - 代币化
+  - DeFi
+  - 稳定币
+  - 监管
+  - IPO
+  - 合规
 ---
 
 # E86｜关于股票代币化的奇经八脉三头六臂

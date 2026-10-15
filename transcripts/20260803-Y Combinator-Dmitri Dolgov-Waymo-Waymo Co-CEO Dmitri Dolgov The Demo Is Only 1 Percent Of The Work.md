@@ -45,6 +45,27 @@ youtube_video_id: "Gp4zrV3-6N8"
   - "Genie 3"
   - "critic"
   - "safety and readiness framework"
+companies:
+  - Waymo
+  - DeepMind
+  - GOOGL
+industries:
+  - 汽车
+technologies:
+  - 世界模型
+  - 多模态
+  - LLM
+  - Transformer
+keywords: []
+tags:
+  - Waymo
+  - DeepMind
+  - GOOGL
+  - 汽车
+  - 世界模型
+  - 多模态
+  - LLM
+  - Transformer
 ---
 
 # Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work

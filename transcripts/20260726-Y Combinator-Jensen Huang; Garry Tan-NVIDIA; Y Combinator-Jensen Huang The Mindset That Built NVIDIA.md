@@ -24,6 +24,31 @@ youtube_video_id: "I4B37S1dyQQ"
 YouTube发布时间: "2026-07-26"
 播客标题: "Jensen Huang: The Mindset That Built NVIDIA"
 字幕来源: "YouTube public subtitles: zh-Hans json3"
+companies:
+  - NVDA
+industries:
+  - 半导体
+  - 机器人
+  - 汽车
+technologies:
+  - Agent
+  - GPU
+  - 自动驾驶
+  - CUDA
+keywords:
+  - 创业
+  - 开源
+tags:
+  - NVDA
+  - 半导体
+  - 机器人
+  - 汽车
+  - Agent
+  - GPU
+  - 自动驾驶
+  - CUDA
+  - 创业
+  - 开源
 ---
 
 # Jensen Huang: The Mindset That Built NVIDIA

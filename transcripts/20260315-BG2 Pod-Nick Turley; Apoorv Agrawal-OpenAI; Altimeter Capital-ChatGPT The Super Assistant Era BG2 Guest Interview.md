@@ -23,6 +23,23 @@ youtube_video_id: "MIKej1HCRW0"
 YouTube发布时间: "2026-03-15"
 播客标题: "ChatGPT – The Super Assistant Era | BG2 Guest Interview"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+  - Agent
+  - GPU
+  - 编程助手
+keywords:
+  - AGI
+tags:
+  - OpenAI
+  - LLM
+  - Agent
+  - GPU
+  - 编程助手
+  - AGI
 ---
 
 # ChatGPT – The Super Assistant Era | BG2 Guest Interview

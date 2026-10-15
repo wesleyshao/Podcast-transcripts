@@ -35,6 +35,21 @@ youtube_video_id: AsLq14kTR80
   - Federal Reserve
   - Kevin Warsh
   - 10-year Treasury yield
+companies:
+  - META
+  - MSFT
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 资本开支
+  - 定价权
+tags:
+  - META
+  - MSFT
+  - 宏观
+  - 资本开支
+  - 定价权
 ---
 
 # Quality Matters Again

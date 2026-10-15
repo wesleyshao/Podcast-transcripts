@@ -52,6 +52,37 @@ youtube_video_id: "03S1ECNLBnA"
   - "Stripe"
   - "Axie Infinity"
   - "Fortnite"
+companies:
+  - Anthropic
+  - OpenAI
+  - GOOGL
+  - Citadel
+  - META
+industries:
+  - 加密
+  - 金融
+  - 宏观
+technologies:
+  - 比特币
+  - 以太坊
+  - 代币化
+  - LLM
+keywords:
+  - 利率
+tags:
+  - Anthropic
+  - OpenAI
+  - GOOGL
+  - Citadel
+  - META
+  - 加密
+  - 金融
+  - 宏观
+  - 比特币
+  - 以太坊
+  - 代币化
+  - LLM
+  - 利率
 ---
 
 # Bitcoin Is The Best Hedge Fund That's Ever Existed

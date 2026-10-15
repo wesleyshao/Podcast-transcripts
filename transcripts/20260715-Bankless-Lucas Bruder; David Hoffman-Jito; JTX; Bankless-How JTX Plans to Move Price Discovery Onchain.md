@@ -18,6 +18,27 @@
   - "onchain trading"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "How JTX Plans to Move Price Discovery Onchain"
+companies:
+  - HOOD
+  - Circle
+  - Uniswap
+industries:
+  - 加密
+  - 金融
+technologies:
+  - Solana
+  - 稳定币
+  - 以太坊
+keywords: []
+tags:
+  - HOOD
+  - Circle
+  - Uniswap
+  - 加密
+  - 金融
+  - Solana
+  - 稳定币
+  - 以太坊
 ---
 
 # How JTX Plans to Move Price Discovery Onchain

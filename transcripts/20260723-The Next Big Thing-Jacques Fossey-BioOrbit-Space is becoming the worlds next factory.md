@@ -17,6 +17,25 @@
   - "pharmaceutical manufacturing"
   - "automated orbital factories"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - SpaceX
+  - RocketLab
+  - NASA
+industries:
+  - 商业航天
+  - 制造业
+  - 生物技术
+technologies:
+  - 可回收火箭
+keywords: []
+tags:
+  - SpaceX
+  - RocketLab
+  - NASA
+  - 商业航天
+  - 制造业
+  - 生物技术
+  - 可回收火箭
 ---
 
 # Space is becoming the world's next factory | The Next Big Thing

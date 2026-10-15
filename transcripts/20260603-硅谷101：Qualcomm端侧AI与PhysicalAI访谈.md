@@ -32,6 +32,27 @@
   - 对话高通
   - 智能体爆发
   - 6G与Physical
+companies:
+  - QCOM
+industries:
+  - 半导体
+  - 数据中心
+  - 机器人
+technologies:
+  - Agent
+  - GPU
+  - LLM
+  - 自动驾驶
+keywords: []
+tags:
+  - QCOM
+  - 半导体
+  - 数据中心
+  - 机器人
+  - Agent
+  - GPU
+  - LLM
+  - 自动驾驶
 ---
 
 # 对话高通：智能体爆发、6G与Physical AI背后的大赢家

@@ -66,6 +66,35 @@ youtube_video_id: whcfSGN6CAU
   - token cost
   - local models
   - agent harness
+companies:
+  - OpenAI
+  - Anthropic
+  - AAPL
+  - NVDA
+  - Visa
+industries:
+  - 半导体
+technologies:
+  - Agent
+  - 编程助手
+  - GPU
+  - LLM
+keywords:
+  - 开源
+  - 创业
+tags:
+  - OpenAI
+  - Anthropic
+  - AAPL
+  - NVDA
+  - Visa
+  - 半导体
+  - Agent
+  - 编程助手
+  - GPU
+  - LLM
+  - 开源
+  - 创业
 ---
 
 # Peter Steinberger：＂Fun Is Velocity＂

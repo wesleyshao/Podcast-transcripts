@@ -41,6 +41,27 @@ YouTube发布时间: "2026-09-16T10:30:03Z"
   - "FX"
   - "on-ramp"
 核心观点: "Nikhil Chandhok 介绍 Arc Mainnet：以稳定币计价 gas、半秒级结算终局、面向隐私和机构级金融基础设施，并提供 Arc Studio 与开发工具，目标是把 Circle 的稳定币能力扩展为更完整的经济操作系统；后半段讨论 AI agents、代币化股票、全天候市场、跨境支付和外汇入口。"
+companies:
+  - Circle
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 区块链
+  - 稳定币
+  - 代币化
+  - 以太坊
+keywords:
+  - 隐私
+tags:
+  - Circle
+  - 加密
+  - 金融
+  - 区块链
+  - 稳定币
+  - 代币化
+  - 以太坊
+  - 隐私
 ---
 
 # Circle’s New Blockchain Is Built for More Than Stablecoins

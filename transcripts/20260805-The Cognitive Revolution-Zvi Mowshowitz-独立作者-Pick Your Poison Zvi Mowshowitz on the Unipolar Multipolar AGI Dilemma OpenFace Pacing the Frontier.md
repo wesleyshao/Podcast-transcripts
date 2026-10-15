@@ -46,6 +46,31 @@ youtube_video_id: wAzq8gA5jyc
   - Safe Superintelligence
   - DeepSeek
   - Sabbath
+companies:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - DeepSeek
+  - GOOGL
+industries: []
+technologies:
+  - LLM
+  - 强化学习
+keywords:
+  - AGI
+  - 监管
+  - 超级智能
+tags:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - DeepSeek
+  - GOOGL
+  - LLM
+  - 强化学习
+  - AGI
+  - 监管
+  - 超级智能
 ---
 
 # Pick Your Poison: Zvi Mowshowitz on the Unipolar/Multipolar AGI Dilemma, OpenFace & Pacing the Frontier

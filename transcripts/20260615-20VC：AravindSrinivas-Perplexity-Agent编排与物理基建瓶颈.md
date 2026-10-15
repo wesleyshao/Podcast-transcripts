@@ -32,6 +32,39 @@
   - Will
   - Be
   - More
+companies:
+  - Perplexity
+  - META
+  - MU
+  - Anthropic
+  - GOOGL
+industries:
+  - 商业航天
+  - 半导体
+  - 存储
+technologies:
+  - Agent
+  - LLM
+  - 推理
+keywords:
+  - 出口管制
+  - AGI
+  - IPO
+tags:
+  - Perplexity
+  - META
+  - MU
+  - Anthropic
+  - GOOGL
+  - 商业航天
+  - 半导体
+  - 存储
+  - Agent
+  - LLM
+  - 推理
+  - 出口管制
+  - AGI
+  - IPO
 ---
 
 # Perplexity CEO: Micron Will Be More Valuable Than Meta & How Export Controls Helped Not Hurt China

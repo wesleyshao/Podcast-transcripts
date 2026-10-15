@@ -24,6 +24,27 @@
   - "Anthropic Strategy"
   - "The Pricing Crunch"
   - "Platform History"
+companies:
+  - Anthropic
+  - a16z
+  - AAPL
+  - GOOGL
+  - OpenAI
+industries:
+  - 企业软件
+technologies:
+  - LLM
+keywords:
+  - 资本开支
+tags:
+  - Anthropic
+  - a16z
+  - AAPL
+  - GOOGL
+  - OpenAI
+  - 企业软件
+  - LLM
+  - 资本开支
 ---
 
 # The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z

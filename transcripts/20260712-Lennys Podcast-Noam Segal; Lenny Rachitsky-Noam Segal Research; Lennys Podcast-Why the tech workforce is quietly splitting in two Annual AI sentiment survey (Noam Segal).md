@@ -18,6 +18,13 @@ YouTube发布时间: 2026-07-12
   - "employee well-being"
   - "productivity pressure"
 字幕来源: "YouTube 公开字幕 json3，automatic_captions/en-orig"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 生产力
+tags:
+  - 生产力
 ---
 
 # Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)

@@ -25,6 +25,29 @@ YouTube发布时间: 2026-08-22T16:25:41Z
   - 稳定币
   - 代币化资产
   - 隐私与自托管
+companies:
+  - ARK
+  - Hyperliquid
+industries:
+  - 宏观
+  - 加密
+technologies:
+  - Zcash
+  - 稳定币
+  - 比特币
+  - 代币化
+keywords:
+  - 隐私
+tags:
+  - ARK
+  - Hyperliquid
+  - 宏观
+  - 加密
+  - Zcash
+  - 稳定币
+  - 比特币
+  - 代币化
+  - 隐私
 ---
 
 # ARKInvest Digital Assets: The Next Bull Market Will Be The Biggest Ever  (What We Expect)

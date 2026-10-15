@@ -26,6 +26,37 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/kVzYGV
   - Amazon
   - Workday
   - AI IPO
+companies:
+  - NVDA
+  - Anthropic
+  - xAI
+  - AMZN
+  - META
+industries:
+  - 半导体
+  - 商业航天
+  - 数据中心
+technologies:
+  - GPU
+  - LLM
+keywords:
+  - IPO
+  - 开源
+  - 融资
+tags:
+  - NVDA
+  - Anthropic
+  - xAI
+  - AMZN
+  - META
+  - 半导体
+  - 商业航天
+  - 数据中心
+  - GPU
+  - LLM
+  - IPO
+  - 开源
+  - 融资
 ---
 
 # Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback

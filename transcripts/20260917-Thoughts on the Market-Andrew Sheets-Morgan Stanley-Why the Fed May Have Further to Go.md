@@ -23,6 +23,19 @@ YouTube发布时间: 2026-09-17T22:35:32Z
   - long-run neutral interest rate
   - Andrew Sheets
   - Morgan Stanley
+companies: []
+industries:
+  - 宏观
+  - 能源
+technologies: []
+keywords:
+  - 利率
+  - 通胀
+tags:
+  - 宏观
+  - 能源
+  - 利率
+  - 通胀
 ---
 
 # Why the Fed May Have Further to Go

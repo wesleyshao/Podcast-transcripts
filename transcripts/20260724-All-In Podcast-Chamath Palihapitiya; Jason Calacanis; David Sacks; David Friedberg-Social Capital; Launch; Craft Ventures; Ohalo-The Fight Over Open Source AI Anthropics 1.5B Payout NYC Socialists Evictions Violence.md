@@ -18,6 +18,31 @@
   - "private property rights"
 youtube_video_id: "wcV0SRPFK9s"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - TSLA
+  - 月之暗面
+industries: []
+technologies:
+  - LLM
+  - 开源模型
+keywords:
+  - 开源
+  - 资本开支
+  - 版权
+tags:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - TSLA
+  - 月之暗面
+  - LLM
+  - 开源模型
+  - 开源
+  - 资本开支
+  - 版权
 ---
 
 # The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?

@@ -21,6 +21,21 @@ YouTube发布时间: 2026-07-10
   - "shader tools"
   - "personalized software"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies:
+  - Anthropic
+industries: []
+technologies:
+  - Agent
+  - LLM
+  - 编程助手
+keywords:
+  - 创业
+tags:
+  - Anthropic
+  - Agent
+  - LLM
+  - 编程助手
+  - 创业
 ---
 
 # New Ways To Design With AI Tools

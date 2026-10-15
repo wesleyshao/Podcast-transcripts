@@ -88,6 +88,41 @@ youtube_video_id: IwjEuO2-3Y4
   - Mahabharata
   - Peter Thiel
   - Michael Burry
+companies:
+  - AAPL
+  - Anthropic
+  - GOOGL
+  - META
+  - MSFT
+industries:
+  - 云计算
+  - 商业航天
+  - 数据中心
+technologies:
+  - TPU
+  - GPU
+  - LLM
+  - CUDA
+keywords:
+  - AGI
+  - 资本开支
+  - 垂直整合
+tags:
+  - AAPL
+  - Anthropic
+  - GOOGL
+  - META
+  - MSFT
+  - 云计算
+  - 商业航天
+  - 数据中心
+  - TPU
+  - GPU
+  - LLM
+  - CUDA
+  - AGI
+  - 资本开支
+  - 垂直整合
 ---
 
 # How The AI Bet Pays Off + AI Lab Strategy Game — With David Cahn

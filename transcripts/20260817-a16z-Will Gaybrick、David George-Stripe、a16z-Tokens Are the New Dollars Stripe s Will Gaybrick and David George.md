@@ -27,6 +27,29 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/P5iICD
   - agentic commerce
   - OpenAI
   - Claude
+companies:
+  - Stripe
+  - Anthropic
+  - OpenAI
+industries:
+  - 加密
+  - 支付
+technologies:
+  - 稳定币
+  - LLM
+  - 区块链
+  - Agent
+keywords: []
+tags:
+  - Stripe
+  - Anthropic
+  - OpenAI
+  - 加密
+  - 支付
+  - 稳定币
+  - LLM
+  - 区块链
+  - Agent
 ---
 
 # Tokens Are the New Dollars | Stripe s Will Gaybrick & David George

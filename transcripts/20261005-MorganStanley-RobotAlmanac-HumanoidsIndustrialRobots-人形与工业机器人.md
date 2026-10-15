@@ -39,6 +39,29 @@ YouTube发布时间: 2026-10-05
   - JL Mag
   - 私募 / 风险投资
   - actuators / 谐波减速器
+companies:
+  - Mobileye
+  - PLTR
+  - 三星
+  - 宁德时代
+  - 小米
+industries:
+  - 机器人
+  - 半导体
+  - 存储
+technologies:
+  - 具身智能
+keywords: []
+tags:
+  - Mobileye
+  - PLTR
+  - 三星
+  - 宁德时代
+  - 小米
+  - 机器人
+  - 半导体
+  - 存储
+  - 具身智能
 ---
 
 # The Robot Almanac: Humanoids & Industrial Robots (Ep. 3)

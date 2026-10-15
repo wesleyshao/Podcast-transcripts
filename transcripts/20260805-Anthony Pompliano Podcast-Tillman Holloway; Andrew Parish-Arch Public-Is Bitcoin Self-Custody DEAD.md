@@ -85,6 +85,35 @@ youtube_video_id: "0iXL24xuBec"
   - "401(k)"
   - "fungible token"
   - "NFT"
+companies:
+  - AAPL
+  - Citadel
+  - JPM
+  - OpenAI
+  - Anthropic
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 比特币
+  - Agent
+  - LLM
+  - 开源模型
+keywords:
+  - 开源
+tags:
+  - AAPL
+  - Citadel
+  - JPM
+  - OpenAI
+  - Anthropic
+  - 加密
+  - 金融
+  - 比特币
+  - Agent
+  - LLM
+  - 开源模型
+  - 开源
 ---
 
 # Is Bitcoin Self-Custody DEAD?!

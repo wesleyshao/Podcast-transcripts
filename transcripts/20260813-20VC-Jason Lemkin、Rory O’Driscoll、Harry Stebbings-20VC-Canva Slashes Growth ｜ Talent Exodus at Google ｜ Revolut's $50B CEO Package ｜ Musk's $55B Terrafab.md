@@ -90,6 +90,41 @@ youtube_video_id: 9uq9zxtwBrk
   - gross margin
   - free cash flow
   - market cap
+companies:
+  - Canva
+  - GOOGL
+  - Revolut
+  - Anthropic
+  - Atlassian
+industries:
+  - 数据中心
+  - 企业软件
+  - 半导体
+technologies:
+  - LLM
+  - Agent
+  - 卫星互联网
+  - 编程助手
+keywords:
+  - IPO
+  - 人才
+  - 估值
+tags:
+  - Canva
+  - GOOGL
+  - Revolut
+  - Anthropic
+  - Atlassian
+  - 数据中心
+  - 企业软件
+  - 半导体
+  - LLM
+  - Agent
+  - 卫星互联网
+  - 编程助手
+  - IPO
+  - 人才
+  - 估值
 ---
 
 # Canva Slashes Growth ｜ Talent Exodus at Google ｜ Revolut's $50B CEO Package ｜ Musk's $55B Terrafab

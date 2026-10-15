@@ -46,6 +46,37 @@ youtube_video_id: mOu_DBhvVSk
   - humanoid robots
   - world models
   - physical data
+companies:
+  - Anthropic
+  - DeepSeek
+  - 月之暗面
+  - OpenAI
+  - 阿里巴巴
+industries:
+  - 机器人
+  - 数据中心
+technologies:
+  - 具身智能
+  - LLM
+  - GPU
+  - Agent
+keywords:
+  - 开源
+  - 人才
+tags:
+  - Anthropic
+  - DeepSeek
+  - 月之暗面
+  - OpenAI
+  - 阿里巴巴
+  - 机器人
+  - 数据中心
+  - 具身智能
+  - LLM
+  - GPU
+  - Agent
+  - 开源
+  - 人才
 ---
 
 # How China Caught U.S. AI — With Grace Shao

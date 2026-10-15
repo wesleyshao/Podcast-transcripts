@@ -42,6 +42,29 @@ YouTube发布时间: "2026-07-30T15:15:18Z"
   - institutional adoption
   - tokenized assets
   - onchain finance
+companies:
+  - Polymarket
+industries:
+  - 加密
+  - 预测市场
+  - 金融
+technologies:
+  - DeFi
+  - 区块链
+keywords:
+  - 监管
+  - 稳定币法案
+  - 机构采用
+tags:
+  - Polymarket
+  - 加密
+  - 预测市场
+  - 金融
+  - DeFi
+  - 区块链
+  - 监管
+  - 稳定币法案
+  - 机构采用
 ---
 
 # Jito Chief Legal Officer: Why CLARITY Is Very Likely To Pass (Insider Take)

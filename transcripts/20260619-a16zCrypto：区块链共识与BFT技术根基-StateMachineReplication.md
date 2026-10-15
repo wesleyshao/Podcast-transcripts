@@ -21,6 +21,19 @@
   - Liskov
   - Tim
   - Roughgarden
+companies: []
+industries:
+  - 加密
+technologies:
+  - 区块链
+  - 分布式系统
+  - 比特币
+keywords: []
+tags:
+  - 加密
+  - 区块链
+  - 分布式系统
+  - 比特币
 ---
 
 # Before Blockchains, There Was State Machine Replication (ft. Barbara Liskov and Tim Roughgarden)

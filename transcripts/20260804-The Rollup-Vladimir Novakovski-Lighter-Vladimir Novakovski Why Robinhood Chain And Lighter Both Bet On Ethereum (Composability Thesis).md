@@ -50,6 +50,41 @@ youtube_video_id: "3EqhnsaSVaw"
   - "TWAP"
   - "RFQ"
   - "Citadel"
+companies:
+  - Lighter
+  - HOOD
+  - Citadel
+  - Cognition
+  - Anthropic
+industries:
+  - 加密
+  - 金融
+  - 商业航天
+technologies:
+  - 以太坊
+  - LLM
+  - Agent
+  - 零知识证明
+keywords:
+  - IPO
+  - 合规
+  - 监管
+tags:
+  - Lighter
+  - HOOD
+  - Citadel
+  - Cognition
+  - Anthropic
+  - 加密
+  - 金融
+  - 商业航天
+  - 以太坊
+  - LLM
+  - Agent
+  - 零知识证明
+  - IPO
+  - 合规
+  - 监管
 ---
 
 # Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)

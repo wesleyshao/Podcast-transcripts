@@ -47,6 +47,15 @@ YouTube发布时间: "2026-09-08T14:30:11Z"
   - "mathematical taste"
   - "harness"
   - "P versus NP"
+companies:
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+keywords: []
+tags:
+  - OpenAI
+  - LLM
 ---
 
 # Inside OpenAI’s Breakthroughs in Mathematical Reasoning

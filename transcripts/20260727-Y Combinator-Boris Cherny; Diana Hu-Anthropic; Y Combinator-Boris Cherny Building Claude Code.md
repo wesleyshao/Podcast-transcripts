@@ -23,6 +23,21 @@ youtube_video_id: "qyPCVqFUyDo"
 YouTube发布时间: "2026-07-27"
 播客标题: "Boris Cherny: Building Claude Code"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - Anthropic
+industries: []
+technologies:
+  - 编程助手
+  - Agent
+  - LLM
+keywords:
+  - 创业
+tags:
+  - Anthropic
+  - 编程助手
+  - Agent
+  - LLM
+  - 创业
 ---
 
 # Boris Cherny: Building Claude Code

@@ -41,6 +41,25 @@ YouTube发布时间: 2026-08-27T22:31:00Z
   - 货币政策传导
   - 价格稳定
   - 最大就业
+companies: []
+industries:
+  - 宏观
+  - 加密
+technologies:
+  - 比特币
+  - 稳定币
+keywords:
+  - 利率
+  - 通胀
+  - 就业
+tags:
+  - 宏观
+  - 加密
+  - 比特币
+  - 稳定币
+  - 利率
+  - 通胀
+  - 就业
 ---
 
 # Jackson Hole Tests the Fed’s Framework

@@ -33,6 +33,27 @@ YouTube发布时间: 2026-09-18T10:00:10Z
   - FlashAttention
   - DPO
   - RLHF
+companies:
+  - Perplexity
+  - Cerebras
+  - NVDA
+industries:
+  - 半导体
+technologies:
+  - 扩散模型
+  - 推理
+  - Transformer
+  - GPU
+keywords: []
+tags:
+  - Perplexity
+  - Cerebras
+  - NVDA
+  - 半导体
+  - 扩散模型
+  - 推理
+  - Transformer
+  - GPU
 ---
 
 # Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon

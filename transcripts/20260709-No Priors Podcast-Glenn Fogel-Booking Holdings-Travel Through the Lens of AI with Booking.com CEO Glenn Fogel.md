@@ -21,6 +21,13 @@ YouTube发布时间: 2026-07-09
   - "$700 million AI investment"
   - "online travel"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies: []
+industries: []
+technologies:
+  - Agent
+keywords: []
+tags:
+  - Agent
 ---
 
 # Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel

@@ -63,6 +63,29 @@ YouTube发布时间: 2026-08-28T11:30:41Z
   - AI agents
   - data centers
   - photonic computing
+companies:
+  - OpenAI
+  - Anthropic
+industries:
+  - 数据中心
+  - 制造业
+  - 机器人
+technologies:
+  - 强化学习
+  - LLM
+  - Agent
+  - GPU
+keywords: []
+tags:
+  - OpenAI
+  - Anthropic
+  - 数据中心
+  - 制造业
+  - 机器人
+  - 强化学习
+  - LLM
+  - Agent
+  - GPU
 ---
 
 # AI:AM Highlights: Recursive Self-Improvement, Rushed and Vibe-Coded?

@@ -29,6 +29,17 @@ YouTube发布时间: "2026-09-09T17:39:42Z"
   - "perpetual vehicles"
   - "redemptions"
   - "private companies"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 利率
+  - 融资
+tags:
+  - 宏观
+  - 利率
+  - 融资
 ---
 
 ## Transcript

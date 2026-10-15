@@ -36,6 +36,19 @@ youtube_video_id: peZxF9zAAQI
   - financial repression
   - midterm elections
 核心观点: Arthur Hayes 认为，AI 资本配置失误可能促使政策制定者通过扩张央行资产负债表来掩盖损失，从而形成有利于 Bitcoin 和黄金的宏观环境；他同时强调，美国中期选举前的可负担性政治会限制公开“印钞”叙事的空间。访谈表达的是嘉宾的加密资产宏观判断，没有形成海外上市公司投资机会文件。
+companies: []
+industries:
+  - 宏观
+  - 加密
+technologies:
+  - 比特币
+  - 代币化
+keywords: []
+tags:
+  - 宏观
+  - 加密
+  - 比特币
+  - 代币化
 ---
 
 # Arthur Hayes: The Money Printing Bonanza Is Coming (Step By Step)

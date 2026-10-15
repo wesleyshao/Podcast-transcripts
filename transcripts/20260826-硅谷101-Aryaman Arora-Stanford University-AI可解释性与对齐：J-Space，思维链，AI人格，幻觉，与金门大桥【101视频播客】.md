@@ -30,6 +30,19 @@ YouTube发布时间: 2026-08-26T23:00:13Z
   - steering vectors
   - AI alignment
   - 幻觉
+companies:
+  - Anthropic
+industries: []
+technologies:
+  - LLM
+keywords:
+  - 幻觉
+  - AI安全
+tags:
+  - Anthropic
+  - LLM
+  - 幻觉
+  - AI安全
 ---
 
 # AI可解释性与对齐：J-Space，思维链，AI人格，幻觉，与金门大桥【101视频播客】

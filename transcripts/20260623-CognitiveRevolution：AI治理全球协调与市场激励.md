@@ -24,6 +24,21 @@
   - "AIs"
   - "Command"
   - "Visit"
+companies:
+  - Anthropic
+industries: []
+technologies:
+  - LLM
+keywords:
+  - 选举
+  - IPO
+  - 中美竞争
+tags:
+  - Anthropic
+  - LLM
+  - 选举
+  - IPO
+  - 中美竞争
 ---
 
 # The God We Deserve: Nonzero's Robert Wright on AI as Humanity's Ultimate Test

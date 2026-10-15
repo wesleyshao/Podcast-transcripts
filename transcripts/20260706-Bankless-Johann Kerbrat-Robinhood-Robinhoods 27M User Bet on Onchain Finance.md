@@ -24,6 +24,29 @@
   - "onchain finance"
   - "gas abstraction"
   - "stablecoin yield"
+companies:
+  - HOOD
+  - Lighter
+  - Morpho
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 以太坊
+  - 稳定币
+  - DeFi
+  - 区块链
+keywords: []
+tags:
+  - HOOD
+  - Lighter
+  - Morpho
+  - 加密
+  - 金融
+  - 以太坊
+  - 稳定币
+  - DeFi
+  - 区块链
 ---
 
 # Robinhood’s 27M User Bet on Onchain Finance

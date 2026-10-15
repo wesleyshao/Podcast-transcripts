@@ -24,6 +24,15 @@
   - "Apple"
   - "Spotify. Apple"
   - "Spotify"
+companies:
+  - AAPL
+  - SPOT
+industries: []
+technologies: []
+keywords: []
+tags:
+  - AAPL
+  - SPOT
 ---
 
 # Why Warsh May Let Markets Tough It Out

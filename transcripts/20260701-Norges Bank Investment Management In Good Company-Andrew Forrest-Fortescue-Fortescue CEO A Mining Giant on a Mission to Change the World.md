@@ -17,6 +17,15 @@
   - mining
   - modern slavery
   - climate policy
+companies:
+  - Fortescue
+industries:
+  - 矿业
+technologies: []
+keywords: []
+tags:
+  - Fortescue
+  - 矿业
 ---
 
 # Fortescue CEO A Mining Giant on a Mission to Change the World

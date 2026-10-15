@@ -51,6 +51,33 @@ youtube_video_id: EjLeFMCRdWk
   - anthrax
   - Xi Jinping
   - Donald Trump
+companies:
+  - FARAI
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - GOOGL
+industries:
+  - 网络安全
+technologies:
+  - 开源模型
+  - 预训练
+  - LLM
+  - 后训练
+keywords:
+  - 选举
+tags:
+  - FARAI
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - GOOGL
+  - 网络安全
+  - 开源模型
+  - 预训练
+  - LLM
+  - 后训练
+  - 选举
 ---
 
 # Is Offense or Defense Dominant? FAR.AI's Adam Gleave on the AI Security Leaderboard

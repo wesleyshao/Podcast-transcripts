@@ -64,6 +64,31 @@ YouTube发布时间: 2026-09-03T16:49:25Z
   - working capital
   - release rate
   - MoneyLion IPO
+companies:
+  - Citadel
+industries:
+  - 加密
+  - 宏观
+  - 支付
+technologies:
+  - 区块链
+  - 稳定币
+  - DeFi
+keywords:
+  - 合规
+  - IPO
+  - 稳定币法案
+tags:
+  - Citadel
+  - 加密
+  - 宏观
+  - 支付
+  - 区块链
+  - 稳定币
+  - DeFi
+  - 合规
+  - IPO
+  - 稳定币法案
 ---
 
 # What If You Built a Bank Like a Blockchain? (ft. OpenReserve’s Dee Choubey & Richard Correia)

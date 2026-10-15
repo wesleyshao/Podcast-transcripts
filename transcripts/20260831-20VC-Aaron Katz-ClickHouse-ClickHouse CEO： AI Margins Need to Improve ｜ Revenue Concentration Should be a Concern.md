@@ -48,6 +48,33 @@ YouTube发布时间: 2026-08-31T13:59:58Z
   - Data Bricks
   - AI infrastructure
 
+companies:
+  - NVDA
+  - DDOG
+  - MSFT
+  - SNOW
+  - CRM
+industries:
+  - 半导体
+technologies:
+  - Agent
+  - GPU
+keywords:
+  - 开源
+  - IPO
+  - 人才
+tags:
+  - NVDA
+  - DDOG
+  - MSFT
+  - SNOW
+  - CRM
+  - 半导体
+  - Agent
+  - GPU
+  - 开源
+  - IPO
+  - 人才
 ---
 
 # ClickHouse CEO: AI Margins Need to Improve | Revenue Concentration Should be a Concern

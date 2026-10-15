@@ -28,6 +28,15 @@ YouTube发布时间: 2026-08-26T12:01:01Z
   - 媒体
   - 组织变革
   - 人工智能
+companies: []
+industries:
+  - 企业软件
+technologies: []
+keywords:
+  - 生产力
+tags:
+  - 企业软件
+  - 生产力
 ---
 
 # The AI revolution is upending how companies operate

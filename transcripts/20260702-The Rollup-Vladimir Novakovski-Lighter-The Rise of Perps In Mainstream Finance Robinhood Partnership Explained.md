@@ -19,6 +19,23 @@
   - "DeFi"
   - "tokenized finance"
   - "wallet integration"
+companies:
+  - HOOD
+  - Lighter
+industries:
+  - 加密
+  - 金融
+technologies:
+  - DeFi
+  - 永续合约
+keywords: []
+tags:
+  - HOOD
+  - Lighter
+  - 加密
+  - 金融
+  - DeFi
+  - 永续合约
 ---
 
 # The Rise of Perps In Mainstream Finance Robinhood Partnership Explained

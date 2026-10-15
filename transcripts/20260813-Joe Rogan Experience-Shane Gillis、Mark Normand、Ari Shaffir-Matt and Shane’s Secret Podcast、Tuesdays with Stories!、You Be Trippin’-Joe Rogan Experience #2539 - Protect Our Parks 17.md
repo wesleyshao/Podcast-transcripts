@@ -30,6 +30,31 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/OBH4F5
   - comedy
   - Perplexity
   - DraftKings
+companies:
+  - NFLX
+  - 阿里巴巴
+  - META
+  - Perplexity
+industries:
+  - 医疗
+  - 汽车
+  - 游戏
+technologies: []
+keywords:
+  - 喜剧
+  - 战争
+  - 综合格斗
+tags:
+  - NFLX
+  - 阿里巴巴
+  - META
+  - Perplexity
+  - 医疗
+  - 汽车
+  - 游戏
+  - 喜剧
+  - 战争
+  - 综合格斗
 ---
 
 # Joe Rogan Experience #2539 - Protect Our Parks 17

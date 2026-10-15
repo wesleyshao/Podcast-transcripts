@@ -17,6 +17,29 @@
   - "yield curve"
   - "Strata"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - Morpho
+industries:
+  - 加密
+  - 宏观
+  - 房地产
+technologies:
+  - 比特币
+  - L2
+  - 以太坊
+  - DeFi
+keywords:
+  - 利率
+tags:
+  - Morpho
+  - 加密
+  - 宏观
+  - 房地产
+  - 比特币
+  - L2
+  - 以太坊
+  - DeFi
+  - 利率
 ---
 
 # Bitcoin Is Coming for the $12T Repo Market

@@ -36,6 +36,27 @@ YouTube发布时间: "2026-09-17T15:58:24Z"
   - "AI"
   - "AGI"
   - "GPU"
+companies:
+  - OpenAI
+  - HuggingFace
+industries:
+  - 数据中心
+technologies:
+  - LLM
+  - Agent
+  - GPU
+  - 强化学习
+keywords:
+  - AGI
+tags:
+  - OpenAI
+  - HuggingFace
+  - 数据中心
+  - LLM
+  - Agent
+  - GPU
+  - 强化学习
+  - AGI
 ---
 
 # OpenAI researcher on agent swarms & recursive self-improvement

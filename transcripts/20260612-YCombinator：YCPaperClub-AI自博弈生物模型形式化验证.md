@@ -32,6 +32,23 @@
   - Self
   - Play
   - for
+companies: []
+industries:
+  - 生物技术
+  - 机器人
+technologies:
+  - Agent
+  - RAG
+  - ESM
+keywords:
+  - AGI
+tags:
+  - 生物技术
+  - 机器人
+  - Agent
+  - RAG
+  - ESM
+  - AGI
 ---
 
 # Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club

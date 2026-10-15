@@ -17,6 +17,17 @@
   - "AI-generated output"
   - "excellence as operating system"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - NFLX
+industries: []
+technologies:
+  - Agent
+keywords:
+  - 人才
+tags:
+  - NFLX
+  - Agent
+  - 人才
 ---
 
 # Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)

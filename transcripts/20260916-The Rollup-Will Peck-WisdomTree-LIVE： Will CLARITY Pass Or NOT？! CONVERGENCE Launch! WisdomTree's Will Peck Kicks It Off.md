@@ -45,6 +45,37 @@ YouTube发布时间: "2026-09-16T07:59:52Z"
   - "Space and Time"
   - "Zama"
 核心观点: "节目介绍 The Rollup 与 StrataMedia 合作推出 Convergence，Will Peck 讨论 WisdomTree 的链上资产、代币化基金、稳定币互补关系、机构分销和代币化股票；内容同时围绕 CLARITY Act 投票日和美国加密监管框架展开。"
+companies:
+  - WisdomTree
+  - DTCC
+  - Dinari
+industries:
+  - 加密
+  - 宏观
+  - 消费
+technologies:
+  - 代币化
+  - 以太坊
+  - 比特币
+  - 稳定币
+keywords:
+  - 监管
+  - 利率
+  - 机构采用
+tags:
+  - WisdomTree
+  - DTCC
+  - Dinari
+  - 加密
+  - 宏观
+  - 消费
+  - 代币化
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 监管
+  - 利率
+  - 机构采用
 ---
 
 # 🚨LIVE: Will CLARITY Pass Or NOT?! CONVERGENCE Launch! WisdomTree's Will Peck Kicks It Off

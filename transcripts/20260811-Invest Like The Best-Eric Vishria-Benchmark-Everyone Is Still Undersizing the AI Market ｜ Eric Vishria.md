@@ -44,6 +44,39 @@ YouTube发布时间: "2026-08-11T12:00:24Z"
 文字稿来源: "YouTube public subtitles: en-orig；完整源文本位于 caption_cache/0e7aG_MIHlQ.en-orig.source.txt；官方 a16z 等其他节目源与本节目不匹配，未采用。"
 官方文字稿来源: "未采用其他节目官方文字稿链接。"
 来源说明: "正文依据 YouTube en-orig 原始字幕完整转写，保留嘉宾对 AI、云、芯片、机器人和风险投资的事实、观点及不确定性；广告口播按语义整理。"
+companies:
+  - Cerebras
+  - AMZN
+  - NVDA
+  - MSFT
+  - Fireworks
+industries:
+  - 企业软件
+  - 机器人
+  - 云计算
+technologies:
+  - GPU
+  - 推理
+  - Agent
+keywords:
+  - IPO
+  - 创业
+  - 估值
+tags:
+  - Cerebras
+  - AMZN
+  - NVDA
+  - MSFT
+  - Fireworks
+  - 企业软件
+  - 机器人
+  - 云计算
+  - GPU
+  - 推理
+  - Agent
+  - IPO
+  - 创业
+  - 估值
 ---
 
 ## 参与嘉宾

@@ -49,6 +49,31 @@ YouTube发布时间: 2026-08-12T12:00:37Z
   - taste
   - beauty
   - fake与real
+companies:
+  - SHOP
+  - Anduril
+  - Cognition
+  - MSFT
+  - 阿里巴巴
+industries:
+  - 国防
+  - 媒体
+technologies: []
+keywords:
+  - 创业
+  - 监管
+  - 人才
+tags:
+  - SHOP
+  - Anduril
+  - Cognition
+  - MSFT
+  - 阿里巴巴
+  - 国防
+  - 媒体
+  - 创业
+  - 监管
+  - 人才
 ---
 
 # The Comms Strategist Behind Anduril, Shopify & Cognition | Lulu Cheng Meservey

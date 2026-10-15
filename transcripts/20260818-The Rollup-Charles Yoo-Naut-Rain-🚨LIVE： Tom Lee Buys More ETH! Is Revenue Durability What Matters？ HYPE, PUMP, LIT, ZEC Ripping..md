@@ -31,6 +31,33 @@ YouTube发布时间: 2026-08-18
   - 多链部署
   - 加密资产
   - 机构资金
+companies:
+  - JPM
+  - DTCC
+  - Fidelity
+  - BLK
+industries:
+  - 加密
+  - 支付
+  - 金融
+technologies:
+  - 稳定币
+  - 比特币
+  - Zcash
+  - 以太坊
+keywords: []
+tags:
+  - JPM
+  - DTCC
+  - Fidelity
+  - BLK
+  - 加密
+  - 支付
+  - 金融
+  - 稳定币
+  - 比特币
+  - Zcash
+  - 以太坊
 ---
 
 # 🚨LIVE: Tom Lee Buys More ETH! Is Revenue Durability What Matters? HYPE, PUMP, LIT, ZEC Ripping.

@@ -24,6 +24,15 @@
   - "Intro"
   - "YouTube"
   - "Advice"
+companies:
+  - GOOGL
+industries: []
+technologies:
+  - Agent
+keywords: []
+tags:
+  - GOOGL
+  - Agent
 ---
 
 # Sundar Pichai on Agents Replacing Engineers, Google's Future, AI's Flip Phone Moment, and More

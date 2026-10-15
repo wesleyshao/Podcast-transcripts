@@ -25,6 +25,37 @@
   - "国产芯片"
   - "数据闭环"
   - "超级App"
+companies:
+  - DeepSeek
+  - NVDA
+  - 小米
+  - 智谱
+  - 月之暗面
+industries:
+  - 数据中心
+  - 半导体
+technologies:
+  - 开源模型
+  - GPU
+  - LLM
+  - 编程助手
+keywords:
+  - 开源
+  - 人才
+tags:
+  - DeepSeek
+  - NVDA
+  - 小米
+  - 智谱
+  - 月之暗面
+  - 数据中心
+  - 半导体
+  - 开源模型
+  - GPU
+  - LLM
+  - 编程助手
+  - 开源
+  - 人才
 ---
 
 # 对话Nathan Lambert：美国知名AI研究者眼中的中国AI

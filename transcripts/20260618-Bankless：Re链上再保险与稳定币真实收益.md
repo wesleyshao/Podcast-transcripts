@@ -32,6 +32,33 @@
   - Finally
   - Found
   - Real
+companies:
+  - OKX
+  - SPOT
+  - Polymarket
+industries:
+  - 加密
+  - 保险
+  - 预测市场
+technologies:
+  - 稳定币
+  - DeFi
+  - Agent
+  - 以太坊
+keywords:
+  - 创业
+tags:
+  - OKX
+  - SPOT
+  - Polymarket
+  - 加密
+  - 保险
+  - 预测市场
+  - 稳定币
+  - DeFi
+  - Agent
+  - 以太坊
+  - 创业
 ---
 
 # Stablecoins Finally Found Real Yield

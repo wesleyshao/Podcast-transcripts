@@ -16,6 +16,17 @@
   - "Republicans"
   - "Democrats"
   - "policy risk"
+companies: []
+industries:
+  - 数据中心
+  - 消费
+technologies: []
+keywords:
+  - 选举
+tags:
+  - 数据中心
+  - 消费
+  - 选举
 ---
 
 # Consumer Confidence and the U.S. Midterms

@@ -25,6 +25,27 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/X9Yj5z
   - Venice
   - tokenized inference
   - agentic commerce
+companies:
+  - COIN
+  - HOOD
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 以太坊
+  - 比特币
+  - Agent
+  - 推理
+keywords: []
+tags:
+  - COIN
+  - HOOD
+  - 加密
+  - 金融
+  - 以太坊
+  - 比特币
+  - Agent
+  - 推理
 ---
 
 # Jesse Pollak: Base Is Achieving Consumer Grade Scale On Ethereum (What We Are Doing Well)

@@ -32,6 +32,15 @@
   - The
   - Obstacles
   - to
+companies: []
+industries:
+  - 房地产
+technologies: []
+keywords:
+  - 住房
+tags:
+  - 房地产
+  - 住房
 ---
 
 # The Obstacles to Buying a First Home

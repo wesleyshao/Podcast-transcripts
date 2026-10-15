@@ -51,6 +51,41 @@ YouTube发布时间: 2026-08-25T07:22:55Z
   - perpetuals
   - DeFi
   - tokenization
+companies:
+  - Lighter
+  - COIN
+  - Chainlink
+  - Bitwise
+  - Hyperliquid
+industries:
+  - 宏观
+  - 加密
+  - 金融
+technologies:
+  - DeFi
+  - 代币化
+  - 比特币
+  - 稳定币
+keywords:
+  - 债务
+  - 监管
+  - 黄金
+tags:
+  - Lighter
+  - COIN
+  - Chainlink
+  - Bitwise
+  - Hyperliquid
+  - 宏观
+  - 加密
+  - 金融
+  - DeFi
+  - 代币化
+  - 比特币
+  - 稳定币
+  - 债务
+  - 监管
+  - 黄金
 ---
 
 # 🚨LIVE： Tom Lee Buys More ETH？！ Bull Market Rages On. Bessent's $1T Deal. Lighter、Franklin & Paragon

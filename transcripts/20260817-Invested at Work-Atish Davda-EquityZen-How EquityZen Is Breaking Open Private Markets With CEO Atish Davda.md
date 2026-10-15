@@ -27,6 +27,13 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/k3N-t3
   - 401K match
   - private company stock
   - cap table
+companies: []
+industries: []
+technologies: []
+keywords:
+  - IPO
+tags:
+  - IPO
 ---
 
 # How EquityZen Is Breaking Open Private Markets With CEO Atish Davda

@@ -30,6 +30,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/Z1eQIq
   - "AI"
   - "technology companies"
   - "London"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 通胀
+tags:
+  - 宏观
+  - 通胀
 ---
 
 # 英国は見直される余地がある

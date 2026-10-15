@@ -34,6 +34,13 @@ youtube_video_id: W4uofN2WMEc
   - toxic positivity
   - cognitive load
   - burnout
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 组织管理
+tags:
+  - 组织管理
 ---
 
 # Susan Cain: Why Introverts Make Great Leaders | Podcast | In Good Company

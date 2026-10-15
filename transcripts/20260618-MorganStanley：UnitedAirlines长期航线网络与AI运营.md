@@ -20,6 +20,15 @@
   - "Ravi"
   - "CEO Scott Kirby"
   - "United Airlines Morgan Stanley"
+companies:
+  - MS
+industries: []
+technologies: []
+keywords:
+  - 组织管理
+tags:
+  - MS
+  - 组织管理
 ---
 
 # Morgan Stanley Exceptional Leaders: United Airlines: Leading for the Long Haul

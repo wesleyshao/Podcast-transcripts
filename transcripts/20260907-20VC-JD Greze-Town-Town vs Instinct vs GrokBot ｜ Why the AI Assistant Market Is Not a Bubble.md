@@ -30,6 +30,29 @@ youtube_video_id: 9ISWVzQ85Po
   - PLG
   - token
   - ElevenLabs
+companies:
+  - Anthropic
+  - OpenAI
+  - AAPL
+  - META
+industries: []
+technologies:
+  - LLM
+  - 编程助手
+keywords:
+  - 泡沫
+  - 创业
+  - 融资
+tags:
+  - Anthropic
+  - OpenAI
+  - AAPL
+  - META
+  - LLM
+  - 编程助手
+  - 泡沫
+  - 创业
+  - 融资
 ---
 
 # Town vs Instinct vs GrokBot | Why the AI Assistant Market Is Not a Bubble

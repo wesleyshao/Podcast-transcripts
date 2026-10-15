@@ -24,6 +24,23 @@
   - And
   - Why
   - Now
+companies: []
+industries:
+  - 加密
+  - 支付
+technologies:
+  - 稳定币
+  - 比特币
+  - 以太坊
+  - DeFi
+keywords: []
+tags:
+  - 加密
+  - 支付
+  - 稳定币
+  - 比特币
+  - 以太坊
+  - DeFi
 ---
 
 # Trace Finance CEO: How Stablecoins Are Disrupting LATAM (..And Why Now)

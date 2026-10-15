@@ -24,6 +24,21 @@
   - "Columbia"
   - "Ittai Abraham"
   - "Decentralized Thoughts"
+companies: []
+industries:
+  - 加密
+technologies:
+  - 比特币
+  - 分布式系统
+  - 区块链
+  - 以太坊
+keywords: []
+tags:
+  - 加密
+  - 比特币
+  - 分布式系统
+  - 区块链
+  - 以太坊
 ---
 
 # How Bitcoin Rewired a Classic Computer Science Problem (ft. Tim Roughgarden and Ittai Abraham)

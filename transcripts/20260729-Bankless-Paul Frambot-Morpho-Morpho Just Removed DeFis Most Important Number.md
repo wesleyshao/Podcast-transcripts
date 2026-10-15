@@ -56,6 +56,39 @@ YouTube发布时间: "2026-07-29T11:00:38Z"
   - net interest margin
   - capital efficiency
   - CLARITY Act
+companies:
+  - Morpho
+  - Uniswap
+  - Aave
+  - AAPL
+  - COIN
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - DeFi
+  - 稳定币
+  - 比特币
+keywords:
+  - 监管
+  - 利率
+  - 融资
+tags:
+  - Morpho
+  - Uniswap
+  - Aave
+  - AAPL
+  - COIN
+  - 加密
+  - 宏观
+  - 金融
+  - DeFi
+  - 稳定币
+  - 比特币
+  - 监管
+  - 利率
+  - 融资
 ---
 
 # Morpho Just Removed DeFi's Most Important Number

@@ -23,6 +23,13 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/HI2q3c
   - sub-agents
   - observability
   - LangSmith
+companies: []
+industries: []
+technologies:
+  - Agent
+keywords: []
+tags:
+  - Agent
 ---
 
 # When to Build Your Own Agent Harness | Harrison Chase, LangChain

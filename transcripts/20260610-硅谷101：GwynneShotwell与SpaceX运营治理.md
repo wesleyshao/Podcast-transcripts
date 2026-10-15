@@ -24,6 +24,21 @@
   - "Tzp0EF-sysI"
   - "CfxuqbB9dj4"
   - "ZDXIUO7CRzo"
+companies:
+  - SpaceX
+  - NASA
+industries:
+  - 商业航天
+technologies:
+  - 可回收火箭
+keywords:
+  - IPO
+tags:
+  - SpaceX
+  - NASA
+  - 商业航天
+  - 可回收火箭
+  - IPO
 ---
 
 # “没有她，SpaceX早倒闭了”：全世界最有权力的女性工程师是如何炼成的

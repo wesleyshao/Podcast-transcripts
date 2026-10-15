@@ -29,6 +29,13 @@ YouTube发布时间: 2026-09-03T20:06:05Z
   - 消费者调查
   - 可负担性
   - 渠道分销
+companies: []
+industries:
+  - 消费
+technologies: []
+keywords: []
+tags:
+  - 消费
 ---
 
 ## Transcript

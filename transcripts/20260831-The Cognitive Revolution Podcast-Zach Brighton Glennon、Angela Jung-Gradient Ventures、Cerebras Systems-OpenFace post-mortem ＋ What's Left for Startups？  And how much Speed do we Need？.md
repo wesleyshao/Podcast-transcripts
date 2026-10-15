@@ -60,6 +60,41 @@ YouTube发布时间: 2026-08-31T18:50:31Z
   - Minimax H3
   - Infinite Slop
 
+companies:
+  - Cerebras
+  - GOOGL
+  - OpenAI
+  - HuggingFace
+  - Anthropic
+industries:
+  - 数据中心
+  - 云计算
+  - 半导体
+technologies:
+  - GPU
+  - 强化学习
+  - 开源模型
+  - LLM
+keywords:
+  - 开源
+  - 创业
+  - 监管
+tags:
+  - Cerebras
+  - GOOGL
+  - OpenAI
+  - HuggingFace
+  - Anthropic
+  - 数据中心
+  - 云计算
+  - 半导体
+  - GPU
+  - 强化学习
+  - 开源模型
+  - LLM
+  - 开源
+  - 创业
+  - 监管
 ---
 
 # OpenFace post-mortem ＋ What's Left for Startups？  And how much Speed do we Need？

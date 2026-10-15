@@ -51,6 +51,27 @@ YouTube发布时间: 2026-09-01T09:26:38Z
   - data center
   - TSMC
   - shared embedding spaces
+companies:
+  - MDB
+  - TSM
+industries:
+  - 半导体
+  - 数据中心
+technologies:
+  - MCP
+  - RAG
+  - Agent
+  - LLM
+keywords: []
+tags:
+  - MDB
+  - TSM
+  - 半导体
+  - 数据中心
+  - MCP
+  - RAG
+  - Agent
+  - LLM
 ---
 
 ## Transcript

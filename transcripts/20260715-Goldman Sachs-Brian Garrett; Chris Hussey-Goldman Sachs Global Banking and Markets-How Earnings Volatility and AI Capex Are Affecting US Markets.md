@@ -19,6 +19,15 @@
   - "buybacks"
   - "free cash flow"
 字幕来源: "YouTube subtitles en-US json3"
+companies: []
+industries:
+  - 金融
+technologies: []
+keywords:
+  - 资本开支
+tags:
+  - 金融
+  - 资本开支
 ---
 
 # How Earnings, Volatility, and AI Capex Are Affecting US Markets

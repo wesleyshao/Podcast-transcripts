@@ -45,6 +45,29 @@ YouTube发布时间: 2026-08-26T19:03:58Z
   - Micron
   - Apple
   - OpenAI
+companies:
+  - AAPL
+  - OpenAI
+  - 长江存储
+  - MU
+industries:
+  - 半导体
+  - 存储
+  - 能源
+technologies:
+  - 自动驾驶
+  - LLM
+keywords: []
+tags:
+  - AAPL
+  - OpenAI
+  - 长江存储
+  - MU
+  - 半导体
+  - 存储
+  - 能源
+  - 自动驾驶
+  - LLM
 ---
 
 # Vercel CTO + RSI Neolab Inherent's First Paper

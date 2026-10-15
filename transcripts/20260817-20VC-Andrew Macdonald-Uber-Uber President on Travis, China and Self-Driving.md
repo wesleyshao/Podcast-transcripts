@@ -25,6 +25,19 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/sCa1MW
   - AI
   - ride-sharing
   - delivery
+companies:
+  - UBER
+industries:
+  - 汽车
+  - 消费
+technologies:
+  - 自动驾驶
+keywords: []
+tags:
+  - UBER
+  - 汽车
+  - 消费
+  - 自动驾驶
 ---
 
 # Uber President on Travis, China & Self-Driving | Why Autonomy Is Existential | How to Beat DoorDash

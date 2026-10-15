@@ -19,6 +19,29 @@
   - "financial super app"
   - "agentic trading"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - HOOD
+  - COIN
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 代币化
+  - DeFi
+  - 以太坊
+  - Agent
+keywords: []
+tags:
+  - HOOD
+  - COIN
+  - 加密
+  - 宏观
+  - 金融
+  - 代币化
+  - DeFi
+  - 以太坊
+  - Agent
 ---
 
 # Johann Kerbrat: The Next Bull Market Will Happen On Robinhood Chain (Launch Reflection)

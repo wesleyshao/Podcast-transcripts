@@ -46,6 +46,29 @@ YouTube发布时间: "2026-07-31T17:29:06Z"
   - Google
   - data center
   - AI startup
+companies:
+  - Stripe
+  - GOOGL
+  - Anthropic
+  - Anduril
+  - OpenAI
+industries:
+  - 国防
+  - 数据中心
+technologies:
+  - LLM
+keywords:
+  - 创业
+tags:
+  - Stripe
+  - GOOGL
+  - Anthropic
+  - Anduril
+  - OpenAI
+  - 国防
+  - 数据中心
+  - LLM
+  - 创业
 ---
 
 # Patrick Collison: "What If You Succeed?"

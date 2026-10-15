@@ -26,6 +26,25 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/NpyTGb
   - Bitcoin
   - Gold
   - inflation
+companies: []
+industries:
+  - 加密
+  - 宏观
+  - 房地产
+technologies:
+  - 比特币
+keywords:
+  - 通胀
+  - 资本开支
+  - 利率
+tags:
+  - 加密
+  - 宏观
+  - 房地产
+  - 比特币
+  - 通胀
+  - 资本开支
+  - 利率
 ---
 
 # Kevin Warsh Is Ending the One-Man Fed

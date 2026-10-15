@@ -32,6 +32,15 @@
   - Can
   - Policy
   - Solve
+companies:
+  - AAPL
+  - SPOT
+industries: []
+technologies: []
+keywords: []
+tags:
+  - AAPL
+  - SPOT
 ---
 
 # Can Policy Solve AI’s Chipflation?

@@ -40,6 +40,37 @@ youtube_video_id: 851HcRILQBw
   - Circle Arc
   - tokenized equities
   - self-custody
+companies:
+  - Uniswap
+  - HOOD
+  - NEAR
+  - NET
+  - Polymarket
+industries:
+  - 加密
+  - 预测市场
+  - 金融
+technologies:
+  - 以太坊
+  - 比特币
+  - DeFi
+keywords:
+  - 稳定币法案
+  - 估值
+tags:
+  - Uniswap
+  - HOOD
+  - NEAR
+  - NET
+  - Polymarket
+  - 加密
+  - 预测市场
+  - 金融
+  - 以太坊
+  - 比特币
+  - DeFi
+  - 稳定币法案
+  - 估值
 ---
 
 # Ethereum’s Staking Yield Could Go to Zero

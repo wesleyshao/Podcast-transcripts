@@ -37,6 +37,41 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/5Uhtaq
   - GrokBot
   - AGI
   - Clarity Act
+companies:
+  - HOOD
+  - OpenAI
+  - NVDA
+  - Anthropic
+  - TSLA
+industries:
+  - 加密
+  - 宏观
+  - 半导体
+technologies:
+  - 比特币
+  - Agent
+  - 代币化
+  - GPU
+keywords:
+  - 利率
+  - AGI
+  - 估值
+tags:
+  - HOOD
+  - OpenAI
+  - NVDA
+  - Anthropic
+  - TSLA
+  - 加密
+  - 宏观
+  - 半导体
+  - 比特币
+  - Agent
+  - 代币化
+  - GPU
+  - 利率
+  - AGI
+  - 估值
 ---
 
 # Bitcoin Is Entering Its Most Powerful Wave Ever

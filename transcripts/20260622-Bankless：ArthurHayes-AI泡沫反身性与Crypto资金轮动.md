@@ -25,6 +25,37 @@
   - Hayes
   - Why
   - Crypto
+companies:
+  - Anthropic
+  - SpaceX
+  - META
+industries:
+  - 加密
+  - 商业航天
+  - 宏观
+technologies:
+  - 比特币
+  - DeFi
+  - LLM
+  - 可回收火箭
+keywords:
+  - 泡沫
+  - 资本开支
+  - 选举
+tags:
+  - Anthropic
+  - SpaceX
+  - META
+  - 加密
+  - 商业航天
+  - 宏观
+  - 比特币
+  - DeFi
+  - LLM
+  - 可回收火箭
+  - 泡沫
+  - 资本开支
+  - 选举
 ---
 
 # Arthur Hayes: Why Crypto Wins After AI Breaks

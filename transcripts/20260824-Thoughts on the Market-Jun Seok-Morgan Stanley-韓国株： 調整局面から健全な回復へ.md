@@ -24,6 +24,19 @@ YouTube发布时间: 2026-08-24T20:35:32Z
   - 资本品
   - 金融
   - 医疗保健
+companies: []
+industries:
+  - 宏观
+  - 医疗
+  - 半导体
+technologies: []
+keywords:
+  - 估值
+tags:
+  - 宏观
+  - 医疗
+  - 半导体
+  - 估值
 ---
 
 # 韓国株：調整局面から健全な回復へ

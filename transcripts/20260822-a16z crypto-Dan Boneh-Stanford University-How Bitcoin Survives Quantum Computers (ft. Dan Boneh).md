@@ -39,6 +39,21 @@ YouTube发布时间: "2026-08-22T14:30:31Z"
   - FHE
   - quantum computers
   - Satoshi
+companies: []
+industries:
+  - 加密
+technologies:
+  - 比特币
+  - 量子计算
+  - 以太坊
+  - 区块链
+keywords: []
+tags:
+  - 加密
+  - 比特币
+  - 量子计算
+  - 以太坊
+  - 区块链
 ---
 
 # How Bitcoin Survives Quantum Computers (ft. Dan Boneh)

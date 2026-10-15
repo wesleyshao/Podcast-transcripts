@@ -50,6 +50,27 @@ YouTube发布时间: 2026-08-22T14:21:18Z
   - 会计代理
   - 数据中心
   - 计算资源
+companies:
+  - GOOGL
+  - OpenAI
+  - Anthropic
+industries:
+  - 数据中心
+  - 国防
+  - 机器人
+technologies:
+  - LLM
+  - GPU
+keywords: []
+tags:
+  - GOOGL
+  - OpenAI
+  - Anthropic
+  - 数据中心
+  - 国防
+  - 机器人
+  - LLM
+  - GPU
 ---
 
 # AI in the AM — Weekly Highlights: Relaunch Week (Aug 17–20, 2026)

@@ -44,6 +44,27 @@ YouTube发布时间: 2026-09-03T23:00:22Z
   - 公共政策AI
   - 医疗AI
   - AI法官
+companies: []
+industries:
+  - 加密
+  - 机器人
+  - 医疗
+technologies:
+  - 稳定币
+  - 区块链
+  - 比特币
+  - DeFi
+keywords:
+  - AGI
+tags:
+  - 加密
+  - 机器人
+  - 医疗
+  - 稳定币
+  - 区块链
+  - 比特币
+  - DeFi
+  - AGI
 ---
 
 ## Transcript

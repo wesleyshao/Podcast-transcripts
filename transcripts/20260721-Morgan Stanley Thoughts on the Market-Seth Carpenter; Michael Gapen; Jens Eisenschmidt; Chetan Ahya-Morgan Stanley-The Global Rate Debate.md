@@ -17,6 +17,17 @@
   - "Europe rates"
   - "Asia rates"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 通胀
+  - 利率
+tags:
+  - 宏观
+  - 通胀
+  - 利率
 ---
 
 # The Global Rate Debate

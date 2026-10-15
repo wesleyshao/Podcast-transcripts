@@ -25,6 +25,33 @@ youtube_video_id: "vif8NQcjVf0"
 YouTube发布时间: "2026-03-23"
 播客标题: "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494"
 字幕来源: "YouTube public subtitles: zh-Hans json3"
+companies:
+  - NVDA
+  - TSM
+industries:
+  - 数据中心
+  - 半导体
+  - 存储
+technologies:
+  - GPU
+  - CUDA
+  - HBM
+keywords:
+  - 开源
+  - 竞争格局
+  - 规模定律
+tags:
+  - NVDA
+  - TSM
+  - 数据中心
+  - 半导体
+  - 存储
+  - GPU
+  - CUDA
+  - HBM
+  - 开源
+  - 竞争格局
+  - 规模定律
 ---
 
 # Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494

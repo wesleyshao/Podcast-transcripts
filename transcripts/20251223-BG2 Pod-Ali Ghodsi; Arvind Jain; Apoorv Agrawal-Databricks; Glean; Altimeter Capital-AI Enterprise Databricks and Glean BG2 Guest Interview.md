@@ -23,6 +23,25 @@ youtube_video_id: "jA8ZQfq_Hzs"
 YouTube发布时间: "2025-12-23"
 播客标题: "AI Enterprise - Databricks & Glean | BG2 Guest Interview"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - Databricks
+  - Glean
+industries: []
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 泡沫
+  - AGI
+  - 资本开支
+tags:
+  - Databricks
+  - Glean
+  - LLM
+  - Agent
+  - 泡沫
+  - AGI
+  - 资本开支
 ---
 
 # AI Enterprise - Databricks & Glean | BG2 Guest Interview

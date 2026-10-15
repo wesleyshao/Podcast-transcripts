@@ -24,6 +24,23 @@
   - "5G"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Why Auction Design Matters (ft. Nobel Economist Paul Milgrom)"
+companies:
+  - NVDA
+industries:
+  - 加密
+  - 半导体
+  - 数据中心
+technologies:
+  - GPU
+  - DeFi
+keywords: []
+tags:
+  - NVDA
+  - 加密
+  - 半导体
+  - 数据中心
+  - GPU
+  - DeFi
 ---
 
 # Why Auction Design Matters (ft. Nobel Economist Paul Milgrom)

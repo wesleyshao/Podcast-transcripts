@@ -18,6 +18,39 @@
   - "humanoid robotics"
 字幕来源: "subtitles:en-US:English (United States)"
 YouTube视频标题: "Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape"
+companies:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - TSLA
+  - 英矽智能
+industries:
+  - 机器人
+  - AI制药
+  - 生物技术
+technologies:
+  - LLM
+  - 具身智能
+  - 强化学习
+  - 蛋白质设计
+keywords:
+  - 开源
+  - 生产力
+tags:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - TSLA
+  - 英矽智能
+  - 机器人
+  - AI制药
+  - 生物技术
+  - LLM
+  - 具身智能
+  - 强化学习
+  - 蛋白质设计
+  - 开源
+  - 生产力
 ---
 
 # Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape

@@ -45,6 +45,21 @@ youtube_video_id: bAl1r48CT94
   - loan officer
   - mortgage broker
   - low-strike receivers
+companies: []
+industries:
+  - 房地产
+  - 宏观
+technologies:
+  - Agent
+keywords:
+  - 利率
+  - 融资
+tags:
+  - 房地产
+  - 宏观
+  - Agent
+  - 利率
+  - 融资
 ---
 
 # How AI Could Simplify the Mortgage Market

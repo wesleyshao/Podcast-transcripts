@@ -41,6 +41,35 @@ YouTube发布时间: 2026-08-27T10:30:28Z
   - DID
   - privacy market map
   - cypherpunk
+companies:
+  - Uniswap
+  - Aave
+  - Morpho
+  - Lido
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 以太坊
+  - DeFi
+  - 稳定币
+  - 零知识证明
+keywords:
+  - 隐私
+  - 开源
+tags:
+  - Uniswap
+  - Aave
+  - Morpho
+  - Lido
+  - 加密
+  - 金融
+  - 以太坊
+  - DeFi
+  - 稳定币
+  - 零知识证明
+  - 隐私
+  - 开源
 ---
 
 # Why Wall Street Still Can’t Fully Use Ethereum

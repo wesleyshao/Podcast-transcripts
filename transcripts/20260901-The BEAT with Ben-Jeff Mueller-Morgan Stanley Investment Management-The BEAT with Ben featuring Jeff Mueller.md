@@ -42,6 +42,23 @@ YouTube发布时间: 2026-09-01T15:06:03Z
   - fiscal sustainability
   - fiscal deficit
   - leverage credit
+companies: []
+industries:
+  - 宏观
+  - 数据中心
+  - 房地产
+technologies: []
+keywords:
+  - 债务
+  - 利率
+  - 资本开支
+tags:
+  - 宏观
+  - 数据中心
+  - 房地产
+  - 债务
+  - 利率
+  - 资本开支
 ---
 
 # The BEAT with Ben featuring Jeff Mueller

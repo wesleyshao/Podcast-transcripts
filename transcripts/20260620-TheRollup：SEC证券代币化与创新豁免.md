@@ -24,6 +24,21 @@
   - "Crypto"
   - "Live"
   - "Timestamps"
+companies: []
+industries:
+  - 加密
+technologies:
+  - 代币化
+keywords:
+  - 监管
+  - IPO
+  - 隐私
+tags:
+  - 加密
+  - 代币化
+  - 监管
+  - IPO
+  - 隐私
 ---
 
 # Hester Peirce: The Positive Future of Digital Asset Regulation (Huge Catalysts Coming)

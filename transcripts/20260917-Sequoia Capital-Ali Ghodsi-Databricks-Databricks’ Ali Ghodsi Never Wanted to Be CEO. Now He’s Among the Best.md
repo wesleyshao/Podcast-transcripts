@@ -28,6 +28,23 @@ YouTube发布时间: "2026-09-17T12:00:08Z"
   - "PLG"
   - "Dunbar's number"
   - "Google Docs"
+companies:
+  - Databricks
+  - GOOGL
+  - SNOW
+industries: []
+technologies: []
+keywords:
+  - IPO
+  - 人才
+  - AGI
+tags:
+  - Databricks
+  - GOOGL
+  - SNOW
+  - IPO
+  - 人才
+  - AGI
 ---
 
 # Databricks’ Ali Ghodsi Never Wanted to Be CEO. Now He’s Among the Best

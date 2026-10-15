@@ -33,6 +33,21 @@ YouTube发布时间: "2026-09-10T20:00:00Z"
   - "credit spreads"
   - "energy equities"
 
+companies: []
+industries:
+  - 宏观
+  - 房地产
+technologies: []
+keywords:
+  - 通胀
+  - 利率
+  - 融资
+tags:
+  - 宏观
+  - 房地产
+  - 通胀
+  - 利率
+  - 融资
 ---
 
 ## Transcript

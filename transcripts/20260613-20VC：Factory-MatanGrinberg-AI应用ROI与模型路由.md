@@ -32,6 +32,21 @@
   - vs
   - Open
   - Source
+companies:
+  - Anthropic
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 开源
+tags:
+  - Anthropic
+  - OpenAI
+  - LLM
+  - Agent
+  - 开源
 ---
 
 # OpenAI vs Anthropic vs Open-Source | Token Maxing, AI Hangovers & The Coming ROI Reckoning

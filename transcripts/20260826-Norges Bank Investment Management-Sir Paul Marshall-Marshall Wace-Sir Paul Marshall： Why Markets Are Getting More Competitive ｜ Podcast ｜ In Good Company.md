@@ -30,6 +30,15 @@ YouTube发布时间: 2026-08-26T05:00:16Z
   - UnHerd
   - GB News
   - The Spectator
+companies: []
+industries:
+  - 金融
+technologies: []
+keywords:
+  - 泡沫
+tags:
+  - 金融
+  - 泡沫
 ---
 
 # Sir Paul Marshall: Why Markets Are Getting More Competitive | Podcast | In Good Company

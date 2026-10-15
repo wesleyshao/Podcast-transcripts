@@ -16,6 +16,13 @@
   - "dreaming"
   - "AI labs"
   - "test-time compute"
+companies: []
+industries: []
+technologies:
+  - 强化学习
+keywords: []
+tags:
+  - 强化学习
 ---
 
 # What does the next training paradigm look like

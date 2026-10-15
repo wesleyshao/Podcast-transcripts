@@ -23,6 +23,19 @@ YouTube发布时间: 2026-08-16T12:00:35Z
   - 运营规则
   - 专用机器人
   - 实体世界数字化
+companies:
+  - UBER
+industries:
+  - 机器人
+technologies: []
+keywords:
+  - 网络效应
+  - 创业
+tags:
+  - UBER
+  - 机器人
+  - 网络效应
+  - 创业
 ---
 
 # Excellence Is the Capacity To Take Pain | Travis Kalanick, Founder of Uber

@@ -28,6 +28,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/wOFZNh
   - germicidal light
   - built environment
   - pandemic preparedness
+companies: []
+industries:
+  - 生物技术
+  - 医疗
+technologies: []
+keywords: []
+tags:
+  - 生物技术
+  - 医疗
 ---
 
 # Let There Be Germicidal Light: This $500 Fixture Could Stop the Next Pandemic, from Complex Systems

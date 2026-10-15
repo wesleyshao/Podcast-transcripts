@@ -24,6 +24,21 @@ YouTube发布时间: "2026-07-07"
   - "startup opportunities"
   - "exception handling"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies:
+  - CRM
+industries:
+  - 企业软件
+technologies:
+  - Agent
+  - MCP
+keywords:
+  - 创业
+tags:
+  - CRM
+  - 企业软件
+  - Agent
+  - MCP
+  - 创业
 ---
 
 # Software in the Age of Agents

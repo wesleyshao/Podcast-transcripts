@@ -47,6 +47,13 @@ YouTube发布时间: "2026-08-11T14:00:11Z"
   - evals不只检查事实正确性，也检查行动项判定、写作风格和产品规范，避免每次prompt或模型更新带来新的回归。
   - agent不得独立发送邮件、直接发布产品文案或自行设计涉及数据访问和安全的架构，人类保留最终决策与安全边界。
   - 随着agent需要上下文，企业记录和正确共享会议内容的机会成本上升，但隐私、权限和误共享风险必须一并解决。
+companies: []
+industries: []
+technologies:
+  - Agent
+keywords: []
+tags:
+  - Agent
 ---
 
 ## Transcript

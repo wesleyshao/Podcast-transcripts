@@ -32,6 +32,27 @@
   - What
   - Happens
   - When
+companies:
+  - GOOGL
+  - OpenAI
+industries:
+  - 加密
+  - 支付
+technologies:
+  - Agent
+  - 稳定币
+  - LLM
+  - DeFi
+keywords: []
+tags:
+  - GOOGL
+  - OpenAI
+  - 加密
+  - 支付
+  - Agent
+  - 稳定币
+  - LLM
+  - DeFi
 ---
 
 # What Happens When Your AI Agent Gets a Wallet?

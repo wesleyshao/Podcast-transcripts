@@ -31,6 +31,23 @@ youtube_video_id: ZACmIrFbfPU
   - COVID-19
   - mRNA vaccine
   - artificial intelligence
+companies: []
+industries:
+  - 国防
+  - 生物技术
+  - 医疗
+technologies:
+  - CRISPR
+  - mRNA
+keywords:
+  - 战争
+tags:
+  - 国防
+  - 生物技术
+  - 医疗
+  - CRISPR
+  - mRNA
+  - 战争
 ---
 
 # Joe Rogan Experience #2534 - Annie Jacobsen

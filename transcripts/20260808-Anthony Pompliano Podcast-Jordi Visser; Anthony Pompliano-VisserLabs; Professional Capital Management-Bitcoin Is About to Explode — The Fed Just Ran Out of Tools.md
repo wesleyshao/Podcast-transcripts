@@ -55,6 +55,41 @@ youtube_video_id: "vsONy3IizCU"
   - "SpaceX"
   - "Galaxy One"
   - "Arch Public"
+companies:
+  - GOOGL
+  - SpaceX
+  - MU
+  - OpenAI
+  - Anthropic
+industries:
+  - 加密
+  - 宏观
+  - 商业航天
+technologies:
+  - 比特币
+  - Agent
+  - LLM
+  - 可回收火箭
+keywords:
+  - 估值
+  - 稳定币法案
+  - 债务
+tags:
+  - GOOGL
+  - SpaceX
+  - MU
+  - OpenAI
+  - Anthropic
+  - 加密
+  - 宏观
+  - 商业航天
+  - 比特币
+  - Agent
+  - LLM
+  - 可回收火箭
+  - 估值
+  - 稳定币法案
+  - 债务
 ---
 
 # Bitcoin Is About to Explode — The Fed Just Ran Out of Tools

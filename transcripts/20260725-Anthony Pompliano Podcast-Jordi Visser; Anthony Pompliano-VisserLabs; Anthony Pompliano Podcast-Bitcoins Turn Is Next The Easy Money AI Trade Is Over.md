@@ -18,6 +18,37 @@
   - "agentic crypto"
 youtube_video_id: "McKTuWYzXgg"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - GOOGL
+  - Anthropic
+  - DeepSeek
+industries:
+  - 加密
+  - 机器人
+  - 宏观
+technologies:
+  - 比特币
+  - Agent
+  - LLM
+  - 开源模型
+keywords:
+  - 开源
+  - AGI
+  - 稳定币法案
+tags:
+  - GOOGL
+  - Anthropic
+  - DeepSeek
+  - 加密
+  - 机器人
+  - 宏观
+  - 比特币
+  - Agent
+  - LLM
+  - 开源模型
+  - 开源
+  - AGI
+  - 稳定币法案
 ---
 
 # Bitcoin's Turn Is Next — The Easy Money AI Trade Is Over?

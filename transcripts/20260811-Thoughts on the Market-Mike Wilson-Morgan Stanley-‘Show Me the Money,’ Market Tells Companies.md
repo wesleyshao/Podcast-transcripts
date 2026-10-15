@@ -29,6 +29,19 @@ youtube_video_id: Sd9lv4Vce9M
   - nominal yields
   - oil
   - capex discipline
+companies: []
+industries:
+  - 宏观
+  - 保险
+technologies: []
+keywords:
+  - 资本开支
+  - 利率
+tags:
+  - 宏观
+  - 保险
+  - 资本开支
+  - 利率
 ---
 
 # ‘Show Me the Money,’ Market Tells Companies

@@ -39,6 +39,31 @@ YouTube发布时间: "2026-09-05T00:05:24Z"
   - "barbell portfolio"
   - "fundamentals"
 
+companies:
+  - Hyperliquid
+  - Binance
+  - COIN
+industries:
+  - 加密
+technologies:
+  - Zcash
+  - 比特币
+  - 代币化
+keywords:
+  - 监管
+  - 隐私
+  - 合规
+tags:
+  - Hyperliquid
+  - Binance
+  - COIN
+  - 加密
+  - Zcash
+  - 比特币
+  - 代币化
+  - 监管
+  - 隐私
+  - 合规
 ---
 
 ## Transcript

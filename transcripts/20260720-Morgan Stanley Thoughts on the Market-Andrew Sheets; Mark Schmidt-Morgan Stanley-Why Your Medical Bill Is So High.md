@@ -17,6 +17,21 @@
   - "Medicaid"
   - "labor market"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries:
+  - 医疗
+  - 保险
+  - 宏观
+technologies: []
+keywords:
+  - 通胀
+  - 就业
+tags:
+  - 医疗
+  - 保险
+  - 宏观
+  - 通胀
+  - 就业
 ---
 
 # Why Your Medical Bill Is So High

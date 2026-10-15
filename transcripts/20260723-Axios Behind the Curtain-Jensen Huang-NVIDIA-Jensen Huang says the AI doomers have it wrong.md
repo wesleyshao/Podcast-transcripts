@@ -48,6 +48,41 @@
   - "Trump administration"
 youtube_video_id: "fr1IQspixmM"
 字幕来源: "YouTube subtitles en json3"
+companies:
+  - NVDA
+  - Anthropic
+  - OpenAI
+  - 月之暗面
+  - DeepSeek
+industries:
+  - 半导体
+  - 数据中心
+  - 网络安全
+technologies:
+  - Agent
+  - LLM
+  - GPU
+  - 开源模型
+keywords:
+  - 开源
+  - 监管
+  - 选举
+tags:
+  - NVDA
+  - Anthropic
+  - OpenAI
+  - 月之暗面
+  - DeepSeek
+  - 半导体
+  - 数据中心
+  - 网络安全
+  - Agent
+  - LLM
+  - GPU
+  - 开源模型
+  - 开源
+  - 监管
+  - 选举
 ---
 
 # Jensen Huang says the AI doomers have it wrong

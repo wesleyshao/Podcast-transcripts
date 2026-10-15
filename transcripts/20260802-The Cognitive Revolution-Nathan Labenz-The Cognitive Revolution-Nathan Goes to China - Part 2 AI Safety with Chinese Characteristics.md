@@ -74,6 +74,35 @@ YouTube发布时间: "2026-08-02T21:09:53Z"
   - Claude Constitution
   - Confucianism
   - recursive self-improvement
+companies:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - META
+  - xAI
+industries:
+  - 机器人
+  - 电力
+technologies:
+  - LLM
+  - 推理
+keywords:
+  - AI安全
+  - 中美竞争
+  - 监管
+tags:
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - META
+  - xAI
+  - 机器人
+  - 电力
+  - LLM
+  - 推理
+  - AI安全
+  - 中美竞争
+  - 监管
 ---
 
 # Nathan Goes to China – Part 2: AI Safety with Chinese Characteristics

@@ -42,6 +42,31 @@ YouTube发布时间: 2026-10-12
   - Shield
   - Elon Musk
   - Schelling point
+companies:
+  - NEAR
+  - Aave
+  - Hyperliquid
+  - Nasdaq
+industries:
+  - 加密
+technologies:
+  - 以太坊
+  - 代币化
+  - 比特币
+  - Zcash
+keywords:
+  - 隐私
+tags:
+  - NEAR
+  - Aave
+  - Hyperliquid
+  - Nasdaq
+  - 加密
+  - 以太坊
+  - 代币化
+  - 比特币
+  - Zcash
+  - 隐私
 ---
 
 # Illia Polosukhin: The Future Of Finance Will Run On NEAR (Insider Take)

@@ -35,6 +35,25 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/q-Hd_E
   - colocation
   - AI CapEx
   - geopolitical fragmentation
+companies: []
+industries:
+  - 数据中心
+  - 网络安全
+  - 制造业
+technologies:
+  - 开源模型
+keywords:
+  - 出口管制
+  - 资本开支
+  - 主权
+tags:
+  - 数据中心
+  - 网络安全
+  - 制造业
+  - 开源模型
+  - 出口管制
+  - 资本开支
+  - 主权
 ---
 
 # The New Map of AI Power

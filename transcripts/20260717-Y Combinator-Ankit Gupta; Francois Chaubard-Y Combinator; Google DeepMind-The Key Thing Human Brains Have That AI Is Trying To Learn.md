@@ -28,6 +28,29 @@
   - "hippocampus"
 字幕来源: "public transcript: https://ycrootaccess.substack.com/p/world-models-an-intuitive-introduction"
 YouTube视频标题: "The Key Thing Human Brains Have That AI Is Trying To Learn"
+companies:
+  - DeepMind
+  - GOOGL
+  - TSLA
+industries:
+  - 机器人
+technologies:
+  - 世界模型
+  - 自动驾驶
+  - 强化学习
+  - 扩散模型
+keywords:
+  - AGI
+tags:
+  - DeepMind
+  - GOOGL
+  - TSLA
+  - 机器人
+  - 世界模型
+  - 自动驾驶
+  - 强化学习
+  - 扩散模型
+  - AGI
 ---
 
 # The Key Thing Human Brains Have That AI Is Trying To Learn

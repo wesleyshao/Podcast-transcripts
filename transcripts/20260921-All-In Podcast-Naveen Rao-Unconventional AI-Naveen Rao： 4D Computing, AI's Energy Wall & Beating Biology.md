@@ -45,6 +45,19 @@ YouTube发布时间: "2026-09-21T21:04:44Z"
   - "Meta"
   - "Keel Infrastructure"
   - "Airwallex"
+companies:
+  - IREN
+  - META
+  - ORCL
+industries:
+  - 数据中心
+technologies: []
+keywords: []
+tags:
+  - IREN
+  - META
+  - ORCL
+  - 数据中心
 ---
 
 # Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology

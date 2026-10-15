@@ -44,6 +44,27 @@ YouTube发布时间: "2026-08-11T22:31:23Z"
   - Starship的目标是把每年送入轨道的吨位从约2500吨提升到超过100万吨，最终接近1000万吨，以支撑月球、火星及更远处的建设。
   - 演讲将AI硬件、AI软件、AI卫星和机器人视为SpaceX未来的核心，并提出AI收入将在短期内超过SpaceX其他收入。
   - 讲话提出在地面训练AI、在太空进行日常AI推理的设想，并给出到明年末达到10吉瓦AI算力、对应每年3000亿至5000亿美元收入的内部预测。
+companies:
+  - SpaceX
+  - xAI
+  - NET
+industries:
+  - 商业航天
+  - 光伏
+technologies:
+  - LLM
+  - 卫星互联网
+  - 可回收火箭
+keywords: []
+tags:
+  - SpaceX
+  - xAI
+  - NET
+  - 商业航天
+  - 光伏
+  - LLM
+  - 卫星互联网
+  - 可回收火箭
 ---
 
 ## Transcript

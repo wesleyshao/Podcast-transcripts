@@ -15,6 +15,19 @@ transcript_source: "YouTube captions json3: Hhgv3RjK4kU.en-orig.json3."
   - alternative investments
   - Morgan Stanley
   - Connor Teskey
+companies: []
+industries:
+  - 金融
+  - 数据中心
+  - 电力
+technologies: []
+keywords:
+  - 电网
+tags:
+  - 金融
+  - 数据中心
+  - 电力
+  - 电网
 ---
 
 # Infrastructure Investing: Building What’s Next

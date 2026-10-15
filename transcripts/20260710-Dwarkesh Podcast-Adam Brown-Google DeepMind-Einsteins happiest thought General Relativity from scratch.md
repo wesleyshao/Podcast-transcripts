@@ -20,6 +20,15 @@ YouTube发布时间: 2026-07-10
   - "reasoning"
   - "philosophy of science"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies:
+  - DeepMind
+  - GOOGL
+industries: []
+technologies: []
+keywords: []
+tags:
+  - DeepMind
+  - GOOGL
 ---
 
 # Einstein's happiest thought: General Relativity from scratch – Adam Brown

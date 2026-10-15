@@ -16,6 +16,15 @@ language: "zh-CN"
 translation_note: "结合上下文译为简体中文全文，删去口头禅与重复，专有名词保留英文"
 topics: ["半导体", "Chip Design", "HBM/Memory", "Co-packaged Optics", "800V DC", "Energy", "AI Inference Chips"]
 investment_relevance: true
+companies: []
+industries:
+  - 数据中心
+  - 存储
+technologies: []
+keywords: []
+tags:
+  - 数据中心
+  - 存储
 ---
 
 ## Transcript

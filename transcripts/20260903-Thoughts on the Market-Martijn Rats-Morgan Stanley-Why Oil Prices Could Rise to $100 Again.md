@@ -33,6 +33,15 @@ YouTube发布时间: 2026-09-03T21:16:49Z
   - oil on water
   - Memorandum of Understanding
   - $100 per barrel
+companies: []
+industries:
+  - 能源
+technologies: []
+keywords:
+  - 霍尔木兹
+tags:
+  - 能源
+  - 霍尔木兹
 ---
 
 # Why Oil Prices Could Rise to $100 Again

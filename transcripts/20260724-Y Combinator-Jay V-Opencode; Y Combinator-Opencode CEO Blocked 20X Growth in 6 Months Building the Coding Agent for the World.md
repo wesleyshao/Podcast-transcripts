@@ -19,6 +19,25 @@
   - "YC"
   - "AI coding"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - Anthropic
+industries: []
+technologies:
+  - 编程助手
+  - LLM
+  - Agent
+  - 开源模型
+keywords:
+  - 开源
+  - 代币经济
+tags:
+  - Anthropic
+  - 编程助手
+  - LLM
+  - Agent
+  - 开源模型
+  - 开源
+  - 代币经济
 ---
 
 # Opencode CEO: Blocked, 20X Growth in 6 Months, Building the Coding Agent for the World

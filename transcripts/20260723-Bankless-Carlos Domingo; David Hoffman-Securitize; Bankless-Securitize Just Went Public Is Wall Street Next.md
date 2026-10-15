@@ -19,6 +19,23 @@
   - "tokenization demand"
   - "AUM"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - BLK
+industries:
+  - 加密
+technologies:
+  - 代币化
+  - 以太坊
+keywords:
+  - 合规
+  - 监管
+tags:
+  - BLK
+  - 加密
+  - 代币化
+  - 以太坊
+  - 合规
+  - 监管
 ---
 
 # Securitize Just Went Public. Is Wall Street Next?

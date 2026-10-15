@@ -26,6 +26,17 @@ YouTube发布时间: "2026-09-15T13:22:19Z"
   - "drug access"
   - "healthcare business models"
   - "Morgan Stanley"
+companies: []
+industries:
+  - 医疗
+  - 消费
+technologies: []
+keywords:
+  - 商业模式
+tags:
+  - 医疗
+  - 消费
+  - 商业模式
 ---
 
 ## Transcript

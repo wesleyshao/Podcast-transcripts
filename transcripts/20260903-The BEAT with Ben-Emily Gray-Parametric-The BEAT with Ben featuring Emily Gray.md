@@ -44,6 +44,17 @@ YouTube发布时间: 2026-09-03T15:02:27Z
   - Netflix
   - Seattle
 
+companies:
+  - NFLX
+  - AMZN
+  - SBUX
+industries: []
+technologies: []
+keywords: []
+tags:
+  - NFLX
+  - AMZN
+  - SBUX
 ---
 
 # The BEAT with Ben featuring Emily Gray

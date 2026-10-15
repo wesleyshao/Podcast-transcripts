@@ -42,6 +42,15 @@ youtube_video_id: wUemgynPFfE
   - Minnesota
   - Oshkosh
   - Accenture
+companies: []
+industries:
+  - 保险
+  - 医疗
+technologies: []
+keywords: []
+tags:
+  - 保险
+  - 医疗
 ---
 # Mayo Clinic shows how to fix America’s broken medical system
 

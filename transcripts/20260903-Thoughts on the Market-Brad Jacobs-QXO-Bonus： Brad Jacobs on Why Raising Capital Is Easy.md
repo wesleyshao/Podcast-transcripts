@@ -29,6 +29,15 @@ YouTube发布时间: 2026-09-03T14:08:59Z
   - management
   - Hard Lessons
 
+companies:
+  - QXO
+industries:
+  - 金融
+technologies: []
+keywords: []
+tags:
+  - QXO
+  - 金融
 ---
 
 # Bonus: Brad Jacobs on Why Raising Capital Is Easy

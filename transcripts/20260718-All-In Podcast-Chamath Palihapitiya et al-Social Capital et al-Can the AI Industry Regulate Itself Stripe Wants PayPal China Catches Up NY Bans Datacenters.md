@@ -26,6 +26,33 @@
   - "reversing aging"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters"
+companies:
+  - PayPal
+  - Stripe
+  - AAPL
+  - OpenAI
+  - Anthropic
+industries:
+  - 数据中心
+  - 生物技术
+technologies:
+  - LLM
+keywords:
+  - 监管
+  - 隐私
+  - 并购
+tags:
+  - PayPal
+  - Stripe
+  - AAPL
+  - OpenAI
+  - Anthropic
+  - 数据中心
+  - 生物技术
+  - LLM
+  - 监管
+  - 隐私
+  - 并购
 ---
 
 # Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters

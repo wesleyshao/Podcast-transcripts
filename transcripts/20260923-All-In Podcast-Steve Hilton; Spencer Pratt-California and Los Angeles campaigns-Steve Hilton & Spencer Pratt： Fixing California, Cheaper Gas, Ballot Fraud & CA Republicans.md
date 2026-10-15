@@ -28,6 +28,15 @@ youtube_video_id: VF90rBzl26E
   - homelessness
   - public safety
   - municipal infrastructure
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 监管
+  - 选举
+tags:
+  - 监管
+  - 选举
 ---
 
 # Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans

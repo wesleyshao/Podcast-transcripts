@@ -46,6 +46,39 @@ youtube_video_id: "yLZ7NxJqi9s"
   - "Simple Mining"
   - "Bitcoin mining"
   - "API"
+companies:
+  - AAPL
+  - Circle
+  - BLK
+  - Ripple
+  - Fidelity
+industries:
+  - 加密
+  - 消费
+  - 预测市场
+technologies:
+  - 比特币
+  - 区块链
+  - 稳定币
+  - 比特币挖矿
+keywords:
+  - 稳定币法案
+  - 监管
+tags:
+  - AAPL
+  - Circle
+  - BLK
+  - Ripple
+  - Fidelity
+  - 加密
+  - 消费
+  - 预测市场
+  - 比特币
+  - 区块链
+  - 稳定币
+  - 比特币挖矿
+  - 稳定币法案
+  - 监管
 ---
 
 # The Bitcoin Truth Wall Street Doesn't Want You to Hear

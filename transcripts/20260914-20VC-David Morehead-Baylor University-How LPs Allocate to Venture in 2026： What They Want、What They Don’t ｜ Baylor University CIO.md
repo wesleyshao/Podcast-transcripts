@@ -50,6 +50,35 @@ YouTube发布时间: "2026-09-14T13:58:31Z"
   - "valuation marks"
   - "forced selling"
 
+companies:
+  - SpaceX
+  - OpenAI
+  - Anthropic
+  - NVDA
+industries:
+  - 数据中心
+  - 风险投资
+  - 生物技术
+technologies:
+  - GPU
+  - LLM
+  - 可回收火箭
+keywords:
+  - 估值
+  - 人才
+tags:
+  - SpaceX
+  - OpenAI
+  - Anthropic
+  - NVDA
+  - 数据中心
+  - 风险投资
+  - 生物技术
+  - GPU
+  - LLM
+  - 可回收火箭
+  - 估值
+  - 人才
 ---
 
 ## Transcript

@@ -24,6 +24,25 @@
   - "Dean"
   - "Tyler"
   - "AI Action Plan"
+companies:
+  - OpenAI
+  - Anthropic
+industries:
+  - 数据中心
+technologies:
+  - LLM
+keywords:
+  - 开源
+  - 选举
+  - IPO
+tags:
+  - OpenAI
+  - Anthropic
+  - 数据中心
+  - LLM
+  - 开源
+  - 选举
+  - IPO
 ---
 
 # Dean Ball on Joining OpenAI: New Power Centers, Frontier AI Policy, & Main Character Energy

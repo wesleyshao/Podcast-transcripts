@@ -20,6 +20,35 @@
   - Bending Spoons
   - SaaS roll-ups
   - Salesforce
+companies:
+  - COIN
+  - Kalshi
+  - Anthropic
+  - MSFT
+  - OpenAI
+industries:
+  - 企业软件
+  - 预测市场
+  - 加密
+technologies:
+  - LLM
+keywords:
+  - IPO
+  - 估值
+  - 开源
+tags:
+  - COIN
+  - Kalshi
+  - Anthropic
+  - MSFT
+  - OpenAI
+  - 企业软件
+  - 预测市场
+  - 加密
+  - LLM
+  - IPO
+  - 估值
+  - 开源
 ---
 
 # Coinbase Cuts AI Spend by 50 Percent Kalshi's 40B Valuation and Impending IPO The Year for SaaS Roll Ups

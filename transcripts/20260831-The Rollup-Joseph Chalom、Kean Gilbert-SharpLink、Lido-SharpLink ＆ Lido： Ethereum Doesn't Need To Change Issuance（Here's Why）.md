@@ -41,6 +41,31 @@ YouTube发布时间: 2026-08-31T00:05:17Z
   - institutional adoption
   - on-chain finance
   - SharpLink ETH treasury
+companies:
+  - Lido
+  - SharpLink
+  - BLK
+  - Hyperliquid
+industries:
+  - 加密
+technologies:
+  - 以太坊
+  - 稳定币
+  - DeFi
+  - 代币化
+keywords:
+  - 机构采用
+tags:
+  - Lido
+  - SharpLink
+  - BLK
+  - Hyperliquid
+  - 加密
+  - 以太坊
+  - 稳定币
+  - DeFi
+  - 代币化
+  - 机构采用
 ---
 
 # SharpLink & Lido: Ethereum Doesn't Need To Change Issuance (Here's Why)

@@ -41,6 +41,33 @@ YouTube发布时间: "2026-09-14T16:30:06Z"
   - "cybersecurity"
   - "biosecurity"
 摘要: "节目围绕 Anthropic 研究员 Jacob Cox 离职后公开表达的 AI 灭绝风险展开，重点讨论 p(doom) 百分比是否具有可验证性、研究者和公司的激励、恐惧叙事对 Anthropic IPO 与数据中心建设的影响，以及应把注意力放在 AI 已经造成的网络安全、数据安全和代理失控风险上。"
+companies:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+industries:
+  - 数据中心
+  - 电力
+  - 网络安全
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 监管
+  - IPO
+  - 超级智能
+tags:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - 数据中心
+  - 电力
+  - 网络安全
+  - LLM
+  - Agent
+  - 监管
+  - IPO
+  - 超级智能
 ---
 
 ## Transcript

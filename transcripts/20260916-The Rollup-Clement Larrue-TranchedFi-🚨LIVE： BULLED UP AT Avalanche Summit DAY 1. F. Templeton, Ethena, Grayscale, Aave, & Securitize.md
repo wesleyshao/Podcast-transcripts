@@ -57,6 +57,35 @@ youtube_video_id: Fnf6w6YBiUM
   - Securitize
   - Ethena
   - Arc
+companies:
+  - Ethena
+  - Aave
+industries:
+  - 加密
+  - 宏观
+  - 房地产
+technologies:
+  - Zcash
+  - 代币化
+  - 稳定币
+  - DeFi
+keywords:
+  - 利率
+  - 合规
+  - 监管
+tags:
+  - Ethena
+  - Aave
+  - 加密
+  - 宏观
+  - 房地产
+  - Zcash
+  - 代币化
+  - 稳定币
+  - DeFi
+  - 利率
+  - 合规
+  - 监管
 ---
 
 # 🚨LIVE: BULLED UP AT Avalanche Summit DAY 1. F. Templeton, Ethena, Grayscale, Aave, & Securitize

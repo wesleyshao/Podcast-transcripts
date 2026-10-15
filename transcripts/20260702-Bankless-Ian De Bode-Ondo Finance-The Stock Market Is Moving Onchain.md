@@ -18,6 +18,33 @@
   - collateral
   - market liquidity
   - onchain asset management
+companies:
+  - Ondo
+  - SpaceX
+  - Nasdaq
+  - TSLA
+industries:
+  - 宏观
+  - 加密
+  - 商业航天
+technologies:
+  - 以太坊
+  - 可回收火箭
+  - DeFi
+  - 区块链
+keywords: []
+tags:
+  - Ondo
+  - SpaceX
+  - Nasdaq
+  - TSLA
+  - 宏观
+  - 加密
+  - 商业航天
+  - 以太坊
+  - 可回收火箭
+  - DeFi
+  - 区块链
 ---
 
 # The Stock Market Is Moving Onchain

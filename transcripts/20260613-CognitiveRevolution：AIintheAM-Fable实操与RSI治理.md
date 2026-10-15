@@ -32,6 +32,21 @@
   - in
   - the
   - AM
+companies:
+  - Anthropic
+  - OpenAI
+industries: []
+technologies:
+  - Agent
+  - LLM
+  - MCP
+keywords: []
+tags:
+  - Anthropic
+  - OpenAI
+  - Agent
+  - LLM
+  - MCP
 ---
 
 # AI in the AM — Week 2 Highlights (June 2026)

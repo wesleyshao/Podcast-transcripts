@@ -24,6 +24,35 @@ youtube_video_id: "a93FT2340c0"
 YouTube发布时间: "2026-06-13"
 播客标题: "Oral History of SpaceX’s Journey: Space and AI, the Prelude to Human Civilization’s Expansion?"
 字幕来源: "YouTube public subtitles: zh-Hans json3"
+companies:
+  - SpaceX
+  - xAI
+  - GOOGL
+  - NASA
+  - TSLA
+industries:
+  - 商业航天
+  - 制造业
+  - 数据中心
+technologies:
+  - 可回收火箭
+  - LLM
+keywords:
+  - IPO
+  - 创业
+tags:
+  - SpaceX
+  - xAI
+  - GOOGL
+  - NASA
+  - TSLA
+  - 商业航天
+  - 制造业
+  - 数据中心
+  - 可回收火箭
+  - LLM
+  - IPO
+  - 创业
 ---
 
 # Oral History of SpaceX’s Journey: Space and AI, the Prelude to Human Civilization’s Expansion?

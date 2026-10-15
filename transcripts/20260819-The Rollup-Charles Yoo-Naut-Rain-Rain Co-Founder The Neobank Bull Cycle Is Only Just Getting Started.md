@@ -23,6 +23,27 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/pGokEm
   - Genius Act
   - compliance licensing
   - agentic payments
+companies:
+  - Visa
+industries:
+  - 加密
+  - 金融
+  - 支付
+technologies:
+  - 稳定币
+  - Agent
+keywords:
+  - 合规
+  - 稳定币法案
+tags:
+  - Visa
+  - 加密
+  - 金融
+  - 支付
+  - 稳定币
+  - Agent
+  - 合规
+  - 稳定币法案
 ---
 
 # Rain Co-Founder: The Neobank Bull Cycle Is Only Just Getting Started (Trillions Are Coming…)

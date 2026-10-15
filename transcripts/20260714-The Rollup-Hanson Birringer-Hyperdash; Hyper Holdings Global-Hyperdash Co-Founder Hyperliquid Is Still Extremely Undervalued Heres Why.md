@@ -18,6 +18,21 @@
   - "builder codes"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Hyperdash Co-Founder: Hyperliquid Is Still Extremely Undervalued (Here's Why)"
+companies:
+  - Hyperliquid
+  - Circle
+industries:
+  - 加密
+technologies:
+  - 代币化
+  - 稳定币
+keywords: []
+tags:
+  - Hyperliquid
+  - Circle
+  - 加密
+  - 代币化
+  - 稳定币
 ---
 
 # Hyperdash Co-Founder: Hyperliquid Is Still Extremely Undervalued (Here's Why)

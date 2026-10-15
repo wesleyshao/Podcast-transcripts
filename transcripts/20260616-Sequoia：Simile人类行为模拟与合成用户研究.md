@@ -18,6 +18,19 @@
   - Joon
   - Sung
   - Park
+companies: []
+industries:
+  - 加密
+technologies:
+  - Agent
+  - DeFi
+keywords:
+  - AGI
+tags:
+  - 加密
+  - Agent
+  - DeFi
+  - AGI
 ---
 
 # Simulating Humans at Scale: Simile's Joon Sung Park

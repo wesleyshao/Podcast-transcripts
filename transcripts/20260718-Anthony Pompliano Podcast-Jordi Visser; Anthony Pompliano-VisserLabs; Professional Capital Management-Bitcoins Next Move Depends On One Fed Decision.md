@@ -24,6 +24,33 @@
   - "crypto allocation"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Bitcoin's Next Move Depends On One Fed Decision"
+companies:
+  - Nasdaq
+  - MU
+  - 月之暗面
+industries:
+  - 加密
+  - 宏观
+  - 半导体
+technologies:
+  - 比特币
+  - 以太坊
+  - Agent
+keywords:
+  - 通胀
+  - 开源
+tags:
+  - Nasdaq
+  - MU
+  - 月之暗面
+  - 加密
+  - 宏观
+  - 半导体
+  - 比特币
+  - 以太坊
+  - Agent
+  - 通胀
+  - 开源
 ---
 
 # Bitcoin's Next Move Depends On One Fed Decision

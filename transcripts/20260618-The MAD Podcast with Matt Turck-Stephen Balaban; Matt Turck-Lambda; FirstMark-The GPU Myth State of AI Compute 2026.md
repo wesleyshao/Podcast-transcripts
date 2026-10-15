@@ -17,6 +17,27 @@
   - "power bottleneck"
   - "GPU leasing"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - NVDA
+  - AAPL
+industries:
+  - 半导体
+  - 数据中心
+technologies:
+  - GPU
+  - Agent
+  - LLM
+  - 推理
+keywords: []
+tags:
+  - NVDA
+  - AAPL
+  - 半导体
+  - 数据中心
+  - GPU
+  - Agent
+  - LLM
+  - 推理
 ---
 
 # The GPU Myth: State of AI Compute 2026 | Stephen Balaban

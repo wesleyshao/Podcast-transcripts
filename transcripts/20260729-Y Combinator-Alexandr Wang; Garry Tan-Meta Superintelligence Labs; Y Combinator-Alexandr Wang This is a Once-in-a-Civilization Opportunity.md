@@ -49,6 +49,27 @@ youtube_video_id: "sJ4VJWycX9M"
   - "Moore's law"
   - "biosecurity"
   - "cybersecurity"
+companies:
+  - META
+  - PLTR
+  - ScaleAI
+industries:
+  - 网络安全
+technologies:
+  - Agent
+keywords:
+  - 超级智能
+  - 创业
+  - 开源
+tags:
+  - META
+  - PLTR
+  - ScaleAI
+  - 网络安全
+  - Agent
+  - 超级智能
+  - 创业
+  - 开源
 ---
 
 # Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”

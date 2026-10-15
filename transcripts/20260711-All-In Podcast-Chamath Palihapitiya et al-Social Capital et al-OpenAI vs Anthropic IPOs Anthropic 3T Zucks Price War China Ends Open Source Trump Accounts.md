@@ -18,6 +18,35 @@ YouTube发布时间: 2026-07-11
   - "capitalism"
   - "AI duopoly"
 字幕来源: "YouTube 公开字幕 json3，automatic_captions/en-orig"
+companies:
+  - Anthropic
+  - OpenAI
+  - SpaceX
+  - META
+industries:
+  - 商业航天
+technologies:
+  - LLM
+  - 可回收火箭
+  - Agent
+  - 开源模型
+keywords:
+  - 开源
+  - 选举
+  - IPO
+tags:
+  - Anthropic
+  - OpenAI
+  - SpaceX
+  - META
+  - 商业航天
+  - LLM
+  - 可回收火箭
+  - Agent
+  - 开源模型
+  - 开源
+  - 选举
+  - IPO
 ---
 
 # OpenAI vs Anthropic IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts

@@ -35,6 +35,15 @@ YouTube发布时间: 2026-08-25T14:30:33Z
   - 创业公司
   - 算力
   - 资本
+companies: []
+industries:
+  - 数据中心
+technologies: []
+keywords:
+  - 创业
+tags:
+  - 数据中心
+  - 创业
 ---
 
 # How AI Changes the Economics of Innovation

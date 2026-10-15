@@ -24,6 +24,35 @@
   - "POLYMARKET"
   - "PREDICTION MARKET"
   - "OKX"
+companies:
+  - OKX
+  - SPOT
+  - Anthropic
+  - NEAR
+  - Polymarket
+industries:
+  - 预测市场
+  - 加密
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 合规
+  - 隐私
+  - 出口管制
+tags:
+  - OKX
+  - SPOT
+  - Anthropic
+  - NEAR
+  - Polymarket
+  - 预测市场
+  - 加密
+  - LLM
+  - Agent
+  - 合规
+  - 隐私
+  - 出口管制
 ---
 
 # The AI Crackdown Could Change the Internet Forever

@@ -53,6 +53,33 @@ youtube_video_id: Q6kDZJ0xdSw
   - Lovable
   - Replit
   - Salesforce
+companies:
+  - 月之暗面
+  - PANW
+  - Anthropic
+  - PLTR
+  - Waymo
+industries:
+  - 企业软件
+  - 汽车
+  - 网络安全
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 资本开支
+tags:
+  - 月之暗面
+  - PANW
+  - Anthropic
+  - PLTR
+  - Waymo
+  - 企业软件
+  - 汽车
+  - 网络安全
+  - LLM
+  - Agent
+  - 资本开支
 ---
 
 # Leo Aschenbrenner's Situational Awareness Blows Up | Moonshot AI Raises $3.5B at $35B

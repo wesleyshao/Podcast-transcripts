@@ -17,6 +17,19 @@
   - Formula 1
   - manufacturing
   - AI-native engineering
+companies:
+  - Anthropic
+industries:
+  - 制造业
+  - 电池
+technologies:
+  - LLM
+keywords: []
+tags:
+  - Anthropic
+  - 制造业
+  - 电池
+  - LLM
 ---
 
 # 1000 Designs a Day Neural Concept's Thomas von Tschammer on AI Native Engineering

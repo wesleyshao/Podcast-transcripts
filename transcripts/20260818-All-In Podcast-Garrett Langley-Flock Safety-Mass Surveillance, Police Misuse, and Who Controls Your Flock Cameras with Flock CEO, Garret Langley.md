@@ -53,6 +53,15 @@ youtube_video_id: 5BWuvjGLMik
   - city council
   - police chief
   - public records
+companies:
+  - AppLovin
+industries: []
+technologies: []
+keywords:
+  - 隐私
+tags:
+  - AppLovin
+  - 隐私
 ---
 # Mass Surveillance, Police Misuse, and Who Controls Your Flock Cameras with Flock CEO, Garret Langley
 

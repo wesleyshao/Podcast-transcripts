@@ -24,6 +24,17 @@ youtube_video_id: "P3KDebPTUrw"
 YouTube发布时间: "2026-06-28"
 播客标题: "Why OpenAI is merging Codex and ChatGPT and the future of knowledge work | Andrew Ambrosino"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - OpenAI
+industries: []
+technologies:
+  - 编程助手
+  - LLM
+keywords: []
+tags:
+  - OpenAI
+  - 编程助手
+  - LLM
 ---
 
 # Why OpenAI is merging Codex and ChatGPT and the future of knowledge work | Andrew Ambrosino

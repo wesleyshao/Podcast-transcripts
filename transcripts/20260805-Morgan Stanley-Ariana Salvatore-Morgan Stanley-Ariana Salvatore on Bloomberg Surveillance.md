@@ -28,6 +28,15 @@ youtube_video_id: "Ht3Hl15B7ho"
 字幕来源: "YouTube 原始自动字幕 en-orig（由 youtube_caption_fetch.py 验证并去除时间戳）"
 原始语言: "English"
 转写说明: "基于完整 en-orig 纯文本，按对话顺序结合上下文转写为简体中文；未把 RSS 节目摘要当作全文。"
+companies: []
+industries:
+  - 预测市场
+technologies: []
+keywords:
+  - 就业
+tags:
+  - 预测市场
+  - 就业
 ---
 
 # Ariana Salvatore on Bloomberg Surveillance

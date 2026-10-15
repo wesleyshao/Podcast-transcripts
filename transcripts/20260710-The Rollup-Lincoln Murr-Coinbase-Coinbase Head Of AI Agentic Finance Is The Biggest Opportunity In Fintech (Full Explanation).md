@@ -18,6 +18,29 @@ YouTube发布时间: 2026-07-10
   - "Chinese AI models"
   - "post-AGI economy"
 字幕来源: "YouTube 公开字幕 json3，automatic_captions/en-orig"
+companies:
+  - COIN
+  - OpenAI
+  - Anthropic
+industries:
+  - 加密
+technologies:
+  - Agent
+  - LLM
+  - 推理
+keywords:
+  - AGI
+  - 监管
+tags:
+  - COIN
+  - OpenAI
+  - Anthropic
+  - 加密
+  - Agent
+  - LLM
+  - 推理
+  - AGI
+  - 监管
 ---
 
 # Coinbase Head Of AI: Agentic Finance Is The Biggest Opportunity In Fintech (Full Explanation)

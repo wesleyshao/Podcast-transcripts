@@ -31,6 +31,13 @@ YouTube发布时间: 2026-08-28T19:41:46Z
   - GDP
   - Treasury market
   - government shutdown
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 债务
+tags:
+  - 债务
 ---
 
 # The Politics Behind the Rising U.S. Debt

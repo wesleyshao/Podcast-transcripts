@@ -37,6 +37,29 @@ YouTube发布时间: "2026-09-16T02:20:15Z"
   - "Zama"
   - "StrataMedia"
 核心观点: "Will Peck 认为，代币化基金与稳定币是互补关系，早期最清晰的落地场景是让货币市场基金获得全天候可交易和更灵活的分销渠道；他同时质疑把私募市场代币化简单归因于记账效率的叙事，认为流动性本身仍是核心约束。"
+companies:
+  - WisdomTree
+  - DTCC
+  - Dinari
+industries:
+  - 加密
+  - 消费
+  - 金融
+technologies:
+  - 代币化
+  - 稳定币
+keywords:
+  - 监管
+tags:
+  - WisdomTree
+  - DTCC
+  - Dinari
+  - 加密
+  - 消费
+  - 金融
+  - 代币化
+  - 稳定币
+  - 监管
 ---
 
 # WisdomTree's Head Of Digital Assets: Why Walled Gardens Are About To Break (No Gardens)

@@ -19,6 +19,21 @@
   - "vertical integration"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Rare earths: rebuilding the supply chains powering the future | The Next Big Thing"
+companies:
+  - WisdomTree
+industries:
+  - 机器人
+  - 汽车
+technologies: []
+keywords:
+  - 稀土
+  - 垂直整合
+tags:
+  - WisdomTree
+  - 机器人
+  - 汽车
+  - 稀土
+  - 垂直整合
 ---
 
 ## Transcript

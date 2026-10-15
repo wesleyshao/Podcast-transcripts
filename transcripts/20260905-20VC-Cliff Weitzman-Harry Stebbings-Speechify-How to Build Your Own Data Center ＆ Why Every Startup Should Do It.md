@@ -37,6 +37,27 @@ YouTube发布时间: "2026-09-05T14:00:20Z"
   - "dyslexia"
   - "orphan disease"
 
+companies:
+  - NVDA
+industries:
+  - 数据中心
+  - 半导体
+  - 电力
+technologies:
+  - GPU
+  - Agent
+keywords:
+  - 创业
+  - 人才
+tags:
+  - NVDA
+  - 数据中心
+  - 半导体
+  - 电力
+  - GPU
+  - Agent
+  - 创业
+  - 人才
 ---
 
 ## Transcript

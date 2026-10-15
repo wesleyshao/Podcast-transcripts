@@ -23,6 +23,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/2hgErd
   - AI boom
   - trade war
   - market risk
+companies: []
+industries:
+  - 能源
+  - 金融
+technologies: []
+keywords: []
+tags:
+  - 能源
+  - 金融
 ---
 
 # Kan Oljefondet forsvinne? | Finanstalen | Arendalsuka 2026 | Nicolai Tangen

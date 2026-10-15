@@ -36,6 +36,31 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/-gaPnq
   - NEAR
   - FRAX
   - token buybacks
+companies:
+  - Lido
+  - NEAR
+  - SharpLink
+industries:
+  - 加密
+  - 游戏
+  - 宏观
+technologies:
+  - DeFi
+  - 代币化
+  - 以太坊
+  - 比特币
+keywords: []
+tags:
+  - Lido
+  - NEAR
+  - SharpLink
+  - 加密
+  - 游戏
+  - 宏观
+  - DeFi
+  - 代币化
+  - 以太坊
+  - 比特币
 ---
 
 # 🚨LIVE: Do Buybacks Work?! HYPE, PUMP, LIT, ETHFI, AERO, NEAR, FRAX. GMoney, Kean & Joe Chalom Join

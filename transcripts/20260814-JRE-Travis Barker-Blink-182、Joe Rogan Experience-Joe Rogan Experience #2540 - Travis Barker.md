@@ -24,6 +24,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/9iENvZ
   - Hulu
   - Barker Wellness
   - DTA Records
+companies: []
+industries:
+  - 生物技术
+technologies: []
+keywords:
+  - 综合格斗
+tags:
+  - 生物技术
+  - 综合格斗
 ---
 
 # Joe Rogan Experience #2540 - Travis Barker

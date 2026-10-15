@@ -48,6 +48,25 @@ YouTube发布时间: "2026-09-09T12:00:26Z"
   - "Babelfish"
   - "human potential"
 
+companies:
+  - BLK
+  - GOOGL
+  - PLTR
+industries:
+  - 医疗
+  - 电商
+technologies:
+  - Agent
+keywords:
+  - 创业
+tags:
+  - BLK
+  - GOOGL
+  - PLTR
+  - 医疗
+  - 电商
+  - Agent
+  - 创业
 ---
 
 # Building One of AI’s Fastest-Growing Companies：Mati Staniszewski、ElevenLabs

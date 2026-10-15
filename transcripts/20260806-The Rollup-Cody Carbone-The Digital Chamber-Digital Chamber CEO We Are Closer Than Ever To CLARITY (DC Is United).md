@@ -35,6 +35,17 @@ youtube_video_id: "jt6QZXHzo4g"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按对话语义转写；保留法案程序、票数与时间窗口，未把节目说明或低于匹配阈值的 Podcast 条目当作公开全文。"
+companies: []
+industries: []
+technologies:
+  - 代币化
+keywords:
+  - 稳定币法案
+  - 选举
+tags:
+  - 代币化
+  - 稳定币法案
+  - 选举
 ---
 
 # Digital Chamber CEO: We Are Closer Than Ever To CLARITY (DC Is United)

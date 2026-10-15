@@ -42,6 +42,25 @@ youtube_video_id: "a00xIn5kwhM"
   - "post-training"
   - "cyber defense"
   - "virtual coworkers"
+companies:
+  - Mercor
+  - Cognition
+  - Cursor
+industries: []
+technologies:
+  - Agent
+  - 后训练
+  - 编程助手
+  - 强化学习
+keywords: []
+tags:
+  - Mercor
+  - Cognition
+  - Cursor
+  - Agent
+  - 后训练
+  - 编程助手
+  - 强化学习
 ---
 
 # RL Environments Explained: How AI Agents Learn Real-World Work | Brendan Foody, Mercor

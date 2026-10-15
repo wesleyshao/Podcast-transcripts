@@ -36,6 +36,17 @@ youtube_video_id: "2HJ1ybGxoiQ"
   - "OPEC"
   - "China"
   - "Middle East"
+companies: []
+industries:
+  - 能源
+technologies: []
+keywords:
+  - 霍尔木兹
+  - 战争
+tags:
+  - 能源
+  - 霍尔木兹
+  - 战争
 ---
 
 # The Oil Market’s Billion-Barrel Problem

@@ -27,6 +27,19 @@ youtube_video_id: jELLCNEE_Zk
   - 燃料电池
   - 储能
   - 天然气轮机
+companies: []
+industries:
+  - 数据中心
+  - 电力
+  - 电池
+technologies: []
+keywords:
+  - 电网
+tags:
+  - 数据中心
+  - 电力
+  - 电池
+  - 电网
 ---
 
 # Blind Spots in the AI Infrastructure Selloff

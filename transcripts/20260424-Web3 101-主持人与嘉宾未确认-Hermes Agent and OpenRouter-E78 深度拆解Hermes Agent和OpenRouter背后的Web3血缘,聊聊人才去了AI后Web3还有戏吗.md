@@ -24,6 +24,33 @@
   - "Research Moltbook Stability AI"
   - "FTX Future Fund Leopold"
   - "Aschenbrenner Avital Balwit"
+companies:
+  - OpenRouter
+  - Anthropic
+  - OpenAI
+industries:
+  - 加密
+  - 数据中心
+  - 电力
+technologies:
+  - GPU
+  - LLM
+  - 开源模型
+keywords:
+  - 人才
+  - 开源
+tags:
+  - OpenRouter
+  - Anthropic
+  - OpenAI
+  - 加密
+  - 数据中心
+  - 电力
+  - GPU
+  - LLM
+  - 开源模型
+  - 人才
+  - 开源
 ---
 
 # E78｜深度拆解Hermes Agent和OpenRouter背后的Web3血缘，聊聊人才去了AI后Web3还有戏吗

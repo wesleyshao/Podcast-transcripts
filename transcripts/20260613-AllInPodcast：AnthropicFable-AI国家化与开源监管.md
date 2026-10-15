@@ -24,6 +24,25 @@
   - "Inflation"
   - "CPI"
   - "PPI"
+companies:
+  - Anthropic
+industries:
+  - 宏观
+technologies:
+  - LLM
+  - 开源模型
+keywords:
+  - 通胀
+  - 开源
+  - 监管
+tags:
+  - Anthropic
+  - 宏观
+  - LLM
+  - 开源模型
+  - 通胀
+  - 开源
+  - 监管
 ---
 
 # Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections

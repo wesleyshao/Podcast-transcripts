@@ -19,6 +19,25 @@
   - "five-year bet"
   - "real inflation"
 字幕来源: "YouTube automatic_captions en json3"
+companies: []
+industries:
+  - 加密
+  - 宏观
+  - 能源
+technologies:
+  - 比特币
+keywords:
+  - 通胀
+  - 选举
+  - 生产力
+tags:
+  - 加密
+  - 宏观
+  - 能源
+  - 比特币
+  - 通胀
+  - 选举
+  - 生产力
 ---
 
 # Bitcoin Debate: Pomp DESTROYS Peter Schiff

@@ -25,6 +25,19 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/69zEgS
   - public offering
   - 6000万股
   - 150美元
+companies:
+  - SpaceX
+industries:
+  - 商业航天
+technologies:
+  - 可回收火箭
+keywords:
+  - IPO
+tags:
+  - SpaceX
+  - 商业航天
+  - 可回收火箭
+  - IPO
 ---
 
 # Leading the Way with SpaceX

@@ -52,6 +52,37 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/OYbQmJ
   - 外部管理人
   - 挪威克朗
   - 持仓清单
+companies:
+  - SpaceX
+  - NVDA
+  - Anthropic
+  - OpenAI
+industries:
+  - 商业航天
+  - 房地产
+  - 半导体
+technologies:
+  - GPU
+  - LLM
+  - 可回收火箭
+keywords:
+  - IPO
+  - 估值
+  - 黄金
+tags:
+  - SpaceX
+  - NVDA
+  - Anthropic
+  - OpenAI
+  - 商业航天
+  - 房地产
+  - 半导体
+  - GPU
+  - LLM
+  - 可回收火箭
+  - IPO
+  - 估值
+  - 黄金
 ---
 
 # Rekordhøy kroneavkastning ｜ Resultatfremleggelsen for første halvår 2026

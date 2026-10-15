@@ -19,6 +19,25 @@
   - vertical integration
   - Ward 250
   - giga-site
+companies:
+  - NVDA
+industries:
+  - 核能
+  - 半导体
+technologies:
+  - GPU
+  - Blackwell
+keywords:
+  - 创业
+  - 垂直整合
+tags:
+  - NVDA
+  - 核能
+  - 半导体
+  - GPU
+  - Blackwell
+  - 创业
+  - 垂直整合
 ---
 
 # How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor

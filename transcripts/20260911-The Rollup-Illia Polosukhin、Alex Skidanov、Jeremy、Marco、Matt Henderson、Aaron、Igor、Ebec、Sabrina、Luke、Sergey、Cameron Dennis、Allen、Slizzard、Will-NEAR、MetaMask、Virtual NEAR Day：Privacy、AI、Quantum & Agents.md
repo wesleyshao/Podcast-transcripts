@@ -104,6 +104,35 @@ YouTube发布时间: 2026-09-11
   - LayerZero
   - Cross-chain
   - RWA
+companies:
+  - NEAR
+  - Hyperliquid
+industries:
+  - 加密
+  - 宏观
+  - 支付
+technologies:
+  - Agent
+  - 推理
+  - 稳定币
+  - 代币化
+keywords:
+  - 隐私
+  - 合规
+  - 监管
+tags:
+  - NEAR
+  - Hyperliquid
+  - 加密
+  - 宏观
+  - 支付
+  - Agent
+  - 推理
+  - 稳定币
+  - 代币化
+  - 隐私
+  - 合规
+  - 监管
 ---
 # Virtual NEAR Day：Privacy、AI、Quantum & Agents
 

@@ -47,6 +47,35 @@ youtube_video_id: "VZWvVLoGkgE"
   - "DeFi"
   - "onchain"
   - "institutional adoption"
+companies:
+  - Hyperliquid
+  - Lighter
+  - Dinari
+industries:
+  - 加密
+  - 支付
+technologies:
+  - 代币化
+  - 以太坊
+  - 比特币
+  - 稳定币
+keywords:
+  - 稳定币法案
+  - 合规
+  - 隐私
+tags:
+  - Hyperliquid
+  - Lighter
+  - Dinari
+  - 加密
+  - 支付
+  - 代币化
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 稳定币法案
+  - 合规
+  - 隐私
 ---
 
 # 🚨LIVE: CLARITY Officially Delayed To September?! Saylor Almost Back To Par. HL Media, OP & Gate Call

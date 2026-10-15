@@ -17,6 +17,13 @@
   - "Industrial Revolution"
   - "Sarah Paine U.S. Naval"
   - "War College Dwarkesh Patel"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 地缘政治
+tags:
+  - 地缘政治
 ---
 
 # Sarah Paine - Why Putin and Xi can't escape geography

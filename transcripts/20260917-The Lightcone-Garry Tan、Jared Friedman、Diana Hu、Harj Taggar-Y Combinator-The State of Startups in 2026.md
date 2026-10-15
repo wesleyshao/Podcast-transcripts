@@ -40,6 +40,27 @@ YouTube发布时间: "2026-09-17T17:58:14Z"
   - "RL environments"
   - "revenue"
   - "experienced founders"
+companies: []
+industries:
+  - 机器人
+  - 数据中心
+  - 制造业
+technologies:
+  - Agent
+  - LLM
+  - GPU
+keywords:
+  - 人才
+  - 创业
+tags:
+  - 机器人
+  - 数据中心
+  - 制造业
+  - Agent
+  - LLM
+  - GPU
+  - 人才
+  - 创业
 ---
 
 # The State of Startups in 2026

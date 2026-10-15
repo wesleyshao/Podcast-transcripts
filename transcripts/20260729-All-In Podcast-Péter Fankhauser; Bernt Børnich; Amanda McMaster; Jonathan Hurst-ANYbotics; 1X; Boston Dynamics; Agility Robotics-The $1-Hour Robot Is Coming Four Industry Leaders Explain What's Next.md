@@ -53,6 +53,31 @@ youtube_video_id: "TqNiSTeNtb0"
   - "Amazon"
   - "Toyota"
   - "Tesla Optimus"
+companies:
+  - AMZN
+  - GOOGL
+  - TSLA
+  - AppLovin
+  - DeepMind
+industries:
+  - 机器人
+  - 制造业
+technologies:
+  - 具身智能
+  - 世界模型
+keywords:
+  - AGI
+tags:
+  - AMZN
+  - GOOGL
+  - TSLA
+  - AppLovin
+  - DeepMind
+  - 机器人
+  - 制造业
+  - 具身智能
+  - 世界模型
+  - AGI
 ---
 
 # The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next

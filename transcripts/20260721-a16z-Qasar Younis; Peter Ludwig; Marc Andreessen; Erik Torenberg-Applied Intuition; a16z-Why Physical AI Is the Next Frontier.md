@@ -17,6 +17,29 @@
   - "long-haul trucking"
   - "defense autonomy"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - a16z
+  - GM
+  - TSLA
+  - GOOGL
+  - AAPL
+industries:
+  - 机器人
+  - 汽车
+technologies:
+  - 世界模型
+  - 自动驾驶
+keywords: []
+tags:
+  - a16z
+  - GM
+  - TSLA
+  - GOOGL
+  - AAPL
+  - 机器人
+  - 汽车
+  - 世界模型
+  - 自动驾驶
 ---
 
 # Why Physical AI Is the Next Frontier | The a16z Show

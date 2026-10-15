@@ -45,6 +45,35 @@ youtube_video_id: PJrntzMA4iQ
   - AI regulation
   - IPO
 核心观点: Brad Gerstner 认为，当前市场上涨主要由盈利增长而非估值扩张推动，AI 基础设施仍是重要驱动，但 2026 年不能简单复制此前的 AI 交易。判断 AI 是否真正进入下一阶段，要观察 AI 实验室月收入能否接近约 80 亿美元并覆盖资本开支，同时关注利率、油价、选举、监管和 IPO 节奏。节目涉及 NVIDIA 等上市公司，但没有给出明确买卖评级。
+companies:
+  - Nasdaq
+  - NVDA
+  - Anthropic
+  - OpenAI
+industries:
+  - 半导体
+  - 宏观
+  - 能源
+technologies:
+  - GPU
+  - LLM
+keywords:
+  - 泡沫
+  - 资本开支
+  - 利率
+tags:
+  - Nasdaq
+  - NVDA
+  - Anthropic
+  - OpenAI
+  - 半导体
+  - 宏观
+  - 能源
+  - GPU
+  - LLM
+  - 泡沫
+  - 资本开支
+  - 利率
 ---
 
 # Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem

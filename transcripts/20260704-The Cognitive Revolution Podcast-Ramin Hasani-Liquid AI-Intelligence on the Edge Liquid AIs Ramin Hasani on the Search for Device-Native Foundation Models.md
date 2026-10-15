@@ -21,6 +21,27 @@
   - "on-device intelligence"
   - "privacy"
   - "low latency"
+companies:
+  - SHOP
+  - Anthropic
+  - NVDA
+industries:
+  - 半导体
+  - 数据中心
+technologies:
+  - LLM
+  - GPU
+keywords:
+  - 隐私
+tags:
+  - SHOP
+  - Anthropic
+  - NVDA
+  - 半导体
+  - 数据中心
+  - LLM
+  - GPU
+  - 隐私
 ---
 
 # Intelligence on the Edge Liquid AIs Ramin Hasani on the Search for Device-Native Foundation Models

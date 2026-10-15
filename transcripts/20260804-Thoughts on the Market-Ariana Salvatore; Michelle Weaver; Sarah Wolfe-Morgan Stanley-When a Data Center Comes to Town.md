@@ -45,6 +45,21 @@ YouTube发布时间: "2026-08-04T22:17:34Z"
   - sovereign AI
   - U.S.-China AI competition
   - conditional build-out
+companies: []
+industries:
+  - 数据中心
+  - 电力
+technologies: []
+keywords:
+  - 住房
+  - 中美竞争
+  - 主权
+tags:
+  - 数据中心
+  - 电力
+  - 住房
+  - 中美竞争
+  - 主权
 ---
 
 # When a Data Center Comes to Town

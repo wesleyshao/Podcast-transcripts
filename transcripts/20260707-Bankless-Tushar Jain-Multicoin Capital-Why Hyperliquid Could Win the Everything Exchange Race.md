@@ -22,6 +22,25 @@ YouTube发布时间: "2026-07-07"
   - "token value capture"
   - "US onshore perps"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies:
+  - Hyperliquid
+  - Lighter
+  - COIN
+industries:
+  - 加密
+technologies:
+  - DeFi
+  - 永续合约
+keywords:
+  - 估值
+tags:
+  - Hyperliquid
+  - Lighter
+  - COIN
+  - 加密
+  - DeFi
+  - 永续合约
+  - 估值
 ---
 
 # Why Hyperliquid Could Win the Everything Exchange Race

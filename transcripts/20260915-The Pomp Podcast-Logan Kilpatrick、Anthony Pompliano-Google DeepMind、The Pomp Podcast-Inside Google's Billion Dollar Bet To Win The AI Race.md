@@ -29,6 +29,25 @@ youtube_video_id: 27yAYAn9Ens
   - China AI labs
   - open source AI
   - benchmarking
+companies:
+  - GOOGL
+  - DeepMind
+industries: []
+technologies:
+  - 预训练
+  - 编程助手
+  - Agent
+keywords:
+  - 开源
+  - AGI
+tags:
+  - GOOGL
+  - DeepMind
+  - 预训练
+  - 编程助手
+  - Agent
+  - 开源
+  - AGI
 ---
 
 # Inside Google's Billion Dollar Bet To Win The AI Race

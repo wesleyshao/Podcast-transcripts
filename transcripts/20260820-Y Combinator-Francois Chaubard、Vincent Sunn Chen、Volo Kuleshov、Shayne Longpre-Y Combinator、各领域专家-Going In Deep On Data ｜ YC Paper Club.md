@@ -35,6 +35,19 @@ YouTube发布时间: 2026-08-20
   - diffusion language models
   - scaling laws
   - data quality
+companies: []
+industries: []
+technologies:
+  - Agent
+  - 扩散模型
+  - 预训练
+keywords:
+  - 规模定律
+tags:
+  - Agent
+  - 扩散模型
+  - 预训练
+  - 规模定律
 ---
 
 # Going In Deep On Data ｜ YC Paper Club

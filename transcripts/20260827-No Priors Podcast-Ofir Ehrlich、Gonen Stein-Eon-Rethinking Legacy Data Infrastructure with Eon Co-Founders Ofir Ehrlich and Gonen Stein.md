@@ -36,6 +36,17 @@ YouTube发布时间: 2026-08-27T10:00:04Z
   - 非人类身份
   - Spirit Airlines
   - Google
+companies:
+  - GOOGL
+industries:
+  - 云计算
+technologies:
+  - Agent
+keywords: []
+tags:
+  - GOOGL
+  - 云计算
+  - Agent
 ---
 
 # Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein

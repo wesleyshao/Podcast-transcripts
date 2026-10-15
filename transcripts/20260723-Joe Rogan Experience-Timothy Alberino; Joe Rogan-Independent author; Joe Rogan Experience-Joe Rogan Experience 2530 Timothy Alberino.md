@@ -17,6 +17,13 @@
   - "archaeology"
   - "Joe Rogan Experience"
 字幕来源: "YouTube automatic_captions en json3"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 历史
+tags:
+  - 历史
 ---
 
 # Joe Rogan Experience #2530 - Timothy Alberino

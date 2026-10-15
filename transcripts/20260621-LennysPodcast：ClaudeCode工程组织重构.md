@@ -22,6 +22,31 @@
   - Claude
   - Code
   - Cowork
+companies:
+  - Anthropic
+  - META
+  - MSFT
+  - OpenAI
+industries: []
+technologies:
+  - 编程助手
+  - Agent
+  - LLM
+keywords:
+  - 人才
+  - AGI
+  - IPO
+tags:
+  - Anthropic
+  - META
+  - MSFT
+  - OpenAI
+  - 编程助手
+  - Agent
+  - LLM
+  - 人才
+  - AGI
+  - IPO
 ---
 
 # What happens after coding is solved? | Fiona Fung (Claude Code and Cowork)

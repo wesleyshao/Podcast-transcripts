@@ -35,6 +35,13 @@ YouTube发布时间: 2026-08-28T15:02:22Z
   - 现金流
   - 资本回报
   - 标普500
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords: []
+tags:
+  - 宏观
 ---
 
 # The BEAT with Ben featuring Andrew Slimmon

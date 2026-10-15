@@ -35,6 +35,23 @@ youtube_video_id: J5ajNiKkRt8
   - lean hogs
   - inflation hedge
   - supply elasticity
+companies:
+  - WisdomTree
+industries:
+  - 宏观
+  - 消费
+technologies: []
+keywords:
+  - 霍尔木兹
+  - 通胀
+  - 地缘政治
+tags:
+  - WisdomTree
+  - 宏观
+  - 消费
+  - 霍尔木兹
+  - 通胀
+  - 地缘政治
 ---
 
 # El Niño, geopolitics and agricultural commodities | The Commodity Exchange

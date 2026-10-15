@@ -60,6 +60,35 @@ YouTube发布时间: "2026-09-14T18:14:49Z"
   - Fable
   - Goodfire
 摘要: "本期围绕 Dario Amodei 提出的“减速前沿 AI”主张展开长篇讨论。嘉宾分析 recursive self-improvement、Hugging Face 代理集群事件、网络安全与生物风险，以及嵌入式第三方评估、民主国家协调和中美全球协调的三级方案。对话进一步讨论 Anthropic 与 OpenAI 是否应合作、IPO 与安全动机的张力、Trump-Xi 峰会的可能交易空间、开放权重模型的治理难题，以及如何在分散权力、民主控制和 AI 能力安全之间寻找折中。嘉宾也反复区分数字系统的技术能力、真实世界的物理与金融瓶颈，以及不能把风险判断简化为单一技术或政治叙事。"
+companies:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+industries:
+  - 数据中心
+  - 医疗
+  - 网络安全
+technologies:
+  - LLM
+  - Agent
+  - 开源模型
+keywords:
+  - IPO
+  - 选举
+  - 监管
+tags:
+  - Anthropic
+  - OpenAI
+  - HuggingFace
+  - 数据中心
+  - 医疗
+  - 网络安全
+  - LLM
+  - Agent
+  - 开源模型
+  - IPO
+  - 选举
+  - 监管
 ---
 
 ## Transcript

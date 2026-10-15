@@ -21,6 +21,15 @@ YouTube发布时间: "2026-07-08"
   - "long-term returns"
   - "leadership"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies: []
+industries:
+  - 金融
+technologies: []
+keywords:
+  - 组织管理
+tags:
+  - 金融
+  - 组织管理
 ---
 
 # Inside the Fund Investing for 22 Million Canadians

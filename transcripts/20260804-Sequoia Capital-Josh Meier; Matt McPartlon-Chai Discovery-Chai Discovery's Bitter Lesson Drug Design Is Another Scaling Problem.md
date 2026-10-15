@@ -59,6 +59,35 @@ youtube_video_id: "wv53mDmY-k0"
   - "Pfizer"
   - "GPU"
   - "data flywheel"
+companies:
+  - OpenAI
+  - LLY
+  - PFE
+industries:
+  - 生物技术
+  - AI制药
+  - 制药
+technologies:
+  - LLM
+  - 蛋白质设计
+  - 扩散模型
+  - GPU
+keywords:
+  - 规模定律
+  - 数据飞轮
+tags:
+  - OpenAI
+  - LLY
+  - PFE
+  - 生物技术
+  - AI制药
+  - 制药
+  - LLM
+  - 蛋白质设计
+  - 扩散模型
+  - GPU
+  - 规模定律
+  - 数据飞轮
 ---
 
 # Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem

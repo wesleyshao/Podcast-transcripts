@@ -17,6 +17,31 @@
   - "ETH revenue"
   - "onchain trading"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - COIN
+  - HOOD
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 以太坊
+  - 比特币
+  - DeFi
+keywords:
+  - 通胀
+  - 选举
+tags:
+  - COIN
+  - HOOD
+  - 加密
+  - 宏观
+  - 金融
+  - 以太坊
+  - 比特币
+  - DeFi
+  - 通胀
+  - 选举
 ---
 
 # Crypto Is Running Out of Reasons to Go Lower

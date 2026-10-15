@@ -36,6 +36,19 @@ youtube_video_id: XyXBwO5jYpw
   - Confederate monuments
   - Frederick Douglass
   - William Tecumseh Sherman
+companies: []
+industries:
+  - 国防
+technologies: []
+keywords:
+  - 人口
+  - 战争
+  - 选举
+tags:
+  - 国防
+  - 人口
+  - 战争
+  - 选举
 ---
 
 # Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499

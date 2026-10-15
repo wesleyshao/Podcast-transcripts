@@ -41,6 +41,27 @@ YouTube发布时间: 2026-09-03T14:30:27Z
   - formidable
   - batch
   - YC application
+companies:
+  - OpenAI
+  - GOOGL
+  - RDDT
+industries: []
+technologies:
+  - LLM
+  - GPU
+  - 推理
+keywords:
+  - 创业
+  - AGI
+tags:
+  - OpenAI
+  - GOOGL
+  - RDDT
+  - LLM
+  - GPU
+  - 推理
+  - 创业
+  - AGI
 ---
 
 # Paul Graham On Startups, Ambition, and Great Founders

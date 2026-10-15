@@ -90,6 +90,19 @@ youtube_video_id: ur_-7JONZlY
   - Epicureanism
   - Lucretius
   - The Nature of Things
+companies:
+  - DELL
+industries:
+  - 媒体
+technologies: []
+keywords:
+  - 战争
+  - 喜剧
+tags:
+  - DELL
+  - 媒体
+  - 战争
+  - 喜剧
 ---
 
 # Joe Rogan Experience #2532 - Tim Robbins

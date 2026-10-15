@@ -27,6 +27,31 @@ youtube_video_id: lRuaC0JkWhU
   - Transformer
   - Salesforce
   - Figma
+companies:
+  - NEAR
+  - Figma
+  - CRM
+industries:
+  - 加密
+  - 支付
+  - 媒体
+technologies:
+  - GPU
+  - 推理
+  - Agent
+  - 区块链
+keywords: []
+tags:
+  - NEAR
+  - Figma
+  - CRM
+  - 加密
+  - 支付
+  - 媒体
+  - GPU
+  - 推理
+  - Agent
+  - 区块链
 ---
 
 # NEAR Just Turned Staking Yield Into Compute

@@ -39,6 +39,27 @@ YouTube发布时间: "2026-09-20T23:45:12Z"
   - "Space and Time"
   - "Zama"
   - "FHE"
+companies:
+  - Ethena
+  - Dinari
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 代币化
+  - 稳定币
+  - DeFi
+keywords: []
+tags:
+  - Ethena
+  - Dinari
+  - 加密
+  - 宏观
+  - 金融
+  - 代币化
+  - 稳定币
+  - DeFi
 ---
 
 # Guy Young: Why This Is The Biggest Opportunity In Stablecoins Yet (Full Thesis)

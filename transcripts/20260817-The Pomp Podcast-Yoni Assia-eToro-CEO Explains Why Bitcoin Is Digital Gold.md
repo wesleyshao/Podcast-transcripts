@@ -34,6 +34,33 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/2RuZ3i
   - AI financial super app
   - Arch Public
   - BloFin
+companies:
+  - SpaceX
+  - xAI
+  - DTCC
+industries:
+  - 加密
+  - 商业航天
+  - 消费
+technologies:
+  - 比特币
+  - 代币化
+  - Agent
+  - 区块链
+keywords:
+  - IPO
+tags:
+  - SpaceX
+  - xAI
+  - DTCC
+  - 加密
+  - 商业航天
+  - 消费
+  - 比特币
+  - 代币化
+  - Agent
+  - 区块链
+  - IPO
 ---
 
 # CEO Explains Why Bitcoin Is Digital Gold | Yoni Assia

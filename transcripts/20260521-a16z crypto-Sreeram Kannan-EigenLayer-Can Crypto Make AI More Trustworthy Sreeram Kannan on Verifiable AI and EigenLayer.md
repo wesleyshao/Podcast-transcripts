@@ -32,6 +32,27 @@
   - Can
   - Crypto
   - Make
+companies:
+  - EigenLayer
+  - MSFT
+  - GOOGL
+  - META
+industries:
+  - 加密
+  - 数据中心
+technologies:
+  - Agent
+keywords:
+  - AGI
+tags:
+  - EigenLayer
+  - MSFT
+  - GOOGL
+  - META
+  - 加密
+  - 数据中心
+  - Agent
+  - AGI
 ---
 
 # Can Crypto Make AI More Trustworthy? Sreeram Kannan on Verifiable AI and EigenLayer

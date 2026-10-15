@@ -18,6 +18,15 @@
   - "capex"
   - "Asia"
   - "Europe"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 资本开支
+tags:
+  - 宏观
+  - 资本开支
 ---
 
 # Investors’ Focus Shifts to Rates and AI

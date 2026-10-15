@@ -31,6 +31,17 @@ YouTube发布时间: 2026-08-26T20:53:11Z
   - 财政政策
   - 私营部门去杠杆
   - 公共部门资产负债表
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 债务
+  - 通胀
+tags:
+  - 宏观
+  - 债务
+  - 通胀
 ---
 
 # When Does Higher U.S. Debt Start to Matter?

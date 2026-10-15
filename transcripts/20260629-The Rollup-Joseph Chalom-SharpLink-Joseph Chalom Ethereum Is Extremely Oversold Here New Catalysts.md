@@ -17,6 +17,21 @@ transcript_source: "YouTube captions json3: rLd9qCWOAO8.en-orig.json3."
   - ether demand
   - ETH entry point
   - The Rollup
+companies:
+  - SharpLink
+industries:
+  - 加密
+  - 支付
+technologies:
+  - 以太坊
+  - 代币化
+keywords: []
+tags:
+  - SharpLink
+  - 加密
+  - 支付
+  - 以太坊
+  - 代币化
 ---
 
 # Joseph Chalom: Ethereum Is Extremely Oversold Here (New Catalysts)

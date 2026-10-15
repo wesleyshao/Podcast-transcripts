@@ -22,6 +22,21 @@ YouTube发布时间: 2026-08-23T12:00:14Z
   - 非共识下注
   - Y Combinator
   - 人类能动性
+companies:
+  - OpenAI
+  - AAPL
+industries:
+  - 数据中心
+technologies:
+  - LLM
+keywords:
+  - 创业
+tags:
+  - OpenAI
+  - AAPL
+  - 数据中心
+  - LLM
+  - 创业
 ---
 
 # Sam Altman on Building OpenAI & Betting on the Impossible

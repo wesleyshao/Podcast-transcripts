@@ -50,6 +50,31 @@ YouTube发布时间: 2026-08-30T12:00:06Z
   - trust
   - board
   - opportunity cost
+companies:
+  - NVDA
+  - META
+  - AAPL
+  - CSCO
+  - NOW
+industries:
+  - 半导体
+  - 商业航天
+  - 媒体
+technologies:
+  - GPU
+keywords:
+  - 人才
+tags:
+  - NVDA
+  - META
+  - AAPL
+  - CSCO
+  - NOW
+  - 半导体
+  - 商业航天
+  - 媒体
+  - GPU
+  - 人才
 ---
 
 # How to Dominate for Decades | Doug Leone, Sequoia Capital

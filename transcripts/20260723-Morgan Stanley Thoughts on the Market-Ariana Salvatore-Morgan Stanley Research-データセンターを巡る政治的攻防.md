@@ -29,6 +29,17 @@ youtube_video_id: "q1iIlFSK18A"
   - "电价"
   - "水资源"
   - "半导体"
+companies: []
+industries:
+  - 数据中心
+  - 半导体
+technologies: []
+keywords:
+  - 资本开支
+tags:
+  - 数据中心
+  - 半导体
+  - 资本开支
 ---
 
 # データセンターを巡る政治的攻防

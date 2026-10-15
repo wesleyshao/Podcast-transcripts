@@ -22,6 +22,13 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/eYrMF9
   - open weights
   - agent traces
   - episodic memory
+companies: []
+industries: []
+technologies:
+  - Agent
+keywords: []
+tags:
+  - Agent
 ---
 
 # Continual Learning: How AI Agents Get Better With Every Use | Arjun Karanam, Trajectory

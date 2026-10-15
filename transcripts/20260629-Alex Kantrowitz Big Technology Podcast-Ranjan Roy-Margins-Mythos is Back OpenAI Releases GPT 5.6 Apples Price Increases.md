@@ -17,6 +17,31 @@ transcript_source: "YouTube captions json3: pj7TzkII7hk.en-orig.json3."
   - Apple price hikes
   - memory market
   - Ranjan Roy
+companies:
+  - OpenAI
+  - AAPL
+  - Anthropic
+  - SpaceX
+industries:
+  - 商业航天
+technologies:
+  - LLM
+  - 可回收火箭
+keywords:
+  - 开源
+  - IPO
+  - 估值
+tags:
+  - OpenAI
+  - AAPL
+  - Anthropic
+  - SpaceX
+  - 商业航天
+  - LLM
+  - 可回收火箭
+  - 开源
+  - IPO
+  - 估值
 ---
 
 # Mythos is Back, OpenAI Releases GPT 5.6, Apple’s Price Increases

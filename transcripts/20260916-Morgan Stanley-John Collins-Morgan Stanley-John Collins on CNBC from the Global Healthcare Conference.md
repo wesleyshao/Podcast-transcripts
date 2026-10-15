@@ -30,6 +30,15 @@ YouTube发布时间: "2026-09-16T16:30:15Z"
   - "biopharma"
   - "medical devices"
 核心观点: "John Collins 表示，2026 年医疗健康并购金额已接近此前全年水平，交易数量也在增加；企业把并购作为增长、进入新市场和补充能力的重要工具，但交易仍取决于估值、融资环境和具体子行业。"
+companies: []
+industries:
+  - 医疗
+technologies: []
+keywords:
+  - 并购
+tags:
+  - 医疗
+  - 并购
 ---
 
 # John Collins on CNBC from the Global Healthcare Conference

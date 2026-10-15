@@ -43,6 +43,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/qn1QDD
   - Stanford quad
   - AI complete
   - Riemann hypothesis
+companies: []
+industries:
+  - 机器人
+technologies:
+  - 多模态
+keywords: []
+tags:
+  - 机器人
+  - 多模态
 ---
 
 # Why Fei-Fei Li Is Betting on Spatial Intelligence

@@ -55,6 +55,37 @@ YouTube发布时间: 2026-09-03T14:30:27Z
   - Amazon Chase card
   - Instacart
   - Trader Joe’s
+companies:
+  - Affirm
+  - GOOGL
+  - PayPal
+  - META
+  - Mastercard
+industries:
+  - 支付
+  - 加密
+  - 媒体
+technologies:
+  - Agent
+  - 比特币
+  - 稳定币
+keywords:
+  - 融资
+  - 并购
+tags:
+  - Affirm
+  - GOOGL
+  - PayPal
+  - META
+  - Mastercard
+  - 支付
+  - 加密
+  - 媒体
+  - Agent
+  - 比特币
+  - 稳定币
+  - 融资
+  - 并购
 ---
 
 # Why AI Agents Could Finally Reinvent the Credit Card

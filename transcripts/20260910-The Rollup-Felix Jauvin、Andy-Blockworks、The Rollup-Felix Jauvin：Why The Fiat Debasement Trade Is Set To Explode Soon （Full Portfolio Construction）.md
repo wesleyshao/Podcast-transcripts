@@ -38,6 +38,41 @@ youtube_video_id: FglorylSm0Q
   - CPI
   - SpaceX
   - Grok Bot
+companies:
+  - Hyperliquid
+  - Morpho
+  - SpaceX
+  - xAI
+  - Lighter
+industries:
+  - 加密
+  - 宏观
+  - 商业航天
+technologies:
+  - Zcash
+  - 比特币
+  - 代币化
+  - LLM
+keywords:
+  - 监管
+  - 利率
+  - 债务
+tags:
+  - Hyperliquid
+  - Morpho
+  - SpaceX
+  - xAI
+  - Lighter
+  - 加密
+  - 宏观
+  - 商业航天
+  - Zcash
+  - 比特币
+  - 代币化
+  - LLM
+  - 监管
+  - 利率
+  - 债务
 ---
 
 # Felix Jauvin：Why The Fiat Debasement Trade Is Set To Explode Soon (Full Portfolio Construction)

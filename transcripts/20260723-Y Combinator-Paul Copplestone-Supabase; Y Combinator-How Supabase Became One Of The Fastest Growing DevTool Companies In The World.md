@@ -19,6 +19,21 @@
   - "remote company"
   - "decacorn valuation"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - AMZN
+industries:
+  - 云计算
+technologies:
+  - Agent
+keywords:
+  - 开源
+  - 估值
+tags:
+  - AMZN
+  - 云计算
+  - Agent
+  - 开源
+  - 估值
 ---
 
 # How Supabase Became One Of The Fastest Growing DevTool Companies In The World

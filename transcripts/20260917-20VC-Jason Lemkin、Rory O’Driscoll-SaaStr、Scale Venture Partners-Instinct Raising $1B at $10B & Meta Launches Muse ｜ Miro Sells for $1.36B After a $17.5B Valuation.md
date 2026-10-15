@@ -39,6 +39,31 @@ YouTube发布时间: "2026-09-17T13:55:57Z"
   - "Bill.com"
   - "Box"
   - "DocuSign"
+companies:
+  - META
+  - Anthropic
+  - OpenAI
+  - ADBE
+  - Mistral
+industries:
+  - 游戏
+technologies:
+  - LLM
+keywords:
+  - 估值
+  - 开源
+  - 监管
+tags:
+  - META
+  - Anthropic
+  - OpenAI
+  - ADBE
+  - Mistral
+  - 游戏
+  - LLM
+  - 估值
+  - 开源
+  - 监管
 ---
 
 # Instinct Raising $1B at $10B & Meta Launches Muse | Miro Sells for $1.36B After a $17.5B Valuation

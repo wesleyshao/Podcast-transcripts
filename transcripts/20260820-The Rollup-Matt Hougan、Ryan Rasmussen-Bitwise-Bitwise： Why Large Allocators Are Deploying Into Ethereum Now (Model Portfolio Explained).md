@@ -30,6 +30,23 @@ YouTube发布时间: 2026-08-20
   - institutional allocation
   - stablecoin
   - DeFi
+companies:
+  - Bitwise
+industries:
+  - 加密
+technologies:
+  - 以太坊
+  - 比特币
+  - DeFi
+  - 稳定币
+keywords: []
+tags:
+  - Bitwise
+  - 加密
+  - 以太坊
+  - 比特币
+  - DeFi
+  - 稳定币
 ---
 
 # Bitwise: Why Large Allocators Are Deploying Into Ethereum Now (Model Portfolio Explained)

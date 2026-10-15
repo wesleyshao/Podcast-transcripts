@@ -16,6 +16,19 @@
   - "ChatGPT cheating"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "OpenAI Finally Ships Its Superapp, Meta’s AI Price War, ChatGPT Cheating At Brown"
+companies:
+  - OpenAI
+  - META
+  - Anthropic
+industries: []
+technologies:
+  - LLM
+keywords: []
+tags:
+  - OpenAI
+  - META
+  - Anthropic
+  - LLM
 ---
 
 ## Transcript

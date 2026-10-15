@@ -28,6 +28,17 @@ YouTube发布时间: 2026-08-19
   - Europe
   - AI tools
   - logistics
+companies:
+  - Whatnot
+industries:
+  - 电商
+  - 物流
+technologies: []
+keywords: []
+tags:
+  - Whatnot
+  - 电商
+  - 物流
 ---
 
 # How Whatnot's Live Shopping Beats Traditional E-Commerce

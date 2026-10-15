@@ -25,6 +25,17 @@ YouTube发布时间: 2026-08-20
   - military
   - true crime
   - YouTube
+companies: []
+industries:
+  - 消费
+technologies: []
+keywords:
+  - 战争
+  - 黄金
+tags:
+  - 消费
+  - 战争
+  - 黄金
 ---
 
 # Joe Rogan Experience #2543 - MrBallen

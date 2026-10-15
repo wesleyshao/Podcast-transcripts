@@ -20,6 +20,19 @@
   - "BitTorrent model"
   - "permissionless inference"
   - "AI financialization"
+companies:
+  - OpenRouter
+industries:
+  - 加密
+technologies:
+  - 推理
+keywords:
+  - 推理成本
+tags:
+  - OpenRouter
+  - 加密
+  - 推理
+  - 推理成本
 ---
 
 # AntSeed Founder The AI Inference Boom That Is Set To Explode Heres Why

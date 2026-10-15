@@ -18,6 +18,31 @@
   - "fee capture"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "NEAR’s Plan to Make All of Crypto Feel Like One App"
+companies:
+  - NEAR
+  - Circle
+  - HOOD
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 稳定币
+  - Zcash
+  - 以太坊
+  - Solana
+keywords:
+  - 隐私
+tags:
+  - NEAR
+  - Circle
+  - HOOD
+  - 加密
+  - 金融
+  - 稳定币
+  - Zcash
+  - 以太坊
+  - Solana
+  - 隐私
 ---
 
 # NEAR’s Plan to Make All of Crypto Feel Like One App

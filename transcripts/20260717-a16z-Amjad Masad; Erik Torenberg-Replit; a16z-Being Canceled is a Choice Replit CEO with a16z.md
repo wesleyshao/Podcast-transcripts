@@ -23,6 +23,17 @@
   - "viral distribution"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: ""Being Canceled is a Choice" | Replit CEO with a16z"
+companies:
+  - Replit
+  - META
+  - a16z
+industries: []
+technologies: []
+keywords: []
+tags:
+  - Replit
+  - META
+  - a16z
 ---
 
 # "Being Canceled is a Choice" | Replit CEO with a16z

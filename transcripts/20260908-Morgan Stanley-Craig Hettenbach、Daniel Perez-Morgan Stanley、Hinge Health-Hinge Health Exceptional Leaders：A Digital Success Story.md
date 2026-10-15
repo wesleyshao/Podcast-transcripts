@@ -39,6 +39,17 @@ YouTube发布时间: "2026-09-08T16:28:31Z"
   - "forecastability"
   - "revenue drivers"
 
+companies: []
+industries:
+  - 医疗
+technologies: []
+keywords:
+  - IPO
+  - 临床开发
+tags:
+  - 医疗
+  - IPO
+  - 临床开发
 ---
 
 ## Transcript

@@ -26,6 +26,33 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/1y2eyr
   - Hyperliquid
   - Zcash
   - ETF
+companies:
+  - Bitwise
+  - Hyperliquid
+industries:
+  - 加密
+  - 宏观
+  - 教育
+technologies:
+  - 比特币
+  - 以太坊
+  - Zcash
+  - Solana
+keywords:
+  - 监管
+  - 黄金
+tags:
+  - Bitwise
+  - Hyperliquid
+  - 加密
+  - 宏观
+  - 教育
+  - 比特币
+  - 以太坊
+  - Zcash
+  - Solana
+  - 监管
+  - 黄金
 ---
 
 # Matt Hougan & Ryan Rasmussen: Digital Assets To Hit $10 T Market Cap Before 2030 (How We Know)

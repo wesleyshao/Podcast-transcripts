@@ -46,6 +46,25 @@ youtube_video_id: P06RgnUKX_I
   - WorkOS
   - founder-market fit
   - bottleneck-first
+companies:
+  - Figma
+  - Cursor
+  - Anthropic
+  - OpenAI
+industries: []
+technologies:
+  - 编程助手
+  - LLM
+  - MCP
+keywords: []
+tags:
+  - Figma
+  - Cursor
+  - Anthropic
+  - OpenAI
+  - 编程助手
+  - LLM
+  - MCP
 ---
 
 # How To Design In The Agent Era

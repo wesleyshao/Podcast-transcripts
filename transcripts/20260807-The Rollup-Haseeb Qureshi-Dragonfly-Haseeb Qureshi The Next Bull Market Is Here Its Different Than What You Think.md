@@ -51,6 +51,37 @@ youtube_video_id: RKgVyZKM1w8
   - Ledger
   - Trezor
   - Amazon
+companies:
+  - Dragonfly
+  - Stripe
+  - Circle
+  - Tether
+  - Visa
+industries:
+  - 宏观
+  - 加密
+  - 预测市场
+technologies:
+  - 稳定币
+  - 比特币
+  - 区块链
+  - 以太坊
+keywords:
+  - 稳定币法案
+tags:
+  - Dragonfly
+  - Stripe
+  - Circle
+  - Tether
+  - Visa
+  - 宏观
+  - 加密
+  - 预测市场
+  - 稳定币
+  - 比特币
+  - 区块链
+  - 以太坊
+  - 稳定币法案
 ---
 
 # Haseeb Qureshi: The Next Bull Market Is Here (It’s Different Than What You Think)

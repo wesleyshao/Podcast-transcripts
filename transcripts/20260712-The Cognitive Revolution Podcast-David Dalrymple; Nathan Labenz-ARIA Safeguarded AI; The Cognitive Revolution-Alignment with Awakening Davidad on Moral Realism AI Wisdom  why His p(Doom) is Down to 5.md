@@ -18,6 +18,19 @@ YouTube发布时间: 2026-07-12
   - "coalition dynamics"
   - "chain of thought pressure"
 字幕来源: "YouTube 公开字幕 json3，automatic_captions/en-orig"
+companies:
+  - Anthropic
+industries: []
+technologies:
+  - 世界模型
+  - LLM
+  - Agent
+keywords: []
+tags:
+  - Anthropic
+  - 世界模型
+  - LLM
+  - Agent
 ---
 
 # Alignment with Awakening: Davidad on Moral Realism, AI Wisdom, & why His p(Doom) is Down to 5%

@@ -17,6 +17,19 @@ language: "zh-CN"
 translation_note: "结合上下文译为简体中文全文，删去口头禅与重复，专有名词保留英文"
 topics: ["Open-weight models", "Reinforcement Learning", "AI Capex", "Enterprise AI", "China AI", "AI Safety"]
 investment_relevance: true
+companies: []
+industries:
+  - 数据中心
+technologies:
+  - 开源模型
+  - 预训练
+keywords:
+  - 开源
+tags:
+  - 数据中心
+  - 开源模型
+  - 预训练
+  - 开源
 ---
 
 ## Transcript

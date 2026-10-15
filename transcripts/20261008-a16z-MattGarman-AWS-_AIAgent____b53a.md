@@ -16,6 +16,23 @@ language: "zh-CN"
 translation_note: "结合上下文译为简体中文全文，删去口头禅与重复，专有名词保留英文；主持人身份为推断，待核实"
 topics: ["AWS", "AI Agents", "AI Capex", "Trainium", "Graviton", "Bedrock", "GPU 供给", "Data Center"]
 investment_relevance: true
+companies:
+  - AMZN
+industries:
+  - 云计算
+  - 电力
+  - 数据中心
+technologies:
+  - GPU
+keywords:
+  - 创业
+tags:
+  - AMZN
+  - 云计算
+  - 电力
+  - 数据中心
+  - GPU
+  - 创业
 ---
 
 ## Transcript

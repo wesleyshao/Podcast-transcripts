@@ -18,6 +18,19 @@ YouTube发布时间: 2026-07-11
   - "crypto networks"
   - "mechanism design"
 字幕来源: "YouTube 公开字幕 json3，automatic_captions/en-orig"
+companies:
+  - UBER
+  - ABNB
+industries:
+  - 加密
+technologies: []
+keywords:
+  - 就业
+tags:
+  - UBER
+  - ABNB
+  - 加密
+  - 就业
 ---
 
 # Why markets fail — and how to fix them (ft. Nobel  economist Alvin Roth)

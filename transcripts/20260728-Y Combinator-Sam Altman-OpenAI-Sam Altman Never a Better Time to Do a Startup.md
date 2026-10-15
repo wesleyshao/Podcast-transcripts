@@ -25,6 +25,23 @@ youtube_video_id: "ZIaOBAjvc38"
 YouTube发布时间: 2026-07-28
 播客标题: "Sam Altman: \"Never a Better Time to Do a Startup\""
 字幕来源: "YouTube public en-orig auto captions"
+companies:
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 创业
+  - AGI
+  - AI安全
+tags:
+  - OpenAI
+  - LLM
+  - Agent
+  - 创业
+  - AGI
+  - AI安全
 ---
 
 # Sam Altman: "Never a Better Time to Do a Startup"

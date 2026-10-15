@@ -31,6 +31,19 @@ YouTube发布时间: "2026-09-09T22:03:53Z"
   - "capital expenditure"
   - "compute capacity"
 
+companies: []
+industries:
+  - 数据中心
+technologies:
+  - GPU
+  - 推理
+keywords:
+  - 资本开支
+tags:
+  - 数据中心
+  - GPU
+  - 推理
+  - 资本开支
 ---
 
 ## Transcript

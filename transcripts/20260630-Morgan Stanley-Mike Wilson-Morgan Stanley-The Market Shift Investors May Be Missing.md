@@ -16,6 +16,13 @@
   - cyclicals
   - defensives
   - stock market
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords: []
+tags:
+  - 宏观
 ---
 
 # The Market Shift Investors May Be Missing

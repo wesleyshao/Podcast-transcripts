@@ -32,6 +32,23 @@
   - design
   - from
   - the
+companies:
+  - SemiAnalysis
+  - GOOGL
+industries:
+  - 数据中心
+technologies:
+  - GPU
+  - TPU
+  - ASIC
+keywords: []
+tags:
+  - SemiAnalysis
+  - GOOGL
+  - 数据中心
+  - GPU
+  - TPU
+  - ASIC
 ---
 
 # Chip design from the bottom up – Reiner Pope

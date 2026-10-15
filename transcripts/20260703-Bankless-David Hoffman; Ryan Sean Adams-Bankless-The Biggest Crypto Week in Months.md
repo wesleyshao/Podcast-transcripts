@@ -22,6 +22,37 @@
   - "Fed"
   - "Polymarket"
   - "crypto market"
+companies:
+  - NET
+  - Circle
+  - Lighter
+  - Tether
+  - COIN
+industries:
+  - 加密
+  - 支付
+  - 预测市场
+technologies:
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 分布式系统
+keywords:
+  - 选举
+tags:
+  - NET
+  - Circle
+  - Lighter
+  - Tether
+  - COIN
+  - 加密
+  - 支付
+  - 预测市场
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 分布式系统
+  - 选举
 ---
 
 # The Biggest Crypto Week in Months

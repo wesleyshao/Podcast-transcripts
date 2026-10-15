@@ -32,6 +32,25 @@ youtube_video_id: "tivaWTTVRhY"
 YouTube发布时间: "2026-07-26"
 播客标题: "Anthropic's first technical PM on token maxing, the jagged edge, and living in the future"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - Anthropic
+  - OpenAI
+  - AMZN
+  - JPM
+industries: []
+technologies:
+  - LLM
+  - MCP
+  - 编程助手
+keywords: []
+tags:
+  - Anthropic
+  - OpenAI
+  - AMZN
+  - JPM
+  - LLM
+  - MCP
+  - 编程助手
 ---
 
 # Anthropic's first technical PM on token maxing, the jagged edge, and living in the future

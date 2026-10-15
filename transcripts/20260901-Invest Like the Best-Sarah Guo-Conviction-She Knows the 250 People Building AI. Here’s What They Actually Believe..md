@@ -60,6 +60,37 @@ YouTube发布时间: 2026-09-01T12:37:06Z
   - Paxil
   - 美国工业基础
   - Jevons悖论
+companies:
+  - OpenAI
+  - Anthropic
+  - DeepMind
+  - TSM
+  - Figma
+industries:
+  - 数据中心
+  - 机器人
+  - 半导体
+technologies:
+  - 开源模型
+  - LLM
+keywords:
+  - 开源
+  - 创业
+  - AGI
+tags:
+  - OpenAI
+  - Anthropic
+  - DeepMind
+  - TSM
+  - Figma
+  - 数据中心
+  - 机器人
+  - 半导体
+  - 开源模型
+  - LLM
+  - 开源
+  - 创业
+  - AGI
 ---
 
 # She Knows the 250 People Building AI. Here's What They Actually Believe.

@@ -44,6 +44,35 @@ YouTube发布时间: 2026-09-17T23:09:45Z
   - John Gillen
   - Milk Road Daily
   - The Rollup
+companies:
+  - Binance
+  - COIN
+  - HOOD
+  - Revolut
+industries:
+  - 加密
+  - 金融
+  - 预测市场
+technologies:
+  - 以太坊
+  - 比特币
+  - 代币化
+  - DeFi
+keywords:
+  - 稳定币法案
+tags:
+  - Binance
+  - COIN
+  - HOOD
+  - Revolut
+  - 加密
+  - 金融
+  - 预测市场
+  - 以太坊
+  - 比特币
+  - 代币化
+  - DeFi
+  - 稳定币法案
 ---
 
 # John Gillen: Why Ethereum Is Positioned Better Than Bitcoin Right Now (ETH/BTC Setup)

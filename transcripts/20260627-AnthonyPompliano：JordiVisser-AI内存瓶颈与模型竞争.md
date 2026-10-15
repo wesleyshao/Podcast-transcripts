@@ -18,6 +18,35 @@
   - "macro investing"
   - "Why Are Bitcoin"
   - "Stocks CRASHING"
+companies:
+  - MU
+  - NVDA
+  - OpenAI
+  - Anthropic
+  - GOOGL
+industries:
+  - 加密
+  - 半导体
+  - 存储
+technologies:
+  - 比特币
+  - Agent
+  - GPU
+  - LLM
+keywords: []
+tags:
+  - MU
+  - NVDA
+  - OpenAI
+  - Anthropic
+  - GOOGL
+  - 加密
+  - 半导体
+  - 存储
+  - 比特币
+  - Agent
+  - GPU
+  - LLM
 ---
 
 # Why Are Bitcoin & AI Stocks CRASHING?!

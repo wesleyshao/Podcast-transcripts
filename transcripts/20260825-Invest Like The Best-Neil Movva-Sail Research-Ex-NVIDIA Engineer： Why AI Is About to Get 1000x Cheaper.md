@@ -31,6 +31,27 @@ YouTube发布时间: 2026-08-25T12:00:09Z
   - power
   - open models
   - closed models
+companies:
+  - NVDA
+  - TSM
+industries:
+  - 数据中心
+  - 半导体
+  - 存储
+technologies:
+  - GPU
+  - Transformer
+  - Agent
+keywords: []
+tags:
+  - NVDA
+  - TSM
+  - 数据中心
+  - 半导体
+  - 存储
+  - GPU
+  - Transformer
+  - Agent
 ---
 
 # Ex-NVIDIA Engineer: Why AI Is About to Get 1000x Cheaper

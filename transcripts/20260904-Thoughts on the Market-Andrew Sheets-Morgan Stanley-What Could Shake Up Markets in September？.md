@@ -27,6 +27,17 @@ youtube_video_id: iKg_wyYm9VM
   - European diesel
   - interest rates
   - foreign exchange
+companies: []
+industries:
+  - 宏观
+  - 能源
+technologies: []
+keywords:
+  - 利率
+tags:
+  - 宏观
+  - 能源
+  - 利率
 ---
 
 ## Transcript

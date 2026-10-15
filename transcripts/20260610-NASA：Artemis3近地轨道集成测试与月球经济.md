@@ -16,6 +16,25 @@
   - Crew
   - Announcement
   - June
+companies:
+  - NASA
+  - SpaceX
+  - BlueOrigin
+industries:
+  - 商业航天
+technologies:
+  - 可回收火箭
+keywords:
+  - 组织管理
+  - AGI
+tags:
+  - NASA
+  - SpaceX
+  - BlueOrigin
+  - 商业航天
+  - 可回收火箭
+  - 组织管理
+  - AGI
 ---
 
 # NASA Artemis III Crew Announcement, June 9, 2026

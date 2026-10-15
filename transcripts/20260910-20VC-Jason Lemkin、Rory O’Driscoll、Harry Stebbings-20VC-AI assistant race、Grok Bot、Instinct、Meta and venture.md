@@ -43,6 +43,37 @@ YouTube发布时间: 2026-09-10
   - Wonderful
   - Thinking Machines
   - Anthropic
+companies:
+  - META
+  - xAI
+  - HOOD
+  - Anthropic
+  - Waymo
+industries:
+  - 加密
+  - 汽车
+  - 金融
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - AGI
+  - 估值
+  - 创业
+tags:
+  - META
+  - xAI
+  - HOOD
+  - Anthropic
+  - Waymo
+  - 加密
+  - 汽车
+  - 金融
+  - LLM
+  - Agent
+  - AGI
+  - 估值
+  - 创业
 ---
 
 # 20VC：AI assistant race、Grok Bot、Instinct、Meta and venture

@@ -15,6 +15,15 @@
   - "solved world"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Joe Rogan Experience #2525 - Nick Bostrom"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - AI安全
+  - 超级智能
+tags:
+  - AI安全
+  - 超级智能
 ---
 
 # Joe Rogan Experience #2525 - Nick Bostrom

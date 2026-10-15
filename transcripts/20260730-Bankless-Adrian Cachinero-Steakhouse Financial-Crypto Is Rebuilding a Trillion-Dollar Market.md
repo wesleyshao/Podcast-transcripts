@@ -36,6 +36,29 @@ youtube_video_id: IJSl0_pZ82Q
   - Robinhood
   - Coinbase
   - AI
+companies:
+  - Aave
+  - Morpho
+  - COIN
+  - HOOD
+industries:
+  - 加密
+  - 金融
+technologies:
+  - DeFi
+keywords:
+  - 监管
+  - 网络效应
+tags:
+  - Aave
+  - Morpho
+  - COIN
+  - HOOD
+  - 加密
+  - 金融
+  - DeFi
+  - 监管
+  - 网络效应
 ---
 
 # Crypto Is Rebuilding a Trillion-Dollar Market

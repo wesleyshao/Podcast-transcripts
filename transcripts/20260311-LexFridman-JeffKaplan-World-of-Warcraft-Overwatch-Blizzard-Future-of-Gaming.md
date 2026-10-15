@@ -32,6 +32,15 @@
   - Jeff
   - Kaplan
   - of
+companies:
+  - Perplexity
+industries:
+  - 游戏
+technologies: []
+keywords: []
+tags:
+  - Perplexity
+  - 游戏
 ---
 
 # Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493

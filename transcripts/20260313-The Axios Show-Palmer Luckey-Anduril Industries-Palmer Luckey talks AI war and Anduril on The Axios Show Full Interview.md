@@ -35,6 +35,27 @@ youtube_video_id: "AZdSLJkzN0I"
 YouTube发布时间: "2026-07-13"
 播客标题: "Palmer Luckey talks AI, war and Anduril on The Axios Show | Full Interview"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - Anduril
+  - Anthropic
+  - Boeing
+  - LMT
+  - NOC
+industries:
+  - 国防
+technologies:
+  - LLM
+keywords:
+  - 战争
+tags:
+  - Anduril
+  - Anthropic
+  - Boeing
+  - LMT
+  - NOC
+  - 国防
+  - LLM
+  - 战争
 ---
 
 # Palmer Luckey talks AI, war and Anduril on The Axios Show | Full Interview

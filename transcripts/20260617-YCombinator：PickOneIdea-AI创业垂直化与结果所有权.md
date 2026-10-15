@@ -24,6 +24,15 @@
   - "Aim"
   - "What"
   - "Walk"
+companies: []
+industries:
+  - 保险
+technologies: []
+keywords:
+  - 创业
+tags:
+  - 保险
+  - 创业
 ---
 
 # Pick One Idea and Go Deep

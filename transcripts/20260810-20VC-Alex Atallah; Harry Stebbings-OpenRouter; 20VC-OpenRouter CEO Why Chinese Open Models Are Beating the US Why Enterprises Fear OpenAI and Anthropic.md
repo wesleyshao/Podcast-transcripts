@@ -44,6 +44,29 @@ youtube_video_id: "K72oZoloA4M"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按上下文转写；结合节目说明校正自动字幕中的公司名、模型名与基础设施术语，保留全部主要问答、数据、限定条件和反方观点。"
+companies:
+  - OpenRouter
+  - Anthropic
+  - OpenAI
+  - 月之暗面
+  - DeepSeek
+industries: []
+technologies:
+  - 推理
+  - LLM
+  - 开源模型
+keywords:
+  - 代币经济
+tags:
+  - OpenRouter
+  - Anthropic
+  - OpenAI
+  - 月之暗面
+  - DeepSeek
+  - 推理
+  - LLM
+  - 开源模型
+  - 代币经济
 ---
 
 # OpenRouter CEO: Why Chinese Open Models Are Beating the US | Why Enterprises Fear OpenAI & Anthropic

@@ -43,6 +43,29 @@ YouTube发布时间: "2026-07-31T10:00:08Z"
   - ROI
   - real-world services
   - education
+companies:
+  - META
+  - Anthropic
+  - GOOGL
+  - ScaleAI
+  - OpenAI
+industries:
+  - 金融
+  - 机器人
+technologies:
+  - LLM
+  - Agent
+keywords: []
+tags:
+  - META
+  - Anthropic
+  - GOOGL
+  - ScaleAI
+  - OpenAI
+  - 金融
+  - 机器人
+  - LLM
+  - Agent
 ---
 
 # Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak

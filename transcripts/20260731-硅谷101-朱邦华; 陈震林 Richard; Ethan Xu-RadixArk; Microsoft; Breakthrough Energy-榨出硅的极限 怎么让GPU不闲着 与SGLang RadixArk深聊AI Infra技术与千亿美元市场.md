@@ -49,6 +49,37 @@ YouTube发布时间: "2026-07-31T13:00:10Z"
   - Dynamo
   - 数据中心
   - 资本开支
+companies:
+  - MSFT
+  - NVDA
+  - OpenAI
+  - Anthropic
+  - GOOGL
+industries:
+  - 数据中心
+  - 半导体
+technologies:
+  - GPU
+  - LLM
+  - 后训练
+  - 强化学习
+keywords:
+  - 开源
+  - 资本开支
+tags:
+  - MSFT
+  - NVDA
+  - OpenAI
+  - Anthropic
+  - GOOGL
+  - 数据中心
+  - 半导体
+  - GPU
+  - LLM
+  - 后训练
+  - 强化学习
+  - 开源
+  - 资本开支
 ---
 
 # “榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场

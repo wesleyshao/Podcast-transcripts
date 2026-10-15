@@ -17,6 +17,21 @@
   - "interest rates"
   - "labor market"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries:
+  - 宏观
+  - 数据中心
+technologies: []
+keywords:
+  - 资本开支
+  - 利率
+  - 就业
+tags:
+  - 宏观
+  - 数据中心
+  - 资本开支
+  - 利率
+  - 就业
 ---
 
 # AI Spending: A New Engine for the Global Economy

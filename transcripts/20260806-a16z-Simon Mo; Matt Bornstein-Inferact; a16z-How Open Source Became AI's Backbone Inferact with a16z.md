@@ -57,6 +57,35 @@ youtube_video_id: "78-6dUROziQ"
   - "reinforcement learning"
   - "Ion Stoica"
   - "Databricks"
+companies:
+  - 月之暗面
+  - HuggingFace
+  - a16z
+  - NVDA
+  - OpenRouter
+industries:
+  - 半导体
+  - 数据中心
+technologies:
+  - GPU
+  - LLM
+  - 强化学习
+  - Agent
+keywords:
+  - 开源
+tags:
+  - 月之暗面
+  - HuggingFace
+  - a16z
+  - NVDA
+  - OpenRouter
+  - 半导体
+  - 数据中心
+  - GPU
+  - LLM
+  - 强化学习
+  - Agent
+  - 开源
 ---
 
 # How Open Source Became AI's Backbone | Inferact with a16z

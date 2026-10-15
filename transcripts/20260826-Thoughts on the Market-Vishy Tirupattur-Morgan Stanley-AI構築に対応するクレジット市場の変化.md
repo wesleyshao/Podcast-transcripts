@@ -44,6 +44,21 @@ YouTube发布时间: 2026-08-26T20:43:01Z
   - 姓名: Vishy Tirupattur
     公司或机构: Morgan Stanley
     职务: 首席固定收益策略师
+companies: []
+industries:
+  - 数据中心
+  - 云计算
+  - 半导体
+technologies: []
+keywords:
+  - 融资
+  - 资本开支
+tags:
+  - 数据中心
+  - 云计算
+  - 半导体
+  - 融资
+  - 资本开支
 ---
 
 ## 参与嘉宾

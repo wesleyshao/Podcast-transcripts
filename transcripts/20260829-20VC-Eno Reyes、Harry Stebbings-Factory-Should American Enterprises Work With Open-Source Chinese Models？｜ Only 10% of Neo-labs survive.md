@@ -52,6 +52,41 @@ YouTube发布时间: 2026-08-29T14:00:28Z
   - token economics
   - enterprise software
   - system of record
+companies:
+  - Anthropic
+  - MSFT
+  - OpenAI
+  - Stripe
+  - Cursor
+industries:
+  - 企业软件
+  - 商业航天
+  - 消费
+technologies:
+  - 开源模型
+  - 编程助手
+  - LLM
+  - 后训练
+keywords:
+  - 开源
+  - 人才
+  - 代币经济
+tags:
+  - Anthropic
+  - MSFT
+  - OpenAI
+  - Stripe
+  - Cursor
+  - 企业软件
+  - 商业航天
+  - 消费
+  - 开源模型
+  - 编程助手
+  - LLM
+  - 后训练
+  - 开源
+  - 人才
+  - 代币经济
 ---
 
 # Should American Enterprises Work With Open-Source Chinese Models？｜ Only 10% of Neo-labs survive

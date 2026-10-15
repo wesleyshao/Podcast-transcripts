@@ -32,6 +32,21 @@
   - WalletConnec
   - The
   - Bull
+companies:
+  - Circle
+industries:
+  - 加密
+  - 支付
+technologies:
+  - 稳定币
+  - DeFi
+keywords: []
+tags:
+  - Circle
+  - 加密
+  - 支付
+  - 稳定币
+  - DeFi
 ---
 
 # WalletConnect CEO: The WalletConnect Bull Thesis For 2026 (Billions in Volume)

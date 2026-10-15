@@ -48,6 +48,37 @@ youtube_video_id: -I9z7_uQYo0
   - æ æ
   - quantum resistance
   - zk-SNARK
+companies:
+  - Hyperliquid
+  - COIN
+  - Citadel
+industries:
+  - 加密
+  - 数据中心
+  - 宏观
+technologies:
+  - Zcash
+  - 比特币
+  - 稳定币
+  - 比特币挖矿
+keywords:
+  - 隐私
+  - 通胀
+  - 利率
+tags:
+  - Hyperliquid
+  - COIN
+  - Citadel
+  - 加密
+  - 数据中心
+  - 宏观
+  - Zcash
+  - 比特币
+  - 稳定币
+  - 比特币挖矿
+  - 隐私
+  - 通胀
+  - 利率
 ---
 
 # 🚨LIVE: Situational BLOWUP, Zcash's Upgrade, Coinbase Earnings Miss, Sovright, Abra, & The Block in

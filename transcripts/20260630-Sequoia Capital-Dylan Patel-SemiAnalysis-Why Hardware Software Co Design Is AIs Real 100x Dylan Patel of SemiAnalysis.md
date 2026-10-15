@@ -18,6 +18,41 @@ transcript_source: "YouTube captions json3: f6D_aiy8qyU.en-orig.json3."
   - dense models
   - neoclouds
   - inference cost
+companies:
+  - SemiAnalysis
+  - NVDA
+  - AMZN
+  - GOOGL
+  - Anthropic
+industries:
+  - 半导体
+  - 数据中心
+  - 商业航天
+technologies:
+  - TPU
+  - 推理
+  - CUDA
+  - GPU
+keywords:
+  - 竞争格局
+  - 开源
+  - 推理成本
+tags:
+  - SemiAnalysis
+  - NVDA
+  - AMZN
+  - GOOGL
+  - Anthropic
+  - 半导体
+  - 数据中心
+  - 商业航天
+  - TPU
+  - 推理
+  - CUDA
+  - GPU
+  - 竞争格局
+  - 开源
+  - 推理成本
 ---
 
 # Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis

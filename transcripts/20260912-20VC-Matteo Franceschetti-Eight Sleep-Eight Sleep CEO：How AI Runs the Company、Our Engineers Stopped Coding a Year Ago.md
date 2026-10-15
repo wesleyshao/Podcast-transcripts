@@ -39,6 +39,35 @@ YouTube发布时间: "2026-09-12T14:00:06Z"
   - "sleep apnea"
   - "medical device"
 
+companies:
+  - Anthropic
+  - META
+  - 字节跳动
+industries:
+  - 机器人
+  - 媒体
+  - 支付
+technologies:
+  - LLM
+  - 具身智能
+  - Agent
+keywords:
+  - 人才
+  - 创业
+  - 估值
+tags:
+  - Anthropic
+  - META
+  - 字节跳动
+  - 机器人
+  - 媒体
+  - 支付
+  - LLM
+  - 具身智能
+  - Agent
+  - 人才
+  - 创业
+  - 估值
 ---
 
 # Eight Sleep CEO: How AI Runs the Company | “Our Engineers Stopped Coding a Year Ago”

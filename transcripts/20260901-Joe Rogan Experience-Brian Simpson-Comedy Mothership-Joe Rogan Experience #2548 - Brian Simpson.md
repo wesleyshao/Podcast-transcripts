@@ -28,6 +28,21 @@ YouTube发布时间: 2026-09-01T17:00:28Z
   - AI艺术
   - 机器人
   - 互联网信息质量
+companies: []
+industries:
+  - 机器人
+  - 医疗
+  - 媒体
+technologies: []
+keywords:
+  - 喜剧
+  - 监管
+tags:
+  - 机器人
+  - 医疗
+  - 媒体
+  - 喜剧
+  - 监管
 ---
 
 ## Transcript

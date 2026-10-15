@@ -24,6 +24,33 @@
   - "Audio Podcast Listen"
   - "The Pomp Podcast"
   - "From The Desk"
+companies:
+  - SpaceX
+  - OpenAI
+  - Anthropic
+industries:
+  - 加密
+  - 商业航天
+  - 数据中心
+technologies:
+  - 比特币
+  - LLM
+  - 可回收火箭
+  - Agent
+keywords:
+  - IPO
+tags:
+  - SpaceX
+  - OpenAI
+  - Anthropic
+  - 加密
+  - 商业航天
+  - 数据中心
+  - 比特币
+  - LLM
+  - 可回收火箭
+  - Agent
+  - IPO
 ---
 
 # Should You Invest In SpaceX IPO, Elon Musk, Bitcoin or AI?

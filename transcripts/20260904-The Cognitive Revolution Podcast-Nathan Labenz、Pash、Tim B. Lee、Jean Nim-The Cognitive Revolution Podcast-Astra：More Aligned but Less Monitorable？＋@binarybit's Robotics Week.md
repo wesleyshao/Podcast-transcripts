@@ -57,6 +57,41 @@ YouTube发布时间: 2026-09-04T15:18:16Z
   - HealthBench Pro
   - 边缘智能
   - 网络攻击
+companies:
+  - TSLA
+  - OpenAI
+  - Waymo
+  - Anthropic
+  - 宇树
+industries:
+  - 机器人
+  - 汽车
+  - 制造业
+technologies:
+  - LLM
+  - 自动驾驶
+  - 强化学习
+  - 具身智能
+keywords:
+  - AGI
+  - 主权
+  - 监管
+tags:
+  - TSLA
+  - OpenAI
+  - Waymo
+  - Anthropic
+  - 宇树
+  - 机器人
+  - 汽车
+  - 制造业
+  - LLM
+  - 自动驾驶
+  - 强化学习
+  - 具身智能
+  - AGI
+  - 主权
+  - 监管
 ---
 
 ## Transcript

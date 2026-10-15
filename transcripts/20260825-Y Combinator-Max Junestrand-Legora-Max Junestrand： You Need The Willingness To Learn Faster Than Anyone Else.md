@@ -28,6 +28,17 @@ YouTube发布时间: 2026-08-25T14:00:29Z
   - LLM
   - customer onboarding
   - evaluations
+companies: []
+industries:
+  - 游戏
+technologies:
+  - LLM
+  - Agent
+keywords: []
+tags:
+  - 游戏
+  - LLM
+  - Agent
 ---
 
 # Max Junestrand: You Need The Willingness To Learn Faster Than Anyone Else

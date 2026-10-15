@@ -25,6 +25,25 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/BV0hy6
   - Notion
   - Waymo
   - Rivian
+companies:
+  - OpenAI
+  - META
+  - RIVN
+  - Waymo
+industries:
+  - 汽车
+technologies:
+  - LLM
+  - 编程助手
+keywords: []
+tags:
+  - OpenAI
+  - META
+  - RIVN
+  - Waymo
+  - 汽车
+  - LLM
+  - 编程助手
 ---
 
 # OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber

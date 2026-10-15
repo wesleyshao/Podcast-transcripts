@@ -32,6 +32,17 @@
   - Moon
   - Base
   - News
+companies:
+  - NASA
+  - BlueOrigin
+industries:
+  - 商业航天
+technologies: []
+keywords: []
+tags:
+  - NASA
+  - BlueOrigin
+  - 商业航天
 ---
 
 # NASA Moon Base News Conference, May 26, 2026

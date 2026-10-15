@@ -64,6 +64,41 @@ youtube_video_id: 7FX4-zdO28I
   - Plume
   - Aerodrome
   - Fomo
+companies:
+  - DTCC
+  - Circle
+  - Morpho
+  - META
+  - BLK
+industries:
+  - 加密
+  - 支付
+  - 金融
+technologies:
+  - 代币化
+  - 稳定币
+  - DeFi
+  - 区块链
+keywords:
+  - 隐私
+  - 监管
+  - 合规
+tags:
+  - DTCC
+  - Circle
+  - Morpho
+  - META
+  - BLK
+  - 加密
+  - 支付
+  - 金融
+  - 代币化
+  - 稳定币
+  - DeFi
+  - 区块链
+  - 隐私
+  - 监管
+  - 合规
 ---
 
 # 🚨LIVE: ARC MAINNET LAUNCH. DTCC Assets Onchain! Circle CEO Jeremy Allaire Opens

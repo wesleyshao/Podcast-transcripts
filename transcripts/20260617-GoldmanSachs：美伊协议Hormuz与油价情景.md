@@ -32,6 +32,17 @@
   - How
   - the
   - US
+companies: []
+industries:
+  - 能源
+technologies: []
+keywords:
+  - 霍尔木兹
+  - 版权
+tags:
+  - 能源
+  - 霍尔木兹
+  - 版权
 ---
 
 # How the US-Iran Deal Could Affect Oil Prices

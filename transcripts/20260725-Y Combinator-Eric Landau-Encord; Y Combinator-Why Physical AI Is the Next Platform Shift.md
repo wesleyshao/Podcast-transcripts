@@ -18,6 +18,17 @@
   - "data annotation"
 youtube_video_id: "F3INH9wZXoQ"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - Mercor
+  - ScaleAI
+industries: []
+technologies: []
+keywords:
+  - 创业
+tags:
+  - Mercor
+  - ScaleAI
+  - 创业
 ---
 
 # Why Physical AI Is the Next Platform Shift

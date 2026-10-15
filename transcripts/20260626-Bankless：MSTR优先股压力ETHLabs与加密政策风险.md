@@ -17,6 +17,25 @@
   - "Illinois crypto tax"
   - "stablecoins"
   - "crypto market"
+companies:
+  - MSTR
+  - OKX
+industries:
+  - 加密
+technologies:
+  - 比特币
+  - 以太坊
+  - 量子计算
+  - DeFi
+keywords: []
+tags:
+  - MSTR
+  - OKX
+  - 加密
+  - 比特币
+  - 以太坊
+  - 量子计算
+  - DeFi
 ---
 
 # Bitcoin Below $60K Michael Saylor Is Running Out of Moves

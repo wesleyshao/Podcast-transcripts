@@ -56,6 +56,37 @@ YouTube发布时间: "2026-09-14T16:54:29Z"
   - "Robinhood"
   - "tokenized equities"
 摘要: "The Rollup 直播讨论 CLARITY Act 的程序性投票、政治伦理条款、DeFi 开发者与交易平台的监管边界、稳定币和现实世界资产代币化，并在嘉宾 Orest 与 Ryan 访谈中解释非托管代码、市场中介、RWA、vault 和发票保理。主持人同时围绕美联储加息、比特币和以太坊行情、Hunter Biden 的名人代币争议以及 Robinhood 股票代币发表高度看多、带有明显个人立场的市场判断。"
+companies:
+  - HOOD
+  - Polymarket
+  - Morpho
+industries:
+  - 加密
+  - 预测市场
+  - 金融
+technologies:
+  - DeFi
+  - 代币化
+  - 稳定币
+  - 比特币
+keywords:
+  - 稳定币法案
+  - 合规
+  - 利率
+tags:
+  - HOOD
+  - Polymarket
+  - Morpho
+  - 加密
+  - 预测市场
+  - 金融
+  - DeFi
+  - 代币化
+  - 稳定币
+  - 比特币
+  - 稳定币法案
+  - 合规
+  - 利率
 ---
 
 ## Transcript

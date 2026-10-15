@@ -27,6 +27,13 @@ YouTube发布时间: "2026-09-15T17:40:48Z"
   - "AI guardrails"
   - "human oversight"
   - "customer service metrics"
+companies: []
+industries:
+  - 机器人
+technologies: []
+keywords: []
+tags:
+  - 机器人
 ---
 
 ## Transcript

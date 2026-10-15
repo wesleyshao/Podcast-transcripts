@@ -33,6 +33,17 @@ YouTube发布时间: 2026-08-27T17:00:32Z
   - 进化
   - Christianity
   - Perplexity
+companies:
+  - AMZN
+  - Perplexity
+industries:
+  - 医疗
+technologies: []
+keywords: []
+tags:
+  - AMZN
+  - Perplexity
+  - 医疗
 ---
 
 # Joe Rogan Experience #2547 - Daniel Everett

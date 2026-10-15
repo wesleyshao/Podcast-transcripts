@@ -26,6 +26,17 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/bm8rMM
   - token-based products
   - AEO
   - referral program
+companies:
+  - GOOGL
+  - META
+industries:
+  - 媒体
+technologies: []
+keywords: []
+tags:
+  - GOOGL
+  - META
+  - 媒体
 ---
 
 # How to Build a $100M Growth Engine: Lessons from Wispr Flow & Superhuman | Matt Swulinski

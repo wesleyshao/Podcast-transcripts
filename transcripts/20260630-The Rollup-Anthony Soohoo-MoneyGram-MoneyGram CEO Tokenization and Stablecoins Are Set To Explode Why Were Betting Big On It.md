@@ -19,6 +19,25 @@
   - 500000 physical locations
   - validators
   - GENIUS Act
+companies:
+  - Kraken
+industries:
+  - 加密
+  - 支付
+technologies:
+  - 代币化
+  - 区块链
+  - Solana
+keywords:
+  - 稳定币法案
+tags:
+  - Kraken
+  - 加密
+  - 支付
+  - 代币化
+  - 区块链
+  - Solana
+  - 稳定币法案
 ---
 
 # MoneyGram CEO Tokenization & Stablecoins Are Set To Explode Why We're Betting Big On It

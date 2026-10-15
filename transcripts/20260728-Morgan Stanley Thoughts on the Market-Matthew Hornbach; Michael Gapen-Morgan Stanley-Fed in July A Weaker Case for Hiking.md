@@ -33,6 +33,21 @@ youtube_video_id: "mTvyx0ke7ZY"
   - "Summary of Economic Projections"
   - "bond market"
   - "currency market"
+companies: []
+industries:
+  - 宏观
+  - 能源
+technologies: []
+keywords:
+  - 通胀
+  - 利率
+  - 就业
+tags:
+  - 宏观
+  - 能源
+  - 通胀
+  - 利率
+  - 就业
 ---
 
 # Fed in July: A Weaker Case for Hiking

@@ -19,6 +19,17 @@
   - "smart football"
   - "sports data fragmentation"
 字幕来源: "YouTube subtitles zh json3"
+companies:
+  - DeepMind
+  - IBM
+  - META
+industries: []
+technologies: []
+keywords: []
+tags:
+  - DeepMind
+  - IBM
+  - META
 ---
 
 # 2026世界杯：AI改变了足球....吗？

@@ -59,6 +59,41 @@ youtube_video_id: s4ka08qlOG8
   - Plume
   - Zama
   - Relay
+companies:
+  - Chainlink
+  - Dragonfly
+  - Dinari
+  - HOOD
+  - COIN
+industries:
+  - 加密
+  - 金融
+  - 宏观
+technologies:
+  - Zcash
+  - 代币化
+  - 稳定币
+  - DeFi
+keywords:
+  - 监管
+  - 稳定币法案
+  - 融资
+tags:
+  - Chainlink
+  - Dragonfly
+  - Dinari
+  - HOOD
+  - COIN
+  - 加密
+  - 金融
+  - 宏观
+  - Zcash
+  - 代币化
+  - 稳定币
+  - DeFi
+  - 监管
+  - 稳定币法案
+  - 融资
 ---
 
 # 🚨LIVE: CLARITY Final Countdown! Jesse Pollak, Haseeb, Santiago Santos & Olivia Vande Woude Join

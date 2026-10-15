@@ -31,6 +31,29 @@ YouTube发布时间: 2026-08-19
   - AI agents
   - healthcare AI
   - simulation models
+companies:
+  - OpenAI
+  - Anthropic
+  - GOOGL
+industries:
+  - 生物技术
+  - 医疗
+  - AI制药
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 隐私
+tags:
+  - OpenAI
+  - Anthropic
+  - GOOGL
+  - 生物技术
+  - 医疗
+  - AI制药
+  - LLM
+  - Agent
+  - 隐私
 ---
 
 # AI for Emergency Response + OpenAI's Real-Time Voice Lead

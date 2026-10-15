@@ -16,6 +16,17 @@
   - space policy
   - Space SPAN
   - NASA YouTube
+companies:
+  - NASA
+  - BlueOrigin
+industries:
+  - 商业航天
+technologies: []
+keywords: []
+tags:
+  - NASA
+  - BlueOrigin
+  - 商业航天
 ---
 
 # NASA Project Artemis Moon Base Update, June 30, 2026

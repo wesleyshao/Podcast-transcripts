@@ -19,6 +19,37 @@
   - "hyperscalers"
   - "nuclear energy"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - PayPal
+  - Stripe
+  - OpenRouter
+  - NVDA
+  - OpenAI
+industries:
+  - 半导体
+  - 核能
+technologies:
+  - 开源模型
+  - 推理
+  - GPU
+  - LLM
+keywords:
+  - 开源
+  - 推理成本
+tags:
+  - PayPal
+  - Stripe
+  - OpenRouter
+  - NVDA
+  - OpenAI
+  - 半导体
+  - 核能
+  - 开源模型
+  - 推理
+  - GPU
+  - LLM
+  - 开源
+  - 推理成本
 ---
 
 # Should the US Ban Chinese Open-Source Models | OpenRouter's Chance To Sell | Stripe Buying PayPal

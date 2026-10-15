@@ -18,6 +18,17 @@
   - "software development"
 youtube_video_id: "vb1Gcn10enw"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - DDOG
+industries: []
+technologies:
+  - Agent
+keywords:
+  - 人才
+tags:
+  - DDOG
+  - Agent
+  - 人才
 ---
 
 # How Two French Engineers In New York Built The Company That Monitors The Entire Cloud

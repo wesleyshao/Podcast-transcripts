@@ -40,6 +40,29 @@ YouTube发布时间: 2026-09-07T14:00:03Z
   - PostgreSQL
   - MCP
   - DSPy
+companies:
+  - Anthropic
+  - NVDA
+  - AAPL
+industries:
+  - 半导体
+technologies:
+  - Agent
+  - GPU
+  - LLM
+  - 编程助手
+keywords:
+  - AGI
+tags:
+  - Anthropic
+  - NVDA
+  - AAPL
+  - 半导体
+  - Agent
+  - GPU
+  - LLM
+  - 编程助手
+  - AGI
 ---
 
 # Why The Harness Matters More Than The Model | YC Paper Club

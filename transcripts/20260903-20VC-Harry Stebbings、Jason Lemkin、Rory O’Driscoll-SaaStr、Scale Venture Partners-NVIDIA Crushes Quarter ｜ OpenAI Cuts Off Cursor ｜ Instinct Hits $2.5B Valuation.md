@@ -52,6 +52,41 @@ YouTube发布时间: "2026-09-03T13:55:55Z"
   - "reward hacking"
   - "cybersecurity"
 
+companies:
+  - Cursor
+  - NVDA
+  - OpenAI
+  - Anthropic
+  - Cognition
+industries:
+  - 半导体
+  - 网络安全
+  - 支付
+technologies:
+  - 编程助手
+  - GPU
+  - LLM
+  - Agent
+keywords:
+  - 估值
+  - 创业
+  - 融资
+tags:
+  - Cursor
+  - NVDA
+  - OpenAI
+  - Anthropic
+  - Cognition
+  - 半导体
+  - 网络安全
+  - 支付
+  - 编程助手
+  - GPU
+  - LLM
+  - Agent
+  - 估值
+  - 创业
+  - 融资
 ---
 
 ## Transcript

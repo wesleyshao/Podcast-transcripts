@@ -47,6 +47,37 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/y_3EjW
   - system of record
   - Clayton Act
   - antitrust
+companies:
+  - Anthropic
+  - OpenRouter
+  - Stripe
+  - CRM
+  - Cursor
+industries:
+  - 商业航天
+  - 企业软件
+  - 支付
+technologies:
+  - 编程助手
+  - LLM
+keywords:
+  - 监管
+  - IPO
+  - 估值
+tags:
+  - Anthropic
+  - OpenRouter
+  - Stripe
+  - CRM
+  - Cursor
+  - 商业航天
+  - 企业软件
+  - 支付
+  - 编程助手
+  - LLM
+  - 监管
+  - IPO
+  - 估值
 ---
 
 # Stripe's $8B OpenRouter Bet ｜ Anthropic's First Profit & The Math Behind Reaching $600B in Revenue？

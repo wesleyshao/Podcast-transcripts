@@ -20,6 +20,35 @@ YouTube发布时间: 2026-07-11
   - "regional banks"
   - "Fed July rate decision"
 字幕来源: "YouTube 公开字幕 json3，automatic_captions/en-orig"
+companies:
+  - META
+  - AAPL
+  - 三星
+  - xAI
+  - MU
+industries:
+  - 加密
+  - 半导体
+  - 存储
+technologies:
+  - 比特币
+  - LLM
+  - Agent
+  - 代币化
+keywords: []
+tags:
+  - META
+  - AAPL
+  - 三星
+  - xAI
+  - MU
+  - 加密
+  - 半导体
+  - 存储
+  - 比特币
+  - LLM
+  - Agent
+  - 代币化
 ---
 
 # Has Bitcoin Hit The Bottom?

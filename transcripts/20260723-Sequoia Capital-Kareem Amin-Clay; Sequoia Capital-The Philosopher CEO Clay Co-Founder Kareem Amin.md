@@ -17,6 +17,13 @@
   - "technical GTM teams"
   - "pricing backlash"
 字幕来源: "YouTube automatic_captions en json3"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 分发
+tags:
+  - 分发
 ---
 
 # The Philosopher CEO | Clay Co-Founder Kareem Amin

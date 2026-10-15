@@ -30,6 +30,23 @@ youtube_video_id: rdEn9cpMScA
   - semiconductors
   - US policy
   - China
+companies: []
+industries:
+  - 数据中心
+  - 半导体
+  - 机器人
+technologies: []
+keywords:
+  - 监管
+  - AGI
+  - 地缘政治
+tags:
+  - 数据中心
+  - 半导体
+  - 机器人
+  - 监管
+  - AGI
+  - 地缘政治
 ---
 
 # The Balance of AI Power: Anton Leicht on Politics, Pacing Deals, and Muddling Through Well

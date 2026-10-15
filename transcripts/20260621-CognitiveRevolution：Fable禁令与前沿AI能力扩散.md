@@ -22,6 +22,31 @@
   - Math
   - Logistics
   - More
+companies:
+  - Anthropic
+  - OpenAI
+  - AAPL
+industries:
+  - 物流
+  - 数据中心
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 选举
+  - AI安全
+  - IPO
+tags:
+  - Anthropic
+  - OpenAI
+  - AAPL
+  - 物流
+  - 数据中心
+  - LLM
+  - Agent
+  - 选举
+  - AI安全
+  - IPO
 ---
 
 # AI:AM #3: Zvi on Fable, the Cases For & Against the Ban, + AI for Math, Logistics & More

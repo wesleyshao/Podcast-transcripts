@@ -44,6 +44,39 @@ YouTube发布时间: 2026-09-11
   - Clarity Act
   - Treasury market
   - Bond yields
+companies:
+  - HOOD
+  - OpenAI
+  - NEAR
+  - Uniswap
+industries:
+  - 加密
+  - 金融
+  - 宏观
+technologies:
+  - 以太坊
+  - 比特币
+  - 账户抽象
+  - LLM
+keywords:
+  - 稳定币法案
+  - 监管
+  - 隐私
+tags:
+  - HOOD
+  - OpenAI
+  - NEAR
+  - Uniswap
+  - 加密
+  - 金融
+  - 宏观
+  - 以太坊
+  - 比特币
+  - 账户抽象
+  - LLM
+  - 稳定币法案
+  - 监管
+  - 隐私
 ---
 # Why Crypto’s Riskiest Assets Are Suddenly Exploding
 

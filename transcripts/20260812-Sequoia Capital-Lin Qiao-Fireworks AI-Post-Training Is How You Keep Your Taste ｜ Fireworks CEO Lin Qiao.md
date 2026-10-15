@@ -24,6 +24,23 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/yAvJ7b
   - reward hacking
   - Cursor
   - serving costs
+companies:
+  - Fireworks
+  - Cursor
+industries: []
+technologies:
+  - 后训练
+  - 编程助手
+  - RAG
+  - 强化学习
+keywords: []
+tags:
+  - Fireworks
+  - Cursor
+  - 后训练
+  - 编程助手
+  - RAG
+  - 强化学习
 ---
 
 # Post-Training Is How You Keep Your Taste | Fireworks CEO Lin Qiao

@@ -33,6 +33,19 @@ youtube_video_id: "MGouk8W51v0"
 文字稿来源: "YouTube public subtitles: en-orig；完整源文本位于 caption_cache/MGouk8W51v0.en-orig.source.txt；官方 Podcast RSS 未提供满足条件的同期公开完整 transcript。"
 YouTube发布时间: "2026-08-11T13:00:13Z"
 字幕来源: "YouTube public subtitles: en-orig"
+companies:
+  - Mercor
+industries: []
+technologies:
+  - 后训练
+  - 开源模型
+keywords:
+  - 开源
+tags:
+  - Mercor
+  - 后训练
+  - 开源模型
+  - 开源
 ---
 
 # How Harvey Built a Research Lab on a Budget ｜ Gabe Pereyra

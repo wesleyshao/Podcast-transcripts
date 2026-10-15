@@ -43,6 +43,35 @@ youtube_video_id: "t5-Ix8bRS5s"
   - "Apple"
   - "AI companion"
   - "memory shortage"
+companies:
+  - MSFT
+  - OpenAI
+  - AAPL
+  - AMZN
+  - GOOGL
+industries:
+  - 云计算
+  - 数据中心
+technologies:
+  - LLM
+  - Agent
+  - GPU
+  - TPU
+keywords:
+  - 超级智能
+tags:
+  - MSFT
+  - OpenAI
+  - AAPL
+  - AMZN
+  - GOOGL
+  - 云计算
+  - 数据中心
+  - LLM
+  - Agent
+  - GPU
+  - TPU
+  - 超级智能
 ---
 
 # Leopold Blows Up, OpenAI Drastically Cuts Prices, Microsoft’s Best Day

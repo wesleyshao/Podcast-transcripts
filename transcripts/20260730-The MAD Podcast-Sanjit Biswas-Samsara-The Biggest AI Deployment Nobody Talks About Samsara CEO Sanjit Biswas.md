@@ -36,6 +36,21 @@ youtube_video_id: 3FHsGiONOGw
   - ROI
   - Meraki
   - Cisco
+companies:
+  - CSCO
+industries:
+  - 数据中心
+  - 机器人
+technologies:
+  - 具身智能
+keywords:
+  - 网络效应
+tags:
+  - CSCO
+  - 数据中心
+  - 机器人
+  - 具身智能
+  - 网络效应
 ---
 
 # The Biggest AI Deployment Nobody Talks About | Samsara CEO Sanjit Biswas

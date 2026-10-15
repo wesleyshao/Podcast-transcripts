@@ -47,6 +47,41 @@ youtube_video_id: HSVhShdcriU
   - Moores law
   - SpaceX
   - orbital data center
+companies:
+  - Anthropic
+  - SpaceX
+  - DeepMind
+  - GOOGL
+  - META
+industries:
+  - 加密
+  - 机器人
+  - 商业航天
+technologies:
+  - 比特币
+  - LLM
+  - 可回收火箭
+  - 具身智能
+keywords:
+  - 超级智能
+  - AGI
+  - AI安全
+tags:
+  - Anthropic
+  - SpaceX
+  - DeepMind
+  - GOOGL
+  - META
+  - 加密
+  - 机器人
+  - 商业航天
+  - 比特币
+  - LLM
+  - 可回收火箭
+  - 具身智能
+  - 超级智能
+  - AGI
+  - AI安全
 ---
 
 # Can Bitcoin Protect You From AI Threats？

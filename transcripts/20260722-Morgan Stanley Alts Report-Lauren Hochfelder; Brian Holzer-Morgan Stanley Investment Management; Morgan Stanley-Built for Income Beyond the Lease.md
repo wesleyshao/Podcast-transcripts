@@ -17,6 +17,17 @@
   - "alternative investments"
   - "global real assets"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries:
+  - 宏观
+  - 房地产
+technologies: []
+keywords:
+  - 通胀
+tags:
+  - 宏观
+  - 房地产
+  - 通胀
 ---
 
 # Built for Income. Beyond the Lease.

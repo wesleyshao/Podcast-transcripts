@@ -45,6 +45,41 @@ YouTube发布时间: 2026-09-10
   - GPU export controls
   - AI safety
   - effective altruism
+companies:
+  - Anthropic
+  - HuggingFace
+  - OpenAI
+  - DeepSeek
+  - 阿里巴巴
+industries:
+  - 加密
+  - 数据中心
+  - 机器人
+technologies:
+  - GPU
+  - LLM
+  - Agent
+  - Blackwell
+keywords:
+  - 监管
+  - 合规
+  - 出口管制
+tags:
+  - Anthropic
+  - HuggingFace
+  - OpenAI
+  - DeepSeek
+  - 阿里巴巴
+  - 加密
+  - 数据中心
+  - 机器人
+  - GPU
+  - LLM
+  - Agent
+  - Blackwell
+  - 监管
+  - 合规
+  - 出口管制
 ---
 
 # China’s Agent Rules + Baseten's Latest

@@ -22,6 +22,15 @@ youtube_video_id: "AZrU6y3pUcU"
 YouTube发布时间: "2026-06-26"
 播客标题: "Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI's Noam Brown"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+keywords: []
+tags:
+  - OpenAI
+  - LLM
 ---
 
 # Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI's Noam Brown

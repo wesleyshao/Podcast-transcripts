@@ -26,6 +26,29 @@
   - "narrow superintelligence"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Why Elon Wants to Put Data Centers in Space"
+companies:
+  - SpaceX
+industries:
+  - 数据中心
+  - 加密
+  - 商业航天
+technologies:
+  - 比特币
+  - 可回收火箭
+keywords:
+  - 竞争格局
+  - 能源瓶颈
+  - 超级智能
+tags:
+  - SpaceX
+  - 数据中心
+  - 加密
+  - 商业航天
+  - 比特币
+  - 可回收火箭
+  - 竞争格局
+  - 能源瓶颈
+  - 超级智能
 ---
 
 # Why Elon Wants to Put Data Centers in Space

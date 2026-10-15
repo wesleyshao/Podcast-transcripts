@@ -26,6 +26,21 @@ youtube_video_id: eGMbMXUJ_Cw
   - 托管
   - transfer agent
   - 区块链基础设施
+companies: []
+industries:
+  - 加密
+technologies:
+  - 代币化
+  - 区块链
+  - 稳定币
+keywords:
+  - 稳定币法案
+tags:
+  - 加密
+  - 代币化
+  - 区块链
+  - 稳定币
+  - 稳定币法案
 ---
 
 # Beyond Crypto: The ABCs of Tokenization

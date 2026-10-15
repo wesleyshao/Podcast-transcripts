@@ -43,6 +43,21 @@ youtube_video_id: "7JwErM_ANy8"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按上下文转写；结合官方节目说明校正人物、论文与协议名称，保留理论定义、历史顺序、假设边界及主持人会后讨论。"
+companies: []
+industries:
+  - 加密
+technologies:
+  - 零知识证明
+  - 区块链
+  - Zcash
+keywords:
+  - 隐私
+tags:
+  - 加密
+  - 零知识证明
+  - 区块链
+  - Zcash
+  - 隐私
 ---
 
 # How Shafi Goldwasser Co-Invented Zero-Knowledge Proofs

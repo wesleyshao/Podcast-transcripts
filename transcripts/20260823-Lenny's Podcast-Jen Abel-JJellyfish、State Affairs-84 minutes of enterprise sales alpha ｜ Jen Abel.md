@@ -31,6 +31,17 @@ transcript_source: "YouTube captions json3: YS9In813jJ0.en-orig.json3."
   - WorkOS
   - Mercury
   - AI
+companies:
+  - SpaceX
+industries:
+  - 商业航天
+technologies:
+  - 可回收火箭
+keywords: []
+tags:
+  - SpaceX
+  - 商业航天
+  - 可回收火箭
 ---
 
 # 84 minutes of enterprise sales alpha ｜ Jen Abel

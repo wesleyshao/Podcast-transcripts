@@ -21,6 +21,29 @@ YouTube发布时间: 2026-07-09
   - "bitcoin"
   - "gold"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies:
+  - Neuralink
+  - META
+industries:
+  - 加密
+  - 机器人
+  - 金融
+technologies:
+  - 比特币
+  - 具身智能
+  - 自动驾驶
+  - 脑机接口
+keywords: []
+tags:
+  - Neuralink
+  - META
+  - 加密
+  - 机器人
+  - 金融
+  - 比特币
+  - 具身智能
+  - 自动驾驶
+  - 脑机接口
 ---
 
 # INSANE Examples of Tech Invading Our Lives

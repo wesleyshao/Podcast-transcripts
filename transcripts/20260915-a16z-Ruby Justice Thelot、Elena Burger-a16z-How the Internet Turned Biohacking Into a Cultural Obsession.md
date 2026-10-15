@@ -28,6 +28,13 @@ YouTube发布时间: "2026-09-15T14:30:36Z"
   - "wearables"
   - "quantified self"
   - "body futurism"
+companies: []
+industries:
+  - 生物技术
+technologies: []
+keywords: []
+tags:
+  - 生物技术
 ---
 
 ## Transcript

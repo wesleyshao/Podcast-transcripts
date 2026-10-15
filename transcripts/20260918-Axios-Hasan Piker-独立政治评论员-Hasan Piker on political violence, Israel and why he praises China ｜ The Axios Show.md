@@ -34,6 +34,15 @@ YouTube发布时间: 2026-09-18T09:00:07Z
   - Tennessee Valley Authority
   - Chattanooga
   - First Amendment
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 战争
+  - 选举
+tags:
+  - 战争
+  - 选举
 ---
 
 # Hasan Piker on political violence, Israel and why he praises China ｜ The Axios Show

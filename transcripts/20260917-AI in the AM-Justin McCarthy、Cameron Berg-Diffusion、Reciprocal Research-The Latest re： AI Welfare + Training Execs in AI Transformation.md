@@ -42,6 +42,27 @@ YouTube发布时间: "2026-09-17T18:43:29Z"
   - "Slack"
   - "AI"
   - "AGI"
+companies:
+  - Anthropic
+  - HuggingFace
+industries: []
+technologies:
+  - 扩散模型
+  - 强化学习
+  - LLM
+  - Agent
+keywords:
+  - AGI
+  - 监管
+tags:
+  - Anthropic
+  - HuggingFace
+  - 扩散模型
+  - 强化学习
+  - LLM
+  - Agent
+  - AGI
+  - 监管
 ---
 
 # The Latest re: AI Welfare + Training Execs in AI Transformation

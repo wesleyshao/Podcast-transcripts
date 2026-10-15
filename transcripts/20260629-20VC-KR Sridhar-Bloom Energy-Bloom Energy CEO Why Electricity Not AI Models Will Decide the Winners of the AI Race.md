@@ -17,6 +17,17 @@ transcript_source: "YouTube automatic captions, en-orig json3."
   - grid interconnection
   - AI infrastructure
   - 20VC
+companies: []
+industries:
+  - 电力
+  - 数据中心
+  - 制造业
+technologies: []
+keywords: []
+tags:
+  - 电力
+  - 数据中心
+  - 制造业
 ---
 
 # Bloom Energy CEO: Why Electricity, Not AI Models, Will Decide the Winners of the AI Race

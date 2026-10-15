@@ -44,6 +44,35 @@ youtube_video_id: y5Uaz_jg4N0
   - disintermediation
   - AI agents
   - finance 2.0
+companies:
+  - COIN
+  - Circle
+industries:
+  - 加密
+  - 消费
+  - 金融
+technologies:
+  - 区块链
+  - 比特币
+  - 稳定币
+  - 以太坊
+keywords:
+  - 合规
+  - 监管
+  - 稳定币法案
+tags:
+  - COIN
+  - Circle
+  - 加密
+  - 消费
+  - 金融
+  - 区块链
+  - 比特币
+  - 稳定币
+  - 以太坊
+  - 合规
+  - 监管
+  - 稳定币法案
 ---
 
 # Marc Andreessen and Chris Dixon: Why America Needs Clarity

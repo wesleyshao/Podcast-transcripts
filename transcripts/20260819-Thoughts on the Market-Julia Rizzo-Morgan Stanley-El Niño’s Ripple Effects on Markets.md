@@ -35,6 +35,19 @@ youtube_video_id: w72ZLJWx5nk
   - electricity prices
   - transportation
   - consumer price basket
+companies:
+  - Ripple
+industries:
+  - 宏观
+  - 电力
+technologies: []
+keywords:
+  - 通胀
+tags:
+  - Ripple
+  - 宏观
+  - 电力
+  - 通胀
 ---
 
 # El Niño’s Ripple Effects on Markets

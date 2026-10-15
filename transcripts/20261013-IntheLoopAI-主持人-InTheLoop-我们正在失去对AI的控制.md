@@ -31,6 +31,27 @@ YouTube发布时间: 2026-10-13
   - Andrej Karpathy
   - IPO
   - Qualcomm
+companies:
+  - Anthropic
+  - OpenAI
+  - QCOM
+  - HuggingFace
+industries:
+  - 半导体
+technologies:
+  - Agent
+  - LLM
+keywords:
+  - IPO
+tags:
+  - Anthropic
+  - OpenAI
+  - QCOM
+  - HuggingFace
+  - 半导体
+  - Agent
+  - LLM
+  - IPO
 ---
 
 # We’re Losing Control Of AI

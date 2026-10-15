@@ -25,6 +25,23 @@ YouTube发布时间: 2026-08-24T21:17:52Z
   - AI应用者
   - 能源股
   - 美联储
+companies: []
+industries:
+  - 宏观
+  - 能源
+  - 加密
+technologies: []
+keywords:
+  - 利率
+  - 通胀
+  - 黄金
+tags:
+  - 宏观
+  - 能源
+  - 加密
+  - 利率
+  - 通胀
+  - 黄金
 ---
 # Markets Faces Hotter, Shorter Cycles
 ## Transcript

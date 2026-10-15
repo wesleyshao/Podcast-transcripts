@@ -21,6 +21,15 @@ youtube_video_id: KDw2TS_Shg4
   - eligibility measures
   - technology enablement
   - Morgan Stanley Research
+companies:
+  - MS
+industries:
+  - 医疗
+technologies: []
+keywords: []
+tags:
+  - MS
+  - 医疗
 ---
 
 # Morgan Stanley Global Healthcare Conference | Utilization, Consumerization and Policy

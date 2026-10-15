@@ -24,6 +24,17 @@
   - "Better"
   - "Banks. Transparent"
   - "DeFi. Learn"
+companies: []
+industries:
+  - 加密
+technologies:
+  - 以太坊
+  - DeFi
+keywords: []
+tags:
+  - 加密
+  - 以太坊
+  - DeFi
 ---
 
 # DeFi Dad: Why Ethereum Is The Future Of Finance (Issuance Thesis)

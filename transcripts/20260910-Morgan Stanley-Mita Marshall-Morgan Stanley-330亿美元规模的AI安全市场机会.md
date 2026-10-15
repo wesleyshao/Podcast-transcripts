@@ -27,6 +27,15 @@ youtube_video_id: dOoK6tiXO0w
   - stolen credentials
   - human identity
   - digital workforce
+companies: []
+industries:
+  - 网络安全
+technologies:
+  - Agent
+keywords: []
+tags:
+  - 网络安全
+  - Agent
 ---
 
 # 330亿美元规模的AI安全市场机会

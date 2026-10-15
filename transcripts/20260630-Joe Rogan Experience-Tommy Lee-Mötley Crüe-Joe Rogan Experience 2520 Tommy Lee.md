@@ -15,6 +15,13 @@ transcript_source: "YouTube captions json3: q8HRqmkEKWw.en-orig.json3."
   - touring
   - rock music
   - Joe Rogan Experience
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 娱乐
+tags:
+  - 娱乐
 ---
 
 # Joe Rogan Experience #2520 - Tommy Lee

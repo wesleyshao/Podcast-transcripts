@@ -27,6 +27,15 @@ YouTube发布时间: "2026-08-04T14:30:27Z"
 youtube_video_id: "WCLCfhvxrOo"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
+companies:
+  - UBER
+industries: []
+technologies: []
+keywords:
+  - AI安全
+tags:
+  - UBER
+  - AI安全
 ---
 
 # America is blowing its chance to win the AI race

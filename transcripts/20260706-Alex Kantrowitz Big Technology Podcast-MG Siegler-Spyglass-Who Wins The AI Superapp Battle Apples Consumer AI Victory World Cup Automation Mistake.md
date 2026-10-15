@@ -23,6 +23,23 @@ YouTube发布时间: "2026-07-06"
   - "AI products"
   - "World Cup automation"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies:
+  - AAPL
+  - GOOGL
+  - OpenAI
+  - Anthropic
+  - MSFT
+industries: []
+technologies:
+  - LLM
+keywords: []
+tags:
+  - AAPL
+  - GOOGL
+  - OpenAI
+  - Anthropic
+  - MSFT
+  - LLM
 ---
 
 # Who Wins The AI Superapp Battle?, Apple's Consumer AI Victory, World Cup Automation Mistake

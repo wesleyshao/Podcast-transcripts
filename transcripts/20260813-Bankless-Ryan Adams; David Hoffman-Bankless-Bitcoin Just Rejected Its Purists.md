@@ -44,6 +44,37 @@ YouTube发布时间: "2026-08-13T10:30:33Z"
 文字稿来源: "YouTube public subtitles: en-orig；完整源文本位于 caption_cache/RDa_qerUW1Q.en-orig.source.txt；官方 Podcast RSS 返回了同期节目并提供文字稿链接，但标题匹配分数低于 0.55，因此未采用该官方链接。"
 官方文字稿来源: "Bankless official Podcast RSS was discovered, but title matching was below the 0.55 adoption threshold; its public transcript link was not adopted."
 来源说明: "正文依据 YouTube en-orig 原始字幕完整转写，保留节目中的事实、观点和不确定性；广告和节目口播已按语义整理。"
+companies:
+  - HOOD
+  - Fidelity
+  - Pumpfun
+  - MSTR
+industries:
+  - 加密
+  - 金融
+  - 宏观
+technologies:
+  - 比特币
+  - 以太坊
+  - 稳定币
+keywords:
+  - 稳定币法案
+  - 黄金
+  - 监管
+tags:
+  - HOOD
+  - Fidelity
+  - Pumpfun
+  - MSTR
+  - 加密
+  - 金融
+  - 宏观
+  - 比特币
+  - 以太坊
+  - 稳定币
+  - 稳定币法案
+  - 黄金
+  - 监管
 ---
 
 ## 参与嘉宾

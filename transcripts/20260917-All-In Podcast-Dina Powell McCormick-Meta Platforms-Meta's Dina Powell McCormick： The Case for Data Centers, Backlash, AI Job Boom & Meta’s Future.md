@@ -45,6 +45,23 @@ YouTube发布时间: "2026-09-17T17:31:15Z"
   - "PayPal"
   - "Google for Startups"
   - "FDNY"
+companies:
+  - META
+  - GOOGL
+  - IREN
+  - ORCL
+  - PayPal
+industries:
+  - 数据中心
+technologies: []
+keywords: []
+tags:
+  - META
+  - GOOGL
+  - IREN
+  - ORCL
+  - PayPal
+  - 数据中心
 ---
 
 # Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta’s Future

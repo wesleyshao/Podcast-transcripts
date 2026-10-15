@@ -41,6 +41,41 @@ YouTube发布时间: 2026-08-27T14:00:17Z
   - customer service software
   - humanoid robots
   - SaaS
+companies:
+  - OpenAI
+  - Anthropic
+  - NVDA
+  - Stripe
+  - HuggingFace
+industries:
+  - 机器人
+  - 半导体
+  - 宏观
+technologies:
+  - GPU
+  - LLM
+  - 具身智能
+  - Agent
+keywords:
+  - IPO
+  - 利率
+  - 开源
+tags:
+  - OpenAI
+  - Anthropic
+  - NVDA
+  - Stripe
+  - HuggingFace
+  - 机器人
+  - 半导体
+  - 宏观
+  - GPU
+  - LLM
+  - 具身智能
+  - Agent
+  - IPO
+  - 利率
+  - 开源
 ---
 
 # Anthropic's $30T Assumption & OpenAI Confirms IPO | Why Customer Service & Robotics are Overinflated

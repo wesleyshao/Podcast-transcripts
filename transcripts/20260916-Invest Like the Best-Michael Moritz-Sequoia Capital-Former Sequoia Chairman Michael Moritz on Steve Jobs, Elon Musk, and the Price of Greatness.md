@@ -35,6 +35,15 @@ YouTube发布时间: "2026-09-16T12:00:16Z"
   - "Alex Ferguson"
   - "artificial intelligence"
 核心观点: "Michael Moritz 从家族历史、移民背景和局外人心态出发，讨论如何理解卓越人物、创始人的执念与代价，以及他在 Sequoia、Steve Jobs、Elon Musk 和 AI 相关观察中的长期经验。"
+companies:
+  - Sequoia
+industries: []
+technologies: []
+keywords:
+  - 组织管理
+tags:
+  - Sequoia
+  - 组织管理
 ---
 
 # Former Sequoia Chairman Michael Moritz on Steve Jobs, Elon Musk, and the Price of Greatness

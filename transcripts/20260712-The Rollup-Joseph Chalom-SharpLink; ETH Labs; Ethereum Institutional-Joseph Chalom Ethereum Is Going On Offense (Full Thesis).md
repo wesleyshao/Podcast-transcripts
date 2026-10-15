@@ -18,6 +18,23 @@ YouTube发布时间: 2026-07-12
   - "corporate treasury"
   - "ETH supply sink"
 字幕来源: "YouTube 公开字幕 json3，automatic_captions/en-orig"
+companies:
+  - SharpLink
+industries:
+  - 加密
+technologies:
+  - 以太坊
+  - 代币化
+  - DeFi
+  - 比特币
+keywords: []
+tags:
+  - SharpLink
+  - 加密
+  - 以太坊
+  - 代币化
+  - DeFi
+  - 比特币
 ---
 
 # Joseph Chalom: Ethereum Is Going On Offense (Full Thesis)

@@ -18,6 +18,19 @@
   - "ARR"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour"
+companies:
+  - Anthropic
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+  - Agent
+keywords: []
+tags:
+  - Anthropic
+  - OpenAI
+  - LLM
+  - Agent
 ---
 
 ## Transcript

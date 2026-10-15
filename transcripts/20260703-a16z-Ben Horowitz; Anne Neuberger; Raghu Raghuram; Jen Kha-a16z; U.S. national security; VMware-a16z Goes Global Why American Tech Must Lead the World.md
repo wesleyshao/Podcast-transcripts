@@ -22,6 +22,21 @@
   - "Indo-Pacific"
   - "global startup expansion"
   - "Western technology"
+companies:
+  - a16z
+industries:
+  - 国防
+  - 网络安全
+technologies: []
+keywords:
+  - 创业
+  - 组织管理
+tags:
+  - a16z
+  - 国防
+  - 网络安全
+  - 创业
+  - 组织管理
 ---
 
 # a16z Goes Global Why American Tech Must Lead the World

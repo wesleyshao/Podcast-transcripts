@@ -37,6 +37,25 @@ youtube_video_id: "B4rvktYTXrw"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按上下文转写；结合官方节目说明校正公司、人物与技术名称，保留部署规模、效率、安全、商业模式和国际化边界。"
+companies:
+  - WisdomTree
+  - TSLA
+  - Waymo
+industries:
+  - 汽车
+  - 矿业
+  - 电信
+technologies:
+  - 自动驾驶
+keywords: []
+tags:
+  - WisdomTree
+  - TSLA
+  - Waymo
+  - 汽车
+  - 矿业
+  - 电信
+  - 自动驾驶
 ---
 
 # How physical AI is transforming the mining industry | The Next Big Thing

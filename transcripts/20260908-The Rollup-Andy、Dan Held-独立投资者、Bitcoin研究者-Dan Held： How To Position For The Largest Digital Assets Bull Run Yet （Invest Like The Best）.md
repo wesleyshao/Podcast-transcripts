@@ -43,6 +43,35 @@ YouTube发布时间: "2026-09-08T00:45:23Z"
   - "Die with Zero"
   - "S&P 500"
   - "NASDAQ"
+companies:
+  - SpaceX
+  - Nasdaq
+industries:
+  - 加密
+  - 商业航天
+  - 宏观
+technologies:
+  - 比特币
+  - Zcash
+  - 卫星互联网
+  - 可回收火箭
+keywords:
+  - 隐私
+  - 债务
+  - 监管
+tags:
+  - SpaceX
+  - Nasdaq
+  - 加密
+  - 商业航天
+  - 宏观
+  - 比特币
+  - Zcash
+  - 卫星互联网
+  - 可回收火箭
+  - 隐私
+  - 债务
+  - 监管
 ---
 
 # Dan Held： How To Position For The Largest Digital Assets Bull Run Yet （Invest Like The Best）

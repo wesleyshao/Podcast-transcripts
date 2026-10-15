@@ -26,6 +26,19 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/zLUZcl
   - Scale AI
   - quantum computing
   - public service
+companies:
+  - ScaleAI
+industries: []
+technologies:
+  - 量子计算
+keywords:
+  - 开源
+  - 监管
+tags:
+  - ScaleAI
+  - 量子计算
+  - 开源
+  - 监管
 ---
 
 # Michael Kratsios: Inside the White House's AI Strategy

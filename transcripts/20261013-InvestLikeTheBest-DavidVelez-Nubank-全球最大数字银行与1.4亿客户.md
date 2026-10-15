@@ -44,6 +44,33 @@ YouTube发布时间: 2026-10-13
   - Mickey Malka（Ribbit Capital）
   - Tobi Lütke
   - 冒名顶替综合征（imposter syndrome）
+companies:
+  - Nubank
+  - AMZN
+  - DIS
+  - NFLX
+  - Anthropic
+industries:
+  - 金融
+  - 加密
+  - 宏观
+technologies:
+  - LLM
+  - 稳定币
+  - 比特币
+keywords: []
+tags:
+  - Nubank
+  - AMZN
+  - DIS
+  - NFLX
+  - Anthropic
+  - 金融
+  - 加密
+  - 宏观
+  - LLM
+  - 稳定币
+  - 比特币
 ---
 
 # How He Built the World’s Largest Digital Bank with 140 Million Customers

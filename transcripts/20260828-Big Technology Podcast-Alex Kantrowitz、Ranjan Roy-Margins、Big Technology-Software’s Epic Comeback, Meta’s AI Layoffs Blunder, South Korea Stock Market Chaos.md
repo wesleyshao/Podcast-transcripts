@@ -37,6 +37,31 @@ YouTube发布时间: 2026-08-28T16:57:47Z
   - South Korea
   - KOSPI
   - AI泡沫
+companies:
+  - META
+  - CRM
+  - Anthropic
+  - ADBE
+  - MSFT
+industries:
+  - 宏观
+  - 企业软件
+technologies:
+  - LLM
+  - Agent
+keywords:
+  - 泡沫
+tags:
+  - META
+  - CRM
+  - Anthropic
+  - ADBE
+  - MSFT
+  - 宏观
+  - 企业软件
+  - LLM
+  - Agent
+  - 泡沫
 ---
 
 # Software’s Epic Comeback, Meta’s AI Layoffs Blunder, South Korea Stock Market Chaos

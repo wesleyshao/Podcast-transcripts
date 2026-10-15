@@ -28,6 +28,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/r8qKNF
   - industrial AI
   - autonomous machines
   - physical world
+companies:
+  - UBER
+industries:
+  - 机器人
+technologies: []
+keywords: []
+tags:
+  - UBER
+  - 机器人
 ---
 
 # Travis Kalanick: How AI Will Transform the Physical World

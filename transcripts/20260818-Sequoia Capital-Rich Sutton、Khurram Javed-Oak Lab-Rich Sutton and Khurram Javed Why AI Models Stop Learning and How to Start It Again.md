@@ -36,6 +36,15 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/xH7U7w
   - model-based planning
   - University of Alberta
   - Moore's law
+companies: []
+industries: []
+technologies:
+  - LLM
+  - 强化学习
+keywords: []
+tags:
+  - LLM
+  - 强化学习
 ---
 
 # Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again

@@ -57,6 +57,39 @@ YouTube发布时间: "2026-08-01T14:00:20Z"
   - robotics
   - inference
   - AI chips
+companies:
+  - OpenAI
+  - Anthropic
+  - Kalshi
+  - Polymarket
+  - Nasdaq
+industries:
+  - 预测市场
+  - 机器人
+technologies:
+  - Agent
+  - LLM
+  - 推理
+  - GPU
+keywords:
+  - 并购
+  - 融资
+  - 数据飞轮
+tags:
+  - OpenAI
+  - Anthropic
+  - Kalshi
+  - Polymarket
+  - Nasdaq
+  - 预测市场
+  - 机器人
+  - Agent
+  - LLM
+  - 推理
+  - GPU
+  - 并购
+  - 融资
+  - 数据飞轮
 ---
 
 # The Best AI Companies Have Unique Data Acquisition Strategies | Simile Co-founder & CEO

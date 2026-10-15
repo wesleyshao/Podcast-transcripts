@@ -56,6 +56,39 @@ youtube_video_id: "fibXItMHXLE"
   - "purchasing power"
   - "childcare"
   - "gambling addiction"
+companies:
+  - GOOGL
+  - META
+  - Anthropic
+  - COIN
+  - OpenAI
+industries:
+  - 加密
+  - 宏观
+  - 金融
+technologies:
+  - 比特币
+  - LLM
+  - 稳定币
+keywords:
+  - 利率
+  - 通胀
+  - 稳定币法案
+tags:
+  - GOOGL
+  - META
+  - Anthropic
+  - COIN
+  - OpenAI
+  - 加密
+  - 宏观
+  - 金融
+  - 比特币
+  - LLM
+  - 稳定币
+  - 利率
+  - 通胀
+  - 稳定币法案
 ---
 
 # Why Bitcoin Wins No Matter What Congress Does

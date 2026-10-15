@@ -27,6 +27,41 @@ youtube_video_id: "Tx9jT2c6e3U"
 YouTube发布时间: "2026-06-11"
 播客标题: "The SpaceX IPO, Fable 5, AI Capex Update & Market Check w/ Gavin Baker, Andrew Fox & Clark Tang"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - SpaceX
+  - Cursor
+  - NVDA
+  - xAI
+  - Anthropic
+industries:
+  - 商业航天
+  - 半导体
+  - 数据中心
+technologies:
+  - 卫星互联网
+  - 编程助手
+  - 可回收火箭
+  - GPU
+keywords:
+  - IPO
+  - 资本开支
+  - 开源
+tags:
+  - SpaceX
+  - Cursor
+  - NVDA
+  - xAI
+  - Anthropic
+  - 商业航天
+  - 半导体
+  - 数据中心
+  - 卫星互联网
+  - 编程助手
+  - 可回收火箭
+  - GPU
+  - IPO
+  - 资本开支
+  - 开源
 ---
 
 # The SpaceX IPO, Fable 5, AI Capex Update & Market Check w/ Gavin Baker, Andrew Fox & Clark Tang

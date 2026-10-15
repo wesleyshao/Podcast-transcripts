@@ -21,6 +21,17 @@ youtube_video_id: "jH05mse8VbQ"
 YouTube发布时间: "2026-06-25"
 播客标题: "Leslie Lamport on the Science of Distributed Systems"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies: []
+industries:
+  - 加密
+technologies:
+  - 分布式系统
+  - 区块链
+keywords: []
+tags:
+  - 加密
+  - 分布式系统
+  - 区块链
 ---
 
 # Leslie Lamport on the Science of Distributed Systems

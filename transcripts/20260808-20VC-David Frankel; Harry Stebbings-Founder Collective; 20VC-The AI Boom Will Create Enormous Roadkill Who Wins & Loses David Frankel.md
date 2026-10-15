@@ -47,6 +47,37 @@ youtube_video_id: "PDaGwInqbbQ"
   - "SeatGeek"
   - "Olo"
   - "Waymo"
+companies:
+  - Anthropic
+  - OpenAI
+  - ShieldAI
+  - UBER
+  - NVDA
+industries:
+  - 企业软件
+  - 半导体
+  - 国防
+technologies:
+  - GPU
+  - LLM
+keywords:
+  - 估值
+  - 创业
+  - 融资
+tags:
+  - Anthropic
+  - OpenAI
+  - ShieldAI
+  - UBER
+  - NVDA
+  - 企业软件
+  - 半导体
+  - 国防
+  - GPU
+  - LLM
+  - 估值
+  - 创业
+  - 融资
 ---
 
 # The AI Boom Will Create Enormous Roadkill: Who Wins & Loses? | David Frankel

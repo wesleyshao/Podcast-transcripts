@@ -24,6 +24,29 @@ youtube_video_id: "Gnl833wXRz0"
 YouTube发布时间: "2025-10-31"
 播客标题: "All things AI w @altcap @sama & @satyanadella.  A Halloween Special.  🎃🔥BG2 w/ Brad Gerstner"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies:
+  - MSFT
+  - OpenAI
+industries:
+  - 云计算
+technologies:
+  - 编程助手
+  - LLM
+  - Agent
+keywords:
+  - AGI
+  - 生产力
+  - 监管
+tags:
+  - MSFT
+  - OpenAI
+  - 云计算
+  - 编程助手
+  - LLM
+  - Agent
+  - AGI
+  - 生产力
+  - 监管
 ---
 
 # All things AI w @altcap @sama & @satyanadella.  A Halloween Special.  🎃🔥BG2 w/ Brad Gerstner

@@ -31,6 +31,25 @@ YouTube发布时间: 2026-08-19
   - portfolio construction
   - stablecoin
   - DeFi
+companies: []
+industries:
+  - 加密
+  - 宏观
+technologies:
+  - 比特币
+  - 以太坊
+  - 稳定币
+  - DeFi
+keywords:
+  - 利率
+tags:
+  - 加密
+  - 宏观
+  - 比特币
+  - 以太坊
+  - 稳定币
+  - DeFi
+  - 利率
 ---
 
 # 🚨LIVE: Bitcoin UP, Stocks DOWN! The 2026 Winning Portfolio Explained. Harry Gao & Anant Kumar Join

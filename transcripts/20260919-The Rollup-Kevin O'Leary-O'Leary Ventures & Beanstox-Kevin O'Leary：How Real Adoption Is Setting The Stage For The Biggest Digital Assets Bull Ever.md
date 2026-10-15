@@ -42,6 +42,25 @@ YouTube发布时间: 2026-09-19T23:20:06Z
   - Tiffany
   - Shark Tank
   - Marty Supreme
+companies: []
+industries:
+  - 加密
+  - 核能
+  - 数据中心
+technologies:
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 代币化
+keywords: []
+tags:
+  - 加密
+  - 核能
+  - 数据中心
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 代币化
 ---
 
 # Kevin O'Leary：How Real Adoption Is Setting The Stage For The Biggest Digital Assets Bull Ever

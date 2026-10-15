@@ -40,6 +40,25 @@ youtube_video_id: kyyLku5F3bo
   - CUDA kernels
   - Jevons paradox
   - intelligence spaces
+companies:
+  - AMZN
+industries:
+  - 生物技术
+  - 机器人
+  - AI制药
+technologies:
+  - CUDA
+  - LLM
+  - 世界模型
+keywords: []
+tags:
+  - AMZN
+  - 生物技术
+  - 机器人
+  - AI制药
+  - CUDA
+  - LLM
+  - 世界模型
 ---
 
 # When AI Improves Itself：Richard Socher (Recursive)

@@ -17,6 +17,23 @@
   - "AI hardware depreciation"
   - "AI infrastructure"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - Fireworks
+  - META
+industries:
+  - 数据中心
+technologies:
+  - 推理
+  - 编程助手
+keywords:
+  - 开源
+tags:
+  - Fireworks
+  - META
+  - 数据中心
+  - 推理
+  - 编程助手
+  - 开源
 ---
 
 # The Open-Source AI Reality | How Token Costs Will Fall 10X & Usage Will Explode 100X | Lin Qiao

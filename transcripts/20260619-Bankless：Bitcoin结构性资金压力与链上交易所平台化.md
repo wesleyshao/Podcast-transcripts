@@ -24,6 +24,35 @@
   - "BANKLESS SPONSOR"
   - "POLYMARKET"
   - "PREDICTION MARKET"
+companies:
+  - SpaceX
+  - OKX
+  - COIN
+  - Polymarket
+industries:
+  - 加密
+  - 商业航天
+  - 预测市场
+technologies:
+  - 比特币
+  - 可回收火箭
+  - DeFi
+keywords:
+  - IPO
+  - 隐私
+tags:
+  - SpaceX
+  - OKX
+  - COIN
+  - Polymarket
+  - 加密
+  - 商业航天
+  - 预测市场
+  - 比特币
+  - 可回收火箭
+  - DeFi
+  - IPO
+  - 隐私
 ---
 
 # Bitcoin Has a New Problem

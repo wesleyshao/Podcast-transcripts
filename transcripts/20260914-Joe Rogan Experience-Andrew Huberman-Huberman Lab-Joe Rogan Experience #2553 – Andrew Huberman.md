@@ -61,6 +61,17 @@ YouTube发布时间: "2026-09-14T17:00:03Z"
   - "God"
   - "12-step recovery"
 摘要: "Andrew Huberman 与 Joe Rogan 围绕 Huberman 新书、压力和睡眠、精神疾病与成瘾、MDMA 和 ibogaine 辅助治疗、运动和冷暴露、神经可塑性、咖啡因与尼古丁、肽和 GLP-1、AI 医疗、脑机接口、医生与公共知识的关系，以及人工智能和人的自主性展开长谈。节目包含大量个人经历与健康观点，药物、治疗和补充剂内容均为访谈讨论，不构成医疗建议。"
+companies: []
+industries:
+  - 消费
+  - 医疗
+technologies:
+  - 脑机接口
+keywords: []
+tags:
+  - 消费
+  - 医疗
+  - 脑机接口
 ---
 
 ## Transcript

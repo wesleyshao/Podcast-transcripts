@@ -23,6 +23,13 @@ youtube_video_id: "U1FrhkLQnCI"
 YouTube发布时间: "2026-06-16"
 播客标题: "Machiavelli is the most misunderstood thinker of all time – Ada Palmer"
 字幕来源: "YouTube public subtitles: en-orig json3"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 版权
+tags:
+  - 版权
 ---
 
 # Machiavelli is the most misunderstood thinker of all time – Ada Palmer

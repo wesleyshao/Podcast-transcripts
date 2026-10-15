@@ -65,6 +65,41 @@ youtube_video_id: "NGsi2PC4y68"
   - "feed-forward network"
   - "AI regulation"
   - "data center moratorium"
+companies:
+  - Anthropic
+  - Cursor
+  - META
+  - NVDA
+  - OpenAI
+industries:
+  - 商业航天
+  - 数据中心
+  - 存储
+technologies:
+  - GPU
+  - 编程助手
+  - LLM
+  - Blackwell
+keywords:
+  - 开源
+  - 监管
+  - 融资
+tags:
+  - Anthropic
+  - Cursor
+  - META
+  - NVDA
+  - OpenAI
+  - 商业航天
+  - 数据中心
+  - 存储
+  - GPU
+  - 编程助手
+  - LLM
+  - Blackwell
+  - 开源
+  - 监管
+  - 融资
 ---
 
 # The AI Selloff Doesn't Match the Data | Top AI Investor Explains

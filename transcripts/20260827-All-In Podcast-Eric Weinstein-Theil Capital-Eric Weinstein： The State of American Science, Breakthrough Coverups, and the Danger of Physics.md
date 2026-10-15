@@ -32,6 +32,13 @@ YouTube发布时间: 2026-08-27T03:00:52Z
   - UAP
   - 科研资助
   - 同行评审
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 人才
+tags:
+  - 人才
 ---
 
 # Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics

@@ -18,6 +18,19 @@
   - "narrow wedge"
 youtube_video_id: "FVsgX0AdDTo"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - META
+industries:
+  - 机器人
+technologies:
+  - LLM
+  - 世界模型
+keywords: []
+tags:
+  - META
+  - 机器人
+  - LLM
+  - 世界模型
 ---
 
 # What Big Tech Missed And How Startups Can Still Win

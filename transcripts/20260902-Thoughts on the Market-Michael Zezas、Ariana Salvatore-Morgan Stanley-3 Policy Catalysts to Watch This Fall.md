@@ -38,6 +38,27 @@ YouTube发布时间: 2026-09-02T21:11:00Z
   - NDAA
   - 2028年美国总统选举
   - 股市季节性
+companies:
+  - AMZN
+  - Boeing
+  - GOOGL
+industries:
+  - 数据中心
+  - 宏观
+technologies: []
+keywords:
+  - 选举
+  - 资本开支
+  - 债务
+tags:
+  - AMZN
+  - Boeing
+  - GOOGL
+  - 数据中心
+  - 宏观
+  - 选举
+  - 资本开支
+  - 债务
 ---
 
 # 3 Policy Catalysts to Watch This Fall

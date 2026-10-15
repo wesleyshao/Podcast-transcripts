@@ -24,6 +24,17 @@
   - "Aktis Oncology"
   - "Multicoin"
   - "Kyle Samani"
+companies: []
+industries:
+  - 加密
+  - 数据中心
+  - 生物技术
+technologies: []
+keywords: []
+tags:
+  - 加密
+  - 数据中心
+  - 生物技术
 ---
 
 # All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live

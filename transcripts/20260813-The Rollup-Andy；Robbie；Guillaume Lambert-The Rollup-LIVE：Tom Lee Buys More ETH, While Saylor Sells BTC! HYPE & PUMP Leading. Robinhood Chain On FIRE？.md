@@ -59,6 +59,41 @@ youtube_video_id: "x_xN48khIiw"
 YouTube发布时间: "2026-08-13T07:20:52Z"
 字幕来源: "YouTube public subtitles: en-orig"
 转写说明: "源字幕包含大量音乐、片头、广告和直播口头噪音；以下保留全部实质讨论及广告的核心信息，重复音乐标记不逐条复述。"
+companies:
+  - HOOD
+  - Chainlink
+  - Dinari
+  - Hyperliquid
+  - Lighter
+industries:
+  - 加密
+  - 金融
+  - 宏观
+technologies:
+  - Zcash
+  - 以太坊
+  - 比特币
+  - 永续合约
+keywords:
+  - 合规
+  - 监管
+  - 估值
+tags:
+  - HOOD
+  - Chainlink
+  - Dinari
+  - Hyperliquid
+  - Lighter
+  - 加密
+  - 金融
+  - 宏观
+  - Zcash
+  - 以太坊
+  - 比特币
+  - 永续合约
+  - 合规
+  - 监管
+  - 估值
 ---
 
 # 🚨LIVE: Tom Lee Buys More ETH, While Saylor Sells BTC! HYPE & PUMP Leading. Robinhood Chain On FIRE？

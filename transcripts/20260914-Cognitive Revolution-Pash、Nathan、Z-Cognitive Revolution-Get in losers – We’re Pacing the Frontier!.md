@@ -50,6 +50,33 @@ YouTube发布时间: "2026-09-14T16:00:43Z"
   - "public liability"
   - "Antitrust"
 
+companies:
+  - HuggingFace
+  - OpenAI
+  - Anthropic
+industries:
+  - 网络安全
+  - 医疗
+  - 数据中心
+technologies:
+  - LLM
+  - 比特币
+keywords:
+  - 监管
+  - IPO
+  - 选举
+tags:
+  - HuggingFace
+  - OpenAI
+  - Anthropic
+  - 网络安全
+  - 医疗
+  - 数据中心
+  - LLM
+  - 比特币
+  - 监管
+  - IPO
+  - 选举
 ---
 
 ## Transcript

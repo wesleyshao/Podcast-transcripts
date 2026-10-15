@@ -32,6 +32,33 @@
   - 再访田渊栋
   - 46
   - 5亿美金估值的RSI
+companies:
+  - META
+  - Anthropic
+  - GOOGL
+  - OpenAI
+industries: []
+technologies:
+  - LLM
+  - 强化学习
+  - 预训练
+  - Agent
+keywords:
+  - 估值
+  - 超级智能
+  - 融资
+tags:
+  - META
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - LLM
+  - 强化学习
+  - 预训练
+  - Agent
+  - 估值
+  - 超级智能
+  - 融资
 ---
 
 # 再访田渊栋：46.5亿美金估值的RSI，与AI自进化｜Neolabs特辑【101视频播客】

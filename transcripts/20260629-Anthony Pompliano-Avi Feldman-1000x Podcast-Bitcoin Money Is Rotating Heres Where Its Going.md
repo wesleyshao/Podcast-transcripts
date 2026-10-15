@@ -17,6 +17,25 @@ transcript_source: "YouTube captions json3: bJD-Ftig30M.en-orig.json3."
   - financialization
   - trading psychology
   - Avi Feldman
+companies:
+  - SpaceX
+industries:
+  - 加密
+  - 生物技术
+  - 商业航天
+technologies:
+  - 比特币
+  - 可回收火箭
+keywords:
+  - 稀土
+tags:
+  - SpaceX
+  - 加密
+  - 生物技术
+  - 商业航天
+  - 比特币
+  - 可回收火箭
+  - 稀土
 ---
 
 # Bitcoin Money Is Rotating — Here's Where It's Going

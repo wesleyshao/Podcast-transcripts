@@ -32,6 +32,15 @@ YouTube发布时间: "2026-09-09T21:00:12Z"
   - "Evernote"
   - "capital allocation"
   - "comparative advantage"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 人才
+  - 组织管理
+tags:
+  - 人才
+  - 组织管理
 ---
 
 ## Transcript

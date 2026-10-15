@@ -42,6 +42,23 @@ youtube_video_id: "uFt-tkagUUI"
   - "refining"
   - "Utah"
   - "San Juan County"
+companies:
+  - a16z
+  - TSLA
+  - SpaceX
+industries:
+  - 商业航天
+technologies:
+  - 可回收火箭
+keywords:
+  - 垂直整合
+tags:
+  - a16z
+  - TSLA
+  - SpaceX
+  - 商业航天
+  - 可回收火箭
+  - 垂直整合
 ---
 
 # The Future is Metal - Mariana Minerals | a16z American Dynamism

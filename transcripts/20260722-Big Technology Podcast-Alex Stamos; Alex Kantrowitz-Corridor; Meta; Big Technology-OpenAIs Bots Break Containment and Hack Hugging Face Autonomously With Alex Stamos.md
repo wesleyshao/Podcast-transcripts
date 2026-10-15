@@ -17,6 +17,27 @@
   - "security evaluations"
   - "government policy"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - HuggingFace
+  - OpenAI
+  - META
+  - Anthropic
+industries:
+  - 网络安全
+technologies:
+  - LLM
+  - Agent
+  - 开源模型
+keywords: []
+tags:
+  - HuggingFace
+  - OpenAI
+  - META
+  - Anthropic
+  - 网络安全
+  - LLM
+  - Agent
+  - 开源模型
 ---
 
 # OpenAI's Bots Break Containment and Hack Hugging Face Autonomously — With Alex Stamos

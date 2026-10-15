@@ -39,6 +39,25 @@ YouTube发布时间: "2026-09-16T14:30:12Z"
   - "Facebook"
   - "enterprise software"
 核心观点: "Keith Peiris 认为，AI 原生企业软件的核心不是复制传统 CRM 的固定 schema，而是把邮件、通话、会议等碎片化信息组织成可供 agents 推理的 business world model；Lightfield 的产品路径来自 Tome 转向销售工作流，重点是上下文、部署市场、定价和组织文化。"
+companies:
+  - Lightfield
+  - CRM
+  - META
+industries:
+  - 企业软件
+technologies:
+  - 世界模型
+  - Agent
+  - LLM
+keywords: []
+tags:
+  - Lightfield
+  - CRM
+  - META
+  - 企业软件
+  - 世界模型
+  - Agent
+  - LLM
 ---
 
 # Why the Next Generation of Enterprise Software Looks Nothing Like Salesforce

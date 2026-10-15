@@ -18,6 +18,25 @@
   - "DeFi primitives"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Alex Shevchenko: NEAR & ZEC Are Set To Explode (Huge Catalysts Coming)"
+companies:
+  - NEAR
+industries:
+  - 加密
+technologies:
+  - Zcash
+  - DeFi
+keywords:
+  - 隐私
+  - 合规
+  - 监管
+tags:
+  - NEAR
+  - 加密
+  - Zcash
+  - DeFi
+  - 隐私
+  - 合规
+  - 监管
 ---
 
 # Alex Shevchenko: NEAR & ZEC Are Set To Explode (Huge Catalysts Coming)

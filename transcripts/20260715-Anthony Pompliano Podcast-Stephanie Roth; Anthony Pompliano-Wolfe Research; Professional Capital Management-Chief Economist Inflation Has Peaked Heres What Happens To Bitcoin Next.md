@@ -18,6 +18,21 @@
   - "gold debasement trade"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Chief Economist: Inflation Has Peaked — Here's What Happens To Bitcoin Next"
+companies: []
+industries:
+  - 宏观
+  - 加密
+technologies:
+  - 比特币
+keywords:
+  - 通胀
+  - IPO
+tags:
+  - 宏观
+  - 加密
+  - 比特币
+  - 通胀
+  - IPO
 ---
 
 # Chief Economist: Inflation Has Peaked — Here's What Happens To Bitcoin Next

@@ -29,6 +29,17 @@ YouTube发布时间: 2026-10-12
   - LendingClub / Salesforce / Hewlett Packard（嘉宾履历背景）
   - 资本结构 / capital structure
   - M&A
+companies:
+  - CRM
+industries: []
+technologies: []
+keywords:
+  - IPO
+  - 并购
+tags:
+  - CRM
+  - IPO
+  - 并购
 ---
 
 # Building an Investor Mindset: Strategic IPO Prep With Carta CFO Charly Kevers

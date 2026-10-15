@@ -18,6 +18,19 @@
   - "cybersecurity data"
 youtube_video_id: "rlY1mHhJKvs"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - Mercor
+industries:
+  - 机器人
+  - 网络安全
+technologies:
+  - Agent
+keywords: []
+tags:
+  - Mercor
+  - 机器人
+  - 网络安全
+  - Agent
 ---
 
 # Mercor CPO on Revenue Concentration from Frontier Labs

@@ -40,6 +40,31 @@ YouTube发布时间: 2026-08-22
   - stablecoin
   - crypto market
   - onchain finance
+companies:
+  - COIN
+industries:
+  - 宏观
+  - 加密
+  - 支付
+technologies:
+  - Zcash
+  - 比特币
+  - 代币化
+  - 以太坊
+keywords:
+  - 监管
+  - 隐私
+tags:
+  - COIN
+  - 宏观
+  - 加密
+  - 支付
+  - Zcash
+  - 比特币
+  - 代币化
+  - 以太坊
+  - 监管
+  - 隐私
 ---
 
 # 🚨LIVE: Bull Market Day 2! BTC ETFs Weekly Inflow Surge! Bhaji, Misha, Hypermeat, Alec & Ran Join

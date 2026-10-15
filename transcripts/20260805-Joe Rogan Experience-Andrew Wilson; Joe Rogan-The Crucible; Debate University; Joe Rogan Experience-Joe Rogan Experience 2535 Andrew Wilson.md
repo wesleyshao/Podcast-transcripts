@@ -55,6 +55,19 @@ youtube_video_id: "6SxEj1cujQE"
   - "Chronovisor"
   - "Ark of the Covenant"
   - "Holy Fire"
+companies:
+  - Anthropic
+industries:
+  - 医疗
+technologies:
+  - LLM
+keywords:
+  - 监管
+tags:
+  - Anthropic
+  - 医疗
+  - LLM
+  - 监管
 ---
 
 # Joe Rogan Experience #2535 - Andrew Wilson

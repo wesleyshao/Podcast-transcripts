@@ -62,6 +62,39 @@ transcript_source: "Dwarkesh Podcast 官方节目页公开 en VTT 字幕，结�
   - situational awareness
   - whistleblowing
   - AI takeover
+companies:
+  - Redwood
+  - Anthropic
+  - OpenAI
+  - xAI
+  - Cursor
+industries:
+  - 机器人
+  - 商业航天
+  - 半导体
+technologies:
+  - LLM
+  - 编程助手
+  - 后训练
+  - 强化学习
+keywords:
+  - AI安全
+  - AGI
+tags:
+  - Redwood
+  - Anthropic
+  - OpenAI
+  - xAI
+  - Cursor
+  - 机器人
+  - 商业航天
+  - 半导体
+  - LLM
+  - 编程助手
+  - 后训练
+  - 强化学习
+  - AI安全
+  - AGI
 ---
 
 # Ryan Greenblatt – What happens once AI can automate AI research?

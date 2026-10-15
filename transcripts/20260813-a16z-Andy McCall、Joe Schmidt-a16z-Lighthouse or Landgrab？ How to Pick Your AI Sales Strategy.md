@@ -27,6 +27,13 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/aakZLq
   - ACV
   - POC
   - enterprise software
+companies: []
+industries:
+  - 企业软件
+technologies: []
+keywords: []
+tags:
+  - 企业软件
 ---
 
 # Lighthouse or Landgrab? How to Pick Your AI Sales Strategy

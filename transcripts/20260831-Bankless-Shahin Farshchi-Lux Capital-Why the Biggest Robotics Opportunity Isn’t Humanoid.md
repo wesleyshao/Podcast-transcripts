@@ -47,6 +47,25 @@ YouTube发布时间: 2026-08-31T10:45:17Z
   - machine learning
   - Whimo
   - FSD
+companies:
+  - Ford
+  - TSLA
+  - AMZN
+industries:
+  - 机器人
+  - 制造业
+  - 汽车
+technologies:
+  - 具身智能
+keywords: []
+tags:
+  - Ford
+  - TSLA
+  - AMZN
+  - 机器人
+  - 制造业
+  - 汽车
+  - 具身智能
 ---
 
 # Why the Biggest Robotics Opportunity Isn’t Humanoid

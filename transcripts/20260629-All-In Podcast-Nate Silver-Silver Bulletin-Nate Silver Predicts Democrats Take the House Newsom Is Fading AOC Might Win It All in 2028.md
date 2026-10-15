@@ -17,6 +17,15 @@ transcript_source: "YouTube automatic captions, en-orig json3."
   - prediction markets
   - political strategy
   - All-In Podcast
+companies: []
+industries:
+  - 预测市场
+technologies: []
+keywords:
+  - 选举
+tags:
+  - 预测市场
+  - 选举
 ---
 
 # Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028

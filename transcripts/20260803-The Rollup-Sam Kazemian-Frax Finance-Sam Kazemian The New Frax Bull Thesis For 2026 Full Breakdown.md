@@ -57,6 +57,35 @@ YouTube发布时间: "2026-08-03T01:20:55Z"
   - self-custody
   - qualified custodian
   - U.S. Treasury securities
+companies:
+  - Visa
+  - Circle
+  - BLK
+  - Stripe
+  - Tether
+industries:
+  - 加密
+  - 金融
+  - 支付
+technologies:
+  - 稳定币
+  - DeFi
+keywords:
+  - 稳定币法案
+  - 监管
+tags:
+  - Visa
+  - Circle
+  - BLK
+  - Stripe
+  - Tether
+  - 加密
+  - 金融
+  - 支付
+  - 稳定币
+  - DeFi
+  - 稳定币法案
+  - 监管
 ---
 
 # Sam Kazemian: The New Frax Bull Thesis For 2026 (Full Breakdown)

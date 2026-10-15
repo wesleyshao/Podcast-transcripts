@@ -24,6 +24,29 @@ youtube_video_id: "9uZNBzr6XOA"
 YouTube发布时间: "2026-06-01"
 播客标题: "E80｜聊聊Stripe、智能体商务与机器支付的下一场革命"
 字幕来源: "YouTube public subtitles: zh json3"
+companies:
+  - Stripe
+  - OpenAI
+industries:
+  - 支付
+  - 加密
+  - 企业软件
+technologies:
+  - Agent
+  - 稳定币
+  - LLM
+keywords:
+  - 商业模式
+tags:
+  - Stripe
+  - OpenAI
+  - 支付
+  - 加密
+  - 企业软件
+  - Agent
+  - 稳定币
+  - LLM
+  - 商业模式
 ---
 
 # E80｜聊聊Stripe、智能体商务与机器支付的下一场革命

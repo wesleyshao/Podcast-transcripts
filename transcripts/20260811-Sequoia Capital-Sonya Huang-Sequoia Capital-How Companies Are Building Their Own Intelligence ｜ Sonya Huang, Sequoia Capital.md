@@ -45,6 +45,35 @@ youtube_video_id: "bMMv0bZzONg"
   - "NVIDIA"
   - "Kimi K3"
   - "GLM 5.2"
+companies:
+  - Sequoia
+  - Glean
+  - Anthropic
+  - NVDA
+  - OpenAI
+industries:
+  - 半导体
+technologies:
+  - GPU
+  - LLM
+  - 后训练
+  - 开源模型
+keywords:
+  - 主权
+  - AGI
+tags:
+  - Sequoia
+  - Glean
+  - Anthropic
+  - NVDA
+  - OpenAI
+  - 半导体
+  - GPU
+  - LLM
+  - 后训练
+  - 开源模型
+  - 主权
+  - AGI
 ---
 
 # How Companies Are Building Their Own Intelligence | Sonya Huang, Sequoia Capital

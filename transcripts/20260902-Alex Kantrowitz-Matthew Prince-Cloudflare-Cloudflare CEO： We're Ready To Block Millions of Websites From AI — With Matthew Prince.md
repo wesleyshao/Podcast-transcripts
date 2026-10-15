@@ -61,6 +61,33 @@ YouTube发布时间: 2026-09-02T16:30:06Z
   - agentic commerce
   - Cloudflare Workers
   - small businesses
+companies:
+  - NET
+  - GOOGL
+  - Anthropic
+  - OpenAI
+  - AXP
+industries:
+  - 支付
+  - 媒体
+  - 消费
+technologies:
+  - Agent
+  - LLM
+keywords:
+  - 商业模式
+tags:
+  - NET
+  - GOOGL
+  - Anthropic
+  - OpenAI
+  - AXP
+  - 支付
+  - 媒体
+  - 消费
+  - Agent
+  - LLM
+  - 商业模式
 ---
 
 # Cloudflare CEO: We're Ready To Block Millions of Websites From AI — With Matthew Prince

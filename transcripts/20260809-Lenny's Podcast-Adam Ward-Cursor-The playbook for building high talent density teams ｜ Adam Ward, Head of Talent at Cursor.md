@@ -43,6 +43,31 @@ youtube_video_id: "zegYJ6dhIg4"
 文字稿来源: "YouTube public subtitles: en-orig；完整源文本位于 caption_cache/zegYJ6dhIg4.en-orig.source.txt；官方 Podcast RSS 标题匹配，但未提供可直接采用的完整公开 transcript 链接。"
 YouTube发布时间: "2026-08-09T12:30:32Z"
 字幕来源: "YouTube public subtitles: en-orig"
+companies:
+  - Cursor
+  - Anthropic
+  - META
+  - SpaceX
+  - PINS
+industries:
+  - 商业航天
+technologies:
+  - 编程助手
+  - LLM
+  - 可回收火箭
+keywords:
+  - 人才
+tags:
+  - Cursor
+  - Anthropic
+  - META
+  - SpaceX
+  - PINS
+  - 商业航天
+  - 编程助手
+  - LLM
+  - 可回收火箭
+  - 人才
 ---
 
 # The playbook for building high talent density teams ｜ Adam Ward, Head of Talent at Cursor

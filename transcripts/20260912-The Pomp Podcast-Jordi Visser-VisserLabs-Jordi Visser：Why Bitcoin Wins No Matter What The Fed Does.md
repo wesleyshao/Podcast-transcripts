@@ -38,6 +38,39 @@ youtube_video_id: Uzc3tBB9pLg
   - H100
   - SpaceX
   - Galvanic
+companies:
+  - HOOD
+  - Anthropic
+  - OpenAI
+  - SpaceX
+industries:
+  - 加密
+  - 宏观
+  - 商业航天
+technologies:
+  - 比特币
+  - Agent
+  - 以太坊
+  - LLM
+keywords:
+  - 选举
+  - 利率
+  - 稳定币法案
+tags:
+  - HOOD
+  - Anthropic
+  - OpenAI
+  - SpaceX
+  - 加密
+  - 宏观
+  - 商业航天
+  - 比特币
+  - Agent
+  - 以太坊
+  - LLM
+  - 选举
+  - 利率
+  - 稳定币法案
 ---
 
 # Why Bitcoin Wins No Matter What The Fed Does

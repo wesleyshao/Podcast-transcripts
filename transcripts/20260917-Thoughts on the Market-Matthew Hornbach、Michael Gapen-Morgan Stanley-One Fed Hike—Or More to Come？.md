@@ -31,6 +31,17 @@ youtube_video_id: ForpRtebonY
   - AI investment
   - monetary policy
 核心观点: Matthew Hornbach 与 Michael Gapen 认为，9 月 25 个基点加息符合预期，但委员会可能还在考虑后续一到两次动作。两人讨论了关税、能源和 AI 投资带来的供给侧与需求侧通胀，以及更高利率对利率敏感型经济部门、消费和国债收益率的影响；节目提供宏观框架，没有形成具体上市公司投资建议。
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 利率
+  - 通胀
+tags:
+  - 宏观
+  - 利率
+  - 通胀
 ---
 
 # One Fed Hike—Or More to Come?

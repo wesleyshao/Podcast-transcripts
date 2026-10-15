@@ -31,6 +31,33 @@ YouTube发布时间: 2026-08-21
   - tokenized stocks
   - Compound
   - USDC
+companies:
+  - Circle
+industries:
+  - 加密
+  - 金融
+  - 宏观
+technologies:
+  - 比特币
+  - DeFi
+  - 稳定币
+  - MCP
+keywords:
+  - 监管
+  - 债务
+  - 黄金
+tags:
+  - Circle
+  - 加密
+  - 金融
+  - 宏观
+  - 比特币
+  - DeFi
+  - 稳定币
+  - MCP
+  - 监管
+  - 债务
+  - 黄金
 ---
 
 # Why Crypto Just Exploded

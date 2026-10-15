@@ -16,6 +16,15 @@
   - "Joe Rogan Experience"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Joe Rogan Experience #2527 - Mr Beast"
+companies:
+  - MrBeast
+industries: []
+technologies: []
+keywords:
+  - 综合格斗
+tags:
+  - MrBeast
+  - 综合格斗
 ---
 
 # Joe Rogan Experience #2527 - Mr Beast

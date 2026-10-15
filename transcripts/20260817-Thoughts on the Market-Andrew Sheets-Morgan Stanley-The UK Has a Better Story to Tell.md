@@ -35,6 +35,15 @@ youtube_video_id: 0tRZVICkE5c
   - Japan government bonds
   - UK government bonds
   - global energy prices
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 债务
+tags:
+  - 宏观
+  - 债务
 ---
 
 # The UK Has a Better Story to Tell

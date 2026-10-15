@@ -24,6 +24,15 @@ youtube_video_id: "EvnLN8WETlM"
 YouTube发布时间: 2026-07-28
 播客标题: "Joe Rogan Experience #2531 - Forrest Galante"
 字幕来源: "YouTube public en-orig auto captions"
+companies:
+  - META
+  - AMZN
+industries: []
+technologies: []
+keywords: []
+tags:
+  - META
+  - AMZN
 ---
 
 # Joe Rogan Experience #2531 - Forrest Galante

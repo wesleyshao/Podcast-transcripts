@@ -50,6 +50,27 @@ YouTube发布时间: "2026-08-24T10:30:05Z"
   - "Michael Saylor"
   - "Bitcoin"
   - "Bankless MCP"
+companies:
+  - BitMine
+  - MSTR
+industries:
+  - 加密
+  - 宏观
+technologies:
+  - 以太坊
+  - 比特币
+  - 代币化
+  - 稳定币
+keywords: []
+tags:
+  - BitMine
+  - MSTR
+  - 加密
+  - 宏观
+  - 以太坊
+  - 比特币
+  - 代币化
+  - 稳定币
 ---
 
 # BitMine Is About to Own 5% of ETH | Tom Lee

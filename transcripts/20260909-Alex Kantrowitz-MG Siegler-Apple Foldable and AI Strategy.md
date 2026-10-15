@@ -36,6 +36,33 @@ YouTube发布时间: "2026-09-09T14:30:06Z"
   - "Google Cloud"
   - "TPU"
   - "Azure"
+companies:
+  - AAPL
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - MSFT
+industries:
+  - 云计算
+  - 消费
+technologies:
+  - TPU
+  - LLM
+keywords:
+  - AGI
+  - IPO
+tags:
+  - AAPL
+  - Anthropic
+  - GOOGL
+  - OpenAI
+  - MSFT
+  - 云计算
+  - 消费
+  - TPU
+  - LLM
+  - AGI
+  - IPO
 ---
 
 ## Transcript

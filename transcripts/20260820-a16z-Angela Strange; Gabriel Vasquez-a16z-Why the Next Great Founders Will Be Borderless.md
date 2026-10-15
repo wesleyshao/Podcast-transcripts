@@ -35,6 +35,17 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/0t3TpJ
   - talent networks
   - design partner
   - global startup ecosystem
+companies:
+  - Cognition
+industries: []
+technologies: []
+keywords:
+  - 创业
+  - 人才
+tags:
+  - Cognition
+  - 创业
+  - 人才
 ---
 
 # Why the Next Great Founders Will Be Borderless

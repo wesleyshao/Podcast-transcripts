@@ -27,6 +27,25 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/nGbE3C
   - DeFi
   - Ethereum
   - digital assets
+companies:
+  - Morpho
+  - Hyperliquid
+  - Lighter
+industries:
+  - 加密
+technologies:
+  - 以太坊
+  - DeFi
+keywords:
+  - 代币经济
+tags:
+  - Morpho
+  - Hyperliquid
+  - Lighter
+  - 加密
+  - 以太坊
+  - DeFi
+  - 代币经济
 ---
 
 # Andy & Robbie: Do Token Buybacks Actually Work? (Full Data-Backed Breakdown)

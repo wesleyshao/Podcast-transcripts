@@ -42,6 +42,33 @@ YouTube发布时间: "2026-09-07T00:15:07Z"
   - "oil and metals perpetuals"
   - "HYPE token"
 
+companies:
+  - Hyperliquid
+  - Circle
+industries:
+  - 加密
+  - 宏观
+technologies:
+  - 区块链
+  - 稳定币
+  - DeFi
+  - 永续合约
+keywords:
+  - 合规
+  - 监管
+  - 稳定币法案
+tags:
+  - Hyperliquid
+  - Circle
+  - 加密
+  - 宏观
+  - 区块链
+  - 稳定币
+  - DeFi
+  - 永续合约
+  - 合规
+  - 监管
+  - 稳定币法案
 ---
 
 ## Transcript

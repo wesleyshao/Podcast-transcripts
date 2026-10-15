@@ -17,6 +17,25 @@
   - "custom silicon"
   - "AI infrastructure"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies:
+  - OpenAI
+industries:
+  - 数据中心
+  - 电力
+technologies:
+  - LLM
+  - 推理
+  - 液冷
+keywords:
+  - 电网
+tags:
+  - OpenAI
+  - 数据中心
+  - 电力
+  - LLM
+  - 推理
+  - 液冷
+  - 电网
 ---
 
 # OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti

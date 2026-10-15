@@ -45,6 +45,23 @@ youtube_video_id: "54pwkcp48Lg"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按上下文转写；对自动字幕中的同音词和产品名结合节目说明校正，保留完整技术论证、限定条件与反例。"
+companies:
+  - OpenAI
+  - Anthropic
+industries: []
+technologies:
+  - Agent
+  - LLM
+  - 强化学习
+  - 推理
+keywords: []
+tags:
+  - OpenAI
+  - Anthropic
+  - Agent
+  - LLM
+  - 强化学习
+  - 推理
 ---
 
 # How to Build Autonomous, Long-Horizon AI Agents | Basis

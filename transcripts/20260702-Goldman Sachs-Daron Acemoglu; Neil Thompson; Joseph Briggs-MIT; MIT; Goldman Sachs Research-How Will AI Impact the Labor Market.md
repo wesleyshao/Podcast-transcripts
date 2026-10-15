@@ -21,6 +21,15 @@
   - "wages"
   - "task automation"
   - "employment displacement"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 就业
+  - 生产力
+tags:
+  - 就业
+  - 生产力
 ---
 
 # How Will AI Impact the Labor Market?

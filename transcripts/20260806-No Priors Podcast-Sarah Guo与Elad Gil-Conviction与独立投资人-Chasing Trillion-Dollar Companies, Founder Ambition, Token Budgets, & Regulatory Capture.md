@@ -42,6 +42,35 @@ youtube_video_id: "6l8oAO_LBx4"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按上下文转写；保留估值、收入规模、时间窗口与算力配置等定量信息，未把节目说明当作公开全文。"
+companies:
+  - Anthropic
+  - OpenAI
+  - SpaceX
+  - Cognition
+  - Cursor
+industries:
+  - 商业航天
+  - 数据中心
+technologies:
+  - LLM
+  - 可回收火箭
+  - 编程助手
+  - Transformer
+keywords:
+  - 融资
+tags:
+  - Anthropic
+  - OpenAI
+  - SpaceX
+  - Cognition
+  - Cursor
+  - 商业航天
+  - 数据中心
+  - LLM
+  - 可回收火箭
+  - 编程助手
+  - Transformer
+  - 融资
 ---
 
 # Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, & Regulatory Capture

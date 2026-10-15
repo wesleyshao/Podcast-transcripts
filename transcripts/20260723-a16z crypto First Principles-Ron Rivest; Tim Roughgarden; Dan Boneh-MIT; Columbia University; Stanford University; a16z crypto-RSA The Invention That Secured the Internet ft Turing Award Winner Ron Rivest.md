@@ -19,6 +19,19 @@
   - "quantum computing"
   - "blockchains"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - ORCL
+industries:
+  - 加密
+technologies:
+  - 量子计算
+  - 区块链
+keywords: []
+tags:
+  - ORCL
+  - 加密
+  - 量子计算
+  - 区块链
 ---
 
 # RSA: The Invention That Secured the Internet (ft. Turing Award Winner Ron Rivest)

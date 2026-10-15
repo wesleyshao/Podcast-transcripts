@@ -39,6 +39,37 @@ YouTube发布时间: 2026-08-27T07:35:03Z
   - Zcash
   - AI agents
   - tokenized equities
+companies:
+  - Chainlink
+  - Hyperliquid
+  - NEAR
+industries:
+  - 加密
+  - 宏观
+  - 消费
+technologies:
+  - Solana
+  - 代币化
+  - 稳定币
+  - DeFi
+keywords:
+  - 债务
+  - 监管
+  - 合规
+tags:
+  - Chainlink
+  - Hyperliquid
+  - NEAR
+  - 加密
+  - 宏观
+  - 消费
+  - Solana
+  - 代币化
+  - 稳定币
+  - DeFi
+  - 债务
+  - 监管
+  - 合规
 ---
 
 # 🚨LIVE: Market's Ready For Higher! NVDA Earnings Today! Pedro Miranda, R. Leshner & Ethan Buchman

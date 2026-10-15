@@ -45,6 +45,39 @@ YouTube发布时间: 2026-08-26T07:45:48Z
   - stablecoin
   - Ethereum
   - DeFi
+companies:
+  - COIN
+  - AAPL
+  - NVDA
+  - Chainlink
+industries:
+  - 宏观
+  - 加密
+  - 半导体
+technologies:
+  - 编程助手
+  - Zcash
+  - 比特币
+  - 稳定币
+keywords:
+  - 债务
+  - 隐私
+  - 监管
+tags:
+  - COIN
+  - AAPL
+  - NVDA
+  - Chainlink
+  - 宏观
+  - 加密
+  - 半导体
+  - 编程助手
+  - Zcash
+  - 比特币
+  - 稳定币
+  - 债务
+  - 隐私
+  - 监管
 ---
 
 # 🚨LIVE: Bull Market Continues! ZEC ETF Today?! Grayscale's Zach Pandl, Alex Cutler & Haonan Li Join

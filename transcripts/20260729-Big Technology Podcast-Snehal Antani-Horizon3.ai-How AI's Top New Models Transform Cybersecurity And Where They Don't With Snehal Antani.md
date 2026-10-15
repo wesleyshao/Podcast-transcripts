@@ -41,6 +41,25 @@ youtube_video_id: "td7mqrD7J0A"
   - "training data"
   - "Project Maven"
   - "Palo Alto Networks"
+companies:
+  - AMZN
+  - OpenAI
+  - MSFT
+  - PANW
+industries:
+  - 网络安全
+  - 云计算
+technologies:
+  - LLM
+keywords: []
+tags:
+  - AMZN
+  - OpenAI
+  - MSFT
+  - PANW
+  - 网络安全
+  - 云计算
+  - LLM
 ---
 
 # How AI's Top New Models Transform Cybersecurity (And Where They Don't) — With Snehal Antani

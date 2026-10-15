@@ -32,6 +32,25 @@
   - and
   - Continual
   - Learning
+companies:
+  - MSFT
+  - OpenAI
+industries: []
+technologies:
+  - RAG
+  - LLM
+  - Agent
+  - 推理
+keywords:
+  - AGI
+tags:
+  - MSFT
+  - OpenAI
+  - RAG
+  - LLM
+  - Agent
+  - 推理
+  - AGI
 ---
 
 # Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin

@@ -24,6 +24,31 @@
   - "Intro"
   - "Fear"
   - "Losing"
+companies:
+  - Anthropic
+  - OpenAI
+  - CRM
+industries:
+  - 物流
+  - 企业软件
+  - 加密
+technologies:
+  - LLM
+  - 比特币
+  - Agent
+keywords:
+  - 开源
+tags:
+  - Anthropic
+  - OpenAI
+  - CRM
+  - 物流
+  - 企业软件
+  - 加密
+  - LLM
+  - 比特币
+  - Agent
+  - 开源
 ---
 
 # Flexport CEO: Why Revenge and Patriotism are the Best Founder Traits

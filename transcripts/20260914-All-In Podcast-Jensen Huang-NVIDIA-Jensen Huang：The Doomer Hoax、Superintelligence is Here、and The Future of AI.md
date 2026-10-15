@@ -39,6 +39,25 @@ YouTube发布时间: "2026-09-14T21:36:44Z"
   - "GPU"
   - "Terafab"
 
+companies:
+  - NVDA
+  - HuggingFace
+industries:
+  - 半导体
+technologies:
+  - GPU
+keywords:
+  - 超级智能
+  - AI安全
+  - 开源
+tags:
+  - NVDA
+  - HuggingFace
+  - 半导体
+  - GPU
+  - 超级智能
+  - AI安全
+  - 开源
 ---
 
 ## Transcript

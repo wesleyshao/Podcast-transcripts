@@ -42,6 +42,31 @@ YouTube发布时间: 2026-09-11
   - San Francisco
   - Genius Act
   - Market structure
+companies:
+  - COIN
+industries:
+  - 加密
+  - 支付
+technologies:
+  - 区块链
+  - 比特币
+  - 稳定币
+  - LLM
+keywords:
+  - 人才
+  - 创业
+  - 合规
+tags:
+  - COIN
+  - 加密
+  - 支付
+  - 区块链
+  - 比特币
+  - 稳定币
+  - LLM
+  - 人才
+  - 创业
+  - 合规
 ---
 # Chris Dixon on How the Future Gets Funded
 ## Transcript

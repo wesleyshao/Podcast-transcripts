@@ -51,6 +51,35 @@ YouTube发布时间: "2026-07-31T14:30:14Z"
   - Sierra
   - CRM
   - token economics
+companies:
+  - Anthropic
+  - OpenAI
+  - CRM
+  - 月之暗面
+industries:
+  - 企业软件
+technologies:
+  - 开源模型
+  - Agent
+  - LLM
+  - 推理
+keywords:
+  - 开源
+  - 代币经济
+  - 人才
+tags:
+  - Anthropic
+  - OpenAI
+  - CRM
+  - 月之暗面
+  - 企业软件
+  - 开源模型
+  - Agent
+  - LLM
+  - 推理
+  - 开源
+  - 代币经济
+  - 人才
 ---
 
 # Decagon’s Playbook for Building Enterprise AI Applications

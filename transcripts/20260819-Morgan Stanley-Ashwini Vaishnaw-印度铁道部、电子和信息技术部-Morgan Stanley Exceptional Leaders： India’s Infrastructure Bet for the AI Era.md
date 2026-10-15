@@ -29,6 +29,23 @@ YouTube发布时间: 2026-08-19T14:47:34Z
   - Synopsys
   - Cadence
   - Viksit Bharat
+companies:
+  - MS
+  - CDNS
+  - SNPS
+industries:
+  - 电信
+  - 半导体
+  - 制造业
+technologies: []
+keywords: []
+tags:
+  - MS
+  - CDNS
+  - SNPS
+  - 电信
+  - 半导体
+  - 制造业
 ---
 
 # Morgan Stanley Exceptional Leaders: India’s Infrastructure Bet for the AI Era

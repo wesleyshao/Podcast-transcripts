@@ -33,6 +33,35 @@ youtube_video_id: uLDK4l_-gUE
   - epigenetic reprogramming
   - AI biology
   - human evolution
+companies:
+  - COIN
+  - NewLimit
+industries:
+  - 加密
+  - 预测市场
+  - 生物技术
+technologies:
+  - Agent
+  - 代币化
+  - 稳定币
+  - 细胞重编程
+keywords:
+  - 抗衰老
+  - 监管
+  - 合规
+tags:
+  - COIN
+  - NewLimit
+  - 加密
+  - 预测市场
+  - 生物技术
+  - Agent
+  - 代币化
+  - 稳定币
+  - 细胞重编程
+  - 抗衰老
+  - 监管
+  - 合规
 ---
 
 # Coinbase 的 Everything Exchange、Agentic Finance 与 New Limit

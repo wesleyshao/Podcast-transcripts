@@ -95,6 +95,41 @@ YouTube发布时间: 2026-08-29T01:37:17Z
   - 姓名: David Friedberg
     公司或机构: All-In Podcast
     职务: 联合主持人
+companies:
+  - NVDA
+  - CRM
+  - Moderna
+  - Anthropic
+  - META
+industries:
+  - 企业软件
+  - 宏观
+  - 机器人
+technologies:
+  - mRNA
+  - 开源模型
+  - GPU
+  - LLM
+keywords:
+  - 利率
+  - 开源
+  - 融资
+tags:
+  - NVDA
+  - CRM
+  - Moderna
+  - Anthropic
+  - META
+  - 企业软件
+  - 宏观
+  - 机器人
+  - mRNA
+  - 开源模型
+  - GPU
+  - LLM
+  - 利率
+  - 开源
+  - 融资
 ---
 
 ## 参与嘉宾

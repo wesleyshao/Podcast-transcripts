@@ -21,6 +21,27 @@ transcript_source: "YouTube automatic captions, en-orig json3."
   - export controls
   - China
   - open letter
+companies:
+  - AMZN
+  - Anthropic
+  - OpenAI
+  - 月之暗面
+industries:
+  - 网络安全
+  - 云计算
+technologies:
+  - LLM
+keywords:
+  - 出口管制
+tags:
+  - AMZN
+  - Anthropic
+  - OpenAI
+  - 月之暗面
+  - 网络安全
+  - 云计算
+  - LLM
+  - 出口管制
 ---
 
 # AI’s True Cyber Risk: Fable, Mythos, China, and The Rest — With Alex Stamos

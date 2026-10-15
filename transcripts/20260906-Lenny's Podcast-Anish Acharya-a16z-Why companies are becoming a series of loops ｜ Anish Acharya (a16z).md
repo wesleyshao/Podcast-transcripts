@@ -45,6 +45,33 @@ YouTube发布时间: "2026-09-06T12:30:36Z"
   - "Lovable"
   - "Replit"
   - "Pareto efficiency"
+companies:
+  - a16z
+  - Anthropic
+  - Replit
+  - Cursor
+  - MiniMax
+industries: []
+technologies:
+  - 编程助手
+  - 开源模型
+  - LLM
+  - Agent
+keywords:
+  - 竞争格局
+  - 创业
+tags:
+  - a16z
+  - Anthropic
+  - Replit
+  - Cursor
+  - MiniMax
+  - 编程助手
+  - 开源模型
+  - LLM
+  - Agent
+  - 竞争格局
+  - 创业
 ---
 
 ## Transcript

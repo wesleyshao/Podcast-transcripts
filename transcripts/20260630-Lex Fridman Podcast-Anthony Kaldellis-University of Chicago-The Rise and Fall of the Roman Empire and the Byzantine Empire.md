@@ -16,6 +16,13 @@
   - history
   - Lex Fridman
   - political institutions
+companies: []
+industries: []
+technologies:
+  - 分布式系统
+keywords: []
+tags:
+  - 分布式系统
 ---
 
 # The Rise and Fall of the Roman Empire and the Byzantine Empire

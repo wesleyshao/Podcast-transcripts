@@ -19,6 +19,13 @@ YouTube发布时间: "2026-07-08"
   - "public policy"
   - "political reform"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 选举
+tags:
+  - 选举
 ---
 
 # Joe Rogan Experience #2524 - Rupert Lowe

@@ -42,6 +42,39 @@ YouTube发布时间: 2026-09-10
   - Autonomous weapons
   - Joint compute
   - Confidential computing
+companies:
+  - Anthropic
+  - 华为
+  - DeepSeek
+  - META
+  - MiniMax
+industries:
+  - 国防
+  - 数据中心
+  - 机器人
+technologies:
+  - LLM
+  - GPU
+  - 开源模型
+keywords:
+  - 中美竞争
+  - 出口管制
+  - 人才
+tags:
+  - Anthropic
+  - 华为
+  - DeepSeek
+  - META
+  - MiniMax
+  - 国防
+  - 数据中心
+  - 机器人
+  - LLM
+  - GPU
+  - 开源模型
+  - 中美竞争
+  - 出口管制
+  - 人才
 ---
 # Nathan Goes to China #3：US-China Relations、the Art of the AI Deal & the Road to Pax Robotica
 

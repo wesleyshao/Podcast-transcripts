@@ -71,6 +71,25 @@ youtube_video_id: myDCd0hNqQU
   - General Instinct
   - DreamZero
   - Jetson Thor
+companies:
+  - Waymo
+industries:
+  - 机器人
+  - 汽车
+technologies:
+  - Transformer
+  - 推理
+  - 具身智能
+  - 扩散模型
+keywords: []
+tags:
+  - Waymo
+  - 机器人
+  - 汽车
+  - Transformer
+  - 推理
+  - 具身智能
+  - 扩散模型
 ---
 
 # Why Robotics Still Isn't Solved - But Could Be Soon | YC Paper Club

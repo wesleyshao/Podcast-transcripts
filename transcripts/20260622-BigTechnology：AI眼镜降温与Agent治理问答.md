@@ -24,6 +24,17 @@
   - "China"
   - "Enjoying Big Technology"
   - "Please"
+companies:
+  - SNAP
+  - AAPL
+industries: []
+technologies:
+  - Agent
+keywords: []
+tags:
+  - SNAP
+  - AAPL
+  - Agent
 ---
 
 # Are AI Glasses Over? + Big Technology AI Summit Audience Questions

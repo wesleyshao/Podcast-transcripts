@@ -25,6 +25,17 @@ youtube_video_id: 8IBSv-GZo0o
   - Federal Reserve
   - oil price
   - pricing power
+companies: []
+industries:
+  - 宏观
+  - 能源
+technologies: []
+keywords:
+  - 定价权
+tags:
+  - 宏观
+  - 能源
+  - 定价权
 ---
 
 # A More Selective Stock Market

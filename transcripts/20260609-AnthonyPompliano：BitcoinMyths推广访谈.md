@@ -32,6 +32,19 @@
   - The
   - Biggest
   - Myths
+companies:
+  - META
+industries:
+  - 加密
+technologies:
+  - 比特币
+keywords:
+  - IPO
+tags:
+  - META
+  - 加密
+  - 比特币
+  - IPO
 ---
 
 # The Biggest Bitcoin Myths — And Why They're Dead Wrong

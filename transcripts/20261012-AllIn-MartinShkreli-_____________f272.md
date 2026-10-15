@@ -47,6 +47,37 @@ YouTube发布时间: 2026-10-12
   - Jensen Huang
   - Coreweave（字幕作 core automation；友人离开 OpenAI 所创）
   - Wu-Tang Clan 专辑
+companies:
+  - OpenAI
+  - NVDA
+  - META
+  - Anthropic
+  - IBM
+industries:
+  - 制药
+  - 金融
+  - 半导体
+technologies:
+  - 量子计算
+  - GPU
+  - LLM
+keywords:
+  - 创业
+  - 超级智能
+tags:
+  - OpenAI
+  - NVDA
+  - META
+  - Anthropic
+  - IBM
+  - 制药
+  - 金融
+  - 半导体
+  - 量子计算
+  - GPU
+  - LLM
+  - 创业
+  - 超级智能
 ---
 
 # Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him

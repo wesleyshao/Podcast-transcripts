@@ -29,6 +29,13 @@ YouTube发布时间: 2026-09-03T16:32:13Z
   - Munich Security Conference
   - Woke One
   - Progressive candidates
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 选举
+tags:
+  - 选举
 ---
 
 # AOC’s 2028 decision could reshape the Democratic Party

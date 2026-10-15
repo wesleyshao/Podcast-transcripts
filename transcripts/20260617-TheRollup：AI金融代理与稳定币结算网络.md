@@ -32,6 +32,29 @@
   - Sam
   - Boboev
   - Will
+companies:
+  - Mastercard
+  - Visa
+  - OpenAI
+industries:
+  - 加密
+  - 支付
+technologies:
+  - Agent
+  - 稳定币
+  - LLM
+  - 区块链
+keywords: []
+tags:
+  - Mastercard
+  - Visa
+  - OpenAI
+  - 加密
+  - 支付
+  - Agent
+  - 稳定币
+  - LLM
+  - 区块链
 ---
 
 # Sam Boboev: AI Will Eat Fintech In 2026 (How To Position)

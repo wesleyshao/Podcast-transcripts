@@ -39,6 +39,39 @@ YouTube发布时间: "2026-09-04T10:30:01Z"
   - "Clarity Act"
   - "GPT-6 Astra"
   - "AI safety"
+companies:
+  - HOOD
+  - Dragonfly
+  - Tether
+  - OpenAI
+industries:
+  - 加密
+  - 金融
+  - 宏观
+technologies:
+  - Solana
+  - 以太坊
+  - 比特币
+  - 稳定币
+keywords:
+  - 合规
+  - 稳定币法案
+  - 债务
+tags:
+  - HOOD
+  - Dragonfly
+  - Tether
+  - OpenAI
+  - 加密
+  - 金融
+  - 宏观
+  - Solana
+  - 以太坊
+  - 比特币
+  - 稳定币
+  - 合规
+  - 稳定币法案
+  - 债务
 ---
 
 ## 目录

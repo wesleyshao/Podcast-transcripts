@@ -31,6 +31,23 @@ YouTube发布时间: 2026-09-21T14:17:32Z
   - 供应链多元化
   - 去风险
   - 美伊冲突
+companies: []
+industries:
+  - 矿业
+  - 半导体
+  - 数据中心
+technologies: []
+keywords:
+  - 选举
+  - 稀土
+  - 主权
+tags:
+  - 矿业
+  - 半导体
+  - 数据中心
+  - 选举
+  - 稀土
+  - 主权
 ---
 
 # Trump-Xi Talks Put Trade and Tech in Focus

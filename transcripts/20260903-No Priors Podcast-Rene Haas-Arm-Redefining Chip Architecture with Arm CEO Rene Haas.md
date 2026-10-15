@@ -66,6 +66,39 @@ YouTube发布时间: 2026-09-03T10:00:26Z
   - energy efficiency
   - edge computing
 
+companies:
+  - NVDA
+  - 三星
+  - GOOGL
+  - META
+  - MSFT
+industries:
+  - 数据中心
+  - 机器人
+  - 半导体
+technologies:
+  - GPU
+  - 具身智能
+  - LLM
+  - Transformer
+keywords:
+  - 出口管制
+  - AGI
+tags:
+  - NVDA
+  - 三星
+  - GOOGL
+  - META
+  - MSFT
+  - 数据中心
+  - 机器人
+  - 半导体
+  - GPU
+  - 具身智能
+  - LLM
+  - Transformer
+  - 出口管制
+  - AGI
 ---
 
 # Redefining Chip Architecture with Arm CEO Rene Haas

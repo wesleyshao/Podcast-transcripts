@@ -51,6 +51,29 @@ youtube_video_id: "tB9g74f0vbs"
   - "Complexity Science Hub Vienna"
   - "Austrian Economics"
   - "42 Macro"
+companies:
+  - NVDA
+  - PLTR
+industries:
+  - 宏观
+  - 半导体
+  - 加密
+technologies:
+  - GPU
+keywords:
+  - 债务
+  - 通胀
+  - 利率
+tags:
+  - NVDA
+  - PLTR
+  - 宏观
+  - 半导体
+  - 加密
+  - GPU
+  - 债务
+  - 通胀
+  - 利率
 ---
 
 # The Fed's Latest Move Just Changed Everything

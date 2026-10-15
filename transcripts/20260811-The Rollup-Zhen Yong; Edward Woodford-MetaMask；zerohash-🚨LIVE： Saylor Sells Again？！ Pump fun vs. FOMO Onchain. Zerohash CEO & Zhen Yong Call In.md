@@ -47,6 +47,39 @@ YouTube发布时间: "2026-08-11T07:11:07Z"
 文字稿来源: "YouTube public subtitles: en-orig；完整源文本位于 caption_cache/gpMGT6UN9pI.en-orig.source.txt；未采用不满足标题匹配阈值的其他节目页。"
 官方文字稿来源: "未采用其他节目官方文字稿链接。"
 来源说明: "正文依据 YouTube en-orig 原始字幕完整转写，保留节目中的事实、观点、广告口播和不确定性；广告与口头重复按语义整理。"
+companies:
+  - Pumpfun
+  - NET
+  - Visa
+  - Anthropic
+  - Dinari
+industries:
+  - 加密
+  - 支付
+  - 金融
+technologies:
+  - 比特币
+  - 稳定币
+  - Agent
+  - LLM
+keywords:
+  - 合规
+  - 监管
+tags:
+  - Pumpfun
+  - NET
+  - Visa
+  - Anthropic
+  - Dinari
+  - 加密
+  - 支付
+  - 金融
+  - 比特币
+  - 稳定币
+  - Agent
+  - LLM
+  - 合规
+  - 监管
 ---
 
 ## 参与嘉宾

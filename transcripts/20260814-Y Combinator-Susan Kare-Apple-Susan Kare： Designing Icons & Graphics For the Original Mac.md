@@ -24,6 +24,13 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/YEvLKz
   - Paul Rand
   - Steve Jobs
   - iconography
+companies:
+  - AAPL
+industries: []
+technologies: []
+keywords: []
+tags:
+  - AAPL
 ---
 
 # Susan Kare: Designing Icons & Graphics For the Original Mac

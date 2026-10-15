@@ -23,6 +23,15 @@
   - Lex
   - Fridman
   - Podcast
+companies:
+  - AAPL
+industries:
+  - 电力
+technologies: []
+keywords: []
+tags:
+  - AAPL
+  - 电力
 ---
 
 # Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497

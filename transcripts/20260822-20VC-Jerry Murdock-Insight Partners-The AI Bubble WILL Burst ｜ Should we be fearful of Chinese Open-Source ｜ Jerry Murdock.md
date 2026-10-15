@@ -21,6 +21,23 @@ YouTube发布时间: 2026-08-22T14:00:40Z
   - OpenRouter
   - 私募股权
   - 云基础设施
+companies:
+  - OpenRouter
+industries:
+  - 金融
+  - 网络安全
+technologies:
+  - 开源模型
+keywords:
+  - 开源
+  - 泡沫
+tags:
+  - OpenRouter
+  - 金融
+  - 网络安全
+  - 开源模型
+  - 开源
+  - 泡沫
 ---
 
 # The AI Bubble WILL Burst | Should we be fearful of Chinese Open-Source | Jerry Murdock

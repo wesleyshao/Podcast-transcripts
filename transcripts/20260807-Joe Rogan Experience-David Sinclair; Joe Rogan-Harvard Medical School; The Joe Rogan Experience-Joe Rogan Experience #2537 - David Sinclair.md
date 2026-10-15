@@ -48,6 +48,31 @@ youtube_video_id: "hxid7FofhMw"
 字幕来源: "YouTube en-orig 原始字幕，结合完整上下文转写为简体中文"
 原始语言: "English"
 转写说明: "完整读取原始字幕后按对话顺序转写；保留实验物种、临床阶段、监管限制、利益相关讨论和主持人的质疑。节目中的医学主张按原话记录，不构成事实背书或医疗建议。"
+companies:
+  - Neuralink
+  - NewLimit
+industries:
+  - 生物技术
+  - 机器人
+technologies:
+  - 细胞重编程
+  - 脑机接口
+  - AlphaFold
+  - 蛋白质设计
+keywords:
+  - 抗衰老
+  - 战争
+tags:
+  - Neuralink
+  - NewLimit
+  - 生物技术
+  - 机器人
+  - 细胞重编程
+  - 脑机接口
+  - AlphaFold
+  - 蛋白质设计
+  - 抗衰老
+  - 战争
 ---
 
 # Joe Rogan Experience #2537 - David Sinclair

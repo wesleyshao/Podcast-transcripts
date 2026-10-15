@@ -30,6 +30,21 @@ YouTube发布时间: 2026-08-26T16:30:06Z
   - 心理健康
   - 内容安全
   - 疫苗
+companies:
+  - META
+  - OpenAI
+industries:
+  - 机器人
+  - 医疗
+technologies:
+  - LLM
+keywords: []
+tags:
+  - META
+  - OpenAI
+  - 机器人
+  - 医疗
+  - LLM
 ---
 
 # How AI Should Handle News, Politics, Medicine, and Mental Health — With Campbell Brown

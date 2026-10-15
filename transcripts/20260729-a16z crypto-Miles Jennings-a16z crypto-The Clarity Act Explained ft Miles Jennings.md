@@ -54,6 +54,31 @@ YouTube发布时间: "2026-07-29T14:28:40Z"
   - consumer protection
   - rug pull
   - regulatory clarity
+companies:
+  - Circle
+  - COIN
+  - Tether
+industries:
+  - 加密
+technologies:
+  - 区块链
+  - 稳定币
+  - 比特币
+  - 以太坊
+keywords:
+  - 稳定币法案
+  - 监管
+tags:
+  - Circle
+  - COIN
+  - Tether
+  - 加密
+  - 区块链
+  - 稳定币
+  - 比特币
+  - 以太坊
+  - 稳定币法案
+  - 监管
 ---
 
 # The Clarity Act, Explained (ft. Miles Jennings)

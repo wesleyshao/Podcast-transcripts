@@ -37,6 +37,33 @@ caption_text_path: /Users/wesley/.codex/automations/youtube/caption_cache/qbyw__
   - agentic finance
   - tokenization
   - FRX USD
+companies:
+  - Visa
+  - NET
+  - BLK
+  - HOOD
+  - PayPal
+industries:
+  - 加密
+  - 金融
+  - 支付
+technologies:
+  - 稳定币
+  - 代币化
+  - Agent
+keywords: []
+tags:
+  - Visa
+  - NET
+  - BLK
+  - HOOD
+  - PayPal
+  - 加密
+  - 金融
+  - 支付
+  - 稳定币
+  - 代币化
+  - Agent
 ---
 
 # zerohash CEO：Why Stablecoins Are Setting The Stage For The Next Massive Boom (Trillions Are Coming)

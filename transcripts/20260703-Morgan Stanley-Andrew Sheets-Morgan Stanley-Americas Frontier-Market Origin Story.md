@@ -17,6 +17,13 @@
   - "Alexander Hamilton"
   - "investor risk premium"
   - "rule of law"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords: []
+tags:
+  - 宏观
 ---
 
 # America’s Frontier-Market Origin Story

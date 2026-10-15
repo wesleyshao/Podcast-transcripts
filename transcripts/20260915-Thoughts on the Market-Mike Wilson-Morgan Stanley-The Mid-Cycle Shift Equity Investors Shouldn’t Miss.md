@@ -30,6 +30,17 @@ youtube_video_id: tMDBYXwn2R8
   - free cash flow
   - asset-light companies
   - mid-cycle
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 利率
+  - 通胀
+tags:
+  - 宏观
+  - 利率
+  - 通胀
 ---
 
 # The Mid-Cycle Shift Equity Investors Shouldn’t Miss

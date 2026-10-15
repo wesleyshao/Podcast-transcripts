@@ -17,6 +17,23 @@
   - "physical world digitization"
   - "food production"
 字幕来源: "YouTube automatic_captions en json3"
+companies:
+  - UBER
+  - a16z
+  - AMZN
+industries:
+  - 机器人
+  - 制造业
+  - 房地产
+technologies: []
+keywords: []
+tags:
+  - UBER
+  - a16z
+  - AMZN
+  - 机器人
+  - 制造业
+  - 房地产
 ---
 
 # Building a Company in Stealth | Travis Kalanick with a16z

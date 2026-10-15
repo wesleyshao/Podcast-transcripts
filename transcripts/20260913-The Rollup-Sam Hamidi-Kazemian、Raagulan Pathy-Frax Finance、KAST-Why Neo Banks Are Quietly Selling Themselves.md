@@ -44,6 +44,29 @@ YouTube发布时间: "2026-09-13T01:45:01Z"
   - "cashback"
   - "US capital markets"
 
+companies:
+  - HOOD
+industries:
+  - 加密
+  - 金融
+  - 支付
+technologies:
+  - 稳定币
+  - 代币化
+keywords:
+  - 合规
+  - 网络效应
+  - 监管
+tags:
+  - HOOD
+  - 加密
+  - 金融
+  - 支付
+  - 稳定币
+  - 代币化
+  - 合规
+  - 网络效应
+  - 监管
 ---
 
 # Sam Kazemian & Raagulan Pathy: Why Neo Banks Are Quietly Selling Themselves (Full Interview)

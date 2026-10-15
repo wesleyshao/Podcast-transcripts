@@ -47,6 +47,41 @@ youtube_video_id: "y4rmQXbKQ5g"
 文字稿来源: "YouTube public subtitles: en-orig；完整源文本位于 caption_cache/y4rmQXbKQ5g.en-orig.source.txt；官方 Podcast RSS 返回了同期节目但未提供满足条件的公开完整 transcript，因此未采用其文字稿。"
 YouTube发布时间: "2026-08-12T07:14:49Z"
 字幕来源: "YouTube public subtitles: en-orig"
+companies:
+  - Bitwise
+  - HOOD
+  - Lighter
+  - Hyperliquid
+  - Dinari
+industries:
+  - 加密
+  - 金融
+  - 宏观
+technologies:
+  - 以太坊
+  - 代币化
+  - 比特币
+  - 稳定币
+keywords:
+  - 估值
+  - 合规
+  - 监管
+tags:
+  - Bitwise
+  - HOOD
+  - Lighter
+  - Hyperliquid
+  - Dinari
+  - 加密
+  - 金融
+  - 宏观
+  - 以太坊
+  - 代币化
+  - 比特币
+  - 稳定币
+  - 估值
+  - 合规
+  - 监管
 ---
 
 # 🚨LIVE： Robinhood Dominating On Ethereum？！ LIT ATHs coming？ Bitwise's Matt Hougan & Ryan Rasmussen in

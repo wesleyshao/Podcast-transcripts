@@ -44,6 +44,41 @@ youtube_video_id: 0oWgE5ph9r4
   - Adyen
   - OpenRouter
   - Revolut
+companies:
+  - GOOGL
+  - Anthropic
+  - NVDA
+  - OpenAI
+  - Stripe
+industries:
+  - 云计算
+  - 机器人
+  - 半导体
+technologies:
+  - 推理
+  - GPU
+  - LLM
+  - Agent
+keywords:
+  - 资本开支
+  - 估值
+  - 融资
+tags:
+  - GOOGL
+  - Anthropic
+  - NVDA
+  - OpenAI
+  - Stripe
+  - 云计算
+  - 机器人
+  - 半导体
+  - 推理
+  - GPU
+  - LLM
+  - Agent
+  - 资本开支
+  - 估值
+  - 融资
 ---
 
 # Travis Kalanick Raises $1.7B for Atoms | Google Cloud Grows 82% But The Market Tanks

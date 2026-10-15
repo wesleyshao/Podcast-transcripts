@@ -52,6 +52,41 @@ youtube_video_id: lyIKcpa582I
   - Kraken
   - BCAP
   - Securitize
+companies:
+  - Aave
+  - Uniswap
+  - Anthropic
+  - OpenAI
+  - Tether
+industries:
+  - 加密
+  - 宏观
+  - 支付
+technologies:
+  - 区块链
+  - 稳定币
+  - 以太坊
+  - LLM
+keywords:
+  - 合规
+  - 监管
+  - 稳定币法案
+tags:
+  - Aave
+  - Uniswap
+  - Anthropic
+  - OpenAI
+  - Tether
+  - 加密
+  - 宏观
+  - 支付
+  - 区块链
+  - 稳定币
+  - 以太坊
+  - LLM
+  - 合规
+  - 监管
+  - 稳定币法案
 ---
 
 # The Next Bull Market Is Hiding in Plain Sight

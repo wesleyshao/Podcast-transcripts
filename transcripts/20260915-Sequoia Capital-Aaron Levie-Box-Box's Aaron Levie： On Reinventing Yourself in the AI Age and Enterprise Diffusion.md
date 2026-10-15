@@ -27,6 +27,15 @@ YouTube发布时间: "2026-09-15T12:00:34Z"
   - "enterprise diffusion"
   - "model agnostic"
   - "AI agents"
+companies: []
+industries: []
+technologies:
+  - 扩散模型
+  - Agent
+keywords: []
+tags:
+  - 扩散模型
+  - Agent
 ---
 
 ## Transcript

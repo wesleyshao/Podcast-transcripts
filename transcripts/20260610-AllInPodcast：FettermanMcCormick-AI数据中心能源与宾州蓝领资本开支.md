@@ -32,6 +32,17 @@
   - Senators
   - John
   - Fetterman
+companies: []
+industries:
+  - 数据中心
+technologies: []
+keywords:
+  - 资本开支
+  - 选举
+tags:
+  - 数据中心
+  - 资本开支
+  - 选举
 ---
 
 # Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner

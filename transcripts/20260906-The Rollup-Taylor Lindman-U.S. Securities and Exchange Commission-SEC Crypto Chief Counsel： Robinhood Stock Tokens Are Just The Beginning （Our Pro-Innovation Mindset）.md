@@ -43,6 +43,25 @@ YouTube发布时间: "2026-09-06T00:10:18Z"
   - "liquidity pool"
   - "DAO"
   - "SEC"
+companies:
+  - HOOD
+  - DTCC
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 代币化
+keywords:
+  - 监管
+  - 债务
+tags:
+  - HOOD
+  - DTCC
+  - 加密
+  - 金融
+  - 代币化
+  - 监管
+  - 债务
 ---
 
 ## 目录

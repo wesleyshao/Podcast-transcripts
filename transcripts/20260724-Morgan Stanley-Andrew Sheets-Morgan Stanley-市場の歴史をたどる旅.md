@@ -34,6 +34,19 @@ youtube_video_id: "CX-2jBGWkZg"
   - "NAIC risk weights"
   - "Solvency II"
   - "emerging markets"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 并购
+  - 资本开支
+  - 就业
+tags:
+  - 宏观
+  - 并购
+  - 资本开支
+  - 就业
 ---
 
 # 市場の歴史をたどる旅

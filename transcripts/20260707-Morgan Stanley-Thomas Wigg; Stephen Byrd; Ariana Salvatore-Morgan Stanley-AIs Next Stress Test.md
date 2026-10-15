@@ -21,6 +21,15 @@ YouTube发布时间: "2026-07-07"
   - "durability of AI capex"
   - "thematic research"
 字幕来源: "YouTube 公开自动字幕 json3"
+companies: []
+industries:
+  - 数据中心
+technologies: []
+keywords:
+  - 资本开支
+tags:
+  - 数据中心
+  - 资本开支
 ---
 
 # AI’s Next Stress Test

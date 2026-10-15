@@ -18,6 +18,27 @@
   - "choke points"
 字幕来源: "automatic_captions:en-orig:English (Original)"
 YouTube视频标题: "Jake Paul's Business Partner on Bitcoin, AI & the Next Trillion-Dollar Trade"
+companies:
+  - Anthropic
+  - OpenAI
+industries:
+  - 加密
+  - 机器人
+  - 国防
+technologies:
+  - 比特币
+  - LLM
+  - 具身智能
+keywords: []
+tags:
+  - Anthropic
+  - OpenAI
+  - 加密
+  - 机器人
+  - 国防
+  - 比特币
+  - LLM
+  - 具身智能
 ---
 
 # Jake Paul's Business Partner on Bitcoin, AI & the Next Trillion-Dollar Trade

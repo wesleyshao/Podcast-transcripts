@@ -17,6 +17,23 @@ transcript_source: "YouTube automatic captions, en-orig json3."
   - Relay
   - Infinifi
   - The Rollup
+companies:
+  - Dinari
+industries:
+  - 加密
+  - 核能
+  - 风险投资
+technologies:
+  - 区块链
+keywords:
+  - 隐私
+tags:
+  - Dinari
+  - 加密
+  - 核能
+  - 风险投资
+  - 区块链
+  - 隐私
 ---
 
 # Portal VC Founder: How To Invest In A Post-AI World (Huge Changes)

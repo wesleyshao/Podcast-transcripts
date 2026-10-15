@@ -16,6 +16,15 @@
   - "risk assets"
   - "interest rates"
   - "Morgan Stanley"
+companies: []
+industries:
+  - 宏观
+technologies: []
+keywords:
+  - 利率
+tags:
+  - 宏观
+  - 利率
 ---
 
 # What a Quieter Fed Could Mean for Markets

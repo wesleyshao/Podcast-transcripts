@@ -26,6 +26,19 @@
   - "Gulf states"
 字幕来源: "public transcript: https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market/sovereign-ai-policy-priority-ariana-salvatore?cid=whmt-smfa-aisp-18713"
 YouTube视频标题: "AI as a Sovereign Power"
+companies: []
+industries:
+  - 数据中心
+  - 网络安全
+technologies: []
+keywords:
+  - 主权
+  - 出口管制
+tags:
+  - 数据中心
+  - 网络安全
+  - 主权
+  - 出口管制
 ---
 
 # AI as a Sovereign Power

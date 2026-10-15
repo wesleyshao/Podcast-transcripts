@@ -22,6 +22,21 @@ YouTube发布时间: 2026-08-25T18:44:40Z
   - NASA
   - Blue Origin
   - Artemis
+companies:
+  - SpaceX
+  - NASA
+  - BlueOrigin
+industries:
+  - 商业航天
+technologies:
+  - 可回收火箭
+keywords: []
+tags:
+  - SpaceX
+  - NASA
+  - BlueOrigin
+  - 商业航天
+  - 可回收火箭
 ---
 
 # SpaceX and Louisiana Announce Starbase Louisiana, August 25, 2026

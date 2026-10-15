@@ -12,6 +12,19 @@
   - robotics
   - DeFi
   - The
+companies: []
+industries:
+  - 机器人
+  - 加密
+technologies:
+  - DeFi
+keywords:
+  - AGI
+tags:
+  - 机器人
+  - 加密
+  - DeFi
+  - AGI
 ---
 
 # The data black hole at the center of AI

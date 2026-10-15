@@ -25,6 +25,33 @@ YouTube发布时间: 2026-07-11
   - "稳定币"
   - "B2B支付"
 字幕来源: "YouTube 公开字幕 json3，subtitles/zh"
+companies:
+  - Circle
+  - COIN
+  - Mastercard
+  - Stripe
+  - Tether
+industries:
+  - 加密
+  - 支付
+  - 金融
+technologies:
+  - 稳定币
+  - 区块链
+keywords:
+  - 合规
+tags:
+  - Circle
+  - COIN
+  - Mastercard
+  - Stripe
+  - Tether
+  - 加密
+  - 支付
+  - 金融
+  - 稳定币
+  - 区块链
+  - 合规
 ---
 
 # E82｜聊聊超豪华联盟稳定币OUSD：不是杀死CIRCLE，而是稳定币走出WEB3的希望

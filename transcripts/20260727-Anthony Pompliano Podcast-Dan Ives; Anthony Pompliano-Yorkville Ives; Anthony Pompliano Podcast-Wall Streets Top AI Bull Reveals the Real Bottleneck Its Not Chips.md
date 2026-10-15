@@ -35,6 +35,37 @@ youtube_video_id: "agIvg0DkW50"
 YouTube发布时间: 2026-07-27
 播客标题: "Wall Street's Top AI Bull Reveals the Real Bottleneck (It's Not Chips)"
 字幕来源: "YouTube public en-orig auto captions"
+companies:
+  - Anthropic
+  - META
+  - NVDA
+  - GOOGL
+  - AAPL
+industries:
+  - 数据中心
+  - 半导体
+  - 加密
+technologies:
+  - GPU
+  - LLM
+  - 开源模型
+keywords:
+  - 开源
+  - 能源瓶颈
+tags:
+  - Anthropic
+  - META
+  - NVDA
+  - GOOGL
+  - AAPL
+  - 数据中心
+  - 半导体
+  - 加密
+  - GPU
+  - LLM
+  - 开源模型
+  - 开源
+  - 能源瓶颈
 ---
 
 # Wall Street's Top AI Bull Reveals the Real Bottleneck (It's Not Chips)

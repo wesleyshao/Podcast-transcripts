@@ -17,6 +17,15 @@
   - AI
   - socialism
   - New York City mayor
+companies: []
+industries:
+  - 加密
+technologies:
+  - 比特币
+keywords: []
+tags:
+  - 加密
+  - 比特币
 ---
 
 # Dave Portnoy GOES OFF On Bitcoin AI Socialism & Being Fired From Barstool

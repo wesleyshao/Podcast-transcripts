@@ -17,6 +17,17 @@
   - "model routing"
   - "cost control"
 字幕来源: "YouTube automatic_captions en-orig json3"
+companies: []
+industries: []
+technologies:
+  - Agent
+  - 编程助手
+keywords:
+  - 开源
+tags:
+  - Agent
+  - 编程助手
+  - 开源
 ---
 
 # 对话Vincent Koc：OpenClaw的反思与进化，中国的“小龙虾”狂热，与Agent的下一步

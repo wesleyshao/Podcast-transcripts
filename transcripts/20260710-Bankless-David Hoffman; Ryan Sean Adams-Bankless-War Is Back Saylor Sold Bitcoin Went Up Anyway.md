@@ -21,6 +21,31 @@ YouTube发布时间: 2026-07-10
   - "Paradigm"
   - "24/7 markets"
 字幕来源: "YouTube 公开字幕 json3，优先使用 en-orig，其次 en"
+companies:
+  - JPM
+  - Lighter
+  - HOOD
+  - MSTR
+industries:
+  - 加密
+  - 金融
+technologies:
+  - 比特币
+  - 以太坊
+  - DeFi
+keywords:
+  - 选举
+tags:
+  - JPM
+  - Lighter
+  - HOOD
+  - MSTR
+  - 加密
+  - 金融
+  - 比特币
+  - 以太坊
+  - DeFi
+  - 选举
 ---
 
 # War Is Back. Saylor Sold. Bitcoin Went Up Anyway?

@@ -51,6 +51,13 @@ youtube_video_id: y9KNLlRE2HQ
   - combat sports safety
   - Karate Combat
   - Brazilian jiu-jitsu
+companies: []
+industries: []
+technologies: []
+keywords:
+  - 综合格斗
+tags:
+  - 综合格斗
 ---
 
 # JRE MMA Show #183 with Rico Verhoeven

@@ -28,6 +28,27 @@ transcript_source: "Dwarkesh Podcast 官方节目页公开 en VTT 字幕，结�
   - Low-Rank Adapter
   - Economies of Scale
   - Switching Costs
+companies:
+  - GOOGL
+  - AMZN
+  - Anthropic
+  - DeepSeek
+industries: []
+technologies:
+  - LLM
+  - 推理
+keywords:
+  - 监管
+  - AI安全
+tags:
+  - GOOGL
+  - AMZN
+  - Anthropic
+  - DeepSeek
+  - LLM
+  - 推理
+  - 监管
+  - AI安全
 ---
 
 # 8 Predictions for the Era of Continual Learning

@@ -17,6 +17,19 @@
   - "asset markets"
   - "inflation"
   - "Bitcoin"
+companies: []
+industries:
+  - 宏观
+  - 加密
+technologies:
+  - 比特币
+keywords:
+  - 通胀
+tags:
+  - 宏观
+  - 加密
+  - 比特币
+  - 通胀
 ---
 
 # The REAL Reason Everything Is So Expensive

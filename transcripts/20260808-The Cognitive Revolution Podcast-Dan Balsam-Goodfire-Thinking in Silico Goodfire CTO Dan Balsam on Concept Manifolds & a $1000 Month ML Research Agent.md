@@ -49,6 +49,35 @@ youtube_video_id: "YduOnBDuD0c"
   - "AI welfare"
   - "consciousness"
   - "Goodfire Research Grant"
+companies:
+  - 英矽智能
+  - Anthropic
+  - 月之暗面
+  - OpenAI
+industries:
+  - AI制药
+  - 生物技术
+  - 网络安全
+technologies:
+  - LLM
+  - 后训练
+  - 蛋白质设计
+  - Agent
+keywords:
+  - AI安全
+tags:
+  - 英矽智能
+  - Anthropic
+  - 月之暗面
+  - OpenAI
+  - AI制药
+  - 生物技术
+  - 网络安全
+  - LLM
+  - 后训练
+  - 蛋白质设计
+  - Agent
+  - AI安全
 ---
 
 # Thinking in Silico: Goodfire CTO Dan Balsam on Concept Manifolds & a $1000/Month ML Research Agent

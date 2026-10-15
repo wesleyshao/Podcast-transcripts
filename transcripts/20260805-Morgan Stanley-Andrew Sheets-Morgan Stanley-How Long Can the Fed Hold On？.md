@@ -28,6 +28,17 @@ youtube_video_id: "Q1sBF-PGBjk"
 字幕来源: "Morgan Stanley 官方 Thoughts on the Market Podcast RSS 公开完整 transcript"
 原始语言: "English"
 转写说明: "采用官方 RSS 中明确标注为 Transcript 的完整正文，结合上下文转写为简体中文；未采用节目摘要替代全文。"
+companies: []
+industries:
+  - 宏观
+  - 制造业
+technologies: []
+keywords:
+  - 通胀
+tags:
+  - 宏观
+  - 制造业
+  - 通胀
 ---
 
 # How Long Can the Fed Hold On?

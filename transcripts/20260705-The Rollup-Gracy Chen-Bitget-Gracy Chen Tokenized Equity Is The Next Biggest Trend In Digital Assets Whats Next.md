@@ -26,6 +26,33 @@
   - "universal exchange"
   - "Dinari"
   - "digital assets"
+companies:
+  - BLK
+  - NVDA
+  - Dinari
+industries:
+  - 半导体
+  - 加密
+technologies:
+  - 代币化
+  - GPU
+  - Solana
+  - 永续合约
+keywords:
+  - IPO
+  - 合规
+tags:
+  - BLK
+  - NVDA
+  - Dinari
+  - 半导体
+  - 加密
+  - 代币化
+  - GPU
+  - Solana
+  - 永续合约
+  - IPO
+  - 合规
 ---
 
 # Gracy Chen: Tokenized Equity Is The Next Biggest Trend In Digital Assets (What's Next)

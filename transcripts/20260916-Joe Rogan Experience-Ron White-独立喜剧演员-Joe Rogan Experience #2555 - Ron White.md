@@ -33,6 +33,19 @@ YouTube发布时间: "2026-09-16T17:00:31Z"
   - "television"
   - "podcasting"
 核心观点: "Joe Rogan 与 Ron White 围绕现场喜剧、即兴互动、喜剧俱乐部、巡演和喜剧写作展开长篇对谈，重点是舞台经验、同行关系及喜剧行业的工作方式。"
+companies: []
+industries:
+  - 汽车
+  - 国防
+technologies: []
+keywords:
+  - 喜剧
+  - 战争
+tags:
+  - 汽车
+  - 国防
+  - 喜剧
+  - 战争
 ---
 
 # Joe Rogan Experience #2555 - Ron White
