@@ -29,26 +29,20 @@ YouTube发布时间: 2026-10-12
   - 信用指数解压（decompression）
   - 2005 年中国资本开支与美国住房繁荣
 companies:
-  - Morgan Stanley
+  - MS
 industries:
-  - 投资银行
-  - 固定收益
-  - 信用市场
-technologies:
-  - AI资本开支
+  - 金融
+  - 宏观
+technologies: []
 keywords:
-  - 高收益与市场韧性
-  - 利率水平
-  - 信用质量上移
+  - 利率
+  - 资本开支
 tags:
-  - Morgan Stanley
-  - 投资银行
-  - 固定收益
-  - 信用市场
-  - AI资本开支
-  - 高收益与市场韧性
-  - 利率水平
-  - 信用质量上移
+  - MS
+  - 金融
+  - 宏观
+  - 利率
+  - 资本开支
 ---
 
 # Will High Yields Crack the Market’s Resilience?

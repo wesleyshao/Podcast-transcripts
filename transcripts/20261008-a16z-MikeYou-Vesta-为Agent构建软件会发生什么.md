@@ -36,38 +36,24 @@ YouTube发布时间: 2026-10-08
   - WCAG / ADA
   - 30年固定利率按揭
 companies:
-  - Vesta
   - a16z
-  - Blend
-  - PennyMac
   - Cognition
 industries:
-  - 房产金融
-  - 金融科技
+  - 房地产
+  - 金融
   - 企业软件
 technologies:
-  - AI Agent
-  - 贷款发起系统LOS
-  - 计算机视觉/文档抽取
+  - Agent
 keywords:
-  - 为Agent构建软件
-  - 核心记账系统
-  - 按揭自动化
+  - 住房
 tags:
-  - Vesta
   - a16z
-  - Blend
-  - PennyMac
   - Cognition
-  - 房产金融
-  - 金融科技
+  - 房地产
+  - 金融
   - 企业软件
-  - AI Agent
-  - 贷款发起系统LOS
-  - 计算机视觉/文档抽取
-  - 为Agent构建软件
-  - 核心记账系统
-  - 按揭自动化
+  - Agent
+  - 住房
 ---
 
 # What Happens When You Build Software for Agents
