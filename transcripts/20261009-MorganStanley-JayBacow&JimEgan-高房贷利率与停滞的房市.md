@@ -34,26 +34,20 @@ YouTube发布时间: 2026-10-09
   - 短重置期“可负担性产品”
   - 金融危机与放贷标准
 companies:
-  - Morgan Stanley
+  - MS
 industries:
-  - 投资银行
+  - 金融
   - 房地产
-  - 住房抵押贷款
-technologies:
-  - MBS凸性对冲
+technologies: []
 keywords:
-  - 房贷利率
-  - 锁定效应
-  - 可调利率房贷
+  - 利率
+  - 住房
 tags:
-  - Morgan Stanley
-  - 投资银行
+  - MS
+  - 金融
   - 房地产
-  - 住房抵押贷款
-  - MBS凸性对冲
-  - 房贷利率
-  - 锁定效应
-  - 可调利率房贷
+  - 利率
+  - 住房
 ---
 
 # High Mortgage Rates and a Stuck Housing Market

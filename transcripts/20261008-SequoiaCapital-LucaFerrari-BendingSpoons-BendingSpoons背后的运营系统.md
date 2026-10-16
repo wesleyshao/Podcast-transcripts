@@ -47,36 +47,20 @@ YouTube发布时间: 2026-10-08
   - 米兰
   - 诚信
 companies:
-  - Bending Spoons
-  - Sequoia Capital
-  - HubSpot
-  - AOL
-  - Vimeo
+  - Sequoia
 industries:
-  - 软件
-  - 互联网
-  - 并购整合
-technologies:
-  - 软件平台
-  - AI
+  - 企业软件
+  - 消费
+technologies: []
 keywords:
-  - 连续收购与深度整合
-  - 人才密度
-  - 无情的简化
+  - 并购
+  - 人才
 tags:
-  - Bending Spoons
-  - Sequoia Capital
-  - HubSpot
-  - AOL
-  - Vimeo
-  - 软件
-  - 互联网
-  - 并购整合
-  - 软件平台
-  - AI
-  - 连续收购与深度整合
-  - 人才密度
-  - 无情的简化
+  - Sequoia
+  - 企业软件
+  - 消费
+  - 并购
+  - 人才
 ---
 
 # Luca Ferrari: The Operating System Behind Bending Spoons

@@ -54,42 +54,28 @@ YouTube发布时间: 2026-10-08
   - Larry Ellison / Oracle
   - 武当派（Wu-Tang Clan）
 companies:
-  - ClickHouse
   - Databricks
-  - Snowflake
-  - NVIDIA
-  - Oracle
+  - SNOW
+  - NVDA
+  - ORCL
 industries:
-  - 数据库
-  - 数据基础设施
   - 企业软件
 technologies:
-  - AI Agent
-  - 向量数据库
-  - text-to-SQL
+  - Agent
+  - RAG
   - MCP
-  - GPU数据库
-keywords:
-  - Agent时代的数据库
-  - Postgres
-  - 自动驾驶数据库
+  - GPU
+keywords: []
 tags:
-  - ClickHouse
   - Databricks
-  - Snowflake
-  - NVIDIA
-  - Oracle
-  - 数据库
-  - 数据基础设施
+  - SNOW
+  - NVDA
+  - ORCL
   - 企业软件
-  - AI Agent
-  - 向量数据库
-  - text-to-SQL
+  - Agent
+  - RAG
   - MCP
-  - GPU数据库
-  - Agent时代的数据库
-  - Postgres
-  - 自动驾驶数据库
+  - GPU
 ---
 
 # Andy Pavlo: What Happens When Billions of AI Agents Hit Your Database

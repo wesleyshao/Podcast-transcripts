@@ -67,38 +67,30 @@ YouTube发布时间: 2026-10-10
 companies:
   - Anthropic
   - OpenAI
-  - Microsoft
-  - Adobe
-  - Meta
+  - MSFT
+  - ADBE
+  - META
 industries:
-  - 人工智能
-  - 宏观与债券市场
-  - 软件
+  - 宏观
+  - 企业软件
 technologies:
-  - 大语言模型
-  - AI对齐
-  - AI Agent
-  - 形式化数学证明
+  - LLM
+  - Agent
 keywords:
-  - AI意识与模型福利
-  - AI数学突破
-  - 软件IP价值归零
+  - AI安全
+  - 版权
 tags:
   - Anthropic
   - OpenAI
-  - Microsoft
-  - Adobe
-  - Meta
-  - 人工智能
-  - 宏观与债券市场
-  - 软件
-  - 大语言模型
-  - AI对齐
-  - AI Agent
-  - 形式化数学证明
-  - AI意识与模型福利
-  - AI数学突破
-  - 软件IP价值归零
+  - MSFT
+  - ADBE
+  - META
+  - 宏观
+  - 企业软件
+  - LLM
+  - Agent
+  - AI安全
+  - 版权
 ---
 
 # Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots
