@@ -29,39 +29,35 @@ YouTube发布时间: 2026-10-09
   - Qualcomm（赞助）
   - In the Loop / Limitless
 companies:
-  - Google
+  - GOOGL
   - Anthropic
   - OpenAI
-  - Meta
+  - META
   - DeepMind
 industries:
-  - 人工智能
   - 云计算
-  - 消费互联网
+  - 消费
 technologies:
-  - Gemini
-  - Claude Code
+  - LLM
+  - 编程助手
   - TPU
-  - 图像生成
+  - 多模态
 keywords:
-  - Gemini 4
-  - Google人才流失
+  - 人才
   - 垂直整合
 tags:
-  - Google
+  - GOOGL
   - Anthropic
   - OpenAI
-  - Meta
+  - META
   - DeepMind
-  - 人工智能
   - 云计算
-  - 消费互联网
-  - Gemini
-  - Claude Code
+  - 消费
+  - LLM
+  - 编程助手
   - TPU
-  - 图像生成
-  - Gemini 4
-  - Google人才流失
+  - 多模态
+  - 人才
   - 垂直整合
 ---
 

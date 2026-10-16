@@ -41,44 +41,26 @@ YouTube发布时间: 2026-10-09
   - Signal / iMessage
   - Coinbase / bunker mode
 companies:
-  - a16z crypto
+  - a16z
   - OpenAI
-  - Stanford
-  - Ethereum Foundation
-  - NIST
-  - Coinbase
+  - COIN
 industries:
-  - 加密货币
+  - 加密
   - 网络安全
-  - 风险投资
 technologies:
-  - 椭圆曲线密码学
-  - 格密码
-  - 后量子密码学
-  - 基于哈希的签名
-  - SNARK
+  - 量子计算
+  - 零知识证明
 keywords:
-  - AI攻破密码学
-  - 密码敏捷性
-  - 不要恐慌
+  - AI安全
 tags:
-  - a16z crypto
+  - a16z
   - OpenAI
-  - Stanford
-  - Ethereum Foundation
-  - NIST
-  - Coinbase
-  - 加密货币
+  - COIN
+  - 加密
   - 网络安全
-  - 风险投资
-  - 椭圆曲线密码学
-  - 格密码
-  - 后量子密码学
-  - 基于哈希的签名
-  - SNARK
-  - AI攻破密码学
-  - 密码敏捷性
-  - 不要恐慌
+  - 量子计算
+  - 零知识证明
+  - AI安全
 ---
 
 # Can AI Actually Break Cryptography? Experts Weigh In On the FUD

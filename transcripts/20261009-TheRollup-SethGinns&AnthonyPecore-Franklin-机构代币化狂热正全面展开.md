@@ -37,37 +37,21 @@ YouTube发布时间: 2026-10-09
   - AI 与加密互补
   - 金融奇点 / TradFi 与链上融合
   - Jenny Johnson / SEC
-companies:
-  - Franklin Templeton
-  - Franklin Crypto
-  - Pendle
+companies: []
 industries:
-  - 资产管理
-  - 加密货币
-  - 资产代币化
+  - 金融
+  - 加密
 technologies:
-  - 代币化货币基金
-  - 区块链结算
-  - 钱包基础设施
-  - AI投研工具
+  - 代币化
+  - 区块链
 keywords:
-  - 代币化超级周期
-  - 机构FOMO
-  - 流动性层
+  - 机构采用
 tags:
-  - Franklin Templeton
-  - Franklin Crypto
-  - Pendle
-  - 资产管理
-  - 加密货币
-  - 资产代币化
-  - 代币化货币基金
-  - 区块链结算
-  - 钱包基础设施
-  - AI投研工具
-  - 代币化超级周期
-  - 机构FOMO
-  - 流动性层
+  - 金融
+  - 加密
+  - 代币化
+  - 区块链
+  - 机构采用
 ---
 
 # Seth Ginns & Anthony Pecore: The Institutional Tokenization Frenzy Is In Full Swing (Our Thesis)

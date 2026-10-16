@@ -31,30 +31,24 @@ YouTube发布时间: 2026-10-07
   - 2028 大选
   - AI capex
 companies:
-  - Morgan Stanley
+  - MS
 industries:
-  - 投资银行
-  - 公共政策
-  - 人工智能基础设施
-technologies:
+  - 金融
   - 数据中心
-  - AI算力
-  - 电网与并网
+  - 电力
+technologies: []
 keywords:
-  - 中期选举
-  - AI投资周期
-  - 州和地方政治
+  - 选举
+  - 资本开支
+  - 电网
 tags:
-  - Morgan Stanley
-  - 投资银行
-  - 公共政策
-  - 人工智能基础设施
+  - MS
+  - 金融
   - 数据中心
-  - AI算力
-  - 电网与并网
-  - 中期选举
-  - AI投资周期
-  - 州和地方政治
+  - 电力
+  - 选举
+  - 资本开支
+  - 电网
 ---
 
 # Will Midterms Test the AI Investment Cycle?
